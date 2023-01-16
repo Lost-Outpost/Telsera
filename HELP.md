@@ -22,9 +22,9 @@ Finally, free feel to hop on the Redoran Discord support channel to have discuss
 
 # Frequently asked questions
 
-## When should I ping Guitarninja on [The Lost Outpost](https://discord.gg/WF66mMu)?
+## When should I ping Foamimi on [The Lost Outpost](https://discord.gg/WF66mMu)?
 
-Only if you find a quality among us meme. Any other situation is not acceptable.
+Only if you find a quality egg meme. Any other situation is not acceptable.
 
 ## Can I respec?
 
