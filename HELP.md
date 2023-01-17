@@ -24,7 +24,7 @@ Finally, free feel to hop on the Redoran Discord support channel to have discuss
 
 ## When should I ping Foamimi on [The Lost Outpost](https://discord.gg/WF66mMu)?
 
-Only if you find a quality egg meme. Any other situation is not acceptable.
+Only if you find a quality penguin meme. Any other situation is not acceptable.
 
 ## Can I respec?
 
