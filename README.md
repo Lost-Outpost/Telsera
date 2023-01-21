@@ -41,7 +41,7 @@
 
 # Introduction
 
-"So... a Redoran appears, at this moment in the turning of the age." - Arngeir
+"This is House Redoran territory. You'd do well to remember that."
 
 Redoran is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It's designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.
 
@@ -56,7 +56,7 @@ Users have reported running the list fine with as low as a Ryzen 1300x and a GTX
 
 ## Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Redoran GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/redoran/issues) section of the Redoran GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
 
 ## Skyrim: Anniversary Edition (AE)
 
