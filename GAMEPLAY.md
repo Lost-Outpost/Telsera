@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=70DZ5UV1Bdo"><img src="images/banner.webp" target="_blank"></a>
+<a href="https://youtu.be/ExK6EUGDjaA"><img src="https://i.imgur.com/GPhY3Jj.png" target="_blank"></a>
 
 ---
 
@@ -188,8 +188,6 @@ Redoran uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimsp
   > :video_game: You can find Merlin at the Summoning Circle just north of Morthal
 
 ## Homes
-
-- [Naaslaarum - A Forgotten Vale Player Home](https://www.nexusmods.com/skyrimspecialedition/mods/75180) - Adds a player home to the Forgotten Vale with a great view of the ice falls
 
 - [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) - A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout
 
