@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=70DZ5UV1Bdo"><img src="images/banner.webp" target="_blank"></a>
+<a href="https://youtu.be/ExK6EUGDjaA"><img src="https://i.imgur.com/GPhY3Jj.png" target="_blank"></a>
 
 ---
 
@@ -17,4 +17,10 @@
 # Addons
 The following list is a set of addons which can be added to Redoran to add certain large content pieces. Note, support for addons is provided by the creator of that addon and not by Redoran support. Should something go wrong, please use the appropriate channel for the addon. Install instructions are provided by the addon page listed and provide a guide for installing the addon.
 
-There are no addons yet. Come back later :(
+## [Redoran-Extended---NPC-Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md) by Foamimi
+
+## [Redoran-Extended---NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md) by Foamimi
+
+## [Redoran-Extended---Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md) by Foamimi
+
+## [Redoran Extended --- 3DNPC Addon](https://github.com/Foamimi/Redoran---3DNPC-Addon/blob/main/README.md) by Foamimi
