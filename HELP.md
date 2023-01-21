@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=70DZ5UV1Bdo"><img src="images/banner.webp" target="_blank"></a>
+<a href="https://youtu.be/ExK6EUGDjaA"><img src="https://i.imgur.com/GPhY3Jj.png" target="_blank"></a>
 
 ---
 
@@ -59,6 +59,6 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 Very unlikely. Do not ask if beta saves will be save safe.
 
-The purpose behind beta versions is for play testing to help Guitarninja and the team find and squash bugs before a major release, and squashing bugs often includes removing misbehaving mods which in turn breaks saves.
+The purpose behind beta versions is for play testing to help Foamimi and the team find and squash bugs before a major release, and squashing bugs often includes removing misbehaving mods which in turn breaks saves.
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
