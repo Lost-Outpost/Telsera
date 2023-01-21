@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=70DZ5UV1Bdo"><img src="images/banner.webp" target="_blank"></a>
+<a href="https://youtu.be/ExK6EUGDjaA"><img src="https://i.imgur.com/GPhY3Jj.png" target="_blank"></a>
 
 ---
 
@@ -17,4 +17,4 @@
 # Changelog
 
 ## Version 1.0.0
-Hello world
+Hello world uwu
