@@ -47,7 +47,7 @@ Redoran is a lightweight and streamlined modlist with the very best modded conte
 
 ## List Contents
 
-You can browse the full list contents [here]() if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/redoran) if you want to know exactly what you're getting.
 
 You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
