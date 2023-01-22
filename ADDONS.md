@@ -23,4 +23,4 @@ The following list is a set of addons which can be added to Redoran to add certa
 
 ### [Redoran-Extended---Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md) by Foamimi
 
-### [Redoran Extended --- 3DNPC Addon](https://github.com/Foamimi/Redoran---3DNPC-Addon/blob/main/README.md) by Foamimi
+### [Redoran Extended --- 3DNPC Addon](https://github.com/Foamimi/Redoran-Extended---3DNPC-Addon/blob/main/README.md) by Foamimi
