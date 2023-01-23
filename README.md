@@ -43,7 +43,7 @@
 
 "This is House Redoran territory. You'd do well to remember that."
 
-Redoran is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It's designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.
+Redoran is a modlist designed to be utilized with Skyrim's Anniversary Edition Upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance.
 
 ## List Contents
 
