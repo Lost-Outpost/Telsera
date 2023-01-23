@@ -132,8 +132,6 @@ In addition to SimonRim, this list includes:
 
 ### New Mechanics
 
-- [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953) - Skip the traditional cart ride and begin your Redoran journey at the end of Helgen Keep. The mod also gives you some starting equipment.
-
 - [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - New mechanic to tame wild animals as followers and companions
 
 - [Simple Scroll Transcribing](nexusmods.com/skyrimspecialedition/mods/73450) - Adds scroll transcription stations to court wizard's environments and the Arcaneum
@@ -147,8 +145,6 @@ In addition to SimonRim, this list includes:
 ## User Interface and Camera
 
 Redoran includes a minimalistic and modern UI, featuring:
-
-- [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804) - Provides a new set of highly-detailed 3D or paper world map textures, complete with roads
 
 - [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) - Complete overhaul to the character creation menu including new customization features
 
