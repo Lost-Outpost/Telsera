@@ -113,15 +113,18 @@ The download and installation process can take a little while (an hour or more) 
 4. Select the created folder in step 1 as your installation folder.
 5. Select the created folder in step 2 as your downloads folder.
 6. Click the Go/Begin button and wait for Wabbajack to finish.
-7. Once Wabbajack is finished, go into the folder where you installed Redoran. You'll see an executable called ModOrganizer.exe. Launch it to get to the next step.
+
+## Using MO2
+
+1. Once Wabbajack is finished, go into the folder where you installed Redoran. You'll see an executable called ModOrganizer.exe. Launch it to get to the next step.
 
 ![Image 0](https://i.imgur.com/cI76urH.png)
 
-8. Once the program opens, look to the top right section and you should see a button that says Run.
+2. Once the program opens, look to the top right section and you should see a button that says Run.
 
 ![Image 0.5](https://i.imgur.com/zAXelVv.png)
 
-9. Click that and you'll be set to play! Do not click on the Unlock button that pops up once the game is running. It may take a while to open, so please be patient.
+3. Click that and you'll be set to play! Do not click on the Unlock button that pops up once the game is running. It may take a while to open, so please be patient.
 
 ### Problems with Wabbajack
 
