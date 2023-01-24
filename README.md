@@ -43,7 +43,7 @@
 
 "This is House Redoran territory. You'd do well to remember that."
 
-Redoran is a modlist designed to be utilized with Skyrim's Anniversary Edition Upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance. The AE content included in this pack has been fully integrated within the world of Skyrim. Some quests have been reworked, enhanced, and expanded upon to enhance the experience even further.
+Redoran is a modlist designed to be utilized with Skyrim's Anniversary Edition Upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance. The AE content included in this pack has been fully integrated within the world of Skyrim. Some quests have been reworked, removed, and expanded upon to enhance the experience even further.
 
 ## List Contents
 
