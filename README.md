@@ -43,7 +43,7 @@
 
 "This is House Redoran territory. You'd do well to remember that."
 
-Redoran is a modlist designed to be utilized with Skyrim's Anniversary Edition Upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance.
+Redoran is a modlist designed to be utilized with Skyrim's Anniversary Edition Upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance. The AE content included in this pack has been fully integrated within the world of Skyrim. Some quests have been reworked, enhanced, and expanded upon to enhance the experience even further.
 
 ## List Contents
 
@@ -60,7 +60,7 @@ Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and 
 
 ## Skyrim: Anniversary Edition (AE)
 
-This list requires anniversary edition and all creation club content. Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing.
+**This list requires anniversary edition and all creation club content.** Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing. This can be done by going in-game via Steam and downloading through the available CC related Main Menu options.
 
 # Installation
 
