@@ -16,5 +16,13 @@
 
 # Changelog
 
-## Version 1.0.0
-Hello world uwu
+## Version 1.0.2 [UNRELEASED]
+  - Added Run For Your Lives
+  - Added Village of the Skaal
+  - Added Dunmer Settlements of Solstheim
+  - Added Night Mother
+
+## Version 1.0.1
+  - Survival Mode is now disabled by default
+  - Fast travel is now enabled by default for Survival Mode
+  - Fixed some of the optional mods not appearing
