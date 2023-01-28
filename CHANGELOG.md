@@ -21,8 +21,12 @@
   - Added Village of the Skaal
   - Added Dunmer Settlements of Solstheim
   - Added Night Mother
+  - Added Remove Attached Camera FX FOG
   - Updated Aetherius - A Race Overhaul
   - Updated Mundus - A Standing Stone Overhaul
+  - Updated Keyboard Shortcuts Fix
+  - Updated Scrambled Bugs
+  - Tweaked ini settings
 
 ## Version 1.0.1
   - Survival Mode is now disabled by default
