@@ -25,6 +25,7 @@
   - Added Keyboard Shortcuts Fix - AE
   - Added LOD Unloading Bug Fix
   - Added DynDOLOD FXGlow Disabler
+  - Added Whose Quest Is It Anyway NG
   - Added Essential Favorites
   - Added XPMSSE Spazzing Skeleton and Corpse Fix
   - Updated Aetherius - A Race Overhaul
