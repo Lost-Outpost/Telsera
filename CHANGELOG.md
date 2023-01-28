@@ -23,6 +23,8 @@
   - Added Night Mother
   - Added Remove Attached Camera FX FOG
   - Added Keyboard Shortcuts Fix - AE
+  - Added LOD Unloading Bug Fix
+  - Added DynDOLOD FXGlow Disabler
   - Updated Aetherius - A Race Overhaul
   - Updated Mundus - A Standing Stone Overhaul
   - Updated Scrambled Bugs
