@@ -28,6 +28,7 @@
   - Updated Aetherius - A Race Overhaul
   - Updated Mundus - A Standing Stone Overhaul
   - Updated Scrambled Bugs
+  - Updated Fire Hurts NG
   - Tweaked ini settings
   - Removed Keyboard Shortcuts Fix
 
