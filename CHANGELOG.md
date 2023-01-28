@@ -22,11 +22,12 @@
   - Added Dunmer Settlements of Solstheim
   - Added Night Mother
   - Added Remove Attached Camera FX FOG
+  - Added Keyboard Shortcuts Fix - AE
   - Updated Aetherius - A Race Overhaul
   - Updated Mundus - A Standing Stone Overhaul
-  - Updated Keyboard Shortcuts Fix
   - Updated Scrambled Bugs
   - Tweaked ini settings
+  - Removed Keyboard Shortcuts Fix
 
 ## Version 1.0.1
   - Survival Mode is now disabled by default
