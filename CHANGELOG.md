@@ -21,6 +21,8 @@
   - Added Village of the Skaal
   - Added Dunmer Settlements of Solstheim
   - Added Night Mother
+  - Updated Aetherius - A Race Overhaul
+  - Updated Mundus - A Standing Stone Overhaul
 
 ## Version 1.0.1
   - Survival Mode is now disabled by default
