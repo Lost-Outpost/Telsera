@@ -48,12 +48,14 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added I'm Walkin' Here
   - Added Pets of Skyrim (CC) Collision Patch
   - Added XPMSSE Spazzing Skeleton and Corpse Fix
+  - Added Midwood Isle Black Book Fix
   - Updated Aetherius - A Race Overhaul
   - Updated Mundus - A Standing Stone Overhaul
   - Updated Scrambled Bugs
   - Updated Fire Hurts NG
   - Tweaked ini settings
   - Fixed broken LOTD Museum LOD
+  - Fixed messed up Ragged Flagon
   - Removed Keyboard Shortcuts Fix
   - Removed Disable Follower Collision
 
