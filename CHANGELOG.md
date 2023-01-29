@@ -33,6 +33,7 @@
   - Updated Scrambled Bugs
   - Updated Fire Hurts NG
   - Tweaked ini settings
+  - Fixed broken LOTD Museum LOD
   - Removed Keyboard Shortcuts Fix
 
 ## Version 1.0.1
