@@ -227,23 +227,23 @@ Redoran uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimsp
 
 ### Quest Changes
 
-Redoran includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that adds immersion and several pathways to finish vanilla quests
+Redoran includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that adds immersion and several pathways to finish vanilla quests.
 
-- [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285) - Expands Molag Bal's daedric quest, giving you the option of choosing an alternative "good guy" route to finish the vanilla quest
+- [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285) - Expands Molag Bal's daedric quest, giving you the option of choosing an alternative "good guy" route to finish the vanilla quest.
 
-- [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) - A fully voiced, quite expanded new take on the quest Paarthurnax, giving both the Blades and Paarthurnax good reasons for their stances, and you, Redoran, the final choice
+- [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) - A fully voiced, quite expanded new take on the quest Paarthurnax, giving both the Blades and Paarthurnax good reasons for their stances, and you, Redoran, the final choice.
 
-- [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) - Enhances Peryite's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra
+- [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) - Enhances Peryite's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra.
 
-- [College of Winterhold - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666) - Expands the college quest by ensuring that you actually learn some magic lessons before jumping into the college main questline
+- [College of Winterhold - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666) - Expands the college quest by ensuring that you actually learn some magic lessons before jumping into the college main questline.
 
-- [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792) - Fixes some issues and gives more options for how to deal with the Nilhelm quest
+- [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792) - Fixes some issues and gives more options for how to deal with the Nilhelm quest.
 
 - [Caught Red Handed - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/65708)
 
-- [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606) - Expands on Mephala's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra
+- [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606) - Expands on Mephala's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra.
 
-- [Innocence Lost - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80974) - Expands on the Dark Brotherhood entry quest by giving new options to deal with Grelod
+- [Innocence Lost - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80974) - Expands on the Dark Brotherhood entry quest by giving new options to deal with Grelod.
 
 There are also several mods that aim to improve upon the CC quest content
 
@@ -251,20 +251,26 @@ There are also several mods that aim to improve upon the CC quest content
 
   > :video_game: To begin, you need to be at least level 20 and should have completed the Daedric Quest The Mind of Madness
 
-- [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) - Integrates ghosts of the tribunal content into the Redoran DLC and retains the quest
+- [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) - Integrates ghosts of the tribunal content into the Redoran DLC and retains the quest.
 
-- [Ayleid Lich Crown - Cut Content Restored](https://www.nexusmods.com/skyrimspecialedition/mods/58398) - Implements a wearable version of the Ayleid Lich King's crown from The Cause creation
+- [Ayleid Lich Crown - Cut Content Restored](https://www.nexusmods.com/skyrimspecialedition/mods/58398) - Implements a wearable version of the Ayleid Lich King's crown from The Cause creation.
 
 Other changes to quests include
 
-- [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300) - Actually back out of becoming a werewolf without leaving Skjor and Aela stuck in the Underforge forever, and various other tweaks for the Companions
+- [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300) - Actually back out of becoming a werewolf without leaving Skjor and Aela stuck in the Underforge forever, and various other tweaks for the Companions.
 
 - [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681) - Jaree-Ra in Solitude has a plan to set up a shipwreck. The ship is said to be full of weapons and riches, ripe for the taking. What will you do?
 
-- [Finding Helgi... and Laelette - A Laid to Rest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/28973) - A home in Morthal burned down under mysterious circumstances; some say it was the murder of a wife and daughter. A woman leaves home without saying goodbye to her husband and son, ostensibly to join the war. Are these events connected? This is an overhaul of "Laid to Rest" and the third mod in the "Finding" series
+- [Finding Helgi... and Laelette - A Laid to Rest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/28973) - A home in Morthal burned down under mysterious circumstances; some say it was the murder of a wife and daughter. A woman leaves home without saying goodbye to her husband and son, ostensibly to join the war. Are these events connected? This is an overhaul of "Laid to Rest" and the third mod in the "Finding" series.
 
-- [A Lovely Letter Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916) - Tell Sven and Faendal that you won't get involved in their quarrel, or expose both of them and gain Camilla's favor for yourself
+- [A Lovely Letter Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916) - Tell Sven and Faendal that you won't get involved in their quarrel, or expose both of them and gain Camilla's favor for yourself.
 
 ## Locations
 
-- [Capitals and Towns of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50263) - Changes the minor hold capitals to make them stad out from just regular villages
+- [Capitals and Towns of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50263) - Changes the minor hold capitals to make them stad out from just regular villages.
+
+- [Detailed Cities](https://www.nexusmods.com/skyrimspecialedition/mods/38270) - A lightweight minimalist city overhaul that adds trees, plants, and other clutter to the walled cities, while staying close to the vanilla look.
+
+- [Sepolcri](https://www.nexusmods.com/skyrimspecialedition/mods/34105) - A complete overhaul of all burial sites in Skyrim.
+
+- [Unmarked Locations Pack](https://www.nexusmods.com/skyrimspecialedition/mods/82662) - This adds more than 50 new locations for you to visit, not found via map markers!
