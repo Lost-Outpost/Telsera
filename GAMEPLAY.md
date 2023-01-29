@@ -211,6 +211,14 @@ Redoran uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimsp
 
   > :video_game: To begin, compete in a variety of locations from Windhelms old Arena to Orc Strongholds and Smuggler fighting rings
 
+- [Chanterelle](https://www.nexusmods.com/skyrimspecialedition/mods/32603) - An open world to explore, made to be used alongside Survival Mode.
+
+  > :video_game: To begin, find the cave along the southern border of Falkreath hold.
+
+- [Teldryn Serious](https://www.nexusmods.com/skyrimspecialedition/mods/5541) - Lore-friendly, fully voiced quest about Teldryn Sero's dangerous past.
+
+  > :video_game: To begin, read the flier in Raven Rock docks, just in front of the ship.
+
 ### Quest Changes
 
 Redoran includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that adds immersion and several pathways to finish vanilla quests
