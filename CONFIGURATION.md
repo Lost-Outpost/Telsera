@@ -1,4 +1,4 @@
-<a href="https://youtu.be/ExK6EUGDjaA"><img src="https://i.imgur.com/GPhY3Jj.png" target="_blank"></a>
+<a href="https://youtu.be/ExK6EUGDjaA?t=1"><img src="https://i.imgur.com/GPhY3Jj.png" target="_blank"></a>
 
 ---
 
