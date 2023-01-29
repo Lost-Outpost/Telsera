@@ -27,6 +27,8 @@
   - Added DynDOLOD FXGlow Disabler
   - Added Whose Quest Is It Anyway NG
   - Added Essential Favorites
+  - Added I'm Walkin' Here
+  - Added Pets of Skyrim (CC) Collision Patch
   - Added XPMSSE Spazzing Skeleton and Corpse Fix
   - Updated Aetherius - A Race Overhaul
   - Updated Mundus - A Standing Stone Overhaul
@@ -35,6 +37,7 @@
   - Tweaked ini settings
   - Fixed broken LOTD Museum LOD
   - Removed Keyboard Shortcuts Fix
+  - Removed Disable Follower Collision
 
 ## Version 1.0.1
   - Survival Mode is now disabled by default
