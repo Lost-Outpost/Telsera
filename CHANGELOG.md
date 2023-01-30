@@ -37,6 +37,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
 ## Version 1.0.3 [UNRELEASED]
   - Added Dovahkiin's Vault - Earlier Start
   - Added Disable Annoying Werewolf Killmove
+  - Added Use Those Blankets
+  - Added Use Those Comfy Blankets - Fluffy and Animated
   - Fixed grass from becoming purple without ENB enabled
 
 ## Version 1.0.2
