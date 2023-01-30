@@ -34,6 +34,10 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.0.3 [UNRELEASED]
+  - Added Dovahkiin's Vault - Earlier Start
+  - Fixed grass from becoming purple without ENB enabled
+
 ## Version 1.0.2
   - Added Run For Your Lives
   - Added Village of the Skaal
