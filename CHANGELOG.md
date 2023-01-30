@@ -58,6 +58,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Tweaked ini settings
   - Fixed broken LOTD Museum LOD
   - Fixed messed up Ragged Flagon
+  - Fixed Dawnguard Map Markers from showing up automatically
   - Removed Keyboard Shortcuts Fix
   - Removed Disable Follower Collision
 
