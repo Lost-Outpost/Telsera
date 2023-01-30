@@ -36,6 +36,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
 
 ## Version 1.0.3 [UNRELEASED]
   - Added Dovahkiin's Vault - Earlier Start
+  - Added Disable Annoying Werewolf Killmove
   - Fixed grass from becoming purple without ENB enabled
 
 ## Version 1.0.2
