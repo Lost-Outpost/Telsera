@@ -49,6 +49,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Pets of Skyrim (CC) Collision Patch
   - Added XPMSSE Spazzing Skeleton and Corpse Fix
   - Added Midwood Isle Black Book Fix
+  - Added SSE FPS Stabilizer
+  - Added Riften City Grass - FPS Fix
   - Updated Aetherius - A Race Overhaul
   - Updated Mundus - A Standing Stone Overhaul
   - Updated Scrambled Bugs
