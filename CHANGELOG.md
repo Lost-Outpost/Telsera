@@ -40,6 +40,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Use Those Blankets
   - Added Use Those Comfy Blankets - Fluffy and Animated
   - Fixed grass from becoming purple without ENB enabled
+  - Fixed pathing for BethINI (hopefully)
   - Turned ambient occlusion on for the various ENB presets Redoran uses
 
 ## Version 1.0.2
