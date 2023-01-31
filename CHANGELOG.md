@@ -34,6 +34,9 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.0.3.1
+  - Turned ambient occlusion off for the various ENB presets Redoran uses (SORRY!)
+
 ## Version 1.0.3
   - Added Dovahkiin's Vault - Earlier Start
   - Added Disable Annoying Werewolf Killmove
@@ -42,6 +45,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added various ENB Complex Grass patches to ENB section
   - Fixed grass from becoming purple without ENB enabled
   - Fixed pathing for BethINI (hopefully)
+  - Turned ambient occlusion on for the various ENB presets Redoran uses
 
 ## Version 1.0.2
   - Added Run For Your Lives
