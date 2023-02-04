@@ -44,6 +44,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Simple Scroll Transcribing - Mysticism - Jump Spells Addon
   - Added The Practical Dwemechanic - A Remiel Replacer
   - Added Unofficial Legacy of the Dragonborn - Pilgrim Patch
+  - Added Simple Werewolf Loot and Activate (must have imo)
+  - Added Vampire Lords Can Activate (must have imo)
   - Updated NPC Animation Remix (DAR)
   - Updated Particle Patch for ENB
   - Updated Crash Logger
