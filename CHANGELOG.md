@@ -56,6 +56,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Destination Weddings
   - Updated Sit on Stuff
   - Updated Song of the Green (Auri Follower)
+  - Updated Legacy of the Dragonborn
   - Fixed missing optional mods
   - Fixed missing root folder for Pi-Cho
 
