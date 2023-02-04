@@ -34,6 +34,13 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.2.0 [UNRELEASED]
+  - Added Improved Table Transitions
+  - Fixed missing optional mods
+
+## Version 1.1.0 (BETA)
+  - Rebuilt from the ground up
+
 ## Version 1.0.3.1
   - Turned ambient occlusion off for the various ENB presets Redoran uses (SORRY!)
 
