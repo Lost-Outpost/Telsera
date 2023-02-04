@@ -36,6 +36,14 @@ The Redoran team would like to thank everyone who plays beta versions and report
 
 ## Version 1.2.0 [UNRELEASED]
   - Added Improved Table Transitions
+  - Added Happy Little Trees - Ivy on Trees
+  - Added Ivy by Mari
+  - Added Mari's Ivy - Nordic Ruins Addon
+  - Added Destination Weddings Compatibility Patches
+  - Added Simple Scroll Transcribing - Mysticism - Survival Spells Addon
+  - Added Simple Scroll Transcribing - Mysticism - Jump Spells Addon
+  - Added The Practical Dwemechanic - A Remiel Replacer
+  - Added Unofficial Legacy of the Dragonborn - Pilgrim Patch
   - Updated NPC Animation Remix (DAR)
   - Updated Particle Patch for ENB
   - Updated Crash Logger
@@ -43,7 +51,13 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Spell Perk Item Distributor (SPID)
   - Updated Keyword Item Distributor (KID)
   - Updated Base Object Swapper
+  - Updated Assorted mesh fixes
+  - Updated Aetherius - A Race Overhaul
+  - Updated Destination Weddings
+  - Updated Sit on Stuff
+  - Updated Song of the Green (Auri Follower)
   - Fixed missing optional mods
+  - Fixed missing root folder for Pi-Cho
 
 ## Version 1.1.0 (BETA)
   - Rebuilt from the ground up
