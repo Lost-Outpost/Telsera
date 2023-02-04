@@ -38,6 +38,11 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Improved Table Transitions
   - Updated NPC Animation Remix (DAR)
   - Updated Particle Patch for ENB
+  - Updated Crash Logger
+  - Updated powerofthree's Papyrus Extender
+  - Updated Spell Perk Item Distributor (SPID)
+  - Updated Keyword Item Distributor (KID)
+  - Updated Base Object Swapper
   - Fixed missing optional mods
 
 ## Version 1.1.0 (BETA)
