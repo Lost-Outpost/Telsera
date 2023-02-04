@@ -36,6 +36,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
 
 ## Version 1.2.0 [UNRELEASED]
   - Added Improved Table Transitions
+  - Updated NPC Animation Remix (DAR)
   - Fixed missing optional mods
 
 ## Version 1.1.0 (BETA)
