@@ -48,6 +48,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Vampire Lords Can Activate
   - Added Inigo HPH - RaceMenu fix
   - Added Mythic Dawn armor
+  - Added Mythic Dawn Armor SE - My patches and fixes
   - Updated NPC Animation Remix (DAR)
   - Updated Particle Patch for ENB
   - Updated Crash Logger
