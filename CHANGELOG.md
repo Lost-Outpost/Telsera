@@ -62,6 +62,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Sit on Stuff
   - Updated Song of the Green (Auri Follower)
   - Updated Legacy of the Dragonborn
+  - Updated Headhunter - Bounties Redone
+  - Updated Ancient Nord Armo(u)ry Lite
   - Fixed missing optional mods
   - Fixed missing root folder for Pi-Cho
   - Turned off DOF for Pi-Cho by default
