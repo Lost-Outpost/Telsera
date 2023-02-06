@@ -49,6 +49,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Inigo HPH - RaceMenu fix
   - Added Mythic Dawn armor
   - Added Mythic Dawn Armor SE - My patches and fixes
+  - Added Skyland Common and Upper Furniture
   - Updated NPC Animation Remix (DAR)
   - Updated Particle Patch for ENB
   - Updated Crash Logger
