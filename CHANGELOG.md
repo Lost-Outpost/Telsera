@@ -64,6 +64,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Legacy of the Dragonborn
   - Fixed missing optional mods
   - Fixed missing root folder for Pi-Cho
+  - Turned off DOF for Pi-Cho by default
 
 ## Version 1.1.0 (BETA)
   - Rebuilt from the ground up
