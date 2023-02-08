@@ -50,6 +50,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Mythic Dawn armor
   - Added Mythic Dawn Armor SE - My patches and fixes
   - Added Skyland Common and Upper Furniture
+  - Added Dressed Hearthfire Doll
   - Updated NPC Animation Remix (DAR)
   - Updated Particle Patch for ENB
   - Updated Crash Logger
