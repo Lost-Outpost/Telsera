@@ -61,6 +61,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Classic Sprinting Redone (SKSE64)
   - Added No Lockpick Activate (SKSE) - Updated
   - Added QuickLoot EE - Dynamic Resize and Value-Weight Patch
+  - Added Alternate Start - Live Another Life - Redoran Cut
   - Updated NPC Animation Remix (DAR)
   - Updated Particle Patch for ENB
   - Updated Crash Logger
@@ -79,6 +80,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Optimised Scripts for XPMSSE
   - Removed A Quality World Map
   - Removed Drengin's Blue Palace Terrace
+  - Removed Alternate Start - Live Another Life - Redoran Edition
   - Fixed missing optional mods
   - Fixed missing root folder for Pi-Cho
   - Turned off DOF for Pi-Cho by default
