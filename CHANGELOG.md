@@ -57,6 +57,10 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Worldspace Transition Tweaks
   - Added PAPER
   - Added Optimised Scripts for Enhanced Blood Textures - SPID version
+  - Added Dragon Priest Mask Quest with Markers
+  - Added Classic Sprinting Redone (SKSE64)
+  - Added No Lockpick Activate (SKSE) - Updated
+  - Added QuickLoot EE - Dynamic Resize and Value-Weight Patch
   - Updated NPC Animation Remix (DAR)
   - Updated Particle Patch for ENB
   - Updated Crash Logger
