@@ -78,6 +78,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Ancient Nord Armo(u)ry Lite
   - Updated Optimised Scripts for XPMSSE
   - Removed A Quality World Map
+  - Removed Drengin's Blue Palace Terrace
   - Fixed missing optional mods
   - Fixed missing root folder for Pi-Cho
   - Turned off DOF for Pi-Cho by default
