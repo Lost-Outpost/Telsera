@@ -52,6 +52,11 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Skyland Common and Upper Furniture
   - Added Dressed Hearthfire Doll
   - Added Shirley Hidden Map Marker
+  - Added A Clear Map of Skyrim and Other Worlds
+  - Added Far Object LOD Improvement Project SSE
+  - Added Worldspace Transition Tweaks
+  - Added PAPER
+  - Added Optimised Scripts for Enhanced Blood Textures - SPID version
   - Updated NPC Animation Remix (DAR)
   - Updated Particle Patch for ENB
   - Updated Crash Logger
@@ -68,6 +73,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Headhunter - Bounties Redone
   - Updated Ancient Nord Armo(u)ry Lite
   - Updated Optimised Scripts for XPMSSE
+  - Removed A Quality World Map
   - Fixed missing optional mods
   - Fixed missing root folder for Pi-Cho
   - Turned off DOF for Pi-Cho by default
