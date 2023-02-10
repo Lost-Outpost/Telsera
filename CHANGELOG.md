@@ -79,6 +79,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Ancient Nord Armo(u)ry Lite
   - Updated Optimised Scripts for XPMSSE
   - Updated Unique Map Weather
+  - Updated Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
   - Removed A Quality World Map
   - Removed Drengin's Blue Palace Terrace
   - Removed Alternate Start - Live Another Life - Redoran Edition
