@@ -81,6 +81,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed A Quality World Map
   - Removed Drengin's Blue Palace Terrace
   - Removed Alternate Start - Live Another Life - Redoran Edition
+  - Removed Emperor Penguins (big sad)
   - Fixed missing optional mods
   - Fixed missing root folder for Pi-Cho
   - Turned off DOF for Pi-Cho by default
