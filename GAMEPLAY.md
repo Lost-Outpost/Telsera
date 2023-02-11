@@ -16,8 +16,6 @@
 
 # Gameplay Guide
 
-> :ledger: **IMPORTANT NOTE: This gameplay guide reflects the Redoran 1.0.x version. Guides for previous versions may be found by clicking the History button in the upper left corner of this page.**
-
 ## Overview
 
 On your journey through the Redoran version of Skyrim, you will find a performance-friendly yet visually stunning environment, with thoughtfully curated, integrated, and balanced additions. As you explore this expanded yet familiar Skyrim world, you will discover plenty of high-quality and fun experiences.
@@ -136,9 +134,11 @@ In addition to SimonRim, this list includes:
 
 - [Simple Scroll Transcribing](nexusmods.com/skyrimspecialedition/mods/73450) - Adds scroll transcription stations to court wizard's environments and the Arcaneum
 
-- [Natura](nexusmods.com/skyrimspecialedition/mods/77826) - New Nature themed spells balanced similarly to Mysticism and new Spriggan types
+- [Natura](nexusmods.com/skyrimspecialedition/mods/77826) - New nature themed spells balanced similarly to Mysticism and new Spriggan types
 
 - [Lunaris](nexusmods.com/skyrimspecialedition/mods/80852) - New moon spells that act as a counterpart of sun spells, balanced similar to Mysticism
+
+- [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) - New shadow spells designed to be balanced around vanilla spells, designed to be used with Mysticism and Adamant
 
 - [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Adds a new contractible lycanthrope disease
 
@@ -224,6 +224,10 @@ Redoran uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimsp
 - [Teldryn Serious](https://www.nexusmods.com/skyrimspecialedition/mods/5541) - Lore-friendly, fully voiced quest about Teldryn Sero's dangerous past.
 
   > :video_game: To begin, read the flier in Raven Rock docks, just in front of the ship.
+
+- [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) - DLC expansion sized mod adds hundreds of new items, dozens of new quests and hundreds of extra hours of play.
+
+  > :video_game: To begin, head to the new museum in Solitude on the way to the Blue Palace.
 
 ### Quest Changes
 
