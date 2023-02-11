@@ -54,7 +54,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Shirley Hidden Map Marker
   - Added A Clear Map of Skyrim and Other Worlds
   - Added Far Object LOD Improvement Project SSE
-  - Added Worldspace Transition Tweaks
   - Added PAPER
   - Added Optimised Scripts for Enhanced Blood Textures - SPID version
   - Added Dragon Priest Mask Quest with Markers
@@ -89,6 +88,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Emperor Penguins (big sad)
   - Fixed missing optional mods
   - Fixed missing root folder for Pi-Cho
+  - Fixed floating cheese and mead near Anga's Mill
   - Turned off DOF for Pi-Cho by default
 
 ## Version 1.1.0 (BETA)
