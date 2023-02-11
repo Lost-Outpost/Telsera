@@ -80,6 +80,9 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Optimised Scripts for XPMSSE
   - Updated Unique Map Weather
   - Updated Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+  - Updated Xelzaz - Apothecary Food and Drink Addon Patch
+  - Updated Blade and Blunt - A Combat Overhaul
+  - Updated Hand to Hand - An Adamant Addon
   - Removed A Quality World Map
   - Removed Drengin's Blue Palace Terrace
   - Removed Alternate Start - Live Another Life - Redoran Edition
