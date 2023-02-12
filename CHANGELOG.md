@@ -34,6 +34,9 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.2.1
+  - Tweaked ini settings to hopefully reduce LOD from popping in-and-out
+
 ## Version 1.2.0
   - Added Improved Table Transitions
   - Added Happy Little Trees - Ivy on Trees
