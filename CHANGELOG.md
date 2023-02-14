@@ -37,7 +37,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
 ## Version 1.2.3 [UNRELEASED]
   - Added A Quality World Map
   - Updated Huntsman - A Hunting Expansion
-  - Updated X
+  - Updated More to Say
+  - Updated Remiel - LOTD Commentary Patch
   - Removed A Clear Map of Skyrim and Other Worlds
   - Removed Far Object LOD Improvement Project SSE
 
