@@ -34,11 +34,12 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.2.3 [UNRELEASED]
+## Version 1.3.0 [UNRELEASED]
   - Added A Quality World Map
   - Updated Huntsman - A Hunting Expansion
   - Updated More to Say
   - Updated Remiel - LOTD Commentary Patch
+  - Updated The Remnants of Hammerfell - The Gray Cowl of Nocturnal
   - Removed A Clear Map of Skyrim and Other Worlds
   - Removed Far Object LOD Improvement Project SSE
 
