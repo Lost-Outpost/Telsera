@@ -39,7 +39,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Ro -- Pilgrim - Daedric Shrines Patch
   - Added Spell Knight Armor Variants
   - Updated ASLAL - Redoran Cut to restore the "Escape Cell" option (gotta get Kaidan right off the bat amirite?? couGH)
-  - Updated dunFolgunthurBossBattle Script Fix
   - Removed Statue of Sithis
   - Removed Pilgrim and Daedric Shrines Consistency and Tweaks
   - Removed Happy Little Trees - Ivy on Trees
