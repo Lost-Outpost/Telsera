@@ -43,7 +43,7 @@ The presets mod is here:
 You can select this mod, right-click it, and then select "Open in Explorer" to see the presets directory, which will be at this location:
 
 ```
-Redoran\mods[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
+Redoran\mods\[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
 ```
 
 ![redoran-character-presets-folder](https://i.imgur.com/dqUr8pu.png)
