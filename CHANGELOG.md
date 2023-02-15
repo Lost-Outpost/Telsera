@@ -37,7 +37,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
 ## Version 1.4.0 [UNRELEASED]
   - Added Pilgrim - Daedric Shrines AIO Patch
   - Added Ro -- Pilgrim - Daedric Shrines Patch
-  - Added Ro -- RWT Myrwatch - Happy Little Trees Patch
   - Updated ASLAL - Redoran Cut to restore the "Escape Cell" option (gotta get Kaidan right off the bat amirite?? couGH)
   - Removed Statue of Sithis
   - Removed Pilgrim and Daedric Shrines Consistency and Tweaks
