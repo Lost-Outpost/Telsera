@@ -34,11 +34,12 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.4.0 [UNRELEASED]
+## Version 1.4.0
   - Added Pilgrim - Daedric Shrines AIO Patch
   - Added Ro -- Pilgrim - Daedric Shrines Patch
   - Added Spell Knight Armor Variants
   - Updated ASLAL - Redoran Cut to restore the "Escape Cell" option (gotta get Kaidan right off the bat amirite?? couGH)
+  - Updated Rumble
   - Removed Statue of Sithis
   - Removed Pilgrim and Daedric Shrines Consistency and Tweaks
   - Removed Happy Little Trees - Ivy on Trees
