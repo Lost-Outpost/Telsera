@@ -34,6 +34,11 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.4.1
+  - Added Bloodmoon
+  - Added Ro -- Bloodmoon - Mysticism Patch
+  - Removed excess DynDOLOD files from Redoran\Tools\DynDOLOD 3.00 Alpha-111\DynDOLOD_Output
+
 ## Version 1.4.0
   - Added Pilgrim - Daedric Shrines AIO Patch
   - Added Ro -- Pilgrim - Daedric Shrines Patch
