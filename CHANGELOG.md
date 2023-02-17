@@ -41,6 +41,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Vampire Lines Expansion
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
+  - Updated Unaggressive Dragon Priests Fix
 
 ## Version 1.4.1
   - Added Bloodmoon
