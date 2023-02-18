@@ -55,6 +55,9 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
   - Updated Kaidan's Armory
+  - Updated Natura
+  - Updated Abyss
+  - Updated Bloodmoon
   - Removed Skyland Noble Furniture
   - Removed Skyland Common and Upper Class Furniture
   - Removed RUSTIC ARMOR and WEAPONS
