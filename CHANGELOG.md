@@ -35,13 +35,29 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
 ## Version 1.4.2 [UNRELEASED] - Estimated goal for release is around 2/26/23 ish
-  - Added aMidianBorn Scaled Armor
   - Added Sforzinda Imitations
   - Added Sforzinda Imitations Stripped Down (ESP replacer)
   - Added Vampire Lines Expansion
+  - Added Weathered Bars and Counters Retexture
+  - Added aMidianBorn Scaled Armor
+  - Added RUSTIC FORSWORN
+  - Added Orcish Armors and Weapons Retexture
+  - Added Daedric Armors and Weapons Retexture
+  - Added Iron Armors and Weapons Retexture
+  - Added GIANT
+  - Added FALMER
+  - Added HAGRAVEN
+  - Added TROLL
+  - Added WISPMOTHER
+  - Added Realistic Skin And Hair Shaders - Giants
+  - Added Realistic Skin Shaders - Falmer and Hagravens
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
+  - Updated Kaidan's Armory
+  - Removed Skyland Noble Furniture
+  - Removed Skyland Common and Upper Class Furniture
+  - Removed RUSTIC ARMOR and WEAPONS
 
 ## Version 1.4.1
   - Added Bloodmoon
