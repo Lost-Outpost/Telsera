@@ -58,6 +58,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Skyland Noble Furniture
   - Removed Skyland Common and Upper Class Furniture
   - Removed RUSTIC ARMOR and WEAPONS
+  - Removed Kaidan 2 Katana Replacer
 
 ## Version 1.4.1
   - Added Bloodmoon
