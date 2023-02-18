@@ -35,7 +35,6 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
 ## Version 1.4.2 [UNRELEASED] - Estimated goal for release is around 2/26/23 ish
-  - Added Sforzinda's Variations (maybe... we shall see...)
   - Added Sforzinda's Imitations
   - Added Sforzinda's Imitations Stripped Down (ESP replacer)
   - Added Vampire Lines Expansion
