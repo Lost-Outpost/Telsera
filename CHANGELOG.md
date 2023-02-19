@@ -56,6 +56,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Unaggressive Dragon Priests Fix
   - Updated Kaidan's Armory
   - Updated Natura
+  - Updated Lunaris
   - Updated Abyss
   - Updated Bloodmoon
   - Removed Skyland Noble Furniture
