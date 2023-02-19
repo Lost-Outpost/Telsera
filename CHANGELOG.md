@@ -51,6 +51,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added WISPMOTHER
   - Added Realistic Skin And Hair Shaders - Giants
   - Added Realistic Skin Shaders - Falmer and Hagravens
+  - Added Immortal Remnant - Redguard Elite Armor Variants
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
