@@ -52,6 +52,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Realistic Skin And Hair Shaders - Giants
   - Added Realistic Skin Shaders - Falmer and Hagravens
   - Added Immortal Remnant - Redguard Elite Armor Variants
+  - Added Pilgrim - Daedric Shrines AIO Tweaks
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
@@ -64,6 +65,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Skyland Common and Upper Class Furniture
   - Removed RUSTIC ARMOR and WEAPONS
   - Removed Kaidan 2 Katana Replacer
+  - Removed Pilgrim - Daedric Shrines AIO Patch
 
 ## Version 1.4.1
   - Added Bloodmoon
