@@ -55,6 +55,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Immortal Remnant - Redguard Elite Armor Variants
   - Added Pilgrim - Daedric Shrines AIO Tweaks
   - Added Skyrim Sewers Weapon Replacement
+  - Added ENBSeries - Rudy in Pi-Cho - Custom Edit
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
@@ -68,7 +69,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed RUSTIC ARMOR and WEAPONS
   - Removed Kaidan 2 Katana Replacer
   - Removed Pilgrim - Daedric Shrines AIO Patch
-  - Integrated Pi-Cho ENB into Rudy in Pi-Cho ENB with custom tweaks
+  - Removed ENBSeries - Pi-Cho
   - Fixed mod-added map markers from showing at the start (Forgotten City, Carved Brink, etc.)
 
 ## Version 1.4.1
