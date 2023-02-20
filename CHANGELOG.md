@@ -51,8 +51,10 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added WISPMOTHER
   - Added Realistic Skin And Hair Shaders - Giants
   - Added Realistic Skin Shaders - Falmer and Hagravens
+  - Added Spell Knight Armor Variants (for real this time)
   - Added Immortal Remnant - Redguard Elite Armor Variants
   - Added Pilgrim - Daedric Shrines AIO Tweaks
+  - Added Skyrim Sewers Weapon Replacement
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
@@ -66,6 +68,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed RUSTIC ARMOR and WEAPONS
   - Removed Kaidan 2 Katana Replacer
   - Removed Pilgrim - Daedric Shrines AIO Patch
+  - Integrated Pi-Cho ENB into Rudy in Pi-Cho ENB with custom tweaks
 
 ## Version 1.4.1
   - Added Bloodmoon
@@ -75,7 +78,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
 ## Version 1.4.0
   - Added Pilgrim - Daedric Shrines AIO Patch
   - Added Ro -- Pilgrim - Daedric Shrines Patch
-  - Added Spell Knight Armor Variants
   - Updated ASLAL - Redoran Cut to restore the "Escape Cell" option (gotta get Kaidan right off the bat amirite?? couGH)
   - Removed Statue of Sithis
   - Removed Pilgrim and Daedric Shrines Consistency and Tweaks
