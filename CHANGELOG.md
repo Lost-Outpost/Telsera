@@ -65,6 +65,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Lunaris
   - Updated Abyss
   - Updated Bloodmoon
+  - Updated Survival Mode Improved - SKSE
   - Removed Skyland Noble Furniture
   - Removed Skyland Common and Upper Class Furniture
   - Removed RUSTIC ARMOR and WEAPONS
