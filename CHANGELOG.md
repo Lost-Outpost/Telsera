@@ -69,6 +69,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Kaidan 2 Katana Replacer
   - Removed Pilgrim - Daedric Shrines AIO Patch
   - Integrated Pi-Cho ENB into Rudy in Pi-Cho ENB with custom tweaks
+  - Fixed mod-added map markers from showing at the start (Forgotten City, Carved Brink, etc.)
 
 ## Version 1.4.1
   - Added Bloodmoon
