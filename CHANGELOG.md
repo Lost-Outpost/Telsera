@@ -57,6 +57,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Skyrim Sewers Weapon Replacement
   - Added ENBSeries - Rudy in Pi-Cho - Custom Edit
   - Added Ancient Dwemer Metal
+  - Added Forgotten City Music Fixer
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
