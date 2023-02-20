@@ -56,6 +56,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Pilgrim - Daedric Shrines AIO Tweaks
   - Added Skyrim Sewers Weapon Replacement
   - Added ENBSeries - Rudy in Pi-Cho - Custom Edit
+  - Added Ancient Dwemer Metal
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
