@@ -44,6 +44,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Orcish Armors and Weapons Retexture
   - Added Daedric Armors and Weapons Retexture
   - Added Iron Armors and Weapons Retexture
+  - Added Steel Armors and Weapons Retexture
   - Added GIANT
   - Added FALMER
   - Added HAGRAVEN
@@ -58,8 +59,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added ENBSeries - Rudy in Pi-Cho - Custom Edit
   - Added Ancient Dwemer Metal
   - Added Forgotten City Music Fixer
-  - Added Steel Armors and Weapons Retexture
-  - Added ECPLW -ENB Complex Particle Lights for Windows-
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
