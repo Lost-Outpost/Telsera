@@ -45,6 +45,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Daedric Armors and Weapons Retexture
   - Added Iron Armors and Weapons Retexture
   - Added Steel Armors and Weapons Retexture
+  - Added Ebony Armors and Weapons Retexture
   - Added GIANT
   - Added FALMER
   - Added HAGRAVEN
