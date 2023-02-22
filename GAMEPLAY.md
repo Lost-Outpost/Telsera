@@ -94,52 +94,50 @@ Redoran is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/s
   
   > :video_game: Tempering is based on your smithing perks, and not your smithing skill level. Each perk from Craftsman to Forgemaster allows you to temper an item by one additional tier
 
-- [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - A rework of all race abilities including replacing powers with better passive abilities
+- [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - A rework of all race abilities including replacing powers with better passive abilities.
 
-- [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) - Rebalances Food and Alchemy
+- [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) - Rebalances Food and Alchemy.
 
-- [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487) - An overhaul of howenemies are leveled in encounters, making combat more engaging
+- [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487) - An overhaul of howenemies are leveled in encounters, making combat more engaging.
 
-- [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - A lightweight combat enhancement which makes combat more engaging
+- [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - A lightweight combat enhancement which makes combat more engaging.
 
-- [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) - Merges Lockpicking and Pickpocketing into a single skill called Security and adds a new perk tree for Hand to Hand combat
+- [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) - Merges Lockpicking and Pickpocketing into a single skill called Security and adds a new perk tree for Hand to Hand combat.
 
-- [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - Rebalance and rework of religion
+- [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - Rebalance and rework of religion.
 
-- [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) - Rebalances and improves Vampires including changes that make both Stage 1 and Stage 4 vampirism desirable
+- [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) - Rebalances and improves Vampires including changes that make both Stage 1 and Stage 4 vampirism. desirable
   - :ledger: Enhanced by [Scion - Vampiric Sunscreen Condition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/42212)  - You can turn this optional mod on to prevent Weakness to Sunlight effects if you are wearing headgear. You can find it under the "Optional Mods" separator.
 
-- [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) - Rebalance and content addon for werewolves which introduces new perks and abilities
+- [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) - Rebalance and content addon for werewolves which introduces new perks and abilities.
 
-- [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) - A complete rebalance of all standing stones
+- [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) - A complete rebalance of all standing stones.
 
-- [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) - A magic overhaul which fixes balance issues and introduces new spells
+- [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) - A magic overhaul which fixes balance issues and introduces new spells.
 
-- [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) - An enchanting overhaul which fixes some major issues with enchanting balance
+- [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) - An enchanting overhaul which fixes some major issues with enchanting balance.
 
 In addition to SimonRim, this list includes:
 
-- [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic
+- [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic.
 
-- [Arachnomancy - A Spider Scrolls Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/67272) - A complete overhaul of Skyrim's spider scrolls crafting system designed to balance existing spiders while adding powerful new ones
+- [Arachnomancy - A Spider Scrolls Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/67272) - A complete overhaul of Skyrim's spider scrolls crafting system designed to balance existing spiders while adding powerful new ones.
 
-- [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848) - An overhaul of how encounters work in the Bruma region, inspired by Arena's handling of encounter zones. Enemies will be leveled similar to Solstheimn enemies on Arena
-
-- [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) - Improves and balances the game's survival mode
+- [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848) - An overhaul of how encounters work in the Bruma region, inspired by Arena's handling of encounter zones. Enemies will be leveled similar to Solstheimn enemies on Arena.
 
 - [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Adds a potion for sale at your neighborhood alchemist that lets you respec perk points
 
 ### New Mechanics
 
-- [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - New mechanic to tame wild animals as followers and companions
+- [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - New mechanic to tame wild animals as followers and companions.
 
-- [Simple Scroll Transcribing](nexusmods.com/skyrimspecialedition/mods/73450) - Adds scroll transcription stations to court wizard's environments and the Arcaneum
+- [Simple Scroll Transcribing](nexusmods.com/skyrimspecialedition/mods/73450) - Adds scroll transcription stations to court wizard's environments and the Arcaneum.
 
-- [Natura](nexusmods.com/skyrimspecialedition/mods/77826) - New nature themed spells balanced similarly to Mysticism and new Spriggan types
+- [Natura](nexusmods.com/skyrimspecialedition/mods/77826) - New nature themed spells balanced similarly to Mysticism and new Spriggan types.
 
-- [Lunaris](nexusmods.com/skyrimspecialedition/mods/80852) - New moon spells that act as a counterpart of sun spells, balanced similar to Mysticism
+- [Lunaris](nexusmods.com/skyrimspecialedition/mods/80852) - New moon spells that act as a counterpart of sun spells, balanced similar to Mysticism.
 
-- [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) - New shadow spells designed to be balanced around vanilla spells, designed to be used with Mysticism and Adamant
+- [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) - New shadow spells designed to be balanced around vanilla spells, designed to be used with Mysticism and Adamant.
 
 - [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Adds a new contractible lycanthrope disease
 
@@ -148,14 +146,15 @@ In addition to SimonRim, this list includes:
 - [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) - Overhauls the AE creation called [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode).
   > :ledger: The prompt that appears to ask you to start Survival Mode has been removed. Now you must need to have finished the starting quest Unbound. Once you have done so, go into the Settings > Gameplay > section in-game and toggle the option to on.
 
-- [Arcane Accessories - ](X) - Overhauls the AE creation called [Arcane Accessories](https://en.uesp.net/wiki/Skyrim:Arcane_Accessories).
-  > :ledger: X
+- [Arcane Accessories - Rebalance Patch](https://www.nexusmods.com/skyrimspecialedition/mods/61559) - Overhauls the AE creation called [Arcane Accessories](https://en.uesp.net/wiki/Skyrim:Arcane_Accessories).
+  > :ledger: A detailed, calculated rebalance of the spells and enchantments in Arcane Accessories that brings them roughly in line with Adamant and Mysticism.
 
-- [Arcane Archer Pack - ](X) - Overhauls the AE creation called [Arcane Archer Pack](https://en.uesp.net/wiki/Skyrim:Arcane_Archer_Pack).
-  > :ledger: X
+- [Better Arcane Archer Pack](https://www.nexusmods.com/skyrimspecialedition/mods/15650) - Overhauls the AE creation called [Arcane Archer Pack](https://en.uesp.net/wiki/Skyrim:Arcane_Archer_Pack).
+  > :ledger: Improves Creation Clubs Arcane Archer Pack by modifying damage, crafting cost, buying costs and adding effects like freezing, fear and disintegrate to the explosions.
 
-- [Chrysamere - ](X) - Overhauls the AE creation called [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere).
-  > :ledger: X
+- [Beyond Skyrim Bruma - Adamantium Addon](https://www.nexusmods.com/skyrimspecialedition/mods/71740) and [Creation Club - Adjustments Rebalancing and Variants](https://www.nexusmods.com/skyrimspecialedition/mods/59370) - Overhaul the AE creation called [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere).
+  > :ledger: Retextures Creation Club's Chrysamere to look like it is made of adamantium as per its lore. Also adds Adamantium keywords and effects.
+  > :ledger: Adjusts the stats of Chrysamere to be more consistent with vanilla counterparts.
 
 - [Knights of the Nine - ](X) - Overhauls the AE creation called [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader).
   > :ledger: X
