@@ -146,7 +146,7 @@ In addition to SimonRim, this list includes:
 ## Creation Club Distribution
 
 - [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) - Overhauls the AE creation called [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode).
-  > :ledger: The prompt that appears to ask you to start Survival Mode has been removed. Now you must need to have finished the starting quest Unbound. Once you have done so, go into the Settings > Gameplay > section in-game and toggle the option to "On".
+  > :ledger: The prompt that appears to ask you to start Survival Mode has been removed. Now you must need to have finished the starting quest Unbound. Once you have done so, go into the Settings > Gameplay > section in-game and toggle the option to on.
 
 - [Arcane Accessories - ](X) - Overhauls the AE creation called [Arcane Accessories](https://en.uesp.net/wiki/Skyrim:Arcane_Accessories).
   > :ledger: X
