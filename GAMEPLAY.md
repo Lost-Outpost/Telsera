@@ -156,11 +156,12 @@ In addition to SimonRim, this list includes:
   > :ledger: Retextures Creation Club's Chrysamere to look like it is made of adamantium as per its lore. Also adds Adamantium keywords and effects.
   > :ledger: Adjusts the stats of Chrysamere to be more consistent with vanilla counterparts.
 
-- [Knights of the Nine - ](X) - Overhauls the AE creation called [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader).
-  > :ledger: X
+- [Knight of the North - A Creation Club Quest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45869) - Overhauls the AE creation called [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader).
+  > :ledger: A completely reworked quest for obtaining the relics of the Crusader. Participant in a province-wide scavenger hunt to reunite the lost relics. To start the questline, you must find at least one of the armor pieces in your travels.
 
-- [Plague of the Dead - ](X) - Overhauls the AE creation called [Plague of the Dead](https://en.uesp.net/wiki/Skyrim:Plague_of_the_Dead).
-  > :ledger: X
+- [Plague of the Dead - Mysticism Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/78868) and [Plague of the Dead - BS Bruma Synergy Patch](https://www.nexusmods.com/skyrimspecialedition/mods/28630) - Overhaul the AE creation called [Plague of the Dead](https://en.uesp.net/wiki/Skyrim:Plague_of_the_Dead).
+  > :ledger: A rework of the Plague of the Dead Creation, including disabling the quest, revamped zombies to act more like their Oblivion inspirations, and rebalancing the summon spells based on Mysticism - A Magic Overhaul.
+  > :ledger: This plugin swaps the Zombies introduced in Beyond Skyrim - Bruma to be the ones added by Plague of the Dead. It also replaces the relevant Spell Tome(s) in the Cyrodiil levelled lists.
 
 - [Ruin's Edge - ](X) - Overhauls the AE creation called [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge).
   > :ledger: X
