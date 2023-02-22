@@ -193,11 +193,11 @@ In addition to SimonRim, this list includes:
 - [Jewels of the Nords - Nordic Jewelry Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/81500) - Overhauls the AE creation called [Nordic Jewelry](https://en.uesp.net/wiki/Skyrim:Nordic_Jewelry).
   > :ledger: Removes the quest from Nordic Jewelry and distributes variations of metal and gem combination into levelled lists
 
-- [Pets of Skyrim - ](X) - Overhauls the AE creation called [Pets of Skyrim](https://en.uesp.net/wiki/Skyrim:Pets_of_Skyrim).
-  > :ledger: X
+- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Tweaks the AE creation called [Pets of Skyrim](https://en.uesp.net/wiki/Skyrim:Pets_of_Skyrim).
+  > :ledger: The related quest will no longer initiate once you start a new game.
 
-- [Rare Curios - ](X) - Overhauls the AE creation called [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios).
-  > :ledger: X
+- [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) - Overhauls the AE creation called [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios).
+  > :ledger: Adds new types of bolts based on the new models added by Rare Curios. Also fixes a couple of texture issues present in the bolts already present in Rare Curios.
 
 - [Bone Wolf - ](X) - Overhauls the AE creation called [Bone Wolf](https://en.uesp.net/wiki/Skyrim:Bone_Wolf).
   > :ledger: X
