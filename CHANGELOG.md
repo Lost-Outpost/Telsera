@@ -80,7 +80,9 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Kaidan 2 Katana Replacer
   - Removed Pilgrim - Daedric Shrines AIO Patch
   - Removed ENBSeries - Pi-Cho
+  - Removed Frankly HD Dragonbone and Dragonscale - Armor and Weapons
   - Fixed mod-added map markers from showing at the start (Forgotten City, Carved Brink, etc.)
+  - Fixed floating Falkreath shield
 
 ## Version 1.4.1
   - Added Bloodmoon
