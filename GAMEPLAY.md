@@ -193,6 +193,66 @@ In addition to SimonRim, this list includes:
 - [Tundra Homestead - ](X) - Overhauls the AE creation called [Tundra Homestead](https://en.uesp.net/wiki/Skyrim:Tundra_Homestead).
   > :ledger: X
 
+- [Myrwatch - ](X) - Overhauls the AE creation called [Myrwatch](https://en.uesp.net/wiki/Skyrim:Myrwatch).
+  > :ledger: X
+
+- [Nordic Jewelry - ](X) - Overhauls the AE creation called [Nordic Jewelry](https://en.uesp.net/wiki/Skyrim:Nordic_Jewelry).
+  > :ledger: X
+
+- [Pets of Skyrim - ](X) - Overhauls the AE creation called [Pets of Skyrim](https://en.uesp.net/wiki/Skyrim:Pets_of_Skyrim).
+  > :ledger: X
+
+- [Rare Curios - ](X) - Overhauls the AE creation called [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios).
+  > :ledger: X
+
+- [Bone Wolf - ](X) - Overhauls the AE creation called [Bone Wolf](https://en.uesp.net/wiki/Skyrim:Bone_Wolf).
+  > :ledger: X
+
+- [Staff of Hasedoki - ](X) - Overhauls the AE creation called [Staff of Hasedoki](https://en.uesp.net/wiki/Skyrim:Staff_of_Hasedoki).
+  > :ledger: X
+
+- [Wild Horses - ](X) - Overhauls the AE creation called [Wild Horses](https://en.uesp.net/wiki/Skyrim:Wild_Horses).
+  > :ledger: X
+
+- [Civil War Champions - ](X) - Overhauls the AE creation called [Civil War Champions](https://en.uesp.net/wiki/Skyrim:Civil_War_Champions).
+  > :ledger: X
+
+- [Elite Crossbows - ](X) - Overhauls the AE creation called [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows).
+  > :ledger: X
+
+- [Forgotten Seasons - ](X) - Overhauls the AE creation called [Forgotten Seasons](https://en.uesp.net/wiki/Skyrim:Forgotten_Seasons).
+  > :ledger: X
+
+- [Saturalia Holiday Pack - ](X) - Overhauls the AE creation called [Saturalia Holiday Pack](https://en.uesp.net/wiki/Skyrim:Saturalia_Holiday_Pack).
+  > :ledger: X
+
+- [Sunder & Wraithguard - ](X) - Overhauls the AE creation called [Sunder & Wraithguard](https://en.uesp.net/wiki/Skyrim:Sunder_%26_Wraithguard).
+  > :ledger: X
+
+- [Vigil Enforcer Armor Set - ](X) - Overhauls the AE creation called [Vigil Enforcer Armor Set](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set).
+  > :ledger: X
+
+- [Arms of Chaos - ](X) - Overhauls the AE creation called [Arms of Chaos](https://en.uesp.net/wiki/Skyrim:Arms_of_Chaos).
+  > :ledger: X
+
+- [Shadowfoot Sanctum - ](X) - Overhauls the AE creation called [Shadowfoot Sanctum](https://en.uesp.net/wiki/Skyrim:Shadowfoot_Sanctum).
+  > :ledger: X
+
+- [X - ](X) - Overhauls the AE creation called [X](X).
+  > :ledger: X
+
+- [X - ](X) - Overhauls the AE creation called [X](X).
+  > :ledger: X
+
+- [X - ](X) - Overhauls the AE creation called [X](X).
+  > :ledger: X
+
+- [X - ](X) - Overhauls the AE creation called [X](X).
+  > :ledger: X
+
+- [X - ](X) - Overhauls the AE creation called [X](X).
+  > :ledger: X
+
 - [X - ](X) - Overhauls the AE creation called [X](X).
   > :ledger: X
 
