@@ -301,42 +301,71 @@ In addition to SimonRim, this list includes:
 - [Alternative Armors - Iron - ](X) - Overhauls the AE creation called [Alternative Armors - Iron](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Iron).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Alternative Armors - Leather - ](X) - Overhauls the AE creation called [Alternative Armors - Leather](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Leather).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Alternative Armors - Orcish Plate - ](X) - Overhauls the AE creation called [Alternative Armors - Orcish Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Orcish_Plate).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Alternative Armors - Orcish Scaled - ](X) - Overhauls the AE creation called [Alternative Armors - Orcish Scaled](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Orcish_Scaled).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Alternative Armors - Silver - ](X) - Overhauls the AE creation called [Alternative Armors - Silver](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Silver).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Bittercup - ](X) - Overhauls the AE creation called [Bittercup](https://en.uesp.net/wiki/Skyrim:Bittercup).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Bloodchill Manor - ](X) - Overhauls the AE creation called [Bloodchill Manor](https://en.uesp.net/wiki/Skyrim:Bloodchill_Manor).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Bow of Shadows - ](X) - Overhauls the AE creation called [Bow of Shadows](https://en.uesp.net/wiki/Skyrim:Bow_of_Shadows).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Farming - ](X) - Overhauls the AE creation called [Farming](https://en.uesp.net/wiki/Skyrim:Farming).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Fearsome Fists - ](X) - Overhauls the AE creation called [Fearsome Fists](https://en.uesp.net/wiki/Skyrim:Fearsome_Fists).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Fishing - ](X) - Overhauls the AE creation called [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Gallows Hall - ](X) - Overhauls the AE creation called [Gallows Hall](https://en.uesp.net/wiki/Skyrim:Gallows_Hall).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Ghosts of the Tribunal - ](X) - Overhauls the AE creation called [Ghosts of the Tribunal](https://en.uesp.net/wiki/Skyrim:Ghosts_of_the_Tribunal).
   > :ledger: X
 
+- [Goldbrand - ](X) - Overhauls the AE creation called [Goldbrand](https://en.uesp.net/wiki/Skyrim:Goldbrand).
+  > :ledger: X
+
+- [Headman's Cleaver - ](X) - Overhauls the AE creation called [Headman's Cleaver](https://en.uesp.net/wiki/Skyrim:Headman%27s_Cleaver).
+  > :ledger: X
+
+- [Horse Armor - Elven - ](X) - Overhauls the AE creation called [Horse Armor - Elven](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Elven).
+  > :ledger: X
+
+- [Horse Armor - Steel - ](X) - Overhauls the AE creation called [Horse Armor - Steel](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Steel).
+  > :ledger: X
+
+- [Nchuanthumz: Dwarven Home - ](X) - Overhauls the AE creation called [Nchuanthumz: Dwarven Home](https://en.uesp.net/wiki/Skyrim:Nchuanthumz:_Dwarven_Home).
+  > :ledger: X
+
+- [Necromantic Grimoire - ](X) - Overhauls the AE creation called [Necromantic Grimoire](https://en.uesp.net/wiki/Skyrim:Necromantic_Grimoire).
+  > :ledger: X
+
+- [Redguard Elite Armaments - ](X) - Overhauls the AE creation called [Redguard Elite Armaments](https://en.uesp.net/wiki/Skyrim:Redguard_Elite_Armaments).
+  > :ledger: X
+
+- [Staves - ](X) - Overhauls the AE creation called [Staves](https://en.uesp.net/wiki/Skyrim:Staves_(Creation)).
+  > :ledger: X
+
+- [The Cause - ](X) - Overhauls the AE creation called [The Cause](https://en.uesp.net/wiki/Skyrim:The_Cause).
+  > :ledger: X
+
+- [The Contest - ](X) - Overhauls the AE creation called [The Contest](https://en.uesp.net/wiki/Skyrim:The_Contest).
+  > :ledger: X
 
 ## User Interface and Camera
 
