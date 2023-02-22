@@ -61,6 +61,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added ENBSeries - Rudy in Pi-Cho - Custom Edit
   - Added Ancient Dwemer Metal
   - Added Forgotten City Music Fixer
+  - Added Merchant - A Trading Expansion
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
