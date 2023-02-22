@@ -73,6 +73,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Survival Mode Improved - SKSE
   - Updated Huntsman
   - Updated Aetherius
+  - Updated aljos Apothecary Patches
   - Removed Skyland Noble Furniture
   - Removed Skyland Common and Upper Class Furniture
   - Removed RUSTIC ARMOR and WEAPONS
