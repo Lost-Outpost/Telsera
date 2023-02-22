@@ -178,20 +178,20 @@ In addition to SimonRim, this list includes:
 - [Simple CC Backpack Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/70628) - Overhauls the AE creation called [Adventurer's Backpack](https://en.uesp.net/wiki/Skyrim:Adventurer%27s_Backpack).
   > :ledger: Rebalances CC Backpacks to values that more closely follow Thaumaturgy - An Enchanting Overhaul. Backpacks will be much less common in loot and vendor inventories, and only basic backpacks may be found in loot (Leather, Fine, Dark, Fur). The bedroll and specialist variants must be crafted from the basic four.
 
-- [Camping - ](X) - Overhauls the AE creation called [Camping](https://en.uesp.net/wiki/Skyrim:Camping).
-  > :ledger: X
+- [CC's Camping Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/73354) - Overhauls the AE creation called [Camping](https://en.uesp.net/wiki/Skyrim:Camping).
+  > :ledger: An expansion of Bethesda's Campfire Creation Club mod. Adds intermediate and advanced camping supplies plus some QoL tweaks.
 
-- [Nix-Hound - ](X) - Overhauls the AE creation called [Nix-Hound](https://en.uesp.net/wiki/Skyrim:Nix-Hound).
-  > :ledger: X
+- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Nix-Hound](https://en.uesp.net/wiki/Skyrim:Nix-Hound).
+  > :ledger: The quest will not start on launch anyore. The pet teleport spell now actually works.
 
-- [Tundra Homestead - ](X) - Overhauls the AE creation called [Tundra Homestead](https://en.uesp.net/wiki/Skyrim:Tundra_Homestead).
-  > :ledger: X
+- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Tundra Homestead](https://en.uesp.net/wiki/Skyrim:Tundra_Homestead).
+  > :ledger: Keys now have proper pick-up sound FX applied instead of being silent.
 
-- [Myrwatch - ](X) - Overhauls the AE creation called [Myrwatch](https://en.uesp.net/wiki/Skyrim:Myrwatch).
-  > :ledger: X
+- [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) - Overhauls the AE creation called [Myrwatch](https://en.uesp.net/wiki/Skyrim:Myrwatch).
+  > :ledger: You decide when certain AE quests start now. To customize the new magicka requirement level to your liking, see the RAE - Quest Requirements MCM in-game. 
 
-- [Nordic Jewelry - ](X) - Overhauls the AE creation called [Nordic Jewelry](https://en.uesp.net/wiki/Skyrim:Nordic_Jewelry).
-  > :ledger: X
+- [Jewels of the Nords - Nordic Jewelry Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/81500) - Overhauls the AE creation called [Nordic Jewelry](https://en.uesp.net/wiki/Skyrim:Nordic_Jewelry).
+  > :ledger: Removes the quest from Nordic Jewelry and distributes variations of metal and gem combination into levelled lists
 
 - [Pets of Skyrim - ](X) - Overhauls the AE creation called [Pets of Skyrim](https://en.uesp.net/wiki/Skyrim:Pets_of_Skyrim).
   > :ledger: X
