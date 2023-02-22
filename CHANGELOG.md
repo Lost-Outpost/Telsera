@@ -62,6 +62,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Ancient Dwemer Metal
   - Added Forgotten City Music Fixer
   - Added Merchant - A Trading Expansion
+  - Added Royal Armory - DBM Patch And ESP Update by Absynnian
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
