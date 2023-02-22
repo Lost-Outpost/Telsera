@@ -26,6 +26,7 @@ This guide highlights major mods included in Redoran in the following categories
 - [Gameplay Changes](#gameplay-changes)
   - [Overhauls](#overhauls)
   - [New Mechanics](#new-mechanics)
+  - [Creation Club Distribution](#creation-club-distribution)
 - [User Interface and Camera](#user-interface-and-camera)
 - [Gear and Items](#gear-and-items)
 - [Followers and Companions](#followers-and-companions)
@@ -141,6 +142,26 @@ In addition to SimonRim, this list includes:
 - [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) - New shadow spells designed to be balanced around vanilla spells, designed to be used with Mysticism and Adamant
 
 - [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Adds a new contractible lycanthrope disease
+
+## Creation Club Distribution
+
+- [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) - Overhauls the AE creation called [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode).
+  > :ledger: The prompt that appears to ask you to start Survival Mode has been removed. Now you must need to have finished the starting quest Unbound. Once you have done so, go into the Settings section in-game and toggle the option to "On".
+
+- [Arcane Accessories - ](X) - Overhauls the AE creation called [Arcane Accessories](https://en.uesp.net/wiki/Skyrim:Arcane_Accessories).
+  > :ledger: X
+
+- [Arcane Archer Pack - ](X) - Overhauls the AE creation called [Arcane Archer Pack](https://en.uesp.net/wiki/Skyrim:Arcane_Archer_Pack).
+  > :ledger: X
+
+- [Chrysamere - ](X) - Overhauls the AE creation called [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere).
+  > :ledger: X
+
+- [Knights of the Nine - ](X) - Overhauls the AE creation called [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader).
+  > :ledger: X
+
+- [Plague of the Dead - ](X) - Overhauls the AE creation called [Plague of the Dead](https://en.uesp.net/wiki/Skyrim:Plague_of_the_Dead).
+  > :ledger: X
 
 ## User Interface and Camera
 
