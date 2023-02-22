@@ -63,6 +63,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Forgotten City Music Fixer
   - Added Merchant - A Trading Expansion
   - Added Royal Armory - DBM Patch And ESP Update by Absynnian
+  - Added Better Arcane Archer Pack
   - Added Less Ridiculous Arcane Archer Quivers (Fixed UVs - ENB Light - Creation Club)
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
