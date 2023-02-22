@@ -146,7 +146,7 @@ In addition to SimonRim, this list includes:
 ## Creation Club Distribution
 
 - [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) - Overhauls the AE creation called [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode).
-  > :ledger: The prompt that appears to ask you to start Survival Mode has been removed. Now you must need to have finished the starting quest Unbound. Once you have done so, go into the Settings section in-game and toggle the option to "On".
+  > :ledger: The prompt that appears to ask you to start Survival Mode has been removed. Now you must need to have finished the starting quest Unbound. Once you have done so, go into the Settings > Gameplay > section in-game and toggle the option to "On".
 
 - [Arcane Accessories - ](X) - Overhauls the AE creation called [Arcane Accessories](https://en.uesp.net/wiki/Skyrim:Arcane_Accessories).
   > :ledger: X
@@ -163,34 +163,34 @@ In addition to SimonRim, this list includes:
 - [Plague of the Dead - ](X) - Overhauls the AE creation called [Plague of the Dead](https://en.uesp.net/wiki/Skyrim:Plague_of_the_Dead).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Ruin's Edge - ](X) - Overhauls the AE creation called [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Staff of Sheogorath - ](X) - Overhauls the AE creation called [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Stendarr's Hammer - ](X) - Overhauls the AE creation called [Stendarr's Hammer](https://en.uesp.net/wiki/Skyrim:Stendarr%27s_Hammer).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Dwarven Armored Mudcrab - ](X) - Overhauls the AE creation called [Dwarven Armored Mudcrab](https://en.uesp.net/wiki/Skyrim:Dwarven_Armored_Mudcrab).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Lord's Mail - ](X) - Overhauls the AE creation called [Lord's Mail](https://en.uesp.net/wiki/Skyrim:Lord%27s_Mail).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Adventurer's Backpack - ](X) - Overhauls the AE creation called [Adventurer's Backpack](https://en.uesp.net/wiki/Skyrim:Adventurer%27s_Backpack).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Camping - ](X) - Overhauls the AE creation called [Camping](https://en.uesp.net/wiki/Skyrim:Camping).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Nix-Hound - ](X) - Overhauls the AE creation called [Nix-Hound](https://en.uesp.net/wiki/Skyrim:Nix-Hound).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Shadowrend - ](X) - Overhauls the AE creation called [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Tundra Homestead - ](X) - Overhauls the AE creation called [Tundra Homestead](https://en.uesp.net/wiki/Skyrim:Tundra_Homestead).
   > :ledger: X
 
 - [X - ](X) - Overhauls the AE creation called [X](X).
