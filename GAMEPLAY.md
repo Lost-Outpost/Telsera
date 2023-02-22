@@ -238,7 +238,67 @@ In addition to SimonRim, this list includes:
 - [Shadowfoot Sanctum - ](X) - Overhauls the AE creation called [Shadowfoot Sanctum](https://en.uesp.net/wiki/Skyrim:Shadowfoot_Sanctum).
   > :ledger: X
 
-- [X - ](X) - Overhauls the AE creation called [X](X).
+- [Spell Knight Armor - ](X) - Overhauls the AE creation called [Spell Knight Armor](https://en.uesp.net/wiki/Skyrim:Spell_Knight_Armor).
+  > :ledger: X
+
+- [Umbra - ](X) - Overhauls the AE creation called [Umbra](https://en.uesp.net/wiki/Skyrim:Umbra).
+  > :ledger: X
+
+- [Alternative Armors - Dwarven Mail - ](X) - Overhauls the AE creation called [Alternative Armors - Dwarven Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Mail).
+  > :ledger: X
+
+- [Alternative Armors - Stalhrim Fur - ](X) - Overhauls the AE creation called [Alternative Armors - Stalhrim Fur](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Stalhrim_Fur).
+  > :ledger: X
+
+- [Dawnfang & Duskfang - ](X) - Overhauls the AE creation called [Dawnfang & Duskfang](https://en.uesp.net/wiki/Skyrim:Dawnfang_%26_Duskfang).
+  > :ledger: X
+
+- [Expanded Crossbow Pack - ](X) - Overhauls the AE creation called [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack).
+  > :ledger: X
+
+- [Netch Leather Armor - ](X) - Overhauls the AE creation called [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor).
+  > :ledger: X
+
+- [Alternative Armors - Daedric Mail - ](X) - Overhauls the AE creation called [Alternative Armors - Daedric Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Mail).
+  > :ledger: X
+
+- [Alternative Armors - Dragonscale - ](X) - Overhauls the AE creation called [Alternative Armors - Dragonscale](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragonscale).
+  > :ledger: X
+
+- [Alternative Armors - Elven Hunter - ](X) - Overhauls the AE creation called [Alternative Armors - Elven Hunter](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Elven_Hunter).
+  > :ledger: X
+
+- [Alternative Armors - Ebony Plate - ](X) - Overhauls the AE creation called [Alternative Armors - Ebony Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Ebony_Plate).
+  > :ledger: X
+
+- [Alternative Armors - Steel Soldier - ](X) - Overhauls the AE creation called [Alternative Armors - Steel Soldier](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Steel_Soldier).
+  > :ledger: X
+
+- [Dead Man's Dread - ](X) - Overhauls the AE creation called [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread).
+  > :ledger: X
+
+- [Goblins - ](X) - Overhauls the AE creation called [Goblins](https://en.uesp.net/wiki/Skyrim:Goblins).
+  > :ledger: X
+
+- [Saints & Seducers - ](X) - Overhauls the AE creation called [Saints & Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers).
+  > :ledger: X
+
+- [Hendraheim - ](X) - Overhauls the AE creation called [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim).
+  > :ledger: X
+
+- [The Gray Cowl Returns! - ](X) - Overhauls the AE creation called [The Gray Cowl Returns!](https://en.uesp.net/wiki/Skyrim:The_Gray_Cowl_Returns!).
+  > :ledger: X
+
+- [Alternative Armors - Daedric Plate - ](X) - Overhauls the AE creation called [Alternative Armors - Daedric Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Plate).
+  > :ledger: X
+
+- [Alternative Armors - Dragon Plate - ](X) - Overhauls the AE creation called [Alternative Armors - Dragon Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragon_Plate).
+  > :ledger: X
+
+- [Alternative Armors - Dwarven Plate - ](X) - Overhauls the AE creation called [Alternative Armors - Dwarven Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Plate).
+  > :ledger: X
+
+- [Alternative Armors - Iron - ](X) - Overhauls the AE creation called [Alternative Armors - Iron](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Iron).
   > :ledger: X
 
 - [X - ](X) - Overhauls the AE creation called [X](X).
@@ -273,6 +333,10 @@ In addition to SimonRim, this list includes:
 
 - [X - ](X) - Overhauls the AE creation called [X](X).
   > :ledger: X
+
+- [X - ](X) - Overhauls the AE creation called [X](X).
+  > :ledger: X
+
 
 ## User Interface and Camera
 
