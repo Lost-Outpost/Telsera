@@ -163,14 +163,11 @@ In addition to SimonRim, this list includes:
   > :ledger: A rework of the Plague of the Dead Creation, including disabling the quest, revamped zombies to act more like their Oblivion inspirations, and rebalancing the summon spells based on Mysticism - A Magic Overhaul.
   > :ledger: This plugin swaps the Zombies introduced in Beyond Skyrim - Bruma to be the ones added by Plague of the Dead. It also replaces the relevant Spell Tome(s) in the Cyrodiil levelled lists.
 
-- [Ruin's Edge - ](X) - Overhauls the AE creation called [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge).
-  > :ledger: X
+- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Overhauls the AE creations called [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge), [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath), [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend), and [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers).
+  > :ledger: You must be at least character level 20. You must have completed the vanilla Daedric quest The Mind of Madness. To obtain the mentioned artifacts, you must embark along this questline as they have now been integrated into the story.
 
-- [Staff of Sheogorath - ](X) - Overhauls the AE creation called [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath).
-  > :ledger: X
-
-- [Stendarr's Hammer - ](X) - Overhauls the AE creation called [Stendarr's Hammer](https://en.uesp.net/wiki/Skyrim:Stendarr%27s_Hammer).
-  > :ledger: X
+- [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563) - Overhauls the AE creation called [Stendarr's Hammer](https://en.uesp.net/wiki/Skyrim:Stendarr%27s_Hammer).
+  > :ledger: The original quest has now been disabled, and Stendarr's Hammer is now obtainable throughout the story of [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168). You start this quest by first obtaining Keening. To do this, you’ll have to join the College of Winterhold and finish the side questline Arniel’s Endeavor. You’ll also need to have finished The Way of the Voice in the main questline.
 
 - [Dwarven Armored Mudcrab - ](X) - Overhauls the AE creation called [Dwarven Armored Mudcrab](https://en.uesp.net/wiki/Skyrim:Dwarven_Armored_Mudcrab).
   > :ledger: X
@@ -185,9 +182,6 @@ In addition to SimonRim, this list includes:
   > :ledger: X
 
 - [Nix-Hound - ](X) - Overhauls the AE creation called [Nix-Hound](https://en.uesp.net/wiki/Skyrim:Nix-Hound).
-  > :ledger: X
-
-- [Shadowrend - ](X) - Overhauls the AE creation called [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend).
   > :ledger: X
 
 - [Tundra Homestead - ](X) - Overhauls the AE creation called [Tundra Homestead](https://en.uesp.net/wiki/Skyrim:Tundra_Homestead).
