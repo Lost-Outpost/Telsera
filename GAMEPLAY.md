@@ -169,14 +169,14 @@ In addition to SimonRim, this list includes:
 - [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563) - Overhauls the AE creation called [Stendarr's Hammer](https://en.uesp.net/wiki/Skyrim:Stendarr%27s_Hammer).
   > :ledger: The original quest has now been disabled, and Stendarr's Hammer is now obtainable throughout the story of [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168). You start this quest by first obtaining Keening. To do this, you’ll have to join the College of Winterhold and finish the side questline Arniel’s Endeavor. You’ll also need to have finished The Way of the Voice in the main questline.
 
-- [Dwarven Armored Mudcrab - ](X) - Overhauls the AE creation called [Dwarven Armored Mudcrab](https://en.uesp.net/wiki/Skyrim:Dwarven_Armored_Mudcrab).
-  > :ledger: X
+- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Dwarven Armored Mudcrab](https://en.uesp.net/wiki/Skyrim:Dwarven_Armored_Mudcrab).
+  > :ledger: The quest will not start on launch anyore. The pet teleport spell now actually works.
 
-- [Lord's Mail - ](X) - Overhauls the AE creation called [Lord's Mail](https://en.uesp.net/wiki/Skyrim:Lord%27s_Mail).
-  > :ledger: X
+- [Morihaus' Refuge - Lord's Mail Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/68558) - Overhauls the AE creation called [Lord's Mail](https://en.uesp.net/wiki/Skyrim:Lord%27s_Mail).
+  > :ledger: Changes the Lord's Mail's integration by removing the existing quest and instead adding an entirely new dungeon and equipping its boss with the Lord's Mail for a challenging fight to acquire it. You can find the new dungeon within the new landspace [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) introduces.
 
-- [Adventurer's Backpack - ](X) - Overhauls the AE creation called [Adventurer's Backpack](https://en.uesp.net/wiki/Skyrim:Adventurer%27s_Backpack).
-  > :ledger: X
+- [Simple CC Backpack Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/70628) - Overhauls the AE creation called [Adventurer's Backpack](https://en.uesp.net/wiki/Skyrim:Adventurer%27s_Backpack).
+  > :ledger: Rebalances CC Backpacks to values that more closely follow Thaumaturgy - An Enchanting Overhaul. Backpacks will be much less common in loot and vendor inventories, and only basic backpacks may be found in loot (Leather, Fine, Dark, Fur). The bedroll and specialist variants must be crafted from the basic four.
 
 - [Camping - ](X) - Overhauls the AE creation called [Camping](https://en.uesp.net/wiki/Skyrim:Camping).
   > :ledger: X
