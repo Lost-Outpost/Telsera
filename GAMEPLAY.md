@@ -188,11 +188,24 @@ In addition to SimonRim, this list includes:
 
 - [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) - You decide when certain AE quests start now. To customize the level requirements to your liking, see the RAE - Quest Requirements MCM in-game:
   - [Myrwatch](https://en.uesp.net/wiki/Skyrim:Myrwatch)
+  - [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim)
+  - [Gallows Hall](https://en.uesp.net/wiki/Skyrim:Gallows_Hall)
   - [Spell Knight Armor](https://en.uesp.net/wiki/Skyrim:Spell_Knight_Armor)
   - [Umbra](https://en.uesp.net/wiki/Skyrim:Umbra)
-  - [Alternative Armors - Dwarven Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Mail)
-  - [Alternative Armors - Stalhrim Fur](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Stalhrim_Fur)
   - [Dawnfang & Duskfang](https://en.uesp.net/wiki/Skyrim:Dawnfang_%26_Duskfang)
+  - [Bow of Shadows](https://en.uesp.net/wiki/Skyrim:Bow_of_Shadows)
+  - [Alternative Armors - Dwarven Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Mail)
+  - [Alternative Armors - Dwarven Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Plate)
+  - [Alternative Armors - Stalhrim Fur](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Stalhrim_Fur)
+  - [Alternative Armors - Orcish Scaled](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Orcish_Scaled)
+  - [Alternative Armors - Orcish Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Orcish_Plate)
+  - [Alternative Armors - Daedric Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Mail)
+  - [Alternative Armors - Daedric Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Plate)
+  - [Alternative Armors - Dragonscale](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragonscale)
+  - [Alternative Armors - Dragon Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragon_Plate)
+  - [Bittercup](https://en.uesp.net/wiki/Skyrim:Bittercup)
+  - [The Cause](https://en.uesp.net/wiki/Skyrim:The_Cause)
+  - [The Contest](https://en.uesp.net/wiki/Skyrim:The_Contest)
 
 - [Jewels of the Nords - Nordic Jewelry Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/81500) - Overhauls the AE creation called [Nordic Jewelry](https://en.uesp.net/wiki/Skyrim:Nordic_Jewelry).
   > :ledger: Removes the quest from Nordic Jewelry and distributes variations of metal and gem combination into levelled lists
@@ -226,43 +239,13 @@ In addition to SimonRim, this list includes:
   - [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere)
   - [Arms of Chaos](https://en.uesp.net/wiki/Skyrim:Arms_of_Chaos)
 
-- [Alternative Armors - Daedric Mail - ](X) - Overhauls the AE creation called [Alternative Armors - Daedric Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Mail).
-  > :ledger: X
-
-- [Alternative Armors - Dragonscale - ](X) - Overhauls the AE creation called [Alternative Armors - Dragonscale](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragonscale).
-  > :ledger: X
-
 - [Goblins - ](X) - Overhauls the AE creation called [Goblins](https://en.uesp.net/wiki/Skyrim:Goblins).
-  > :ledger: X
-
-- [Hendraheim - ](X) - Overhauls the AE creation called [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim).
   > :ledger: X
 
 - [The Gray Cowl Returns! - ](X) - Overhauls the AE creation called [The Gray Cowl Returns!](https://en.uesp.net/wiki/Skyrim:The_Gray_Cowl_Returns!).
   > :ledger: X
 
-- [Alternative Armors - Daedric Plate - ](X) - Overhauls the AE creation called [Alternative Armors - Daedric Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Plate).
-  > :ledger: X
-
-- [Alternative Armors - Dragon Plate - ](X) - Overhauls the AE creation called [Alternative Armors - Dragon Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragon_Plate).
-  > :ledger: X
-
-- [Alternative Armors - Dwarven Plate - ](X) - Overhauls the AE creation called [Alternative Armors - Dwarven Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Plate).
-  > :ledger: X
-
-- [Alternative Armors - Orcish Plate - ](X) - Overhauls the AE creation called [Alternative Armors - Orcish Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Orcish_Plate).
-  > :ledger: X
-
-- [Alternative Armors - Orcish Scaled - ](X) - Overhauls the AE creation called [Alternative Armors - Orcish Scaled](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Orcish_Scaled).
-  > :ledger: X
-
-- [Bittercup - ](X) - Overhauls the AE creation called [Bittercup](https://en.uesp.net/wiki/Skyrim:Bittercup).
-  > :ledger: X
-
 - [Bloodchill Manor - ](X) - Overhauls the AE creation called [Bloodchill Manor](https://en.uesp.net/wiki/Skyrim:Bloodchill_Manor).
-  > :ledger: X
-
-- [Bow of Shadows - ](X) - Overhauls the AE creation called [Bow of Shadows](https://en.uesp.net/wiki/Skyrim:Bow_of_Shadows).
   > :ledger: X
 
 - [Farming - ](X) - Overhauls the AE creation called [Farming](https://en.uesp.net/wiki/Skyrim:Farming).
@@ -272,9 +255,6 @@ In addition to SimonRim, this list includes:
   > :ledger: X
 
 - [Fishing - ](X) - Overhauls the AE creation called [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing).
-  > :ledger: X
-
-- [Gallows Hall - ](X) - Overhauls the AE creation called [Gallows Hall](https://en.uesp.net/wiki/Skyrim:Gallows_Hall).
   > :ledger: X
 
 - [Goldbrand - ](X) - Overhauls the AE creation called [Goldbrand](https://en.uesp.net/wiki/Skyrim:Goldbrand).
@@ -299,9 +279,6 @@ In addition to SimonRim, this list includes:
   > :ledger: X
 
 - [Staves - ](X) - Overhauls the AE creation called [Staves](https://en.uesp.net/wiki/Skyrim:Staves_(Creation)).
-  > :ledger: X
-
-- [The Cause - ](X) - Overhauls the AE creation called [The Cause](https://en.uesp.net/wiki/Skyrim:The_Cause).
   > :ledger: X
 
 - [The Contest - ](X) - Overhauls the AE creation called [The Contest](https://en.uesp.net/wiki/Skyrim:The_Contest).
