@@ -58,7 +58,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Immortal Remnant - Redguard Elite Armor Variants
   - Added Pilgrim - Daedric Shrines AIO Tweaks
   - Added Skyrim Sewers Weapon Replacement
-  - Added ENBSeries - Rudy in Pi-Cho - Custom Edit
   - Added Ancient Dwemer Metal
   - Added Forgotten City Music Fixer
   - Added Merchant - A Trading Expansion
@@ -66,6 +65,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Better Arcane Archer Pack
   - Added Less Ridiculous Arcane Archer Quivers (Fixed UVs - ENB Light - Creation Club)
   - Added Improved Alternate Conversation Camera
+  - Added ENBSeries - Silent Horizons
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
