@@ -152,9 +152,6 @@ In addition to SimonRim, this list includes:
 - [Better Arcane Archer Pack](https://www.nexusmods.com/skyrimspecialedition/mods/15650) - Overhauls the AE creation called [Arcane Archer Pack](https://en.uesp.net/wiki/Skyrim:Arcane_Archer_Pack).
   > :ledger: Improves Creation Clubs Arcane Archer Pack by modifying damage, crafting cost, buying costs and adding effects like freezing, fear and disintegrate to the explosions.
 
-- [Beyond Skyrim Bruma - Adamantium Addon](https://www.nexusmods.com/skyrimspecialedition/mods/71740) - Overhauls the AE creation called [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere).
-  > :ledger: Retextures Creation Club's Chrysamere to look like it is made of adamantium as per its lore. Also adds Adamantium keywords and effects.
-
 - [Knight of the North - A Creation Club Quest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45869) - Overhauls the AE creation called [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader).
   > :ledger: A completely reworked quest for obtaining the relics of the Crusader. Participant in a province-wide scavenger hunt to reunite the lost relics. To start the questline, you must find at least one of the armor pieces in your travels.
 
@@ -171,7 +168,7 @@ In addition to SimonRim, this list includes:
 - [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563) - Overhauls the AE creation called [Sunder & Wraithguard](https://en.uesp.net/wiki/Skyrim:Sunder_%26_Wraithguard).
   > :ledger: The original quest has now been disabled, and Stendarr's Hammer is now obtainable throughout the story of [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168). You start this quest by first obtaining Keening. To do this, you’ll have to join the College of Winterhold and finish the side questline Arniel’s Endeavor. You’ll also need to have finished The Way of the Voice in the main questline.
 
-- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE following creations: 
+- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the following AE creations: 
   - [Dwarven Armored Mudcrab](https://en.uesp.net/wiki/Skyrim:Dwarven_Armored_Mudcrab)
   - [Nix-Hound](https://en.uesp.net/wiki/Skyrim:Nix-Hound)
   - [Tundra Homestead](https://en.uesp.net/wiki/Skyrim:Tundra_Homestead)
@@ -180,8 +177,6 @@ In addition to SimonRim, this list includes:
   - [Forgotten Seasons](https://en.uesp.net/wiki/Skyrim:Forgotten_Seasons)
   - [Saturalia Holiday Pack](https://en.uesp.net/wiki/Skyrim:Saturalia_Holiday_Pack)
   - [Shadowfoot Sanctum](https://en.uesp.net/wiki/Skyrim:Shadowfoot_Sanctum)
-
-  > :ledger: Minor tweaks and fixes to ensure consistency with vanilla/DLC related Skyrim content.
 
 - [Morihaus' Refuge - Lord's Mail Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/68558) - Overhauls the AE creation called [Lord's Mail](https://en.uesp.net/wiki/Skyrim:Lord%27s_Mail).
   > :ledger: Changes the Lord's Mail's integration by removing the existing quest and instead adding an entirely new dungeon and equipping its boss with the Lord's Mail for a challenging fight to acquire it. You can find the new dungeon within the new landspace [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) introduces.
@@ -192,15 +187,13 @@ In addition to SimonRim, this list includes:
 - [CC's Camping Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/73354) - Overhauls the AE creation called [Camping](https://en.uesp.net/wiki/Skyrim:Camping).
   > :ledger: An expansion of Bethesda's Campfire Creation Club mod. Adds intermediate and advanced camping supplies plus some QoL tweaks.
 
-- [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) - Overhauls the following AE creations:
+- [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) - You decide when certain AE quests start now. To customize the level requirements to your liking, see the RAE - Quest Requirements MCM in-game:
   - [Myrwatch](https://en.uesp.net/wiki/Skyrim:Myrwatch)
   - [Spell Knight Armor](https://en.uesp.net/wiki/Skyrim:Spell_Knight_Armor)
   - [Umbra](https://en.uesp.net/wiki/Skyrim:Umbra)
   - [Alternative Armors - Dwarven Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Mail)
   - [Alternative Armors - Stalhrim Fur](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Stalhrim_Fur)
   - [Dawnfang & Duskfang](https://en.uesp.net/wiki/Skyrim:Dawnfang_%26_Duskfang)
-
-  > :ledger: You decide when certain AE quests start now. To customize the level requirements to your liking, see the RAE - Quest Requirements MCM in-game. 
 
 - [Jewels of the Nords - Nordic Jewelry Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/81500) - Overhauls the AE creation called [Nordic Jewelry](https://en.uesp.net/wiki/Skyrim:Nordic_Jewelry).
   > :ledger: Removes the quest from Nordic Jewelry and distributes variations of metal and gem combination into levelled lists
@@ -223,8 +216,9 @@ In addition to SimonRim, this list includes:
 - [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) - Overhauls the AE creation called [Vigil Enforcer Armor Set](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set).
   > :ledger: Leveled Vigilants of Stendarr, Vigil Enforcers, Silver Hand, and several named NPCs now where the gear included in this creation by default.
 
-- [Creation Club - Adjustments Rebalancing and Variants](https://www.nexusmods.com/skyrimspecialedition/mods/59370) - Overhauls the AE creation called [Arms of Chaos](https://en.uesp.net/wiki/Skyrim:Arms_of_Chaos).
-  > :ledger: Adjusts the stats and enchantments of numerous Creation Club items. Addresses some bugs and inconsistencies. 
+- [Creation Club - Adjustments Rebalancing and Variants](https://www.nexusmods.com/skyrimspecialedition/mods/59370) - Adjusts the stats and enchantments of numerous Creation Club items to address bugs and inconsistencies:
+  - [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere)
+  - [Arms of Chaos](https://en.uesp.net/wiki/Skyrim:Arms_of_Chaos). 
 
 - [Expanded Crossbow Pack - ](X) - Overhauls the AE creation called [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack).
   > :ledger: X
