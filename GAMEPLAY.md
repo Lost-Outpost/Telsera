@@ -155,7 +155,7 @@ In addition to SimonRim, this list includes:
 - [Knight of the North - A Creation Club Quest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45869) - Overhauls the AE creation called [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader).
   > :ledger: A completely reworked quest for obtaining the relics of the Crusader. Participant in a province-wide scavenger hunt to reunite the lost relics. To start the questline, you must find at least one of the armor pieces in your travels.
 
-- [Plague of the Dead - Mysticism Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/78868) - Overhaulw the AE creation called [Plague of the Dead](https://en.uesp.net/wiki/Skyrim:Plague_of_the_Dead).
+- [Plague of the Dead - Mysticism Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/78868) - Overhauls the AE creation called [Plague of the Dead](https://en.uesp.net/wiki/Skyrim:Plague_of_the_Dead).
   > :ledger: A rework of the Plague of the Dead Creation, including disabling the quest, revamped zombies to act more like their Oblivion inspirations, and rebalancing the summon spells based on Mysticism - A Magic Overhaul.
 
 - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - To obtain the mentioned artifacts, you must embark along this questline as they have now been integrated into the story. You must be at least character level 20. You must have completed the vanilla Daedric quest The Mind of Madness. 
