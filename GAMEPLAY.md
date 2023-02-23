@@ -162,7 +162,7 @@ In addition to SimonRim, this list includes:
    - [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge)
    - [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath)
    - [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend)
-   - [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers).
+   - [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers)
 
 - [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563) - Overhauls the AE creation called [Stendarr's Hammer](https://en.uesp.net/wiki/Skyrim:Stendarr%27s_Hammer).
   > :ledger: Removes the initial questline startup and integrates it into LOTD's storyline.
