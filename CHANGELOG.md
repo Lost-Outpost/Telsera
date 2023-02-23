@@ -79,6 +79,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Aetherius
   - Updated aljos Apothecary Patches
   - Updated East Empire Company Armor
+  - Updated QuickLoot EE
+  - Updated QuickLoot EE - Settings Loader
   - Removed Skyland Noble Furniture
   - Removed Skyland Common and Upper Class Furniture
   - Removed RUSTIC ARMOR and WEAPONS
