@@ -169,8 +169,8 @@ In addition to SimonRim, this list includes:
 - [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563) - Overhauls the AE creation called [Stendarr's Hammer](https://en.uesp.net/wiki/Skyrim:Stendarr%27s_Hammer).
   > :ledger: Removes the initial questline and integrates it into LOTD's storyline.
 
-- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Dwarven Armored Mudcrab](https://en.uesp.net/wiki/Skyrim:Dwarven_Armored_Mudcrab).
-  > :ledger: The quest will not start on launch anyore. The pet teleport spell now actually works.
+- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creations called [Dwarven Armored Mudcrab](https://en.uesp.net/wiki/Skyrim:Dwarven_Armored_Mudcrab), [Nix-Hound](https://en.uesp.net/wiki/Skyrim:Nix-Hound), [Tundra Homestead](https://en.uesp.net/wiki/Skyrim:Tundra_Homestead), [Pets of Skyrim](https://en.uesp.net/wiki/Skyrim:Pets_of_Skyrim), [Staff of Hasedoki](https://en.uesp.net/wiki/Skyrim:Staff_of_Hasedoki), [Forgotten Seasons](https://en.uesp.net/wiki/Skyrim:Forgotten_Seasons), [Saturalia Holiday Pack](https://en.uesp.net/wiki/Skyrim:Saturalia_Holiday_Pack), [Shadowfoot Sanctum](https://en.uesp.net/wiki/Skyrim:Shadowfoot_Sanctum).
+  > :ledger: Minor tweaks and fixes to ensure consistency with vanilla/DLC related Skyrim content.
 
 - [Morihaus' Refuge - Lord's Mail Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/68558) - Overhauls the AE creation called [Lord's Mail](https://en.uesp.net/wiki/Skyrim:Lord%27s_Mail).
   > :ledger: Changes the Lord's Mail's integration by removing the existing quest and instead adding an entirely new dungeon and equipping its boss with the Lord's Mail for a challenging fight to acquire it. You can find the new dungeon within the new landspace [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) introduces.
@@ -181,20 +181,11 @@ In addition to SimonRim, this list includes:
 - [CC's Camping Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/73354) - Overhauls the AE creation called [Camping](https://en.uesp.net/wiki/Skyrim:Camping).
   > :ledger: An expansion of Bethesda's Campfire Creation Club mod. Adds intermediate and advanced camping supplies plus some QoL tweaks.
 
-- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Nix-Hound](https://en.uesp.net/wiki/Skyrim:Nix-Hound).
-  > :ledger: The quest will not start on launch anyore. The pet teleport spell now actually works.
-
-- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Tundra Homestead](https://en.uesp.net/wiki/Skyrim:Tundra_Homestead).
-  > :ledger: Keys now have proper pick-up sound FX applied instead of being silent.
-
 - [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) - Overhauls the AE creation called [Myrwatch](https://en.uesp.net/wiki/Skyrim:Myrwatch).
   > :ledger: You decide when certain AE quests start now. To customize the new magicka requirement level to your liking, see the RAE - Quest Requirements MCM in-game. 
 
 - [Jewels of the Nords - Nordic Jewelry Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/81500) - Overhauls the AE creation called [Nordic Jewelry](https://en.uesp.net/wiki/Skyrim:Nordic_Jewelry).
   > :ledger: Removes the quest from Nordic Jewelry and distributes variations of metal and gem combination into levelled lists
-
-- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Tweaks the AE creation called [Pets of Skyrim](https://en.uesp.net/wiki/Skyrim:Pets_of_Skyrim).
-  > :ledger: The related quest will no longer initiate once you start a new game.
 
 - [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) - Overhauls the AE creation called [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios).
   > :ledger: Adds new types of bolts based on the new models added by Rare Curios. Also fixes a couple of texture issues present in the bolts already present in Rare Curios.
@@ -214,12 +205,6 @@ In addition to SimonRim, this list includes:
 - [Thwack - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42653) - Overhauls the AE creation called [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows).
   > :ledger: The new high-level Crossbow variants are now the reward for the final Ancient Technology quest. The Night Hunter quest is preserved in it's entirety and is tied into Ancient Technology.
 
-- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Forgotten Seasons](https://en.uesp.net/wiki/Skyrim:Forgotten_Seasons).
-  > :ledger: Fixes various footstep and sound records.
-
-- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Saturalia Holiday Pack](https://en.uesp.net/wiki/Skyrim:Saturalia_Holiday_Pack).
-  > :ledger: Fixes various footstep and sound records.
-
 - [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563) - Overhauls the AE creation called [Sunder & Wraithguard](https://en.uesp.net/wiki/Skyrim:Sunder_%26_Wraithguard).
   > :ledger: The original quest has now been disabled, and Stendarr's Hammer is now obtainable throughout the story of [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168). You start this quest by first obtaining Keening. To do this, you’ll have to join the College of Winterhold and finish the side questline Arniel’s Endeavor. You’ll also need to have finished The Way of the Voice in the main questline.
 
@@ -228,9 +213,6 @@ In addition to SimonRim, this list includes:
 
 - [Creation Club - Adjustments Rebalancing and Variants](https://www.nexusmods.com/skyrimspecialedition/mods/59370) - Overhauls the AE creation called [Arms of Chaos](https://en.uesp.net/wiki/Skyrim:Arms_of_Chaos).
   > :ledger: Adjusts the stats and enchantments of numerous Creation Club items. Addresses some bugs and inconsistencies. 
-
-- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Shadowfoot Sanctum](https://en.uesp.net/wiki/Skyrim:Shadowfoot_Sanctum).
-  > :ledger: Fixes various keyword and cell records.
 
 - [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) and [Spell Knight Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/84620) - Overhaul the AE creation called [Spell Knight Armor](https://en.uesp.net/wiki/Skyrim:Spell_Knight_Armor).
   > :ledger: You decide when certain AE quests start now. To customize the new level requirement to your liking, see the RAE - Quest Requirements MCM in-game.
