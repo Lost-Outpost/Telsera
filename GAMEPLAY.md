@@ -197,9 +197,6 @@ In addition to SimonRim, this list includes:
 - [Jewels of the Nords - Nordic Jewelry Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/81500) - Overhauls the AE creation called [Nordic Jewelry](https://en.uesp.net/wiki/Skyrim:Nordic_Jewelry).
   > :ledger: Removes the quest from Nordic Jewelry and distributes variations of metal and gem combination into levelled lists
 
-- [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) - Overhauls the AE creation called [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios).
-  > :ledger: Adds new types of bolts based on the new models added by Rare Curios. Also fixes a couple of texture issues present in the bolts already present in Rare Curios.
-
 - [Bone Wolf and Plague of the Dead - Spawns Corrected](https://www.nexusmods.com/skyrimspecialedition/mods/55201) - Overhauls the AE creation called [Bone Wolf](https://en.uesp.net/wiki/Skyrim:Bone_Wolf).
   > :ledger: Resolves a conflict preventing Plague of the Dead from doing one of its advertised features with Bone Wolf installed.
 
@@ -209,21 +206,25 @@ In addition to SimonRim, this list includes:
 - [Sexier Vanilla - Creation Club](https://www.nexusmods.com/skyrimspecialedition/mods/67998) - Overhauls the AE creation called [Civil War Champions](https://en.uesp.net/wiki/Skyrim:Civil_War_Champions).
   > :ledger: Incorporates Creation Club content seamlessly into the base game. No more quests, scripts, worldspace edits, or overpowered gear.
 
-- [Thwack - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42653) - Overhauls the AE creation called [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows).
-  > :ledger: The new high-level Crossbow variants are now the reward for the final Ancient Technology quest. The Night Hunter quest is preserved in it's entirety and is tied into Ancient Technology.
+- [Thwack - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42653) - Overhauls the AE creations called [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows) and [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack).
+  > :ledger: This mod seeks to rectify this mishap and integrate the new weapons into the game as seamlessly as possible. The new high-level Crossbow variants are now the reward for the final Ancient Technology quest. The Night Hunter quest is preserved in it's entirety and is tied into Ancient Technology.
 
-- [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) - Overhauls the AE creation called [Vigil Enforcer Armor Set](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set).
-  > :ledger: Leveled Vigilants of Stendarr, Vigil Enforcers, Silver Hand, and several named NPCs now where the gear included in this creation by default.
+- [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) - Overhauls the following AE creations by integrating them throughout the world of Skyrim without being locked behind specific quests. See linked modpage for more details:
+  - [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
+  - [Vigil Enforcer Armor Set](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set)
+  - [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor)
+  - [Alternative Armors - Elven Hunter](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Elven_Hunter)
+  - [Alternative Armors - Ebony Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Ebony_Plate)
+  - [Alternative Armors - Iron](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Iron)
+  - [Alternative Armors - Leather](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Leather)
+  - [Alternative Armors - Silver](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Silver)
+  - [Alternative Armors - Steel Soldier](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Steel_Soldier)
+  - [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread)
+  - [Ghosts of the Tribunal](https://en.uesp.net/wiki/Skyrim:Ghosts_of_the_Tribunal)
 
 - [Creation Club - Adjustments Rebalancing and Variants](https://www.nexusmods.com/skyrimspecialedition/mods/59370) - Adjusts the stats and enchantments of numerous Creation Club items to address bugs and inconsistencies:
   - [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere)
-  - [Arms of Chaos](https://en.uesp.net/wiki/Skyrim:Arms_of_Chaos). 
-
-- [Expanded Crossbow Pack - ](X) - Overhauls the AE creation called [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack).
-  > :ledger: X
-
-- [Netch Leather Armor - ](X) - Overhauls the AE creation called [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor).
-  > :ledger: X
+  - [Arms of Chaos](https://en.uesp.net/wiki/Skyrim:Arms_of_Chaos)
 
 - [Alternative Armors - Daedric Mail - ](X) - Overhauls the AE creation called [Alternative Armors - Daedric Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Mail).
   > :ledger: X
@@ -231,22 +232,7 @@ In addition to SimonRim, this list includes:
 - [Alternative Armors - Dragonscale - ](X) - Overhauls the AE creation called [Alternative Armors - Dragonscale](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragonscale).
   > :ledger: X
 
-- [Alternative Armors - Elven Hunter - ](X) - Overhauls the AE creation called [Alternative Armors - Elven Hunter](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Elven_Hunter).
-  > :ledger: X
-
-- [Alternative Armors - Ebony Plate - ](X) - Overhauls the AE creation called [Alternative Armors - Ebony Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Ebony_Plate).
-  > :ledger: X
-
-- [Alternative Armors - Steel Soldier - ](X) - Overhauls the AE creation called [Alternative Armors - Steel Soldier](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Steel_Soldier).
-  > :ledger: X
-
-- [Dead Man's Dread - ](X) - Overhauls the AE creation called [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread).
-  > :ledger: X
-
 - [Goblins - ](X) - Overhauls the AE creation called [Goblins](https://en.uesp.net/wiki/Skyrim:Goblins).
-  > :ledger: X
-
-- [Saints & Seducers - ](X) - Overhauls the AE creation called [Saints & Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers).
   > :ledger: X
 
 - [Hendraheim - ](X) - Overhauls the AE creation called [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim).
@@ -264,19 +250,10 @@ In addition to SimonRim, this list includes:
 - [Alternative Armors - Dwarven Plate - ](X) - Overhauls the AE creation called [Alternative Armors - Dwarven Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Plate).
   > :ledger: X
 
-- [Alternative Armors - Iron - ](X) - Overhauls the AE creation called [Alternative Armors - Iron](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Iron).
-  > :ledger: X
-
-- [Alternative Armors - Leather - ](X) - Overhauls the AE creation called [Alternative Armors - Leather](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Leather).
-  > :ledger: X
-
 - [Alternative Armors - Orcish Plate - ](X) - Overhauls the AE creation called [Alternative Armors - Orcish Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Orcish_Plate).
   > :ledger: X
 
 - [Alternative Armors - Orcish Scaled - ](X) - Overhauls the AE creation called [Alternative Armors - Orcish Scaled](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Orcish_Scaled).
-  > :ledger: X
-
-- [Alternative Armors - Silver - ](X) - Overhauls the AE creation called [Alternative Armors - Silver](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Silver).
   > :ledger: X
 
 - [Bittercup - ](X) - Overhauls the AE creation called [Bittercup](https://en.uesp.net/wiki/Skyrim:Bittercup).
@@ -298,9 +275,6 @@ In addition to SimonRim, this list includes:
   > :ledger: X
 
 - [Gallows Hall - ](X) - Overhauls the AE creation called [Gallows Hall](https://en.uesp.net/wiki/Skyrim:Gallows_Hall).
-  > :ledger: X
-
-- [Ghosts of the Tribunal - ](X) - Overhauls the AE creation called [Ghosts of the Tribunal](https://en.uesp.net/wiki/Skyrim:Ghosts_of_the_Tribunal).
   > :ledger: X
 
 - [Goldbrand - ](X) - Overhauls the AE creation called [Goldbrand](https://en.uesp.net/wiki/Skyrim:Goldbrand).
