@@ -66,6 +66,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Less Ridiculous Arcane Archer Quivers (Fixed UVs - ENB Light - Creation Club)
   - Added Improved Alternate Conversation Camera
   - Added ENBSeries - Silent Horizons
+  - Added Killable Rolff Stone-Fist (was in Windhelm for not even 0.2 seconds and remembered this mod existed)
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
