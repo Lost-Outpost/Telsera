@@ -170,6 +170,9 @@ In addition to SimonRim, this list includes:
 - [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563) - Overhauls the AE creation called [Sunder & Wraithguard](https://en.uesp.net/wiki/Skyrim:Sunder_%26_Wraithguard).
   > :ledger: The original quest has now been disabled, and Stendarr's Hammer is now obtainable throughout the story of [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168). You start this quest by first obtaining Keening. To do this, you’ll have to join the College of Winterhold and finish the side questline Arniel’s Endeavor. You’ll also need to have finished The Way of the Voice in the main questline.
 
+- [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563) - Overhauls the AE creation called [The Gray Cowl Returns!](https://en.uesp.net/wiki/Skyrim:The_Gray_Cowl_Returns!).
+  > :ledger: The original quest has now been disabled, and The Gray Cowl is now obtainable throughout the story of [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509). You can start this quest by reaching level 20, then steal or pickpocket any type of item.
+
 - [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the following AE creations: 
   - [Dwarven Armored Mudcrab](https://en.uesp.net/wiki/Skyrim:Dwarven_Armored_Mudcrab)
   - [Nix-Hound](https://en.uesp.net/wiki/Skyrim:Nix-Hound)
@@ -179,6 +182,9 @@ In addition to SimonRim, this list includes:
   - [Forgotten Seasons](https://en.uesp.net/wiki/Skyrim:Forgotten_Seasons)
   - [Saturalia Holiday Pack](https://en.uesp.net/wiki/Skyrim:Saturalia_Holiday_Pack)
   - [Shadowfoot Sanctum](https://en.uesp.net/wiki/Skyrim:Shadowfoot_Sanctum)
+  - [Farming](https://en.uesp.net/wiki/Skyrim:Farming)
+  - [Fearsome Fists](https://en.uesp.net/wiki/Skyrim:Fearsome_Fists)
+  - [Nchuanthumz: Dwarven Home](https://en.uesp.net/wiki/Skyrim:Nchuanthumz:_Dwarven_Home)
 
 - [Morihaus' Refuge - Lord's Mail Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/68558) - Overhauls the AE creation called [Lord's Mail](https://en.uesp.net/wiki/Skyrim:Lord%27s_Mail).
   > :ledger: Changes the Lord's Mail's integration by removing the existing quest and instead adding an entirely new dungeon and equipping its boss with the Lord's Mail for a challenging fight to acquire it. You can find the new dungeon within the new landspace [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) introduces.
@@ -192,6 +198,7 @@ In addition to SimonRim, this list includes:
 - [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) - You decide when certain AE quests start now. To customize the level requirements to your liking, see the RAE - Quest Requirements MCM in-game:
   - [Myrwatch](https://en.uesp.net/wiki/Skyrim:Myrwatch)
   - [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim)
+  - [Bloodchill Manor](https://en.uesp.net/wiki/Skyrim:Bloodchill_Manor)
   - [Gallows Hall](https://en.uesp.net/wiki/Skyrim:Gallows_Hall)
   - [Spell Knight Armor](https://en.uesp.net/wiki/Skyrim:Spell_Knight_Armor)
   - [Umbra](https://en.uesp.net/wiki/Skyrim:Umbra)
@@ -218,8 +225,10 @@ In addition to SimonRim, this list includes:
 - [Bone Wolf and Plague of the Dead - Spawns Corrected](https://www.nexusmods.com/skyrimspecialedition/mods/55201) - Overhauls the AE creation called [Bone Wolf](https://en.uesp.net/wiki/Skyrim:Bone_Wolf).
   > :ledger: Resolves a conflict preventing Plague of the Dead from doing one of its advertised features with Bone Wolf installed.
 
-- [Press H to Horse - Creation Club Horses Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/81195) - Overhauls the AE creation called [Wild Horses](https://en.uesp.net/wiki/Skyrim:Wild_Horses).
-  > :ledger: Horse customization mechanics have been significantly reworked. A new horse calling system has been added, along with being given an option name it. Pressing H while looking at your horse will open its inventory.
+- [Press H to Horse - Creation Club Horses Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/81195) - Horse customization mechanics have been significantly reworked. A new horse calling system has been added, along with being given an option name it. Pressing H while looking at your horse will open its inventory. 
+   - [Wild Horses](https://en.uesp.net/wiki/Skyrim:Wild_Horses)
+   - [Horse Armor - Elven](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Elven)
+   - [Horse Armor - Steel](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Steel)
 
 - [Sexier Vanilla - Creation Club](https://www.nexusmods.com/skyrimspecialedition/mods/67998) - Overhauls the AE creation called [Civil War Champions](https://en.uesp.net/wiki/Skyrim:Civil_War_Champions).
   > :ledger: Incorporates Creation Club content seamlessly into the base game. No more quests, scripts, worldspace edits, or overpowered gear.
@@ -244,41 +253,20 @@ In addition to SimonRim, this list includes:
   - [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere)
   - [Arms of Chaos](https://en.uesp.net/wiki/Skyrim:Arms_of_Chaos)
 
-- [Goblins - ](X) - Overhauls the AE creation called [Goblins](https://en.uesp.net/wiki/Skyrim:Goblins).
-  > :ledger: X
+- [Beyond Skyrim Bruma uses Creation Club Goblins](https://www.nexusmods.com/skyrimspecialedition/mods/50840) - Overhauls the AE creation called [Goblins](https://en.uesp.net/wiki/Skyrim:Goblins).
+  > :ledger: Makes the Goblins from Beyond Skyrim Bruma visually consistent without changing them from a gameplay perspective.
 
-- [The Gray Cowl Returns! - ](X) - Overhauls the AE creation called [The Gray Cowl Returns!](https://en.uesp.net/wiki/Skyrim:The_Gray_Cowl_Returns!).
-  > :ledger: X
+- [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915) - Overhauls the AE creation called [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing).
+  > :ledger: Fish anywhere as long you are facing a nearby body of water.
 
-- [Bloodchill Manor - ](X) - Overhauls the AE creation called [Bloodchill Manor](https://en.uesp.net/wiki/Skyrim:Bloodchill_Manor).
-  > :ledger: X
+- [Hitting the Books - A Necromantic Grimoire Update](https://www.nexusmods.com/skyrimspecialedition/mods/61841) - Overhauls the AE creation called [Necromantic Grimoire](https://en.uesp.net/wiki/Skyrim:Necromantic_Grimoire).
+  > :ledger: Encounter the new creatures added by Necromantic Grimoire as enemies at Fellglow Keep and Hamvir's Rest!
 
-- [Farming - ](X) - Overhauls the AE creation called [Farming](https://en.uesp.net/wiki/Skyrim:Farming).
-  > :ledger: X
+- [Redguard Elite Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/76005) - Overhauls the AE creation called [Redguard Elite Armaments](https://en.uesp.net/wiki/Skyrim:Redguard_Elite_Armaments).
+  > :ledger: This mod disables the Interception quest added by the Redguard Elite Armaments CC, and instead distributes the armor and weaponry to Kematu and his group of Alik'r in In My Time of Need.
 
-- [Fearsome Fists - ](X) - Overhauls the AE creation called [Fearsome Fists](https://en.uesp.net/wiki/Skyrim:Fearsome_Fists).
-  > :ledger: X
-
-- [Fishing - ](X) - Overhauls the AE creation called [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing).
-  > :ledger: X
-
-- [Horse Armor - Elven - ](X) - Overhauls the AE creation called [Horse Armor - Elven](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Elven).
-  > :ledger: X
-
-- [Horse Armor - Steel - ](X) - Overhauls the AE creation called [Horse Armor - Steel](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Steel).
-  > :ledger: X
-
-- [Nchuanthumz: Dwarven Home - ](X) - Overhauls the AE creation called [Nchuanthumz: Dwarven Home](https://en.uesp.net/wiki/Skyrim:Nchuanthumz:_Dwarven_Home).
-  > :ledger: X
-
-- [Necromantic Grimoire - ](X) - Overhauls the AE creation called [Necromantic Grimoire](https://en.uesp.net/wiki/Skyrim:Necromantic_Grimoire).
-  > :ledger: X
-
-- [Redguard Elite Armaments - ](X) - Overhauls the AE creation called [Redguard Elite Armaments](https://en.uesp.net/wiki/Skyrim:Redguard_Elite_Armaments).
-  > :ledger: X
-
-- [Staves - ](X) - Overhauls the AE creation called [Staves](https://en.uesp.net/wiki/Skyrim:Staves_(Creation)).
-  > :ledger: X
+- [CC Staves - Mysticism Consistency Patch](https://www.nexusmods.com/skyrimspecialedition/mods/78659) - Overhauls the AE creation called [Staves](https://en.uesp.net/wiki/Skyrim:Staves_(Creation)).
+  > :ledger: This is a consistency patch that adds variants for all Mysticism staves from the new unique models introduced by the Creation Club.
 
 ## User Interface and Camera
 
