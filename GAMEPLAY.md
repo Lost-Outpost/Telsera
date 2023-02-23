@@ -202,8 +202,8 @@ In addition to SimonRim, this list includes:
 - [Bone Wolf and Plague of the Dead - Spawns Corrected](https://www.nexusmods.com/skyrimspecialedition/mods/55201) - Overhauls the AE creation called [Bone Wolf](https://en.uesp.net/wiki/Skyrim:Bone_Wolf).
   > :ledger: Resolves a conflict preventing Plague of the Dead from doing one of its advertised features with Bone Wolf installed.
 
-- [Staff of Hasedoki - ](X) - Overhauls the AE creation called [Staff of Hasedoki](https://en.uesp.net/wiki/Skyrim:Staff_of_Hasedoki).
-  > :ledger: N/A
+- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Staff of Hasedoki](https://en.uesp.net/wiki/Skyrim:Staff_of_Hasedoki).
+  > :ledger: Adds extra consistency tweaks.
 
 - [Press H to Horse - Creation Club Horses Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/81195) - Overhauls the AE creation called [Wild Horses](https://en.uesp.net/wiki/Skyrim:Wild_Horses).
   > :ledger: Horse customization mechanics have been significantly reworked. A new horse calling system has been added, along with being given an option name it. Pressing H while looking at your horse will open its inventory.
@@ -236,17 +236,17 @@ In addition to SimonRim, this list includes:
   > :ledger: You decide when certain AE quests start now. To customize the new level requirement to your liking, see the RAE - Quest Requirements MCM in-game.
   > :ledger: Adds 5 faction based variants to the Ebony Spell Knight Armor Set 3 College of Winterhold, 2 Dawnguard. You must complete the quest and be able to craft the normal ebony version of the spell knight armor, along with being in the respective faction of the variant you want to craft.
 
-- [Umbra - ](X) - Overhauls the AE creation called [Umbra](https://en.uesp.net/wiki/Skyrim:Umbra).
-  > :ledger: X
+- [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) - Overhauls the AE creation called [Umbra](https://en.uesp.net/wiki/Skyrim:Umbra).
+  > :ledger: You decide when certain AE quests start now. To customize the new level requirement to your liking, see the RAE - Quest Requirements MCM in-game.
 
-- [Alternative Armors - Dwarven Mail - ](X) - Overhauls the AE creation called [Alternative Armors - Dwarven Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Mail).
-  > :ledger: X
+- [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) - Overhauls the AE creation called [Alternative Armors - Dwarven Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Mail).
+  > :ledger: You decide when certain AE quests start now. To customize the new level requirement to your liking, see the RAE - Quest Requirements MCM in-game.
 
-- [Alternative Armors - Stalhrim Fur - ](X) - Overhauls the AE creation called [Alternative Armors - Stalhrim Fur](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Stalhrim_Fur).
-  > :ledger: X
+- [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) - Overhauls the AE creation called [Alternative Armors - Stalhrim Fur](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Stalhrim_Fur).
+  > :ledger: You decide when certain AE quests start now. To customize the new level requirement to your liking, see the RAE - Quest Requirements MCM in-game.
 
-- [Dawnfang & Duskfang - ](X) - Overhauls the AE creation called [Dawnfang & Duskfang](https://en.uesp.net/wiki/Skyrim:Dawnfang_%26_Duskfang).
-  > :ledger: X
+- [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) - Overhauls the AE creation called [Dawnfang & Duskfang](https://en.uesp.net/wiki/Skyrim:Dawnfang_%26_Duskfang).
+  > :ledger: You decide when certain AE quests start now. To customize the new level requirement to your liking, see the RAE - Quest Requirements MCM in-game.
 
 - [Expanded Crossbow Pack - ](X) - Overhauls the AE creation called [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack).
   > :ledger: X
