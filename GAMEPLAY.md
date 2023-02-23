@@ -158,8 +158,11 @@ In addition to SimonRim, this list includes:
 - [Plague of the Dead - Mysticism Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/78868) - Overhaulw the AE creation called [Plague of the Dead](https://en.uesp.net/wiki/Skyrim:Plague_of_the_Dead).
   > :ledger: A rework of the Plague of the Dead Creation, including disabling the quest, revamped zombies to act more like their Oblivion inspirations, and rebalancing the summon spells based on Mysticism - A Magic Overhaul.
 
-- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Overhauls the AE creations called [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge), [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath), [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend), and [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers).
-  > :ledger: You must be at least character level 20. You must have completed the vanilla Daedric quest The Mind of Madness. To obtain the mentioned artifacts, you must embark along this questline as they have now been integrated into the story.
+- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - To obtain the mentioned artifacts, you must embark along this questline as they have now been integrated into the story. You must be at least character level 20. You must have completed the vanilla Daedric quest The Mind of Madness. 
+   - [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge)
+   - [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath)
+   - [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend)
+   - [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers).
 
 - [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563) - Overhauls the AE creation called [Stendarr's Hammer](https://en.uesp.net/wiki/Skyrim:Stendarr%27s_Hammer).
   > :ledger: Removes the initial questline startup and integrates it into LOTD's storyline.
@@ -206,6 +209,8 @@ In addition to SimonRim, this list includes:
   - [Bittercup](https://en.uesp.net/wiki/Skyrim:Bittercup)
   - [The Cause](https://en.uesp.net/wiki/Skyrim:The_Cause)
   - [The Contest](https://en.uesp.net/wiki/Skyrim:The_Contest)
+  - [Goldbrand](https://en.uesp.net/wiki/Skyrim:Goldbrand)
+  - [Headman's Cleaver](https://en.uesp.net/wiki/Skyrim:Headman%27s_Cleaver)
 
 - [Jewels of the Nords - Nordic Jewelry Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/81500) - Overhauls the AE creation called [Nordic Jewelry](https://en.uesp.net/wiki/Skyrim:Nordic_Jewelry).
   > :ledger: Removes the quest from Nordic Jewelry and distributes variations of metal and gem combination into levelled lists
@@ -257,12 +262,6 @@ In addition to SimonRim, this list includes:
 - [Fishing - ](X) - Overhauls the AE creation called [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing).
   > :ledger: X
 
-- [Goldbrand - ](X) - Overhauls the AE creation called [Goldbrand](https://en.uesp.net/wiki/Skyrim:Goldbrand).
-  > :ledger: X
-
-- [Headman's Cleaver - ](X) - Overhauls the AE creation called [Headman's Cleaver](https://en.uesp.net/wiki/Skyrim:Headman%27s_Cleaver).
-  > :ledger: X
-
 - [Horse Armor - Elven - ](X) - Overhauls the AE creation called [Horse Armor - Elven](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Elven).
   > :ledger: X
 
@@ -279,9 +278,6 @@ In addition to SimonRim, this list includes:
   > :ledger: X
 
 - [Staves - ](X) - Overhauls the AE creation called [Staves](https://en.uesp.net/wiki/Skyrim:Staves_(Creation)).
-  > :ledger: X
-
-- [The Contest - ](X) - Overhauls the AE creation called [The Contest](https://en.uesp.net/wiki/Skyrim:The_Contest).
   > :ledger: X
 
 ## User Interface and Camera
