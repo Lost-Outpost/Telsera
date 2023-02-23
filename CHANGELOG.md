@@ -78,6 +78,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Huntsman
   - Updated Aetherius
   - Updated aljos Apothecary Patches
+  - Updated East Empire Company Armor
   - Removed Skyland Noble Furniture
   - Removed Skyland Common and Upper Class Furniture
   - Removed RUSTIC ARMOR and WEAPONS
