@@ -167,7 +167,7 @@ In addition to SimonRim, this list includes:
   > :ledger: You must be at least character level 20. You must have completed the vanilla Daedric quest The Mind of Madness. To obtain the mentioned artifacts, you must embark along this questline as they have now been integrated into the story.
 
 - [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563) - Overhauls the AE creation called [Stendarr's Hammer](https://en.uesp.net/wiki/Skyrim:Stendarr%27s_Hammer).
-  > :ledger: The original quest has now been disabled, and Stendarr's Hammer is now obtainable throughout the story of [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168). You start this quest by first obtaining Keening. To do this, you’ll have to join the College of Winterhold and finish the side questline Arniel’s Endeavor. You’ll also need to have finished The Way of the Voice in the main questline.
+  > :ledger: Removes the initial questline and integrates it into LOTD's storyline.
 
 - [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Dwarven Armored Mudcrab](https://en.uesp.net/wiki/Skyrim:Dwarven_Armored_Mudcrab).
   > :ledger: The quest will not start on launch anyore. The pet teleport spell now actually works.
@@ -199,41 +199,42 @@ In addition to SimonRim, this list includes:
 - [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) - Overhauls the AE creation called [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios).
   > :ledger: Adds new types of bolts based on the new models added by Rare Curios. Also fixes a couple of texture issues present in the bolts already present in Rare Curios.
 
-- [Bone Wolf - ](X) - Overhauls the AE creation called [Bone Wolf](https://en.uesp.net/wiki/Skyrim:Bone_Wolf).
-  > :ledger: X
+- [Bone Wolf and Plague of the Dead - Spawns Corrected](https://www.nexusmods.com/skyrimspecialedition/mods/55201) - Overhauls the AE creation called [Bone Wolf](https://en.uesp.net/wiki/Skyrim:Bone_Wolf).
+  > :ledger: Resolves a conflict preventing Plague of the Dead from doing one of its advertised features with Bone Wolf installed.
 
 - [Staff of Hasedoki - ](X) - Overhauls the AE creation called [Staff of Hasedoki](https://en.uesp.net/wiki/Skyrim:Staff_of_Hasedoki).
-  > :ledger: X
+  > :ledger: N/A
 
-- [Wild Horses - ](X) - Overhauls the AE creation called [Wild Horses](https://en.uesp.net/wiki/Skyrim:Wild_Horses).
-  > :ledger: X
+- [Press H to Horse - Creation Club Horses Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/81195) - Overhauls the AE creation called [Wild Horses](https://en.uesp.net/wiki/Skyrim:Wild_Horses).
+  > :ledger: Horse customization mechanics have been significantly reworked. A new horse calling system has been added, along with being given an option name it. Pressing H while looking at your horse will open its inventory.
 
-- [Civil War Champions - ](X) - Overhauls the AE creation called [Civil War Champions](https://en.uesp.net/wiki/Skyrim:Civil_War_Champions).
-  > :ledger: X
+- [Sexier Vanilla - Creation Club](https://www.nexusmods.com/skyrimspecialedition/mods/67998) - Overhauls the AE creation called [Civil War Champions](https://en.uesp.net/wiki/Skyrim:Civil_War_Champions).
+  > :ledger: Incorporates Creation Club content seamlessly into the base game. No more quests, scripts, worldspace edits, or overpowered gear.
 
-- [Elite Crossbows - ](X) - Overhauls the AE creation called [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows).
-  > :ledger: X
+- [Thwack - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42653) - Overhauls the AE creation called [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows).
+  > :ledger: The new high-level Crossbow variants are now the reward for the final Ancient Technology quest. The Night Hunter quest is preserved in it's entirety and is tied into Ancient Technology.
 
-- [Forgotten Seasons - ](X) - Overhauls the AE creation called [Forgotten Seasons](https://en.uesp.net/wiki/Skyrim:Forgotten_Seasons).
-  > :ledger: X
+- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Forgotten Seasons](https://en.uesp.net/wiki/Skyrim:Forgotten_Seasons).
+  > :ledger: Fixes various footstep and sound records.
 
-- [Saturalia Holiday Pack - ](X) - Overhauls the AE creation called [Saturalia Holiday Pack](https://en.uesp.net/wiki/Skyrim:Saturalia_Holiday_Pack).
-  > :ledger: X
+- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Saturalia Holiday Pack](https://en.uesp.net/wiki/Skyrim:Saturalia_Holiday_Pack).
+  > :ledger: Fixes various footstep and sound records.
 
-- [Sunder & Wraithguard - ](X) - Overhauls the AE creation called [Sunder & Wraithguard](https://en.uesp.net/wiki/Skyrim:Sunder_%26_Wraithguard).
-  > :ledger: X
+- [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563) - Overhauls the AE creation called [Sunder & Wraithguard](https://en.uesp.net/wiki/Skyrim:Sunder_%26_Wraithguard).
+  > :ledger: The original quest has now been disabled, and Stendarr's Hammer is now obtainable throughout the story of [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168). You start this quest by first obtaining Keening. To do this, you’ll have to join the College of Winterhold and finish the side questline Arniel’s Endeavor. You’ll also need to have finished The Way of the Voice in the main questline.
 
-- [Vigil Enforcer Armor Set - ](X) - Overhauls the AE creation called [Vigil Enforcer Armor Set](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set).
-  > :ledger: X
+- [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) - Overhauls the AE creation called [Vigil Enforcer Armor Set](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set).
+  > :ledger: Leveled Vigilants of Stendarr, Vigil Enforcers, Silver Hand, and several named NPCs now where the gear included in this creation by default.
 
-- [Arms of Chaos - ](X) - Overhauls the AE creation called [Arms of Chaos](https://en.uesp.net/wiki/Skyrim:Arms_of_Chaos).
-  > :ledger: X
+- [Creation Club - Adjustments Rebalancing and Variants](https://www.nexusmods.com/skyrimspecialedition/mods/59370) - Overhauls the AE creation called [Arms of Chaos](https://en.uesp.net/wiki/Skyrim:Arms_of_Chaos).
+  > :ledger: Adjusts the stats and enchantments of numerous Creation Club items. Addresses some bugs and inconsistencies. 
 
-- [Shadowfoot Sanctum - ](X) - Overhauls the AE creation called [Shadowfoot Sanctum](https://en.uesp.net/wiki/Skyrim:Shadowfoot_Sanctum).
-  > :ledger: X
+- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975) - Fixes the AE creation called [Shadowfoot Sanctum](https://en.uesp.net/wiki/Skyrim:Shadowfoot_Sanctum).
+  > :ledger: Fixes various keyword and cell records.
 
-- [Spell Knight Armor - ](X) - Overhauls the AE creation called [Spell Knight Armor](https://en.uesp.net/wiki/Skyrim:Spell_Knight_Armor).
-  > :ledger: X
+- [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) and [Spell Knight Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/84620) - Overhaul the AE creation called [Spell Knight Armor](https://en.uesp.net/wiki/Skyrim:Spell_Knight_Armor).
+  > :ledger: You decide when certain AE quests start now. To customize the new level requirement to your liking, see the RAE - Quest Requirements MCM in-game.
+  > :ledger: Adds 5 faction based variants to the Ebony Spell Knight Armor Set 3 College of Winterhold, 2 Dawnguard. You must complete the quest and be able to craft the normal ebony version of the spell knight armor, along with being in the respective faction of the variant you want to craft.
 
 - [Umbra - ](X) - Overhauls the AE creation called [Umbra](https://en.uesp.net/wiki/Skyrim:Umbra).
   > :ledger: X
