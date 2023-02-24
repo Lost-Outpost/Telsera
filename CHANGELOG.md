@@ -70,6 +70,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Artifacts - Resurgence (CC Only)
   - Added LOVERBOY Skin - HD Complexion for Men
   - Added LOVERGIRL Skin - HD Complexion for Women
+  - Added Cathedral - 3D Dragons Tongue
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
@@ -94,6 +95,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Frankly HD Dragonbone and Dragonscale - Armor and Weapons
   - Fixed mod-added map markers from showing at the start (Forgotten City, Carved Brink, etc.)
   - Fixed floating Falkreath shield
+  - Fixed waterseam in Riverwood (hopefully)
 
 ## Version 1.4.1
   - Added Bloodmoon
