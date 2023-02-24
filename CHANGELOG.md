@@ -68,6 +68,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added ENBSeries - Silent Horizons
   - Added Killable Rolff Stone-Fist (was in Windhelm for not even 0.2 seconds and remembered this mod existed)
   - Added Artifacts - Resurgence (CC Only)
+  - Added LOVERBOY Skin - HD Complexion for Men
+  - Added LOVERGIRL Skin - HD Complexion for Women
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
