@@ -67,7 +67,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Improved Alternate Conversation Camera
   - Added ENBSeries - Silent Horizons
   - Added Killable Rolff Stone-Fist (was in Windhelm for not even 0.2 seconds and remembered this mod existed)
-  - Added Artifacts - Resurgence (CC Only)
   - Added LOVERBOY Skin - HD Complexion for Men
   - Added LOVERGIRL Skin - HD Complexion for Women
   - Added Cathedral - 3D Dragons Tongue
@@ -86,6 +85,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated East Empire Company Armor
   - Updated QuickLoot EE
   - Updated QuickLoot EE - Settings Loader
+  - Updated Riften Gate Restored
   - Removed Skyland Noble Furniture
   - Removed Skyland Common and Upper Class Furniture
   - Removed RUSTIC ARMOR and WEAPONS
