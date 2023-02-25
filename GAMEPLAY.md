@@ -309,7 +309,7 @@ Redoran uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimsp
 
   > :video_game: You can find Merlin at the Summoning Circle just north of Morthal
 
-## Homes
+## Player Homes
 
 - [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) - A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family.
 
