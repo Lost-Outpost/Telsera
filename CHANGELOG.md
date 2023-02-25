@@ -72,6 +72,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Cathedral - 3D Dragons Tongue
   - Added Wild Penguins
   - Added King Penguin Retexture for Wild Penguins
+  - Added Riften Temple Sconce Fix
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
   - Updated Unaggressive Dragon Priests Fix
