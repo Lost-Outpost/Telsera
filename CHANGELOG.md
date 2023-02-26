@@ -70,8 +70,9 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added LOVERBOY Skin - HD Complexion for Men
   - Added LOVERGIRL Skin - HD Complexion for Women
   - Added Cathedral - 3D Dragons Tongue
-  - Added Wild Penguins
+  - Added Wild Penguins (wooo)
   - Added King Penguin Retexture for Wild Penguins
+  - Added Project AHO - HD
   - Added Riften Temple Sconce Fix
   - Updated Bandit Lines Expansion
   - Updated Civil War Lines Expansion
