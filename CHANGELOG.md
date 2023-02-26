@@ -34,7 +34,7 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.4.2 [UNRELEASED] - Estimated goal for release is around 2/26/23 ish
+## Version 1.4.2
   - Added Sforzinda's Imitations
   - Added Sforzinda's Imitations Stripped Down (ESP replacer)
   - Added Vampire Lines Expansion
@@ -98,7 +98,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Frankly HD Dragonbone and Dragonscale - Armor and Weapons
   - Fixed mod-added map markers from showing at the start (Forgotten City, Carved Brink, etc.)
   - Fixed floating Falkreath shield
-  - Fixed waterseam in Riverwood (hopefully)
+  - Fixed waterseam in Riverwood
+  - Fixed floating strongbox (maybe)
 
 ## Version 1.4.1
   - Added Bloodmoon
