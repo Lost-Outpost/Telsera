@@ -58,5 +58,6 @@ To change ENB presets, check the one you want in MO2 under ENB presets.
 
 ## Performance Guide
 
-- Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
-- Activate the performance grass and other mods
+- Try turning off any ENB that might be enabled and switching to the available reshade preset; Reshade - Davinci Reshade.
+- If switching off the ENB, disable everything in the ENB OPTIONS category.
+- Activate the performance grass under the PERFORMANCE category.
