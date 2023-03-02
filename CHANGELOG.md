@@ -34,6 +34,16 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.5.0 [UNRELEASED] - No ETA.
+  - Added Imperial Armors and Weapons Retexture
+  - Added 3BA and HIMBO Bodyslide for Imperial Armors and Weapons Retexture
+  - Added Werewolf Animation and Sneak Extension (DAR)
+  - Added Sforzinda's Variations - Redoran Cut
+  - Added Vigilant - Coldharbour Landscape and Architecture Retexture - Bone Pile Fix
+  - Removed Frankly HD Imperial Armor and Weapons
+  - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
+  - 
+
 ## Version 1.4.3.1
   - Removed Cathedral Armory for CC (meshes are buggy atm)
 
