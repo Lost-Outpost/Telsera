@@ -34,6 +34,9 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.4.3.1
+  - Removed Cathedral Armory for CC (meshes are buggy atm)
+
 ## Version 1.4.3
   - Added Cathedral Armory for CC
   - Updated Mysticism - A Magic Overhaul
