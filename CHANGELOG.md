@@ -20,9 +20,11 @@
 
 All modlists in the Animonculory use semantic versioning which translates to the following:
 
+- 2.0.0.x are save game safe
+
 - 2.0.x are save game safe
 
-- 2.x.x may require a new save game
+- 2.x.0 definitely requires a new save game
 
 - x.0.0 definitely requires a new save game
 
