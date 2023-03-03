@@ -56,6 +56,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Depths of the Reach
   - Added Creation Club Farming - Tweaks Enhancements and Quest Expansion
   - Added Skyland AIO - Riften Keep Entryway Modifications
+  - Added Prisoner cart fix SMIM
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Lunaris
