@@ -61,6 +61,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Underwhelming Multiple Followers
   - Added Immortal-Essential Followers
   - Added ERM - Enhanced Rocks and Mountains
+  - Added Better than Nando's (yolo)
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Lunaris
