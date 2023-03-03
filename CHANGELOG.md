@@ -57,6 +57,9 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Creation Club Farming - Tweaks Enhancements and Quest Expansion
   - Added Skyland AIO - Riften Keep Entryway Modifications
   - Added Prisoner cart fix SMIM
+  - Added Leviathan Animations II - Greatsword Low Stance
+  - Added Underwhelming Multiple Followers
+  - Added Immortal-Essential Followers
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Lunaris
@@ -79,6 +82,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
+  - Removed TrainFight
 
 ## Version 1.4.3.1
   - Removed Cathedral Armory for CC (meshes are buggy atm)
