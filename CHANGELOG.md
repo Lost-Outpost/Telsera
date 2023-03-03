@@ -60,6 +60,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Leviathan Animations II - Greatsword Low Stance
   - Added Underwhelming Multiple Followers
   - Added Immortal-Essential Followers
+  - Added ERM - Enhanced Rocks and Mountains
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Lunaris
@@ -79,6 +80,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
   - Updated NPC Animation Remix (DAR)
   - Updated Immersive folded hands (DAR)
+  - Updated The Practical Dwemechanic - A Remiel Replacer
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
