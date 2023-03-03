@@ -62,6 +62,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Immortal-Essential Followers
   - Added ERM - Enhanced Rocks and Mountains
   - Added Better than Nando's (yolo)
+  - Added Ammo Enchanting - Craft Magical Arrows and Bolts
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Lunaris
@@ -86,6 +87,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
   - Removed TrainFight
+  - Removed Leviathan Animations - Two-Handed High Stance
+  - Removed Squatter Shacks - Riverwood
 
 ## Version 1.4.3.1
   - Removed Cathedral Armory for CC (meshes are buggy atm)
