@@ -60,6 +60,20 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Lunaris
   - Updated Tamrielic Distribution
   - Updated QuickLoot EE
+  - Updated Headhunter - Bounties Redone
+  - Updated Canis Hysteria - The Werewolf Disease
+  - Updated Gladys the Corgi - A Custom Dog Follower Mod
+  - Updated Press H to Horse - Creation Club Horses Reworked
+  - Updated NPCs Wear Amulets of Mara PLUS
+  - Updated Cityside - A Starter Home
+  - Updated Skyrim Extended Cut - Saints and Seducers
+  - Updated Dragonbroth Stew - Eat Your Dragonbones
+  - Updated Kachunk - Creation Club Crossbow Distribution
+  - Updated CC Staves - Mysticism Consistency Patch
+  - Updated Remiel-Custom Voiced Dwemer Specialist and Companion
+  - Updated Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+  - Updated NPC Animation Remix (DAR)
+  - Updated Immersive folded hands (DAR)
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
