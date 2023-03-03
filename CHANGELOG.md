@@ -42,9 +42,27 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Werewolf Animation and Sneak Extension (DAR)
   - Added Sforzinda's Variations - Redoran Cut
   - Added Vigilant - Coldharbour Landscape and Architecture Retexture - Bone Pile Fix
+  - Added Realms of Oblivion - Survival Mode Consistency
+  - Added Better Black Door - Dark Brotherhood Door Voice Tweaked
+  - Added Lower Sounding Thieves Guild Door
+  - Added RAE - Quest Requirements - ECSS Patch
+  - Added Immersive Kaidan Start - ElevenLabs Replacer
+  - Added Legacy of The Dragonborn - Cube Maps Fixed
+  - Added Ducks and Swans for Skyrim
+  - Added Carbon's Retextures. Ducks and Swans
+  - Added Flying Crows
+  - Added Flying Crows Lite
+  - Added Flames of Coldharbour
+  - Added Depths of the Reach
+  - Added Creation Club Farming - Tweaks Enhancements and Quest Expansion
+  - Updated Skyland AIO
+  - Updated Skyland Happy Little Trees Bark
+  - Updated Lunaris
+  - Updated Tamrielic Distribution
+  - Updated QuickLoot EE
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
-  - 
+  - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
 
 ## Version 1.4.3.1
   - Removed Cathedral Armory for CC (meshes are buggy atm)
