@@ -98,6 +98,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Leviathan Animations - Two-Handed High Stance
   - Removed Squatter Shacks - Riverwood
   - Removed ENBSeries - Silent Horizons
+  - Removed Arena - An Encounter Zone Overhaul
+  - Removed Legion - A Bruma Encounter Zone Overhaul
 
 ## Version 1.4.3.1
   - Removed Cathedral Armory for CC (meshes are buggy atm)
