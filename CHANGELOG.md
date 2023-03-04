@@ -63,6 +63,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added ERM - Enhanced Rocks and Mountains
   - Added Better than Nando's (yolo)
   - Added Ammo Enchanting - Craft Magical Arrows and Bolts
+  - Added ENBSeries - Pi-Cho Obsidian
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Lunaris
@@ -83,12 +84,14 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated NPC Animation Remix (DAR)
   - Updated Immersive folded hands (DAR)
   - Updated The Practical Dwemechanic - A Remiel Replacer
+  - Updated Saints and Seducers - Mysticism Rebalance
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
   - Removed TrainFight
   - Removed Leviathan Animations - Two-Handed High Stance
   - Removed Squatter Shacks - Riverwood
+  - Removed ENBSeries - Silent Horizons
 
 ## Version 1.4.3.1
   - Removed Cathedral Armory for CC (meshes are buggy atm)
