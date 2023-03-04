@@ -64,6 +64,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Better than Nando's (yolo)
   - Added Ammo Enchanting - Craft Magical Arrows and Bolts
   - Added ENBSeries - Pi-Cho Obsidian
+  - Added Necrom
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Lunaris
@@ -85,6 +86,11 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Immersive folded hands (DAR)
   - Updated The Practical Dwemechanic - A Remiel Replacer
   - Updated Saints and Seducers - Mysticism Rebalance
+  - Updated Flames of Coldharbour
+  - Updated Bloodmoon
+  - Updated Abyss
+  - Updated Lunaris
+  - Updated Natura
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
