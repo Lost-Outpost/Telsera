@@ -91,6 +91,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Abyss
   - Updated Lunaris
   - Updated Natura
+  - Updated Lunar Guard Armor
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
@@ -98,8 +99,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Leviathan Animations - Two-Handed High Stance
   - Removed Squatter Shacks - Riverwood
   - Removed ENBSeries - Silent Horizons
-  - Removed Arena - An Encounter Zone Overhaul
-  - Removed Legion - A Bruma Encounter Zone Overhaul
+  - Moved Arena - An Encounter Zone Overhaul to Optional Mods category, disabled by default
+  - Moved Legion - A Bruma Encounter Zone Overhaul to Optional Mods category, disabled by default
 
 ## Version 1.4.3.1
   - Removed Cathedral Armory for CC (meshes are buggy atm)
