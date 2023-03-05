@@ -69,6 +69,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added AE Flame Atronachs give Warmth
   - Added Cathedral - 3D Thicket and Dead Shrub
   - Added Gore
+  - Added Simple Wearable Lanterns Integration
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Lunaris
@@ -106,8 +107,11 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Leviathan Animations - Two-Handed High Stance
   - Removed Squatter Shacks - Riverwood
   - Removed ENBSeries - Silent Horizons
+  - Removed New Armory Series - Elven Steel Weapons
   - Moved Arena - An Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Moved Legion - A Bruma Encounter Zone Overhaul to Optional Mods category, disabled by default
+  - Fixed missing glacier textures in Solstheim
+  - Fixed missing textures on rocks for non-ENB users
 
 ## Version 1.4.3.1
   - Removed Cathedral Armory for CC (meshes are buggy atm)
