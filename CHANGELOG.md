@@ -68,6 +68,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added ConsolePlusPlus
   - Added AE Flame Atronachs give Warmth
   - Added Cathedral - 3D Thicket and Dead Shrub
+  - Added Gore
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Lunaris
