@@ -34,7 +34,7 @@ I have included the necessary mods to enable widescreen UI support. If you play 
 
 ### Character Presets
 
-Redoran includes a mod that contains a premade folder structure for character presets that you either create yourself or download from others. You can copy presets you download from the [Redoran Character Presets Discord thread](https://discord.com/channels/773659452392865792/952965520083275796) into the  when creating new characters. 
+Redoran includes a mod that contains a premade folder structure for character presets that you either create yourself or download from others. You can copy presets you download from the Character Presets Discord thread via Lost Output into the designated folder. 
 
 The presets mod is here:
 
