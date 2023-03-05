@@ -93,6 +93,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Lunaris
   - Updated Natura
   - Updated Lunar Guard Armor
+  - Updated Merchant - A Trading Expansion
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
