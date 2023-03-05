@@ -66,6 +66,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added ENBSeries - Pi-Cho Obsidian
   - Added Necrom
   - Added ConsolePlusPlus
+  - Added AE Flame Atronachs give Warmth
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Lunaris
