@@ -65,6 +65,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Ammo Enchanting - Craft Magical Arrows and Bolts
   - Added ENBSeries - Pi-Cho Obsidian
   - Added Necrom
+  - Added ConsolePlusPlus
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Lunaris
