@@ -98,6 +98,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Merchant - A Trading Expansion
   - Updated Legacy of the Dragonborn Patches (Official)
   - Updated Legacy of the Dragonborn - The Curator's Companion
+  - Updated Destination Weddings
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
@@ -106,6 +107,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Squatter Shacks - Riverwood
   - Removed ENBSeries - Silent Horizons
   - Removed New Armory Series - Elven Steel Weapons
+  - Removed Carved Brink
   - Moved Arena - An Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Moved Legion - A Bruma Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Fixed missing glacier textures in Solstheim
