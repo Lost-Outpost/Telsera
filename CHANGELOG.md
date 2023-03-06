@@ -70,6 +70,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Cathedral - 3D Thicket and Dead Shrub
   - Added Gore
   - Added Simple Wearable Lanterns Integration
+  - Added 3D Ropes for Goldenhills Plantation
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
@@ -108,6 +109,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed ENBSeries - Silent Horizons
   - Removed New Armory Series - Elven Steel Weapons
   - Removed Carved Brink
+  - Removed Teldryn Serious - A Teldryn Sero Backstory Quest (big sad)
   - Moved Arena - An Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Moved Legion - A Bruma Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Fixed missing glacier textures in Solstheim
