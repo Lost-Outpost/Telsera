@@ -72,7 +72,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Simple Wearable Lanterns Integration
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
-  - Updated Lunaris
   - Updated Tamrielic Distribution
   - Updated QuickLoot EE
   - Updated Headhunter - Bounties Redone
@@ -91,7 +90,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Immersive folded hands (DAR)
   - Updated The Practical Dwemechanic - A Remiel Replacer
   - Updated Saints and Seducers - Mysticism Rebalance
-  - Updated Flames of Coldharbour
   - Updated Bloodmoon
   - Updated Abyss
   - Updated Lunaris
