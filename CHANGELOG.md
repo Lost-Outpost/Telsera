@@ -71,6 +71,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Gore
   - Added Simple Wearable Lanterns Integration
   - Added 3D Ropes for Goldenhills Plantation
+  - Added Opening Scene Horse Stagger
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
