@@ -77,6 +77,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Gemstones Remade - Legacy of The Dragonborn
   - Added aMidianBorn wolf armor and skyforge weapons
   - Added Cathedral Armory - aMidianBorn Skyforge Weapons Add-On
+  - Added Literally Unplayable - Kaidan Patch
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
@@ -119,6 +120,13 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Carved Brink
   - Removed Teldryn Serious - A Teldryn Sero Backstory Quest (big sad)
   - Removed Left Hand Rings Modified - SkyUI Icon
+  - Removed Skyforge Steel - Art and Honor
+  - Removed Dovahkiin's Vault - High Hrothgar Player Home
+  - Removed Dovahkiin's Vault - Earlier Start
+  - Removed Clue Scrolls in Skyrim - Treasure Trails
+  - Removed New Armory Series - Lunar Weapons
+  - Removed QUI
+  - 
   - Moved Arena - An Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Moved Legion - A Bruma Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Tweaked LOVERBOY Skin - HD Complexion for Men - No Stubble to version 2.0
