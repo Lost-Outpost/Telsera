@@ -130,6 +130,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Moved Arena - An Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Moved Legion - A Bruma Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Tweaked LOVERBOY Skin - HD Complexion for Men - No Stubble to version 2.0
+  - Tweaked tree size
   - Fixed missing glacier textures in Solstheim
   - Fixed missing textures on rocks for non-ENB users
 
