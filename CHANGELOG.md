@@ -62,7 +62,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Immortal-Essential Followers
   - Added ERM - Enhanced Rocks and Mountains
   - Added Better than Nando's (yolo)
-  - Added Ammo Enchanting - Craft Magical Arrows and Bolts
   - Added ENBSeries - Pi-Cho Obsidian
   - Added Necrom
   - Added ConsolePlusPlus
