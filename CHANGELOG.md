@@ -102,6 +102,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Legacy of the Dragonborn Patches (Official)
   - Updated Legacy of the Dragonborn - The Curator's Companion
   - Updated Destination Weddings
+  - Updated Cathedral 3D Mountain Flowers - Base Object Swapper
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
