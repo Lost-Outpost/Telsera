@@ -73,6 +73,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added 3D Ropes for Goldenhills Plantation
   - Added Opening Scene Horse Stagger
   - Added Tel Jerdein - Telvanni Sorcerer Tower
+  - Added Build Your Hearthfire Homes With Gold (optional)
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
@@ -114,6 +115,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Teldryn Serious - A Teldryn Sero Backstory Quest (big sad)
   - Moved Arena - An Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Moved Legion - A Bruma Encounter Zone Overhaul to Optional Mods category, disabled by default
+  - Tweaked LOVERBOY Skin - HD Complexion for Men - No Stubble to version 2.0
   - Fixed missing glacier textures in Solstheim
   - Fixed missing textures on rocks for non-ENB users
 
