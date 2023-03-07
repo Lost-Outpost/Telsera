@@ -126,7 +126,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Clue Scrolls in Skyrim - Treasure Trails
   - Removed New Armory Series - Lunar Weapons
   - Removed QUI
-  - 
+  - Removed Cheesemod (goodbye my sweet pepperjack)
   - Moved Arena - An Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Moved Legion - A Bruma Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Tweaked LOVERBOY Skin - HD Complexion for Men - No Stubble to version 2.0
