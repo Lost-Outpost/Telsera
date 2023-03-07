@@ -74,6 +74,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Tel Jerdein - Telvanni Sorcerer Tower
   - Added Build Your Hearthfire Homes With Gold (optional)
   - Added The Final Cataclysm - 2020
+  - Added Gemstones Remade - Legacy of The Dragonborn
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
@@ -104,6 +105,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Legacy of the Dragonborn - The Curator's Companion
   - Updated Destination Weddings
   - Updated Cathedral 3D Mountain Flowers - Base Object Swapper
+  - Updated The Lost Wonders of Mzark
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
