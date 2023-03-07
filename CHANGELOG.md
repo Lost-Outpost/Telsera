@@ -72,6 +72,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Simple Wearable Lanterns Integration
   - Added 3D Ropes for Goldenhills Plantation
   - Added Opening Scene Horse Stagger
+  - Added Tel Jerdein - Telvanni Sorcerer Tower
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
