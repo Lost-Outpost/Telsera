@@ -75,6 +75,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Build Your Hearthfire Homes With Gold (optional)
   - Added The Final Cataclysm - 2020
   - Added Gemstones Remade - Legacy of The Dragonborn
+  - Added aMidianBorn wolf armor and skyforge weapons
+  - Added Cathedral Armory - aMidianBorn Skyforge Weapons Add-On
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
