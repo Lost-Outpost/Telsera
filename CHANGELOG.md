@@ -73,6 +73,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Opening Scene Horse Stagger
   - Added Tel Jerdein - Telvanni Sorcerer Tower
   - Added Build Your Hearthfire Homes With Gold (optional)
+  - Added The Final Cataclysm - 2020
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
@@ -113,6 +114,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed New Armory Series - Elven Steel Weapons
   - Removed Carved Brink
   - Removed Teldryn Serious - A Teldryn Sero Backstory Quest (big sad)
+  - Removed Left Hand Rings Modified - SkyUI Icon
   - Moved Arena - An Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Moved Legion - A Bruma Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Tweaked LOVERBOY Skin - HD Complexion for Men - No Stubble to version 2.0
