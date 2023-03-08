@@ -79,6 +79,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Cathedral Armory - aMidianBorn Skyforge Weapons Add-On
   - Added Literally Unplayable - Kaidan Patch
   - Added Blades Armors and Weapons Retexture
+  - Added Vestige - An Artifact Overhaul
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
@@ -130,6 +131,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed New Armory Series - Lunar Weapons
   - Removed QUI
   - Removed Cheesemod (goodbye my sweet pepperjack)
+  - Removed Antiquary - Enhanced Artifacts
   - Moved Arena - An Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Moved Legion - A Bruma Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Tweaked LOVERBOY Skin - HD Complexion for Men - No Stubble to version 2.0
