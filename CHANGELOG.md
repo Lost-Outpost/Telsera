@@ -78,6 +78,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added aMidianBorn wolf armor and skyforge weapons
   - Added Cathedral Armory - aMidianBorn Skyforge Weapons Add-On
   - Added Literally Unplayable - Kaidan Patch
+  - Added Blades Armors and Weapons Retexture
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
