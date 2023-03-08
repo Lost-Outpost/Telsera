@@ -109,6 +109,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Destination Weddings
   - Updated Cathedral 3D Mountain Flowers - Base Object Swapper
   - Updated The Lost Wonders of Mzark
+  - Updated Simple Dual Sheath
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
