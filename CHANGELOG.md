@@ -80,6 +80,9 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Literally Unplayable - Kaidan Patch
   - Added Blades Armors and Weapons Retexture
   - Added Vestige - An Artifact Overhaul
+  - Added Mystical Materials
+  - Added Oxygen Meter 2
+  - Added Cloaks of Skyrim
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
