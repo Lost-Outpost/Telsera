@@ -107,6 +107,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Merchant - A Trading Expansion
   - Updated Legacy of the Dragonborn Patches (Official)
   - Updated Legacy of the Dragonborn - The Curator's Companion
+  - Updated Legacy of the Dragonborn - Followers Patch
   - Updated Destination Weddings
   - Updated Cathedral 3D Mountain Flowers - Base Object Swapper
   - Updated The Lost Wonders of Mzark
