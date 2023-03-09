@@ -89,6 +89,11 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Necrom - Pilgrim Addon
   - Added Flames of Coldharbour - Pilgrim Addon
   - Added Dynamic Random Spell Idle
+  - Added Sidekick is Healer (Immersive Follower Healer System - Heal spell needs Magicka costs)
+  - Added Sprint Sneak Movement Speed Fix
+  - Added My Home is Your Home (optional)
+  - Added Simple Outfit System (optional)
+  - Added I'm Glad You're Here - a follower and spouse appreciation mod - SSE (optional)
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
@@ -148,6 +153,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Tweaked tree size
   - Fixed missing glacier textures in Solstheim
   - Fixed missing textures on rocks for non-ENB users
+  - Fixed Rudy ENB related crashes with poison spells (BIG MAYBE?)
 
 ## Version 1.4.3.1
   - Removed Cathedral Armory for CC (meshes are buggy atm)
