@@ -83,6 +83,11 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Mystical Materials
   - Added Oxygen Meter 2
   - Added Cloaks of Skyrim
+  - Added Sforzinda's Fashions of the Fourth Era - NERFED
+  - Added Sforzinda's Fashions of the Fourth Era - No Gilded Nordic Tunic Distribution
+  - Added Stay At The System Page NG
+  - Added Necrom - Pilgrim Addon
+  - Added Flames of Coldharbour - Pilgrim Addon
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
@@ -116,6 +121,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Cathedral 3D Mountain Flowers - Base Object Swapper
   - Updated The Lost Wonders of Mzark
   - Updated Simple Dual Sheath
+  - Updated Ancient Knowledge - Automatons
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
