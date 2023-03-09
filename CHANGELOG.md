@@ -124,6 +124,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated The Lost Wonders of Mzark
   - Updated Simple Dual Sheath
   - Updated Ancient Knowledge - Automatons
+  - Updated BnP - Female Skin
   - Removed Frankly HD Imperial Armor and Weapons
   - Removed Cathedral Armory for CC - Ebony Armors and Weapons Retexture Patch
   - Removed Instincts - Animal Taming in Skyrim - Adamant Perks
@@ -143,6 +144,9 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed QUI
   - Removed Cheesemod (goodbye my sweet pepperjack)
   - Removed Antiquary - Enhanced Artifacts
+  - Removed Sforzinda's Imitations
+  - Removed Sforzinda's Imitations Stripped Down (ESP replacer)
+  - Removed Wares of Wyrmstooth - Wares of Tamriel Alternate Location
   - Moved Arena - An Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Moved Legion - A Bruma Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Tweaked LOVERBOY Skin - HD Complexion for Men - No Stubble to version 2.0
