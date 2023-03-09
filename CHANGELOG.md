@@ -60,7 +60,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Leviathan Animations II - Greatsword Low Stance
   - Added Underwhelming Multiple Followers
   - Added Immortal-Essential Followers
-  - Added ERM - Enhanced Rocks and Mountains
   - Added Better than Nando's (yolo)
   - Added ENBSeries - Pi-Cho Obsidian
   - Added Necrom
@@ -91,9 +90,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Dynamic Random Spell Idle
   - Added Sidekick is Healer (Immersive Follower Healer System - Heal spell needs Magicka costs)
   - Added Sprint Sneak Movement Speed Fix
-  - Added My Home is Your Home (optional)
-  - Added Simple Outfit System (optional)
-  - Added I'm Glad You're Here - a follower and spouse appreciation mod - SSE (optional)
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
