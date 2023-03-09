@@ -88,6 +88,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Stay At The System Page NG
   - Added Necrom - Pilgrim Addon
   - Added Flames of Coldharbour - Pilgrim Addon
+  - Added Dynamic Random Spell Idle
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
