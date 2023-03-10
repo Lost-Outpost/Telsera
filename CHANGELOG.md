@@ -90,6 +90,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Dynamic Random Spell Idle
   - Added Sidekick is Healer (Immersive Follower Healer System - Heal spell needs Magicka costs)
   - Added Sprint Sneak Movement Speed Fix
+  - Added Dimmer Fog and More
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
