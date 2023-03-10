@@ -147,6 +147,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Sforzinda's Imitations
   - Removed Sforzinda's Imitations Stripped Down (ESP replacer)
   - Removed Wares of Wyrmstooth - Wares of Tamriel Alternate Location
+  - Removed LOVERGIRL Skin - HD Complexion for Women
   - Moved Arena - An Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Moved Legion - A Bruma Encounter Zone Overhaul to Optional Mods category, disabled by default
   - Tweaked LOVERBOY Skin - HD Complexion for Men - No Stubble to version 2.0
