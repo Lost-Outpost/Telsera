@@ -98,8 +98,6 @@ Redoran is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/s
 
 - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) - Rebalances Food and Alchemy.
 
-- [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487) - An overhaul of howenemies are leveled in encounters, making combat more engaging.
-
 - [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - A lightweight combat enhancement which makes combat more engaging.
 
 - [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) - Merges Lockpicking and Pickpocketing into a single skill called Security and adds a new perk tree for Hand to Hand combat.
@@ -122,8 +120,6 @@ In addition to SimonRim, this list includes:
 - [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic.
 
 - [Arachnomancy - A Spider Scrolls Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/67272) - A complete overhaul of Skyrim's spider scrolls crafting system designed to balance existing spiders while adding powerful new ones.
-
-- [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848) - An overhaul of how encounters work in the Bruma region, inspired by Arena's handling of encounter zones. Enemies will be leveled similar to Solstheimn enemies on Arena.
 
 - [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Adds a potion for sale at your neighborhood alchemist that lets you respec perk points
 
@@ -295,8 +291,6 @@ Redoran uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimsp
 - [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Completes the Dawnguard weapon collection and distributes the armor weapons to the members as well.
 
 - [New Armory Series - Ashen Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/72728) 
-- [New Armory Series - Lunar Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/69438)
-- [New Armory Series - Elven Steel Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/78888)
 - [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994) - New weapons to the important people of Skyrim
 
 ## Followers and Companions
@@ -310,10 +304,6 @@ Redoran uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimsp
   > :video_game: You can find Merlin at the Summoning Circle just north of Morthal
 
 ## Player Homes
-
-- [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) - A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family.
-
-- [Squatter Shacks - Riverwood](https://www.nexusmods.com/skyrimspecialedition/mods/61692) - Adds a "Lumberjack's Shack" behind the Sleeping Giant Inn, at the edge of town. When you first find it, it's run-down, full of cobwebs, and covered in ivy. Once you put in a little elbow grease to clean the place up, it will transform into the tiny hermit hut of your dreams!
 
 - [Cityside - A Starter Home](https://www.nexusmods.com/skyrimspecialedition/mods/27777) - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude.
 
@@ -346,10 +336,6 @@ Redoran uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimsp
 - [Chanterelle](https://www.nexusmods.com/skyrimspecialedition/mods/32603) - An open world to explore, made to be used alongside Survival Mode.
 
   > :video_game: To begin, find the cave along the southern border of Falkreath hold.
-
-- [Teldryn Serious](https://www.nexusmods.com/skyrimspecialedition/mods/5541) - Lore-friendly, fully voiced quest about Teldryn Sero's dangerous past.
-
-  > :video_game: To begin, read the flier in Raven Rock docks, just in front of the ship.
 
 - [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) - DLC expansion sized mod adds hundreds of new items, dozens of new quests and hundreds of extra hours of play.
 
