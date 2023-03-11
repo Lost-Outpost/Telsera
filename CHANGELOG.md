@@ -36,7 +36,7 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.5.0 [UNRELEASED] - No ETA.
+## Version 1.5.0
   - Added Imperial Armors and Weapons Retexture
   - Added 3BA and HIMBO Bodyslide for Imperial Armors and Weapons Retexture
   - Added Werewolf Animation and Sneak Extension (DAR)
@@ -91,6 +91,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Sprint Sneak Movement Speed Fix
   - Added Dimmer Fog and More
   - Added Discord Rich Presence
+  - Added Custom Window
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
