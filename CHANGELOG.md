@@ -90,6 +90,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Dynamic Random Spell Idle
   - Added Sprint Sneak Movement Speed Fix
   - Added Dimmer Fog and More
+  - Added Discord Rich Presence
   - Updated Skyland AIO
   - Updated Skyland Happy Little Trees Bark
   - Updated Tamrielic Distribution
