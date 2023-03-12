@@ -37,10 +37,14 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
 ## Version 1.5.1
+
+**NOTE** - When you open up your game and continue your save, you may get a message saying "Continue with missing plugins X, X, X, etc." (or something like that) and it is fine to IGNORE! All the patch changes have been merged/updated into different, new esps. 
+
   - Added Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround) - USCCCP Patch
   - Added Stellaris
   - Added Animal and Creature Loot Tweaks
   - Added Bard Instrumentals Mostly - Sing Rarely
+  - Added  Ro -- Darenis Spells - Mysticism Integration Patch
   - Updated Improved Table Transition Animations
   - Updated Remiel-Custom Voiced Dwemer Specialist and Companion
   - Updated Tamrielic Distribution
@@ -51,6 +55,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Flames of Coldharbour
   - Updated Necrom
   - Removed DUMMY ESPs (already covered by Rudy ENB so these were completely redundant)
+  - Removed various redundant patches that became obsolete with  Ro -- Darenis Spells - Mysticism Integration Patch
   - Fixed errors when using Rudy and Pi-Cho ENBs
 
 ## Version 1.5.0
