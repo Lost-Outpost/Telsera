@@ -39,6 +39,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
 ## Version 1.5.1
   - Added Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround) - USCCCP Patch
   - Added Stellaris
+  - Added Animal and Creature Loot Tweaks
   - Updated Improved Table Transition Animations
   - Updated Remiel-Custom Voiced Dwemer Specialist and Companion
   - Updated Tamrielic Distribution
