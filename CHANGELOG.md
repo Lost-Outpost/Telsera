@@ -36,6 +36,21 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.5.1
+  - Added Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround) - USCCCP Patch
+  - Added Stellaris
+  - Updated Improved Table Transition Animations
+  - Updated Remiel-Custom Voiced Dwemer Specialist and Companion
+  - Updated Tamrielic Distribution
+  - Updated Natura
+  - Updated Lunaris
+  - Updated Abyss
+  - Updated Bloodmoon
+  - Updated Flames of Coldharbour
+  - Updated Necrom
+  - Removed DUMMY ESPs (already covered by Rudy ENB so these were completely redundant)
+  - Fixed errors when using Rudy and Pi-Cho ENBs
+
 ## Version 1.5.0
   - Added Imperial Armors and Weapons Retexture
   - Added 3BA and HIMBO Bodyslide for Imperial Armors and Weapons Retexture
