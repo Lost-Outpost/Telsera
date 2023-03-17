@@ -36,6 +36,18 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.6.0 [UNRELEASED] - NO ETA.
+  - Added Cloth Into Linen Wrap
+  - Added Improved Eyes Skyrim - Alternate Defaults
+  - Added Vigilant Armor HIMBO Refit
+  - Added Practical Female Ebony Plate Armor
+  - Added Practical Female Iron Plate Armor
+  - Added Rudy fix for Smoke
+  - Added HD Falmer Armor - Weapons - Huts - Everything - Glow
+  - Updated Vestige - An Artifact Overhaul
+  - Updated Jewels of the Nords - Nordic Jewelry Reintegration
+  - Moved Underwhelming Multiple Followers - No Spell to Optional Mods (enabled by default)
+
 ## Version 1.5.1
 
 **NOTE** - When you open up your game and continue your save, you may get a message saying "Continue with missing plugins X, X, X, etc." (or something like that) and it is fine to IGNORE! All the patch changes have been merged/updated into different, new esps. 
