@@ -44,8 +44,10 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Practical Female Iron Plate Armor
   - Added Rudy fix for Smoke
   - Added HD Falmer Armor - Weapons - Huts - Everything - Glow
+  - Added Elven Armors and Weapons Retexture
   - Updated Vestige - An Artifact Overhaul
   - Updated Jewels of the Nords - Nordic Jewelry Reintegration
+  - Removed Alpha Wolves Enabled (redundant with Huntsman)
   - Moved Underwhelming Multiple Followers - No Spell to Optional Mods (enabled by default)
 
 ## Version 1.5.1
