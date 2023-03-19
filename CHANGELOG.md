@@ -48,6 +48,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Vestige - An Artifact Overhaul
   - Updated Jewels of the Nords - Nordic Jewelry Reintegration
   - Removed Alpha Wolves Enabled (redundant with Huntsman)
+  - Tweaked Pi-Cho ENB to have less bright fog
   - Moved Underwhelming Multiple Followers - No Spell to Optional Mods (enabled by default)
 
 ## Version 1.5.1
