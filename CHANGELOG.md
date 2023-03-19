@@ -42,12 +42,21 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Vigilant Armor HIMBO Refit
   - Added Practical Female Ebony Plate Armor
   - Added Practical Female Iron Plate Armor
+  - Added Practical Female Steel Soldier Armor
   - Added Rudy fix for Smoke
   - Added HD Falmer Armor - Weapons - Huts - Everything - Glow
   - Added Elven Armors and Weapons Retexture
+  - Added CC Horse Armor Stays Token
+  - Added No More Blinding Fog - SSE Port
   - Updated Vestige - An Artifact Overhaul
   - Updated Jewels of the Nords - Nordic Jewelry Reintegration
+  - Updated Bloodmoon
+  - Updated Stellaris
+  - Updated aljos Apothecary Patches
+  - Updated Skyrim Extended Cut - Saints and Seducers
+  - Updated Tamrielic Distribution
   - Removed Alpha Wolves Enabled (redundant with Huntsman)
+  - Removed Simple Werewolf Loot and Activate - Teen Wolf Patch
   - Tweaked Pi-Cho ENB to have less bright fog
   - Tweaks BnP - Female Textures installation to have less sunken cheeks
   - Moved Underwhelming Multiple Followers - No Spell to Optional Mods (enabled by default)
