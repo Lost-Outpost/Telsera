@@ -58,7 +58,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Alpha Wolves Enabled (redundant with Huntsman)
   - Removed Simple Werewolf Loot and Activate - Teen Wolf Patch
   - Tweaked Pi-Cho ENB to have less bright fog
-  - Tweaks BnP - Female Textures installation to have less sunken cheeks
+  - Tweaked BnP - Female Textures installation to have less sunken cheeks
   - Moved Underwhelming Multiple Followers - No Spell to Optional Mods (enabled by default)
 
 ## Version 1.5.1
