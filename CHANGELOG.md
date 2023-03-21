@@ -48,6 +48,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Elven Armors and Weapons Retexture
   - Added CC Horse Armor Stays Token
   - Added No More Blinding Fog - SSE Port
+  - Added Practical Female Elven Hunter Armor
+  - Added Expressive Remiel
   - Updated Vestige - An Artifact Overhaul
   - Updated Jewels of the Nords - Nordic Jewelry Reintegration
   - Updated Bloodmoon
@@ -55,6 +57,11 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated aljos Apothecary Patches
   - Updated Skyrim Extended Cut - Saints and Seducers
   - Updated Tamrielic Distribution
+  - Updated Remiel-Custom Voiced Dwemer Specialist and Companion
+  - Updated Unmarked Locations Pack 
+  - Updated Happy Little Trees Add-On - DynDOLOD 3
+  - Updated Reanimated NPC Animations
+  - Updated Flames of Coldharbour
   - Removed Alpha Wolves Enabled (redundant with Huntsman)
   - Removed Simple Werewolf Loot and Activate - Teen Wolf Patch
   - Tweaked Pi-Cho ENB to have less bright fog
