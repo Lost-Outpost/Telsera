@@ -36,7 +36,7 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.5.2 [UNRELEASED] - NO ETA.
+## Version 1.5.2
   - Added Cloth Into Linen Wrap
   - Added Improved Eyes Skyrim - Alternate Defaults
   - Added Vigilant Armor HIMBO Refit
@@ -65,6 +65,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Reanimated NPC Animations
   - Updated Flames of Coldharbour
   - Updated Necrom-Pilgrim-Addon
+  - Updated Creation Club Farming - Tweaks Enhancements and Quest Expansion
   - Removed Alpha Wolves Enabled (redundant with Huntsman)
   - Removed Simple Werewolf Loot and Activate - Teen Wolf Patch
   - Removed aMidianBorn Skyforge Weapons
