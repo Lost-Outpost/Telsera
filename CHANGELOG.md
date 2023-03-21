@@ -62,6 +62,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Happy Little Trees Add-On - DynDOLOD 3
   - Updated Reanimated NPC Animations
   - Updated Flames of Coldharbour
+  - Updated Necrom-Pilgrim-Addon
   - Removed Alpha Wolves Enabled (redundant with Huntsman)
   - Removed Simple Werewolf Loot and Activate - Teen Wolf Patch
   - Tweaked Pi-Cho ENB to have less bright fog
