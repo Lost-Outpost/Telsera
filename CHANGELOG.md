@@ -50,6 +50,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added No More Blinding Fog - SSE Port
   - Added Practical Female Elven Hunter Armor
   - Added Expressive Remiel
+  - Added Belt-Worn Dragon Priest Masks - From Warmonger Armory
+  - Added aMidianBorn Armor Variants Lite
   - Updated Vestige - An Artifact Overhaul
   - Updated Jewels of the Nords - Nordic Jewelry Reintegration
   - Updated Bloodmoon
@@ -65,6 +67,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Necrom-Pilgrim-Addon
   - Removed Alpha Wolves Enabled (redundant with Huntsman)
   - Removed Simple Werewolf Loot and Activate - Teen Wolf Patch
+  - Removed aMidianBorn Skyforge Weapons
+  - Removed Cathedral - Armory - aMidianBorn Skyforge Weapons Add-On
   - Tweaked Pi-Cho ENB to have less bright fog
   - Tweaked BnP - Female Textures installation to have less sunken cheeks
   - Moved Underwhelming Multiple Followers - No Spell to Optional Mods (enabled by default)
