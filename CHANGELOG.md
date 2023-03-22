@@ -36,6 +36,9 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.5.2.1
+  - Fixed Pi-Cho from not appearing
+
 ## Version 1.5.2
   - Added Cloth Into Linen Wrap
   - Added Improved Eyes Skyrim - Alternate Defaults
