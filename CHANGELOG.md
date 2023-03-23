@@ -39,10 +39,12 @@ The Redoran team would like to thank everyone who plays beta versions and report
 ## Version 1.5.3 [UNRELEASED] Goal for release - 3/30/23 ish
   - Added Practical Female Vigil Enforcer Armor
   - Added Glass Armors and Weapons Retexture SE
+  - Added Where Are You - Lookup And Track Followers and other NPCs
   - Updated Song of the Green (Auri Follower)
   - Updated HIMBO Bodyslide for Imperial Armors and Weapons Retexture SE
   - Updated Quest Journal Limit Bug Fixer - Recover Disappeared Quests
   - Removed Redoran - BodySlide Output - Imperial Armors and Weapons Retexture Patch
+  - Tweaked BnP Male Skin's install to use different body normal maps
 
 ## Version 1.5.2.1
   - Fixed Pi-Cho from not appearing
