@@ -43,12 +43,15 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Squatter Shacks - Riverwood
   - Added Emberbrand Cellar -- Gray Quarter Basement Home
   - Added Sorrow Point Crypt (Cozy Vampire Player Home)
+  - Added Legacy of the Dragonborn - Improved Dig Sites SE
+  - Added Positive Undressed Reactions (ummmm why wasn't it added earlier hello??)
   - Updated Song of the Green (Auri Follower)
   - Updated HIMBO Bodyslide for Imperial Armors and Weapons Retexture SE
   - Updated Quest Journal Limit Bug Fixer - Recover Disappeared Quests
   - Updated VIGILANT SE
   - Updated VIGILANT Voiced - English Addon
   - Updated Imperial Armors and Weapons Retexture SE
+  - Updated Steel Armors and Weapons Retexture SE
   - Removed Redoran - BodySlide Output - Imperial Armors and Weapons Retexture Patch
   - Removed Where In Special Edition Am I
   - Tweaked BnP Male Skin's install to use different body normal maps
