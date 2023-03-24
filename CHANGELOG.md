@@ -43,7 +43,10 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Song of the Green (Auri Follower)
   - Updated HIMBO Bodyslide for Imperial Armors and Weapons Retexture SE
   - Updated Quest Journal Limit Bug Fixer - Recover Disappeared Quests
+  - Updated VIGILANT SE
+  - Updated VIGILANT Voiced - English Addon
   - Removed Redoran - BodySlide Output - Imperial Armors and Weapons Retexture Patch
+  - Removed Where In Special Edition Am I
   - Tweaked BnP Male Skin's install to use different body normal maps
 
 ## Version 1.5.2.1
