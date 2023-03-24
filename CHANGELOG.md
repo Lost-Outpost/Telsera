@@ -40,11 +40,15 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Practical Female Vigil Enforcer Armor
   - Added Glass Armors and Weapons Retexture SE
   - Added Where Are You - Lookup And Track Followers and other NPCs
+  - Added Squatter Shacks - Riverwood
+  - Added Emberbrand Cellar -- Gray Quarter Basement Home
+  - Added Sorrow Point Crypt (Cozy Vampire Player Home)
   - Updated Song of the Green (Auri Follower)
   - Updated HIMBO Bodyslide for Imperial Armors and Weapons Retexture SE
   - Updated Quest Journal Limit Bug Fixer - Recover Disappeared Quests
   - Updated VIGILANT SE
   - Updated VIGILANT Voiced - English Addon
+  - Updated Imperial Armors and Weapons Retexture SE
   - Removed Redoran - BodySlide Output - Imperial Armors and Weapons Retexture Patch
   - Removed Where In Special Edition Am I
   - Tweaked BnP Male Skin's install to use different body normal maps
