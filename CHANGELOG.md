@@ -55,6 +55,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Redoran - BodySlide Output - Imperial Armors and Weapons Retexture Patch
   - Removed Where In Special Edition Am I
   - Tweaked BnP Male Skin's install to use different body normal maps
+  - Rolled back the Saints and Seducers - Extended Cut's update to prevent false virus positives from appearing
 
 ## Version 1.5.2.1
   - Fixed Pi-Cho from not appearing
