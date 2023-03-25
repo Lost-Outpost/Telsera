@@ -36,7 +36,7 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.5.3 [UNRELEASED]
+## Version 1.5.3
   - Added Practical Female Vigil Enforcer Armor
   - Added Glass Armors and Weapons Retexture SE
   - Added Where Are You - Lookup And Track Followers and other NPCs
@@ -53,6 +53,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Imperial Armors and Weapons Retexture SE
   - Updated Steel Armors and Weapons Retexture SE
   - Updated Ancient Nord Stalhrim
+  - Updated Gladys the Corgi
+  - Updated Cathedral 3D Mountain Flowers - Base Object Swapper
   - Removed Redoran - BodySlide Output - Imperial Armors and Weapons Retexture Patch
   - Removed Where In Special Edition Am I
   - Tweaked BnP Male Skin's install to use different body normal maps
