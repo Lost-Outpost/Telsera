@@ -36,7 +36,7 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.5.3 [UNRELEASED] Goal for release - 3/30/23 ish
+## Version 1.5.3 [UNRELEASED]
   - Added Practical Female Vigil Enforcer Armor
   - Added Glass Armors and Weapons Retexture SE
   - Added Where Are You - Lookup And Track Followers and other NPCs
