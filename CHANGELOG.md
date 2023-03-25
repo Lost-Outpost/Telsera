@@ -52,6 +52,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated VIGILANT Voiced - English Addon
   - Updated Imperial Armors and Weapons Retexture SE
   - Updated Steel Armors and Weapons Retexture SE
+  - Updated Ancient Nord Stalhrim
   - Removed Redoran - BodySlide Output - Imperial Armors and Weapons Retexture Patch
   - Removed Where In Special Edition Am I
   - Tweaked BnP Male Skin's install to use different body normal maps
