@@ -55,6 +55,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Ancient Nord Stalhrim
   - Updated Gladys the Corgi
   - Updated Cathedral 3D Mountain Flowers - Base Object Swapper
+  - Updated Redoran - BodySlide Output - Imperial Armors and Weapons Retexture Patch
   - Removed Where In Special Edition Am I
   - Tweaked BnP Male Skin's install to use different body normal maps
   - Rolled back the Saints and Seducers - Extended Cut's update to prevent false virus positives from appearing
