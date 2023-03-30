@@ -50,7 +50,11 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Gore
   - Updated Tamrielic Distribution
   - Updated Conditional Expressions - Subtle Face Animations
+  - Updated Natura
+  - Updated Abyss
+  - Updated Bloodmoon
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch (now redundant with the individual AMB Variants patches for Xavbio's work)
+  - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID) (caused CTDs)
 
 ## Version 1.5.3
   - Added Practical Female Vigil Enforcer Armor
