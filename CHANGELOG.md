@@ -55,6 +55,9 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Bloodmoon
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch (now redundant with the individual AMB Variants patches for Xavbio's work)
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID) (caused CTDs)
+  - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
+  - Removed Bits and Pieces Male Skin (HIMBO)
+  - Tweaked LOVERBOY's installation
 
 ## Version 1.5.3
   - Added Practical Female Vigil Enforcer Armor
