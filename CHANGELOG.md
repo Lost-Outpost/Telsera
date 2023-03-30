@@ -36,6 +36,22 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.6.0 [UNRELEASED] - NO ETA.
+  - Added Wolf Armor and Weapons Retexture 
+  - Added Wolf Armor and Weapons Retexture - Practical Female Armors - AMB Variants Patch
+  - Added Nordic Carved Armors and Weapons Retexture
+  - Added Nordic Carved Armors and Weapons Retexture - Practical Female Armors - AMB Variants Patch
+  - Added Foamimi's Redoran Presets
+  - Added Practical Female Divine Crusader Armor
+  - Added Lawless - A Bandit Overhaul
+  - Added Infantry Armor SE
+  - Added Infantry Armor SE - My patches
+  - Updated Sit on Stuff
+  - Updated Gore
+  - Updated Tamrielic Distribution
+  - Updated Conditional Expressions - Subtle Face Animations
+  - Removed Practical Female Armors - aMidianBorn Content Addon Patch (now redundant with the individual AMB Variants patches for Xavbio's work)
+
 ## Version 1.5.3
   - Added Practical Female Vigil Enforcer Armor
   - Added Glass Armors and Weapons Retexture SE
