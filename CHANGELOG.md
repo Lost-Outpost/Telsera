@@ -55,6 +55,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Natura
   - Updated Abyss
   - Updated Bloodmoon
+  - Updated Vestige - An Artifact Overhaul
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
