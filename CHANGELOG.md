@@ -46,6 +46,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Lawless - A Bandit Overhaul
   - Added Infantry Armor SE
   - Added Infantry Armor SE - My patches
+  - Added Weathered Nordic Bodypaints - RaceMenu Overlays and Warpaints
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
@@ -53,8 +54,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Natura
   - Updated Abyss
   - Updated Bloodmoon
-  - Removed Practical Female Armors - aMidianBorn Content Addon Patch (now redundant with the individual AMB Variants patches for Xavbio's work)
-  - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID) (caused CTDs)
+  - Removed Practical Female Armors - aMidianBorn Content Addon Patch
+  - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
   - Removed Bits and Pieces Male Skin (HIMBO)
   - Tweaked LOVERBOY's installation
