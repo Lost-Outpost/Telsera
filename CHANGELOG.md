@@ -47,6 +47,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Infantry Armor SE
   - Added Infantry Armor SE - My patches
   - Added Weathered Nordic Bodypaints - RaceMenu Overlays and Warpaints
+  - Added Left Hand Rings Modified ESPFE SPIDfied - Thaumaturgy Patch
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
