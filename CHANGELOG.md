@@ -50,6 +50,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Left Hand Rings Modified ESPFE SPIDfied - Thaumaturgy Patch
   - Added Leviathan Animations II - Greatsword Normal Attacks
   - Added Skyrim on Skooma
+  - Added Skyrim on Skooma MCM
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
