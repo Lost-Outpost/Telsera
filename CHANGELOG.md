@@ -48,6 +48,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Infantry Armor SE - My patches
   - Added Weathered Nordic Bodypaints - RaceMenu Overlays and Warpaints
   - Added Left Hand Rings Modified ESPFE SPIDfied - Thaumaturgy Patch
+  - Added Leviathan Animations II - Greatsword Normal Attacks
+  - Added Skyrim on Skooma
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
@@ -56,10 +58,14 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Abyss
   - Updated Bloodmoon
   - Updated Vestige - An Artifact Overhaul
+  - Updated Squatter Shacks - Riverwood
+  - Updated Sprint Sneak Movement Speed Fix
+  - Updated Remiel-Custom Voiced Dwemer Specialist and Companion
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
   - Removed Bits and Pieces Male Skin (HIMBO)
+  - Removed Leviathan Animations - Two-Handed Normal Attacks
   - Tweaked LOVERBOY's installation
 
 ## Version 1.5.3
