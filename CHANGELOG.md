@@ -51,6 +51,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Leviathan Animations II - Greatsword Normal Attacks
   - Added Skyrim on Skooma
   - Added Skyrim on Skooma MCM
+  - Added Practical Female Civil War Champions Armor
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
@@ -62,12 +63,15 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Squatter Shacks - Riverwood
   - Updated Sprint Sneak Movement Speed Fix
   - Updated Remiel-Custom Voiced Dwemer Specialist and Companion
+  - Updated Expressive Remiel
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
   - Removed Bits and Pieces Male Skin (HIMBO)
   - Removed Leviathan Animations - Two-Handed Normal Attacks
+  - Removed Ro -- Darenis Spells - Mysticism Integration Patch
   - Tweaked LOVERBOY's installation
+  - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
 ## Version 1.5.3
   - Added Practical Female Vigil Enforcer Armor
