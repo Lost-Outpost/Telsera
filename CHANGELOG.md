@@ -73,6 +73,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Bits and Pieces Male Skin (HIMBO)
   - Removed Leviathan Animations - Two-Handed Normal Attacks
   - Removed Ro -- Darenis Spells - Mysticism Integration Patch
+  - Removed Bandit Brawlers
+  - Removed Bandit Spellswords - An Unofficial Simonrim Enemy Mod
   - Tweaked LOVERBOY's installation
   - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
