@@ -65,6 +65,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Sprint Sneak Movement Speed Fix
   - Updated Remiel-Custom Voiced Dwemer Specialist and Companion
   - Updated Expressive Remiel
+  - Updated Thieves Guild Requirements SE - Settings Loader
+  - Updated Infinite Dragon Variants
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
