@@ -51,6 +51,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Leviathan Animations II - Greatsword Normal Attacks
   - Added Skyrim on Skooma
   - Added Skyrim on Skooma MCM
+  - Added Skyrim On Skooma - Apothecary - Food and Drink Addon Patch
   - Added Practical Female Civil War Champions Armor
   - Added Fare Thee Well - Spouses and Children Give Blessings
   - Updated Sit on Stuff
@@ -60,6 +61,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Natura
   - Updated Abyss
   - Updated Bloodmoon
+  - Updated Stellaris
   - Updated Vestige - An Artifact Overhaul
   - Updated Squatter Shacks - Riverwood
   - Updated Sprint Sneak Movement Speed Fix
@@ -67,6 +69,10 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Expressive Remiel
   - Updated Thieves Guild Requirements SE - Settings Loader
   - Updated Infinite Dragon Variants
+  - Updated Adamant - A Perk Overhaul
+  - Updated Mysticism - A Magic Overhaul
+  - Updated Unofficial eFPS patches
+  - Updated Daedric Blades - Standalone version SE
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
