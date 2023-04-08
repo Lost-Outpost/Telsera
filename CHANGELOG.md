@@ -62,6 +62,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Abyss
   - Updated Bloodmoon
   - Updated Stellaris
+  - Updated Necrom
   - Updated Vestige - An Artifact Overhaul
   - Updated Squatter Shacks - Riverwood
   - Updated Sprint Sneak Movement Speed Fix
@@ -80,6 +81,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Survival Mode Improved - SKSE
   - Updated Improved Table Transition Animations
   - Updated Fearsome Fists - Thaumaturgy Consistency Patch
+  - Updated The Forgotten City Entrance
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
