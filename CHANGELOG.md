@@ -54,6 +54,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Skyrim On Skooma - Apothecary - Food and Drink Addon Patch
   - Added Practical Female Civil War Champions Armor
   - Added Fare Thee Well - Spouses and Children Give Blessings
+  - Added Vulcano
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
@@ -73,6 +74,12 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Mysticism - A Magic Overhaul
   - Updated Unofficial eFPS patches
   - Updated Daedric Blades - Standalone version SE
+  - Updated PAPER
+  - Updated Spell Perk Item Distributor (SPID)
+  - Updated Timing is Everything SE - Settings Loader
+  - Updated Beyond Skyrim - Bruma SE
+  - Updated Survival Mode Improved - SKSE
+  - Updated Improved Table Transition Animations
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
@@ -81,6 +88,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Ro -- Darenis Spells - Mysticism Integration Patch
   - Removed Bandit Brawlers
   - Removed Bandit Spellswords - An Unofficial Simonrim Enemy Mod
+  - Removed Bard's College Bedroom
   - Tweaked LOVERBOY's installation
   - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
