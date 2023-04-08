@@ -80,6 +80,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Beyond Skyrim - Bruma SE
   - Updated Survival Mode Improved - SKSE
   - Updated Improved Table Transition Animations
+  - Updated Fearsome Fists - Thaumaturgy Consistency Patch
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
