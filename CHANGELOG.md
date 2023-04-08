@@ -54,7 +54,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Skyrim On Skooma - Apothecary - Food and Drink Addon Patch
   - Added Practical Female Civil War Champions Armor
   - Added Fare Thee Well - Spouses and Children Give Blessings
-  - Added Vulcano
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
