@@ -101,6 +101,9 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Bard's College Bedroom
   - Removed Immersive Equipping Animations
   - Removed LOTD - Helgen Reborn Patches
+  - Removed Creation Club Farming - Tweaks Enhancements and Quest Expansion
+  - Removed Opening Scene Horse Stagger
+  - Removed Prisoner Cart Fix SMIM
   - Tweaked LOVERBOY's installation
   - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
