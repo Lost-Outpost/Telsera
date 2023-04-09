@@ -20,7 +20,3 @@ The following list is a set of addons which can be added to Redoran to add certa
 ### [Redoran-Extended---NPC-Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md) by Foamimi
 
 ### [Redoran-Extended---NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md) by Foamimi
-
-### [Redoran-Extended---Texture Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md) by Foamimi
-
-### [Redoran-Extended---Survival Addon](https://github.com/Foamimi/Redoran-Extended---Survival/blob/main/README.md) by Foamimi
