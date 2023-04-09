@@ -107,6 +107,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Tweaked LOVERBOY's installation
   - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
+REMOVED - Textures Addon and Survival Addon.
+
 ## Version 1.5.3
   - Added Practical Female Vigil Enforcer Armor
   - Added Glass Armors and Weapons Retexture SE
