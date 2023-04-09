@@ -49,8 +49,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Weathered Nordic Bodypaints - RaceMenu Overlays and Warpaints
   - Added Left Hand Rings Modified ESPFE SPIDfied - Thaumaturgy Patch
   - Added Leviathan Animations II - Greatsword Normal Attacks
-  - Added Skyrim on Skooma
-  - Added Skyrim on Skooma MCM
+  - Added Skyrim On Skooma
+  - Added Skyrim On Skooma MCM
   - Added Skyrim On Skooma - Apothecary - Food and Drink Addon Patch
   - Added Practical Female Civil War Champions Armor
   - Added Fare Thee Well - Spouses and Children Give Blessings
@@ -60,6 +60,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added JS Instruments of Skyrim SE
   - Added RUSTIC AMULETS
   - Added Serana Doll Replacer for Bloodchill Manor's Vampire Doll
+  - Added Song of the Green - Removing the Handcannon from Auri's Hands
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
