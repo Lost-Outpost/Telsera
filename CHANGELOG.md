@@ -55,6 +55,11 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Practical Female Civil War Champions Armor
   - Added Fare Thee Well - Spouses and Children Give Blessings
   - Added LOVERBOY Skin - Redoran Cut
+  - Added ElSopa - Carved Gildergreen HD
+  - Added Splashes Of Skyrim
+  - Added JS Instruments of Skyrim SE
+  - Added RUSTIC AMULETS
+  - Added Serana Doll Replacer for Bloodchill Manor's Vampire Doll
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
