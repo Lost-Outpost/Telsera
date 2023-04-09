@@ -92,6 +92,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Bandit Brawlers
   - Removed Bandit Spellswords - An Unofficial Simonrim Enemy Mod
   - Removed Bard's College Bedroom
+  - Removed Immersive Equipping Animations
   - Tweaked LOVERBOY's installation
   - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
