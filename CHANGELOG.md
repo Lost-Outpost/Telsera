@@ -82,6 +82,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Improved Table Transition Animations
   - Updated Fearsome Fists - Thaumaturgy Consistency Patch
   - Updated The Forgotten City Entrance
+  - Updated Skyrim's Got Talent - Player Reactions Addon
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
