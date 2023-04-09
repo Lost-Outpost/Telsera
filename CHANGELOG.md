@@ -54,6 +54,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Skyrim On Skooma - Apothecary - Food and Drink Addon Patch
   - Added Practical Female Civil War Champions Armor
   - Added Fare Thee Well - Spouses and Children Give Blessings
+  - Added LOVERBOY Skin - Redoran Cut
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
@@ -93,6 +94,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Bandit Spellswords - An Unofficial Simonrim Enemy Mod
   - Removed Bard's College Bedroom
   - Removed Immersive Equipping Animations
+  - Removed LOTD - Helgen Reborn Patches
   - Tweaked LOVERBOY's installation
   - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
