@@ -61,6 +61,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added RUSTIC AMULETS
   - Added Serana Doll Replacer for Bloodchill Manor's Vampire Doll
   - Added Song of the Green - Removing the Handcannon from Auri's Hands
+  - Added Vulcano
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
@@ -90,6 +91,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Fearsome Fists - Thaumaturgy Consistency Patch
   - Updated The Forgotten City Entrance
   - Updated Skyrim's Got Talent - Player Reactions Addon
+  - Updated Bow of Shadows - Reduced Cut
+  - Updated Flames of Coldharbour-Pilgrim-Addon
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
