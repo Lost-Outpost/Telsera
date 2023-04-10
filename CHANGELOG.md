@@ -62,6 +62,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Song of the Green - Removing the Handcannon from Auri's Hands
   - Added Vulcano
   - Added The Bond of Matrimony Override
+  - Added Male Eyeliner Lips and Tintmasks Fix
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
