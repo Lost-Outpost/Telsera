@@ -109,6 +109,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Prisoner Cart Fix SMIM
   - Removed Left Hand Rings Modified
   - Removed Bond of Matrimony (Wedding Band Enhancement - Left Hand Rings)
+  - Removed Aetherius - A Race Overhaul - Racial Spells Addon
   - Tweaked LOVERBOY's installation
   - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
