@@ -94,6 +94,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Skyrim's Got Talent - Player Reactions Addon
   - Updated Bow of Shadows - Reduced Cut
   - Updated Flames of Coldharbour-Pilgrim-Addon
+  - Updated Wind Ruler Armor - My patches SE
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
