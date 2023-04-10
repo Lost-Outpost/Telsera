@@ -47,7 +47,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Infantry Armor SE
   - Added Infantry Armor SE - My patches
   - Added Weathered Nordic Bodypaints - RaceMenu Overlays and Warpaints
-  - Added Left Hand Rings Modified ESPFE SPIDfied - Thaumaturgy Patch
   - Added Leviathan Animations II - Greatsword Normal Attacks
   - Added Skyrim On Skooma
   - Added Skyrim On Skooma MCM
@@ -62,6 +61,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Serana Doll Replacer for Bloodchill Manor's Vampire Doll
   - Added Song of the Green - Removing the Handcannon from Auri's Hands
   - Added Vulcano
+  - Added The Bond of Matrimony Override
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
@@ -107,6 +107,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Creation Club Farming - Tweaks Enhancements and Quest Expansion
   - Removed Opening Scene Horse Stagger
   - Removed Prisoner Cart Fix SMIM
+  - Removed Left Hand Rings Modified
+  - Removed Bond of Matrimony (Wedding Band Enhancement - Left Hand Rings)
   - Tweaked LOVERBOY's installation
   - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
