@@ -53,16 +53,18 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Skyrim On Skooma - Apothecary - Food and Drink Addon Patch
   - Added Practical Female Civil War Champions Armor
   - Added Fare Thee Well - Spouses and Children Give Blessings
-  - Added LOVERBOY Skin - Redoran Cut
   - Added ElSopa - Carved Gildergreen HD
   - Added Splashes Of Skyrim
   - Added JS Instruments of Skyrim SE
+  - Added JS Shrines of the Divines SE
   - Added RUSTIC AMULETS
   - Added Serana Doll Replacer for Bloodchill Manor's Vampire Doll
   - Added Song of the Green - Removing the Handcannon from Auri's Hands
   - Added Vulcano
   - Added The Bond of Matrimony Override
+  - Added AW Mosaic Male Skin
   - Added Male Eyeliner Lips and Tintmasks Fix
+  - Added Wyrmtooth Obsidian Weathers Patch
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
@@ -97,8 +99,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Wind Ruler Armor - My patches SE
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
-  - Removed LOVERBOY Skin - HD Complexion for Men - No Stubble 2.0
-  - Removed Bits and Pieces Male Skin (HIMBO)
   - Removed Leviathan Animations - Two-Handed Normal Attacks
   - Removed Ro -- Darenis Spells - Mysticism Integration Patch
   - Removed Bandit Brawlers
@@ -112,7 +112,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Left Hand Rings Modified
   - Removed Bond of Matrimony (Wedding Band Enhancement - Left Hand Rings)
   - Removed Aetherius - A Race Overhaul - Racial Spells Addon
-  - Tweaked LOVERBOY's installation
+  - Removed LOVERBOY Skin - HD Complexion for Men
   - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
 REMOVED - Textures Addon and Survival Addon.
