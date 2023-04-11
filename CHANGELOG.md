@@ -67,6 +67,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Wyrmtooth Obsidian Weathers Patch
   - Added Langleys Textures Workshop
   - Added Xelzaz' Telvanni Spellsword Armor Enhanced
+  - Added Riften Temple Sconce Fix
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
