@@ -114,6 +114,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Bond of Matrimony (Wedding Band Enhancement - Left Hand Rings)
   - Removed Aetherius - A Race Overhaul - Racial Spells Addon
   - Removed LOVERBOY Skin - HD Complexion for Men
+  - Removed Destination Weddings (big sad)
   - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
 REMOVED - Textures Addon and Survival Addon.
