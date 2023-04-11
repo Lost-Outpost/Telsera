@@ -115,6 +115,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed Aetherius - A Race Overhaul - Racial Spells Addon
   - Removed LOVERBOY Skin - HD Complexion for Men
   - Removed Destination Weddings (big sad)
+  - Removed Instincts - Animal Taming in Skyrim
   - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
 REMOVED - Textures Addon and Survival Addon.
