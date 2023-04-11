@@ -66,6 +66,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Male Eyeliner Lips and Tintmasks Fix
   - Added Wyrmtooth Obsidian Weathers Patch
   - Added Langleys Textures Workshop
+  - Added Xelzaz' Telvanni Spellsword Armor Enhanced
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
