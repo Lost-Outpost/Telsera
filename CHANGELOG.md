@@ -68,6 +68,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Langleys Textures Workshop
   - Added Xelzaz' Telvanni Spellsword Armor Enhanced
   - Added Riften Temple Sconce Fix
+  - Added Silver Armor and Weapons Retexture SE
   - Updated Sit on Stuff
   - Updated Gore
   - Updated Tamrielic Distribution
