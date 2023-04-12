@@ -100,6 +100,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Bow of Shadows - Reduced Cut
   - Updated Flames of Coldharbour-Pilgrim-Addon
   - Updated Wind Ruler Armor - My patches SE
+  - Updated Legacy of The Dragonborn - Museum Exterior Fixes
   - Removed Practical Female Armors - aMidianBorn Content Addon Patch
   - Removed Bloodmoon - Blood Spells - Spells for Vampires (SPID)
   - Removed Leviathan Animations - Two-Handed Normal Attacks
