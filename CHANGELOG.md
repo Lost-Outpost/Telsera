@@ -121,6 +121,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Removed LOVERBOY Skin - HD Complexion for Men
   - Removed Destination Weddings (big sad)
   - Removed Instincts - Animal Taming in Skyrim
+  - Removed Barely Used Vanilla Actors Recycle Project
   - Tweaked Alternate Start - Live Another Life - Redoran Cut
 
 REMOVED - Textures Addon and Survival Addon.
