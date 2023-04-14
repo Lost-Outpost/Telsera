@@ -36,7 +36,7 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.6.0 [UNRELEASED] - NO ETA.
+## Version 1.6.0
   - Added Wolf Armor and Weapons Retexture 
   - Added Wolf Armor and Weapons Retexture - Practical Female Armors - AMB Variants Patch
   - Added Nordic Carved Armors and Weapons Retexture
