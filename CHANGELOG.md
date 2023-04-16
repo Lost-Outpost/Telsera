@@ -36,6 +36,24 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.6.1
+  - Added Sleeping Expanded - Animations and NPC reactions (THIS WASN'T IN ALREADY HELLO??)
+  - Updated Bloodmoon
+  - Updated Lawless - A Bandit Overhaul
+  - Updated Keyword Item Distributor (KID)
+  - Updated Immersive folded hands (DAR)
+  - Updated NPC Animation Remix (DAR)
+  - Updated Happy Little Logs
+  - Updated Expressive Remiel
+  - Updated Beyond Skyrim - Bruma SE
+  - Updated Bow of Shadows - Reduced Cut
+  - Updated Flames of Coldharbour
+  - Updated FormList Manipulator - FLM
+  - Fixed up a few consistency patches
+
+## Version 1.6.0.1
+  - Reverted PAPER to an older version to prevent freezing with flora and various misc items
+
 ## Version 1.6.0
   - Added Wolf Armor and Weapons Retexture 
   - Added Wolf Armor and Weapons Retexture - Practical Female Armors - AMB Variants Patch
