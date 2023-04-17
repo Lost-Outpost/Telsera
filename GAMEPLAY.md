@@ -125,8 +125,6 @@ In addition to SimonRim, this list includes:
 
 ### New Mechanics
 
-- [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - New mechanic to tame wild animals as followers and companions.
-
 - [Simple Scroll Transcribing](nexusmods.com/skyrimspecialedition/mods/73450) - Adds scroll transcription stations to court wizard's environments and the Arcaneum.
 
 - [Natura](nexusmods.com/skyrimspecialedition/mods/77826) - New nature themed spells balanced similarly to Mysticism and new Spriggan types.
@@ -284,7 +282,7 @@ Redoran includes a minimalistic and modern UI, featuring:
 
 ## Gear and Items
 
-Redoran uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/44413) to overhaul artifacts. In additon to this, there are mods and patches that balance Creation Club items and [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) takes care of balancing vanilla enchanted items and gear.
+Redoran uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/85301) to overhaul artifacts. In additon to this, there are mods and patches that balance Creation Club items and [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) takes care of balancing vanilla enchanted items and gear.
 
 ### New Gear
 
