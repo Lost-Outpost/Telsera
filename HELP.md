@@ -44,3 +44,10 @@ There are as many reasons a mod wouldn't be included in a list as there are star
 8. It would require too much work to add for not enough benefit.
 
 If you're asking this question as a roundabout way of suggesting a mod, don't.
+
+## Are there any issues I can expect with this pack?
+
+As of now, the following issues are currently known:
+
+  - Using Poison Spells or Poison related FX will occassionaly cause the game to CTD. There is a potential solution to this if using Rudy ENB, but it still needs to be tested, as this is a finicky bug that not everybody experiences. You can find information about this workaround here: [ [via imgur album](https://imgur.com/a/ObuuerP) ]
+  - The perk called Flourish under the One-Handed skill tree currently does not increase your attack speed. This is currently being worked on.
