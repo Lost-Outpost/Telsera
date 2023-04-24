@@ -45,7 +45,8 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added Lawless Expanded Enemy Coverage Addon
   - Added No Ore Markers for Chanterelle
   - Added ERM - Enhanced Rocks and Mountains
-  - Assed Proco's Buyable Home Patch Hub
+  - Added Proco's Buyable Home Patch Hub
+  - Added Retexture for The Scroll
   - Updated Gore
   - Updated Hand to Hand - An Adamant Addon
   - Updated Immersive Rejections
