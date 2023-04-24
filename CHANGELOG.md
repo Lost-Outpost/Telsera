@@ -42,6 +42,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
 
   - Added Natura - Spriggans
   - Added Ascension
+  - Added Lawless Expanded Enemy Coverage Addon
   - Added No Ore Markers for Chanterelle
   - Added ERM - Enhanced Rocks and Mountains
   - Assed Proco's Buyable Home Patch Hub
@@ -55,6 +56,12 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Flames of Coldharbour
   - Updated Weathered Bars and Counters Retexture
   - Updated Survival Mode Improved - SKSE
+  - Updated Cathedral 3D Mountain Flowers - Base Object Swapper
+  - Updated Vigilant Armor HIMBO Refit
+  - Updated The Gray Cowl of Nocturnal - More to do in Hammerfell
+  - Updated Happy Little Logs
+  - Updated Unofficial eFPS Patches
+  - Updated Lawless A Bandit Overhaul
   - Removed X
 
 ## Version 1.6.1
