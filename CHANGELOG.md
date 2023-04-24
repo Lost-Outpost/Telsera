@@ -38,7 +38,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
 
 ## Version 1.7.0 [UNRELEASED] - NO ETA.
 
-**NOTE** - Going to jump straight to 1.7.0 as the Natura changes with spriggans will help the game feel a bit more balanced.
+**NOTE** - Going to jump straight to 1.7.0 as the Natura changes with spriggans will help encounters feel a bit more balanced at earlier levels.
 
   - Added Natura - Spriggans
   - Added Ascension
@@ -47,6 +47,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added ERM - Enhanced Rocks and Mountains
   - Added Proco's Buyable Home Patch Hub
   - Added Crystal Mudcrabs
+  - Added StarRiseShine's Apothecary Patches
   - Updated Gore
   - Updated Hand to Hand - An Adamant Addon
   - Updated Immersive Rejections
