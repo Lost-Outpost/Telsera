@@ -36,6 +36,27 @@ The purpose behind beta versions is for play testing to help Foamimi and the tea
 
 The Redoran team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.7.0 [UNRELEASED] - NO ETA.
+
+**NOTE** - Going to jump straight to 1.7.0 as the Natura changes with spriggans will help the game feel a bit more balanced.
+
+  - Added Natura - Spriggans
+  - Added Ascension
+  - Added No Ore Markers for Chanterelle
+  - Added ERM - Enhanced Rocks and Mountains
+  - Assed Proco's Buyable Home Patch Hub
+  - Updated Gore
+  - Updated Hand to Hand - An Adamant Addon
+  - Updated Immersive Rejections
+  - Updated Keyword Item Distributor
+  - Updated Natura
+  - Updated Abyss
+  - Updated Bloodmoon
+  - Updated Flames of Coldharbour
+  - Updated Weathered Bars and Counters Retexture
+  - Updated Survival Mode Improved - SKSE
+  - Removed X
+
 ## Version 1.6.1
   - Added Sleeping Expanded - Animations and NPC reactions (THIS WASN'T IN ALREADY HELLO??)
   - Updated Bloodmoon
