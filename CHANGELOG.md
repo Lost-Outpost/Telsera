@@ -46,7 +46,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Added No Ore Markers for Chanterelle
   - Added ERM - Enhanced Rocks and Mountains
   - Added Proco's Buyable Home Patch Hub
-  - Added Retexture for The Scroll
+  - Added Crystal Mudcrabs
   - Updated Gore
   - Updated Hand to Hand - An Adamant Addon
   - Updated Immersive Rejections
