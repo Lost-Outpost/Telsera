@@ -63,7 +63,6 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Happy Little Logs
   - Updated Unofficial eFPS Patches
   - Updated Lawless A Bandit Overhaul
-  - Removed X
 
 ## Version 1.6.1
   - Added Sleeping Expanded - Animations and NPC reactions (THIS WASN'T IN ALREADY HELLO??)
