@@ -70,6 +70,7 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Apothecary - An Alchemy Overhaul
   - Updated Thaumaturgy - An Enchanting Overhaul
   - Updated Royal Armory Plugin Replacer - Adjustments and Rebalancing for Thaumaturgy
+  - Updated Vestige - An Artifact Overhaul
 
 ## Version 1.6.1
   - Added Sleeping Expanded - Animations and NPC reactions (THIS WASN'T IN ALREADY HELLO??)
