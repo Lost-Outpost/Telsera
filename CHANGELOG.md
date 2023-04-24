@@ -64,6 +64,9 @@ The Redoran team would like to thank everyone who plays beta versions and report
   - Updated Happy Little Logs
   - Updated Unofficial eFPS Patches
   - Updated Lawless A Bandit Overhaul
+  - Updated Adamant - A Perk Overhaul
+  - Updated Chapter II - Jeremy Soule Inspired Music
+  - Updated Yet Another Music Merge
 
 ## Version 1.6.1
   - Added Sleeping Expanded - Animations and NPC reactions (THIS WASN'T IN ALREADY HELLO??)
