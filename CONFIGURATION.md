@@ -1,4 +1,4 @@
-<a href="https://youtu.be/ExK6EUGDjaA?t=1"><img src="https://i.imgur.com/GPhY3Jj.png" target="_blank"></a>
+<a href="https://youtu.be/XRIE02v7Ri4"><img src="https://i.imgur.com/tRwxNaE.png" target="_blank"></a>
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## Optional Tweaks
 
-When enabling any optional tweaks, make sure they are always loaded BEFORE realisticwatertwo.esp in your load order. See the alternate start section for an example of this.
+When enabling any optional tweaks, make sure they are always loaded BEFORE RealisticWaterTwo.esp in your load order. See the alternate start section for an example of this.
 
 ### Widescreen
 
@@ -34,19 +34,19 @@ I have included the necessary mods to enable widescreen UI support. If you play 
 
 ### Character Presets
 
-Redoran includes a mod that contains a premade folder structure for character presets that you either create yourself or download from others. You can copy presets you download from the Character Presets Discord thread via Lost Output into the designated folder. 
+Eldryn includes a mod containing a premade folder structure for character presets that you either create yourself or download from others. You can copy presets you download from the Character Presets Discord thread via Lost Output into the designated folder. 
 
 The presets mod is here:
 
-![redoran-character-presets](https://i.imgur.com/2B9YUgJ.png)
+![eldryn-character-presets](https://i.imgur.com/oAY0PCb.png)
 
 You can select this mod, right-click it, and then select "Open in Explorer" to see the presets directory, which will be at this location:
 
 ```
-Redoran\mods\[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
+Eldryn Edition\mods\[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
 ```
 
-![redoran-character-presets-folder](https://i.imgur.com/dqUr8pu.png)
+![eldryn-character-presets-folder](https://i.imgur.com/dqUr8pu.png)
 
 ## ENB and Reshade Presets
 
@@ -54,10 +54,9 @@ Redoran\mods\[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
 
 To change ENB presets, check the one you want in MO2 under ENB presets.
 
-![Exe List](https://i.imgur.com/IxrurH5.png)
+![Exe List](https://i.imgur.com/XNerPaT.png)
 
 ## Performance Guide
 
 - Try turning off any ENB that might be enabled and switching to the available reshade preset; Reshade - Davinci Reshade.
 - If switching off the ENB, disable everything in the ENB OPTIONS category.
-- Activate the performance grass under the PERFORMANCE category.
