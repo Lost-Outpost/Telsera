@@ -14,8 +14,8 @@
 
 ---
 
-# Addons
+# Add-ons
 
-The following list is a set of add-ons that can be installed alongside your instance of Eldryn. Note, support for addons is provided by the creator of that addon and not by Eldryn support. Install instructions are provided on the add-on page.
+The following list is a set of add-ons that can be installed alongside your instance of Eldryn. Note, support for addons is provided by the creator of that addon and not by Eldryn support. Install instructions are provided on the respective page.
 
 ### [Eldryn-Extended---NSFW Addon](X) by Foamimi (WIP - Currently not available.)
