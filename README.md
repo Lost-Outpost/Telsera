@@ -1,4 +1,4 @@
-<a href="https://youtu.be/ExK6EUGDjaA?t=1"><img src="https://i.imgur.com/GPhY3Jj.png" target="_blank"></a>
+<a href="https://youtu.be/ExK6EUGDjaA?t=1"><img src="https://i.imgur.com/tRwxNaE.png" target="_blank"></a>
 
 ---
 
@@ -34,20 +34,17 @@
     - [Downloading and Installing](#downloading-and-installing)
     - [Problems with Wabbajack](#problems-with-wabbajack)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
-  - [Steam Deck](#steam-deck)
 - [Updating](#updating)
 - [Issues](#issues)
-- [Redoran Team](#redoran-team)
+- [Eldryn Team](#eldryn-team)
 
 # Introduction
 
-"This is House Redoran territory. You'd do well to remember that."
-
-Redoran is a modlist designed to be utilized with Skyrim's Anniversary Edition Upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance. The AE content included in this pack has been fully integrated into the world of Skyrim. Most quests have either been reworked, removed, or expanded upon to enhance the experience.
+Eldryn is a modlist designed to be utilized with Skyrim's Anniversary Edition Upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance. The AE content included in this pack has been partially integrated into the world of Skyrim. Most quests have either been delayed, removed, or expanded upon to enhance the experience.
 
 ## List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/redoran) if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/eldryn-edition) if you want to know exactly what you're getting.
 
 You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
@@ -56,15 +53,15 @@ Users have reported running the list fine with as low as a Ryzen 1300x and a GTX
 
 ## Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/redoran/issues) section of the Redoran GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/eldryn/issues) section of the Eldryn GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
 
 ## Skyrim: Anniversary Edition (AE)
 
-**This list requires anniversary edition and all creation club content.** Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing. This can be done by going in-game via Steam and downloading through the available CC related Main Menu options.
+**This list requires anniversary edition and all creation club content.** Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing. This can be done by going in-game via Steam and downloading through the available CC-related Main Menu options.
 
 # Installation
 
-Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a one-click install of the modlist. There are some pre-installation steps which must be followed for first time users so please pay attention to those.
+Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a one-click install of the modlist. There are some pre-installation steps that must be followed for first-time users, so please pay attention to those.
 
 ## Pre-Install
 
@@ -84,11 +81,11 @@ Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best
 
 Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
 
-Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
+Open the Steam Properties window, navigate to the _Language_ tab, and select _English_ from the dropdown menu.
 
 ### Steam Updates
 
-To prevent any mishaps for when Todd Howard decides to drop another Skyrim update our way, we're going to turn off automatic updates for Skyrim SE. In Steam under the Library section on the left side, right-click The Elder Scrolls V: Skyrim Special Edition, then click Properties. Switch to the Updates tab, and at the top under 'Automatic Updates' switch the option to 'Only update this game when I launch it'. Exit out of the pop-up box once you're done.
+To prevent any mishaps when Todd Howard decides to drop another Skyrim update our way, we're going to turn off automatic updates for Skyrim SE. In Steam under the Library section on the left side, right-click The Elder Scrolls V: Skyrim Special Edition, then click Properties. Switch to the Updates tab, and at the top under 'Automatic Updates' switch the option to 'Only update this game when I launch it'. Exit out of the pop-up box once you're done.
 
 ### Clean Skyrim
 
@@ -103,24 +100,24 @@ Start the game and exit once you're in the main menu. This will ensure any setti
 
 ### Preparations
 
-Download the release to a _working folder_. This folder **must not** be in a _common folder_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Download the release to a _working folder_. This folder **must not** be in a _common folder_ like your Desktop, Downloads, or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
 
 ### Downloading and Installing
 
-The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Redoran"
+1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Eldryn"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
-3. Download the latest release of `Redoran` from the Wabbajack Browse Modlists page.
+3. Download the latest release of `Eldryn` from the Wabbajack Browse Modlists page.
 4. Select the created folder in step 1 as your installation folder.
 5. Select the created folder in step 2 as your downloads folder.
 6. Click the Go/Begin button and wait for Wabbajack to finish.
 
 ## Using MO2
 
-1. Once Wabbajack is finished, go into the folder where you installed Redoran. You'll see an executable called ModOrganizer.exe. Launch it to get to the next step.
+1. Once Wabbajack is finished, go into the folder where you installed Eldryn. You'll see an executable called ModOrganizer.exe. Launch it to get to the next step.
 
 ![Image 0](https://i.imgur.com/cI76urH.png)
 
@@ -128,7 +125,7 @@ The download and installation process can take a little while (an hour or more) 
 
 ![Image 0.5](https://i.imgur.com/zAXelVv.png)
 
-3. Click that and you'll be set to play! Do not click on the Unlock button that pops up once the game is running. It may take a while to open, so please be patient.
+3. Click that and you'll be set to play! **Do not click on the "Unlock" button that pops up once the game is running.** It may take a while to open, so please be patient.
 
 ### Problems with Wabbajack
 
@@ -138,7 +135,7 @@ Seriously, simply retrying the Wabbajack download fixes most problems.
 
 **Could not download x**:
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
+If a mod updates and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
 
 Some files are known to be problematic, it is likely those are the ones that failed. You can download them manually from their source and place the archives **AS IS** in the downloads folder.
 
@@ -150,21 +147,17 @@ This can happen when I update the modlist. Check if a new update is available an
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
-### Pagefile in prevention of memory crashes
+### Pagefile in the prevention of memory crashes
 
-Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
-
-## Steam Deck
-
-This modlist can be played on Steam Deck and special care has been taken to make sure performance is acceptable there. You can view the steam deck install instructions [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim-Redoran) after you finish the normal install.
+Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail to allocate more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
 
 # Updating
 
-If this Modlist receives an update, please check the [changelog](CHANGELOG.md) before doing anything. Always backup your saves or start a new game after updating.
+If this Modlist receives an update, please check the [changelog](CHANGELOG.md) before doing anything. Always back up your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save compatible. Your downloads folder will not be touched!
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save-compatible. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
@@ -172,9 +165,9 @@ Updating is like installing. You only have to make sure that you select the same
 
 If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
 
-For issues that aren't yet [known](HELP.md), you can provide details in the [Redoran Github](https://github.com/Lost-Outpost/redoran/issues). Please provide as much info as you can (screenshots are great).
+For issues that aren't yet [known](HELP.md), you can provide details in the [Eldryn Github](https://github.com/Lost-Outpost/eldryn/issues). Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Redoran Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
+Finally, free feel to hop on the Eldryn Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
-# Redoran Team
+# Eldryn Team
 + Foamimi
