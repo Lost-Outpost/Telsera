@@ -119,11 +119,11 @@ The download and installation process can take a little while (an hour or more) 
 
 1. Once Wabbajack is finished, go into the folder where you installed Eldryn. You'll see an executable called ModOrganizer.exe. Launch it to get to the next step.
 
-![Image 0](https://i.imgur.com/cI76urH.png)
+![Image 0](https://i.imgur.com/BUbrwZL.png)
 
 2. Once the program opens, look to the top right section and you should see a button that says Run.
 
-![Image 0.5](https://i.imgur.com/zAXelVv.png)
+![Image 0.5](https://i.imgur.com/vnGSUkW.png)
 
 3. Click that and you'll be set to play! **Do not click on the "Unlock" button that pops up once the game is running.** It may take a while to open, so please be patient.
 
