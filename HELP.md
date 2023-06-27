@@ -49,4 +49,5 @@ If you're asking this question as a roundabout way of suggesting a mod, don't.
 
 As of now, the following issues are currently known:
 
-  - Using Poison Spells or Poison-related FX with Rudy's ENB will occasionally cause the game to CTD. This is a finicky bug that not everybody experiences and is difficult to solve. The alternative ENB in the guide, Pi-Cho (Quality or Performance), does not run into this issue nearly as frequently as compared to Rudy's, so my only suggestion is to swap ENBs (untick ENBSeries - Rudy ENB and tick either ENBSeries - Pi-Cho ENB - Quality Version or the Performance variant).
+  - Using Poison Spells or Poison-related FX with Rudy's ENB will occasionally cause the game to CTD.
+>This is a finicky bug that not everybody experiences and is difficult to solve. The alternative ENB in the guide, Pi-Cho (Quality or Performance), does not run into this issue nearly as frequently as compared to Rudy's, so my only suggestion is to swap ENBs (untick ENBSeries - Rudy ENB and tick either ENBSeries - Pi-Cho ENB - Quality Version or the Performance variant).
