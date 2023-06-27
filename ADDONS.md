@@ -1,4 +1,4 @@
-<a href="https://youtu.be/ExK6EUGDjaA?t=1"><img src="https://i.imgur.com/GPhY3Jj.png" target="_blank"></a>
+<a href="https://youtu.be/XRIE02v7Ri4"><img src="https://i.imgur.com/tRwxNaE.png" target="_blank"></a>
 
 ---
 
@@ -15,8 +15,7 @@
 ---
 
 # Addons
-The following list is a set of addons which can be added to Redoran to add certain large content pieces. Note, support for addons is provided by the creator of that addon and not by Redoran support. Install instructions are provided by the addon page listed and provide a guide for installing the addon.
 
-### [Redoran-Extended---NPC-Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md) by Foamimi
+The following list is a set of add-ons that can be installed alongside your instance of Eldryn. Note, support for addons is provided by the creator of that addon and not by Eldryn support. Install instructions are provided on the add-on page.
 
-### [Redoran-Extended---NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md) by Foamimi
+### [Eldryn-Extended---NSFW Addon](X) by Foamimi (WIP - Currently not available.)
