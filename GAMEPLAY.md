@@ -275,7 +275,7 @@ Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspe
 
 - [A Serious Wedding - A Teldyn Sero Marriage Mod](https://www.nexusmods.com/skyrimspecialedition/mods/10238) - Play an immersive, lore-friendly quest that features 105 lines of dialogue, free hugs, a Dunmeri wedding ceremony, experience buffs, and meals.
 
-  > :video_game: To begin, you must be at least level 25, then speak with Altano, who is located in the Windpeak Inn in Dawnstar.
+  > :video_game: To begin, you must speak to Teldryn Sero during the day in Raven Rock, and a new line of dialogue will appear.
 
 ### Quest Changes
 
