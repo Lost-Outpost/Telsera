@@ -18,7 +18,7 @@
 
 For issues that aren't documented, you can provide details on the [Issues](https://github.com/Lost-Outpost/eldryn/issues) page. Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Redoran Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
+Finally, free feel to hop on the Discord support forum channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
 # Frequently asked questions
 
