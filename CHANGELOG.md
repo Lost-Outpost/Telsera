@@ -36,6 +36,13 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.0.1 [UNRELEASED] ETA - Soon.
+
+- Added FALMER
+- Updated GORE
+- Removed Artic - Frost Effects Redux
+- Fixed compilation issues with Creation Club Content
+
 ## Version 1.0.0
 
 - Release
