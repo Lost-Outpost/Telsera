@@ -39,6 +39,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 ## Version 1.0.1 [UNRELEASED] ETA - Soon.
 
 - Added FALMER
+- Added TROLL
+- Added HAGRAVEN
+- Added Realistic Skin Shaders - Falmer and Hagravens
+- Added GIANT
+- Added Realistic Skin And Hair Shaders - Giants
 - Updated GORE
 - Removed Artic - Frost Effects Redux
 - Fixed compilation issues with Creation Club Content
