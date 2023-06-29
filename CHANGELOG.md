@@ -44,8 +44,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Realistic Skin Shaders - Falmer and Hagravens
 - Added GIANT
 - Added Realistic Skin And Hair Shaders - Giants
+- Added Skyforge Location
 - Updated GORE
 - Updated Random Male Wall Leaning Animations
+- Updated Lux Orbis
+- Updated Lux
 - Removed Artic - Frost Effects Redux
 - Fixed compilation issues with Creation Club Content
 
