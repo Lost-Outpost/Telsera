@@ -36,7 +36,7 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.0.2 [UNRELEASED]
+## Version 1.0.2
 
 **NOTE** - You may receive a pop-up about a plugin related to Companions Dialogue Bundle that is missing. This notification is safe to ignore.
 
@@ -44,7 +44,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added No Killmoves - No Killcams - No Killbites
 - Added Mysticism - Poison Crash Fix (TEST)
 - Added Companions - Don't be a Milk Drinker
-- Added PhotoMode (heck yea)
+- Added PhotoMode (heck yea!)
 - Updated Gore
 - Updated Lux
 - Updated Lux Orbis
@@ -53,9 +53,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Embers XD
 - Updated Navigator - Navmesh Fixes
 - Removed CC Camping - Embers XD Patch
-- Fixed wonky missing Solitude Windmill textures
 - Fixed Jora from not wearing Talos robes
+- Fixed missing Solitude Windmill textures
 - Fixed missing 1st person meshes from Steel Soldier Armor
+- Fixed missing gauntlets while wearing Warlock/Black Robes
 - Fixed Practical Female CC Armor meshes from not applying
 - Tweaked Rudy ENB to have Ambient Occlusion on by default
 - Tweaked UI button for Immersive Equipment Displays (was Backspace, now is F3)
