@@ -38,6 +38,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.0.2 [UNRELEASED]
 
+**NOTE** - You may receive a pop-up about a plugin related to Companions Dialogue Bundle that is missing. These notifications are safe to ignore.
+
 - Added Disable Annoying Werewolf Killmove
 - Added No Killmoves - No Killcams - No Killbites
 - Added Mysticism - Poison Crash Fix (TEST)
@@ -45,6 +47,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Lux
 - Updated Lux Orbis
 - Updated Assorted mesh fixes
+- Updated Companions Dialogue Bundle
+- Updated Embers XD
 - Removed CC Camping - Embers XD Patch
 
 ## Version 1.0.1.1
