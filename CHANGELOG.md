@@ -40,6 +40,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 - Added Disable Annoying Werewolf Killmove
 - Added No Killmoves - No Killcams - No Killbites
+- Added Mysticism - Poison Crash Fix (TEST)
 - Updated Gore
 - Updated Lux
 - Updated Lux Orbis
