@@ -38,7 +38,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.0.2 [UNRELEASED]
 
-**NOTE** - You may receive a pop-up about a plugin related to Companions Dialogue Bundle that is missing. These notifications are safe to ignore.
+**NOTE** - You may receive a pop-up about a plugin related to Companions Dialogue Bundle that is missing. This notification is safe to ignore.
 
 - Added Disable Annoying Werewolf Killmove
 - Added No Killmoves - No Killcams - No Killbites
@@ -50,10 +50,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Assorted mesh fixes
 - Updated Companions Dialogue Bundle
 - Updated Embers XD
+- Updated Navigator - Navmesh Fixes
 - Removed CC Camping - Embers XD Patch
 - Fixed wonky missing Solitude Windmill textures
 - Fixed Jora from not wearing Talos robes
 - Fixed missing 1st person meshes from Steel Soldier Armor
+- Fixed Practical Female CC Armor meshes from not applying
 - Tweaked Rudy ENB to have Ambient Occlusion on by default
 
 ## Version 1.0.1.1
