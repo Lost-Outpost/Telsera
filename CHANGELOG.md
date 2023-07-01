@@ -43,6 +43,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Disable Annoying Werewolf Killmove
 - Added No Killmoves - No Killcams - No Killbites
 - Added Mysticism - Poison Crash Fix (TEST)
+- Added Companions - Don't be a Milk Drinker
 - Updated Gore
 - Updated Lux
 - Updated Lux Orbis
@@ -50,6 +51,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Companions Dialogue Bundle
 - Updated Embers XD
 - Removed CC Camping - Embers XD Patch
+- Fixed wonky missing Solitude Windmill textures
+- Fixed Jora from not wearing Talos robes
+- Fixed missing 1st person meshes from Steel Soldier Armor
+- Tweaked Rudy ENB to have Ambient Occlusion on by default
 
 ## Version 1.0.1.1
 
