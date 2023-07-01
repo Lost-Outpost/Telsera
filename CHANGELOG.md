@@ -60,6 +60,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed Practical Female CC Armor meshes from not applying
 - Tweaked Rudy ENB to have Ambient Occlusion on by default
 - Tweaked UI button for Immersive Equipment Displays (was Backspace, now is F3)
+- Tweaked screenshot pop-up text from a successful take
+- Tweaked screenshot output from .bmp to .png format
 
 ## Version 1.0.1.1
 
