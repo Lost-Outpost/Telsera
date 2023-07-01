@@ -41,7 +41,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 **NOTE** - You may receive a pop-up about a plugin related to Companions Dialogue Bundle that is missing. This notification is safe to ignore.
 
 - Added Disable Annoying Werewolf Killmove
-- Added No Killmoves - No Killcams - No Killbites
+- Added Blade and Blunt - No Killmoves
 - Added Mysticism - Poison Crash Fix (TEST)
 - Added Companions - Don't be a Milk Drinker
 - Added PhotoMode
