@@ -39,6 +39,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 ## Version 1.0.2 [UNRELEASED]
 
 - Updated Lux
+- Updated Gore
 - Removed CC Camping - Embers XD Patch
 
 ## Version 1.0.1.1
