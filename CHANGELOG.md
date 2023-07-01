@@ -44,6 +44,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added No Killmoves - No Killcams - No Killbites
 - Added Mysticism - Poison Crash Fix (TEST)
 - Added Companions - Don't be a Milk Drinker
+- Added PhotoMode (heck yea)
 - Updated Gore
 - Updated Lux
 - Updated Lux Orbis
@@ -57,6 +58,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed missing 1st person meshes from Steel Soldier Armor
 - Fixed Practical Female CC Armor meshes from not applying
 - Tweaked Rudy ENB to have Ambient Occlusion on by default
+- Tweaked UI button for Immersive Equipment Displays (was Backspace, now is F3)
 
 ## Version 1.0.1.1
 
