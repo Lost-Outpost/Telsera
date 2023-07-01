@@ -44,14 +44,16 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added No Killmoves - No Killcams - No Killbites
 - Added Mysticism - Poison Crash Fix (TEST)
 - Added Companions - Don't be a Milk Drinker
-- Added PhotoMode (heck yea!)
+- Added PhotoMode
+- Added Ancient Dwemer Metal - Forgotten Retex Project Patch
 - Updated Gore
 - Updated Lux
 - Updated Lux Orbis
-- Updated Assorted mesh fixes
+- Updated Assorted Mesh Fixes
 - Updated Companions Dialogue Bundle
 - Updated Embers XD
 - Updated Navigator - Navmesh Fixes
+- Updated Adamant
 - Removed CC Camping - Embers XD Patch
 - Fixed Jora from not wearing Talos robes
 - Fixed missing Solitude Windmill textures
