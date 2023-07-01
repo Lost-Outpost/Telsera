@@ -38,8 +38,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.0.2 [UNRELEASED]
 
-- Updated Lux
+- Added Disable Annoying Werewolf Killmove
+- Added No Killmoves - No Killcams - No Killbites
 - Updated Gore
+- Updated Lux
+- Updated Lux Orbis
+- Updated Assorted mesh fixes
 - Removed CC Camping - Embers XD Patch
 
 ## Version 1.0.1.1
