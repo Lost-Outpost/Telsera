@@ -36,9 +36,24 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.0.3 [UNRELEASED]
+
+**NOTE** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
+
+- Added Bonemold Armors and Weapons Retexture
+- Updated Lockpicking for Barbarians
+- Updated Eeekie's Taliesin
+- Updated I'm Talkin' Here
+- Updated Stormcrown
+- Removed Simple Offence Suppression
+- Removed Simple Offence Suppression Tweaks
+- Removed Immortal Remnant - Redguard Elite Armor Variants
+- Removed Spell Knight Armor Variants
+- Fixed Mirabelle from not wearing college robes
+
 ## Version 1.0.2
 
-**NOTE** - You may receive a pop-up about a plugin related to Companions Dialogue Bundle that is missing. This notification is safe to ignore.
+**NOTE** - You may receive a pop-up about a plugin related to Companions Dialogue Bundle that is missing. **This notification is safe to ignore**.
 
 - Added Disable Annoying Werewolf Killmove
 - Added Blade and Blunt - No Killmoves
