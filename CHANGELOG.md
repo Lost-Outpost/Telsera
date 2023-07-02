@@ -45,11 +45,13 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Eeekie's Taliesin
 - Updated I'm Talkin' Here
 - Updated Stormcrown
+- Updated PhotoMode
 - Removed Simple Offence Suppression
 - Removed Simple Offence Suppression Tweaks
 - Removed Immortal Remnant - Redguard Elite Armor Variants
 - Removed Spell Knight Armor Variants
 - Fixed Mirabelle from not wearing college robes
+- Fixed screenshot output from being in two separate folders
 
 ## Version 1.0.2
 
