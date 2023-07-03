@@ -51,6 +51,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Simple Offence Suppression Tweaks
 - Removed Immortal Remnant - Redguard Elite Armor Variants
 - Removed Spell Knight Armor Variants
+- Removed Brawl Lines Expansion and Fixes
 - Fixed Mirabelle from not wearing college robes
 - Fixed screenshot output from being in two separate folders
 
