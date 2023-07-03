@@ -41,6 +41,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 **NOTE** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
 
 - Added Bonemold Armors and Weapons Retexture
+- Added VIGILANT - Enb Light Chest Fix
+- Added VIGILANT - Giant Creatures Fix
+- Added Vanilla Lighting Template Replacer for Lux
+- Added Lux - Brighter Interiors
 - Updated Lockpicking for Barbarians
 - Updated Eeekie's Taliesin
 - Updated I'm Talkin' Here
@@ -54,6 +58,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Brawl Lines Expansion and Fixes
 - Fixed Mirabelle from not wearing college robes
 - Fixed screenshot output from being in two separate folders
+- Fixed freezing issue in Southfringe Sanctum
+- Fixed Gwyneth from not wearing Covered Vigilant Robes
+- Fixed clipping of hair on guard helmets
+- Fixed giant cloud from clipping into the ground near a key location from Gore's questline
+- Included RDO settings to Eldryn Edition - Misc Config Settings to turn off the encounter with Terek by default
 
 ## Version 1.0.2
 
