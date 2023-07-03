@@ -45,6 +45,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Eeekie's Taliesin
 - Updated I'm Talkin' Here
 - Updated Stormcrown
+- Updated Gore
 - Updated PhotoMode
 - Removed Simple Offence Suppression
 - Removed Simple Offence Suppression Tweaks
