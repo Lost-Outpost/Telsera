@@ -36,9 +36,10 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.0.3 [UNRELEASED]
+## Version 1.0.3
 
 **NOTE** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
+**NOTE** - If you decide to take any screenshots in-game, you'll receive two copies of the same screenshot within the Root folder. This is currently trying to be addressed and will be looked into further for a future update.
 
 - Added Bonemold Armors and Weapons Retexture
 - Added VIGILANT - Enb Light Chest Fix
@@ -63,7 +64,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed screenshot output from being in two separate folders
 - Fixed freezing issue in Southfringe Sanctum
 - Fixed Gwyneth from not wearing Covered Vigilant Robes
-- Fixed clipping of hair on guard helmets
 - Fixed giant cloud from clipping into the ground near a key location from Gore's questline
 - Fixed incorrect texture placement on Dragonbone Shields
 - Included RDO settings to Eldryn Edition - Misc Config Settings to turn off the encounter with Terek by default
