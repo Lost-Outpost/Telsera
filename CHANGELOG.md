@@ -45,23 +45,27 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added VIGILANT - Giant Creatures Fix
 - Added Vanilla Lighting Template Replacer for Lux
 - Added Lux - Brighter Interiors
+- Added CC Camping - Embers XD Patch (was updated to match the most recent version of Embers XD)
+- Added Vampires Regen in Shade
+- Added Vampires Regen in Shade - Sacrilege Patch
 - Updated Lockpicking for Barbarians
 - Updated Eeekie's Taliesin
 - Updated I'm Talkin' Here
 - Updated Stormcrown
 - Updated Gore
 - Updated PhotoMode
+- Updated Brawl Lines Expansion and Fixes
 - Removed Simple Offence Suppression
 - Removed Simple Offence Suppression Tweaks
 - Removed Immortal Remnant - Redguard Elite Armor Variants
 - Removed Spell Knight Armor Variants
-- Removed Brawl Lines Expansion and Fixes
 - Fixed Mirabelle from not wearing college robes
 - Fixed screenshot output from being in two separate folders
 - Fixed freezing issue in Southfringe Sanctum
 - Fixed Gwyneth from not wearing Covered Vigilant Robes
 - Fixed clipping of hair on guard helmets
 - Fixed giant cloud from clipping into the ground near a key location from Gore's questline
+- Fixed incorrect texture placement on Dragonbone Shields
 - Included RDO settings to Eldryn Edition - Misc Config Settings to turn off the encounter with Terek by default
 
 ## Version 1.0.2
