@@ -38,8 +38,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.0.3
 
-**NOTE** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
-**NOTE** - If you decide to take any screenshots in-game, you'll receive two copies of the same screenshot within the Root folder. This is currently trying to be addressed and will be looked into further for a future update.
+- **NOTE** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
+- **NOTE** - If you decide to take any screenshots in-game, you'll receive two copies of the same screenshot within the Root folder. This is currently trying to be addressed and will be looked into further for a future update.
 
 - Added Bonemold Armors and Weapons Retexture
 - Added VIGILANT - Enb Light Chest Fix
