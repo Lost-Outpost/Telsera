@@ -36,6 +36,16 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.0.4 [UNRELEASED]
+
+- Added ElSopa - Carved Gildegreen HD - Alive Fix
+- Updated PhotoMode
+- Updated Immersive folded hands (DAR)
+- Updated NPC Animation Remix (DAR)
+- Updated Conditional tavern cheering (DAR)
+- Updated Open Animation Replacer
+- Tweaked start for VIGILANT to occur at level 30 instead of 25
+
 ## Version 1.0.3
 
 **NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**. If you decide to take any screenshots in-game, you'll receive **two copies of the same screenshot within the Root folder**. This is currently trying to be addressed and will be looked into further for a future update.
