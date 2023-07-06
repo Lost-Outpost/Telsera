@@ -267,7 +267,7 @@ Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspe
 
 - [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) - Vigilant of Stendarr Quest.
 
-  > :video_game: To begin, you must be at least level 25, then speak with Altano, who is located in the Windpeak Inn in Dawnstar.
+  > :video_game: To begin, you must be at least level 30, then speak with Altano, who is located in the Windpeak Inn in Dawnstar.
 
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) - Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape.
 
