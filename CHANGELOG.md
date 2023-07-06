@@ -39,6 +39,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 ## Version 1.0.4 [UNRELEASED]
 
 - Added ElSopa - Carved Gildegreen HD - Alive Fix
+- Added GORE - SHADOW WIZARD SEPTIM GANG (hehe)
 - Updated PhotoMode
 - Updated Immersive folded hands (DAR)
 - Updated NPC Animation Remix (DAR)
