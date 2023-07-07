@@ -40,11 +40,17 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 - Added ElSopa - Carved Gildegreen HD - Alive Fix
 - Added GORE - SHADOW WIZARD SEPTIM GANG (hehe)
+- Added Simple Offence Suppression
+- Added Simple Offence Suppression MCM - Block Friendly Fire
+- Added Simple Offence Suppression MCM - Block Friendly Fire - Combat Only
 - Updated PhotoMode
 - Updated Immersive folded hands (DAR)
 - Updated NPC Animation Remix (DAR)
 - Updated Conditional tavern cheering (DAR)
 - Updated Open Animation Replacer
+- Updated Hand to Hand
+- Updated Adamant
+- Updated Mysticism
 - Tweaked start for VIGILANT to occur at level 30 instead of 25
 
 ## Version 1.0.3
