@@ -51,6 +51,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Hand to Hand
 - Updated Adamant
 - Updated Mysticism
+- Updated Gore
 - Tweaked start for VIGILANT to occur at level 30 instead of 25
 
 ## Version 1.0.3
