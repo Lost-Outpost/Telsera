@@ -36,10 +36,11 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.0.4 [UNRELEASED]
+## Version 1.0.4
 
 - Added ElSopa - Carved Gildegreen HD - Alive Fix
 - Added GORE - SHADOW WIZARD SEPTIM GANG (hehe)
+- Added Deal With It Glasses (hehe)
 - Added Simple Offence Suppression
 - Added Simple Offence Suppression MCM - Block Friendly Fire
 - Added Simple Offence Suppression MCM - Block Friendly Fire - Combat Only
@@ -52,6 +53,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Adamant
 - Updated Mysticism
 - Updated Gore
+- Updated Assorted Mesh Fixes
 - Tweaked start for VIGILANT to occur at level 30 instead of 25
 
 ## Version 1.0.3
