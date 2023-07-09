@@ -36,6 +36,12 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.0.5 [UNRELEASED]
+
+- Updated Weapons Armor Clothing and Clutter Fixes
+- Updated various patches by Kryptopyr
+- Updated Gore
+
 ## Version 1.0.4
 
 - Added ElSopa - Carved Gildegreen HD - Alive Fix
