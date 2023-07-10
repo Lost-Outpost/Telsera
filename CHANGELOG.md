@@ -40,6 +40,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 - Added NPC Stuck in Bleedout Fix
 - Added GORE - Romance Dialogue Expansion
+- Added Skyland Bits and Bobs - A Clutter Overhaul
+- Added Phenderix Weather Changer
+- Added DudelSaur's Bone Wolf Expansion
 - Updated Weapons Armor Clothing and Clutter Fixes
 - Updated various patches by Kryptopyr
 - Updated Gore
@@ -48,6 +51,13 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Skyrim's Got Talent - Improve As a Bard
 - Updated BnP - Female Skin
 - Removed BnP - Female Skin - Bijin Style
+- Removed Langleys Textures Workshop - Clutter
+- Removed HD Sacks Retexture - Big Sacks
+- Removed HD Sacks Retexture - Small Sacks
+- Removed ElSopa - Papers HD
+- Removed Realistic Paper
+- Removed Business Ledger HD Retexture
+- Removed Dressed Hearthfire Doll
 
 ## Version 1.0.4
 
