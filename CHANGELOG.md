@@ -38,9 +38,16 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.0.5 [UNRELEASED]
 
+- Added NPC Stuck in Bleedout Fix
+- Added GORE - Romance Dialogue Expansion
 - Updated Weapons Armor Clothing and Clutter Fixes
 - Updated various patches by Kryptopyr
 - Updated Gore
+- Updated Assorted Mesh Fixes
+- Updated Simplicity of Snow
+- Updated Skyrim's Got Talent - Improve As a Bard
+- Updated BnP - Female Skin
+- Removed BnP - Female Skin - Bijin Style
 
 ## Version 1.0.4
 
