@@ -45,6 +45,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Skyland Bits and Bobs - A Clutter Overhaul
 - Added Phenderix Weather Changer
 - Added DudelSaur's Bone Wolf Expansion
+- Added The Heart of Dibella - Quest Expansion
 - Updated Weapons Armor Clothing and Clutter Fixes
 - Updated various patches by Kryptopyr
 - Updated Gore
