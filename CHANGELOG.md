@@ -41,7 +41,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 **NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
 
 - Added NPC Stuck in Bleedout Fix
-- Added GORE - Romance Dialogue Expansion
+- Added Gore - Romance Dialogue Expansion
+- Added Gore - Pink-ified (I do what I please!)
 - Added Skyland Bits and Bobs - A Clutter Overhaul
 - Added Phenderix Weather Changer
 - Added DudelSaur's Bone Wolf Expansion
