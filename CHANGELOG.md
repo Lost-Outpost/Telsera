@@ -38,6 +38,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.0.5 [UNRELEASED]
 
+**NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
+
 - Added NPC Stuck in Bleedout Fix
 - Added GORE - Romance Dialogue Expansion
 - Added Skyland Bits and Bobs - A Clutter Overhaul
@@ -58,6 +60,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Realistic Paper
 - Removed Business Ledger HD Retexture
 - Removed Dressed Hearthfire Doll
+- Fixed missing horse manes
+- Fixed missing hand meshes for Warlock Robes
 
 ## Version 1.0.4
 
