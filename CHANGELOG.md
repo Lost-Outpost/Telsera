@@ -68,6 +68,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Dressed Hearthfire Doll
 - Fixed missing horse manes
 - Fixed missing hand meshes for Warlock Robes
+- Fixed missing map markers in Bruma
 
 ## Version 1.0.4
 
