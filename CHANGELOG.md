@@ -48,6 +48,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added DudelSaur's Bone Wolf Expansion
 - Added The Heart of Dibella - Quest Expansion
 - Added Green Water Cubemap Fix
+- Added Beyond Skyrim Loading Screen Conditions
 - Updated Weapons Armor Clothing and Clutter Fixes
 - Updated various patches by Kryptopyr
 - Updated Gore
