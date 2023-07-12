@@ -47,6 +47,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Phenderix Weather Changer
 - Added DudelSaur's Bone Wolf Expansion
 - Added The Heart of Dibella - Quest Expansion
+- Added Green Water Cubemap Fix
 - Updated Weapons Armor Clothing and Clutter Fixes
 - Updated various patches by Kryptopyr
 - Updated Gore
@@ -54,6 +55,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Simplicity of Snow
 - Updated Skyrim's Got Talent - Improve As a Bard
 - Updated BnP - Female Skin
+- Updated Detailed Landscapes - Poison Blooms in Morthal Swamp (BOS)
+- Updated Companions Dialogue Bundle
 - Removed BnP - Female Skin - Bijin Style
 - Removed Langleys Textures Workshop - Clutter
 - Removed HD Sacks Retexture - Big Sacks
