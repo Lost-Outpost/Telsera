@@ -36,6 +36,23 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.0.6 [UNRELEASED] - ETA - 7/26/23 ish.
+
+**NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
+
+- Added The Heart of Dibella - Quest Expansion - Ace Bonus
+- Updated Lockpicking for Barbarians
+- Updated Gore
+- Updated Customizable Faster Mining Animation - OAR
+- Updated Customizable Faster Woodcutting Animation - OAR
+- Updated House of Horrors - Quest Expansion
+- Updated The Only Cure - Quest Expansion
+- Updated various Spaghetti's Cities - AIO - COTN patches
+- Updated Lux
+- Updated Embers XD
+- Removed Bleak Falls Barrow Web Mother - CC The Contest Addon
+- Tweaked interior brightness templates for Lux
+
 ## Version 1.0.5.1
 
 - Updated Gore - Romance Dialogue Expansion
