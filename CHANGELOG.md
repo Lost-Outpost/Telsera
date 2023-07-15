@@ -36,7 +36,7 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.0.6 [UNRELEASED] - ETA - 7/26/23 ish.
+## Version 1.0.6 [UNRELEASED]
 
 **NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
 
@@ -50,6 +50,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated various Spaghetti's Cities - AIO - COTN patches
 - Updated Lux
 - Updated Embers XD
+- Updated Civil War Lines Expansion
 - Removed Bleak Falls Barrow Web Mother - CC The Contest Addon
 - Tweaked interior brightness templates for Lux
 
