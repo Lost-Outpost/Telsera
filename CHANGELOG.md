@@ -36,11 +36,30 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.0.6 [UNRELEASED]
-
-**NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
+## Version 1.1.0 [UNRELEASED] - No ETA.
 
 - Added The Heart of Dibella - Quest Expansion - Ace Bonus
+- Added High Poly Sweet Rolls
+- Added Unmarked Locations Pack - Sovngarde
+- Added Unmarked Locations Pack - Forgotten Vale
+- Added VIGILANT Music Extended
+- Added Unslaad
+- Added UNSLAAD Voiced - English Addon
+- Added UNSLAAD - Delayed Start
+- Added Unslaad Weapons and Armors Retexture SE
+- Added Unslaad Hoarfrost Knight armour and Helmet tweaks and fixes
+- Added Unslaad - Settings Loader
+- Added UNSLAAD Music Extended
+- Added GLENMORIL
+- Added GLENMORIL - English Translation
+- Added GLENMORIL - Delayed Start
+- Added Glenmoril CBBE Bodyslide
+- Added GLENMORIL - Book Covers
+- Added GLENMORIL - NPC Overhaul
+- Added GLENMORIL - Settings Loader
+- Added Glenmoril Armors and Weapons Retexture SE
+- Added Glenmoril Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
+- Added Project AHO
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
@@ -52,7 +71,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Embers XD
 - Updated Civil War Lines Expansion
 - Removed Bleak Falls Barrow Web Mother - CC The Contest Addon
+- Removed NPCs React To Necromancy (And More)
+- Removed NPCs React To Invisibility
 - Tweaked interior brightness templates for Lux
+- Tweaked SSE Engine Fixes to enable Quicksaves as Regular Saves
 
 ## Version 1.0.5.1
 
