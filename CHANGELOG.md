@@ -46,7 +46,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Unslaad
 - Added UNSLAAD Voiced - English Addon
 - Added UNSLAAD - Delayed Start
-- Added Unslaad Weapons and Armors Retexture SE
+- Added Unslaad Weapons and Armors Retexture
 - Added Unslaad Hoarfrost Knight armour and Helmet tweaks and fixes
 - Added Unslaad - Settings Loader
 - Added UNSLAAD Music Extended
@@ -57,9 +57,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added GLENMORIL - Book Covers
 - Added GLENMORIL - NPC Overhaul
 - Added GLENMORIL - Settings Loader
-- Added Glenmoril Armors and Weapons Retexture SE
+- Added Glenmoril Armors and Weapons Retexture
 - Added Glenmoril Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
 - Added Project AHO
+- Added Modpocalypse NPCs - Resources
+- Added Hermaeus Mora - Water and tentacles - My HD version
+- Added Spaghetti's Orc Strongholds - AIO
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
