@@ -40,6 +40,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 - Added The Heart of Dibella - Quest Expansion - Ace Bonus
 - Added High Poly Sweet Rolls
+- Added High Poly Soul Husks
+- Added Soul Husk Retexture for High Poly Soul Husks
 - Added Unmarked Locations Pack - Sovngarde
 - Added Unmarked Locations Pack - Forgotten Vale
 - Added VIGILANT Music Extended
@@ -60,9 +62,21 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Glenmoril Armors and Weapons Retexture
 - Added Glenmoril Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
 - Added Project AHO
+- Added Unofficial Project AHO - Bugfix and Improvement Patch
+- Added Unofficial Project AHO - SMIM Chains Patch
+- Added Project AHO Vampirism Fix
+- Added Project AHO HD
+- Added Project AHO Sadrith Kegran ENB Fix
+- Added Ghosts of the Tribunal (CC) - Project AHO Integration Patch
+- Added Project AHO - Start When You Want
+- Added Project AHO - Tweaks
+- Added Project AHO - Security Overhaul Skyrim Patch
+- Added Project AHO - Spell Crafting for Mysticism
 - Added Modpocalypse NPCs - Resources
+- Added Modpocalypse NPCs - Project AHO
 - Added Hermaeus Mora - Water and tentacles - My HD version
 - Added Spaghetti's Orc Strongholds - AIO
+- Added Tel Jerdein - Telvanni Sorcerer Tower
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
@@ -76,6 +90,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Bleak Falls Barrow Web Mother - CC The Contest Addon
 - Removed NPCs React To Necromancy (And More)
 - Removed NPCs React To Invisibility
+- Removed Adoption Spouse and Moving Fixes
 - Tweaked interior brightness templates for Lux
 - Tweaked SSE Engine Fixes to enable Quicksaves as Regular Saves
 
