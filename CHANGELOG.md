@@ -42,6 +42,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added High Poly Sweet Rolls
 - Added High Poly Soul Husks
 - Added Soul Husk Retexture for High Poly Soul Husks
+- Added Hermaeus Mora - Water and tentacles - My HD version
 - Added Unmarked Locations Pack - Sovngarde
 - Added Unmarked Locations Pack - Forgotten Vale
 - Added VIGILANT Music Extended
@@ -74,9 +75,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Project AHO - Spell Crafting for Mysticism
 - Added Modpocalypse NPCs - Resources
 - Added Modpocalypse NPCs - Project AHO
-- Added Hermaeus Mora - Water and tentacles - My HD version
 - Added Spaghetti's Orc Strongholds - AIO
 - Added Tel Jerdein - Telvanni Sorcerer Tower
+- Added Seidr's Rest - Clever Man's Abode - Nord Mage Player Home
+- Added Soul Cairn Script Tweaks
+- Added Kruziik Golzze - Soul Cairn Ruins
+- Added Soul Cairn Trees and Shrubs Improved Textures
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
@@ -87,6 +91,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Lux
 - Updated Embers XD
 - Updated Civil War Lines Expansion
+- Updated Saints and Seducers - Mysticism Rebalance
 - Removed Bleak Falls Barrow Web Mother - CC The Contest Addon
 - Removed NPCs React To Necromancy (And More)
 - Removed NPCs React To Invisibility
