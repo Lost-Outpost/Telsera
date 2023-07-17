@@ -80,7 +80,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Seidr's Rest - Clever Man's Abode - Nord Mage Player Home
 - Added Soul Cairn Script Tweaks
 - Added Kruziik Golzze - Soul Cairn Ruins
-- Added Soul Cairn Trees and Shrubs Improved Textures
+- Added Ulfric...Tullius...Give Me a Break
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
