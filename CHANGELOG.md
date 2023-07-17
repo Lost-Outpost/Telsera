@@ -81,6 +81,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Soul Cairn Script Tweaks
 - Added Kruziik Golzze - Soul Cairn Ruins
 - Added Ulfric...Tullius...Give Me a Break
+- Added Dynamic Follower Weakening (SPID)
+- Added Aljo's Follower Tweaks
+- Added Katana - Journey in the Shadows
+- Added Katana De-Standalone
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
@@ -92,12 +96,17 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Embers XD
 - Updated Civil War Lines Expansion
 - Updated Saints and Seducers - Mysticism Rebalance
+- Updated Vestige - An Artifact Overhaul
+- Updated Base Object Swapper
 - Removed Bleak Falls Barrow Web Mother - CC The Contest Addon
 - Removed NPCs React To Necromancy (And More)
 - Removed NPCs React To Invisibility
 - Removed Adoption Spouse and Moving Fixes
+- Removed Armor and Clothing Extension - SPID Distribution
 - Tweaked interior brightness templates for Lux
 - Tweaked SSE Engine Fixes to enable Quicksaves as Regular Saves
+- Fixed missing Hand to Hand perk tree art
+- Fixed borked Monk Robes (potentially)
 
 ## Version 1.0.5.1
 
