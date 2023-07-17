@@ -53,7 +53,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Unslaad Hoarfrost Knight armour and Helmet tweaks and fixes
 - Added Unslaad - Settings Loader
 - Added UNSLAAD Music Extended
-- Added Glenmoril Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
+- Added Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
 - Added Project AHO
 - Added Unofficial Project AHO - Bugfix and Improvement Patch
 - Added Unofficial Project AHO - SMIM Chains Patch
