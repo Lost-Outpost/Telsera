@@ -75,6 +75,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Dynamic Follower Weakening (SPID)
 - Added Aljo's Follower Tweaks
 - Added Puellah's Taliesin Replacer
+- Added Tel Jerdein - Telvanni Sorcerer Tower
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
