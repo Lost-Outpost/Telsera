@@ -56,7 +56,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added GLENMORIL
 - Added GLENMORIL - English Translation
 - Added GLENMORIL - Delayed Start
-- Added Glenmoril CBBE Bodyslide
 - Added GLENMORIL - Book Covers
 - Added GLENMORIL - NPC Overhaul
 - Added GLENMORIL - Settings Loader
@@ -83,8 +82,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Ulfric...Tullius...Give Me a Break
 - Added Dynamic Follower Weakening (SPID)
 - Added Aljo's Follower Tweaks
-- Added Katana - Journey in the Shadows
-- Added Katana De-Standalone
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
