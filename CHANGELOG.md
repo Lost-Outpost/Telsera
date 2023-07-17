@@ -53,13 +53,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Unslaad Hoarfrost Knight armour and Helmet tweaks and fixes
 - Added Unslaad - Settings Loader
 - Added UNSLAAD Music Extended
-- Added GLENMORIL
-- Added GLENMORIL - English Translation
-- Added GLENMORIL - Delayed Start
-- Added GLENMORIL - Book Covers
-- Added GLENMORIL - NPC Overhaul
-- Added GLENMORIL - Settings Loader
-- Added Glenmoril Armors and Weapons Retexture
 - Added Glenmoril Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
 - Added Project AHO
 - Added Unofficial Project AHO - Bugfix and Improvement Patch
@@ -75,13 +68,13 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Modpocalypse NPCs - Resources
 - Added Modpocalypse NPCs - Project AHO
 - Added Spaghetti's Orc Strongholds - AIO
-- Added Tel Jerdein - Telvanni Sorcerer Tower
 - Added Seidr's Rest - Clever Man's Abode - Nord Mage Player Home
 - Added Soul Cairn Script Tweaks
 - Added Kruziik Golzze - Soul Cairn Ruins
 - Added Ulfric...Tullius...Give Me a Break
 - Added Dynamic Follower Weakening (SPID)
 - Added Aljo's Follower Tweaks
+- Added Puellah's Taliesin Replacer
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
@@ -100,6 +93,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed NPCs React To Invisibility
 - Removed Adoption Spouse and Moving Fixes
 - Removed Armor and Clothing Extension - SPID Distribution
+- Removed Cities of the North - Falkreath
+- Removed COTN Falkreath Patch Collection
+- Removed Spaghetti's Cities - AIO - COTN Falkreath Patch
+- Removed Cities of the North - Assorted Mesh Fixes Patch
+- Removed Eeekie's Taliesin
 - Tweaked interior brightness templates for Lux
 - Tweaked SSE Engine Fixes to enable Quicksaves as Regular Saves
 - Fixed missing Hand to Hand perk tree art
