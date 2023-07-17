@@ -76,6 +76,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Aljo's Follower Tweaks
 - Added Puellah's Taliesin Replacer
 - Added Tel Jerdein - Telvanni Sorcerer Tower
+- Added Simple Wearable Lanterns
+- Added Simple Wearable Lanterns Integration
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
