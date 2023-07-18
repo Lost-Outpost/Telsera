@@ -104,9 +104,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Eeekie's Taliesin
 - Tweaked interior brightness templates for Lux
 - Tweaked SSE Engine Fixes to enable Quicksaves as Regular Saves
-- Moved EVG Conditional Idles - Modesty Animations into a separate instance until Optional Mods (disabled by default)
 - Fixed missing Hand-to-Hand perk tree art
 - Fixed borked Monk Robes (potentially)
+- Moved EVG Conditional Idles - Modesty Animations into a separate instance until Optional Mods (disabled by default)
 
 ## Version 1.0.5.1
 
