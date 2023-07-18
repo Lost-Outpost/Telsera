@@ -79,6 +79,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Simple Wearable Lanterns
 - Added Simple Wearable Lanterns Integration
 - Added Vigilant - No Enemy Blur
+- Added EVG Conditional Idles - Settings Loader
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
@@ -106,7 +107,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Tweaked SSE Engine Fixes to enable Quicksaves as Regular Saves
 - Fixed missing Hand-to-Hand perk tree art
 - Fixed borked Monk Robes (potentially)
-- Moved EVG Conditional Idles - Modesty Animations into a separate instance until Optional Mods (disabled by default)
 
 ## Version 1.0.5.1
 
