@@ -104,7 +104,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Eeekie's Taliesin
 - Tweaked interior brightness templates for Lux
 - Tweaked SSE Engine Fixes to enable Quicksaves as Regular Saves
-- Fixed missing Hand to Hand perk tree art
+- Fixed missing Hand-to-Hand perk tree art
 - Fixed borked Monk Robes (potentially)
 
 ## Version 1.0.5.1
