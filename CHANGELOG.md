@@ -94,7 +94,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
 - Updated Customizable Faster Woodcutting Animation - OAR
-- Updated House of Horrors - Quest Expansion
 - Updated The Only Cure - Quest Expansion
 - Updated various Spaghetti's Cities - AIO - COTN patches
 - Updated Embers XD
@@ -103,6 +102,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Vestige - An Artifact Overhaul
 - Updated Base Object Swapper
 - Updated HIMBO Creation Club Armor Clothing Refits
+- Updated Assorted mesh fixes
 - Removed Bleak Falls Barrow Web Mother - CC The Contest Addon
 - Removed NPCs React To Necromancy (And More)
 - Removed NPCs React To Invisibility
@@ -117,6 +117,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed various Lux-related patches
 - Removed Armor and Clothing Extension
 - Removed various Armor and Clothing Extension-related patches
+- Removed House of Horrors - Quest Expansion
 - Tweaked SSE Engine Fixes to enable Quicksaves as Regular Saves
 - Tweaked Smoothcam and added Eldryn Setup preset (simply reduces the distance in which the camera swings over your shoulder while equipped with a bow/crossbow)
 - Fixed missing Hand-to-Hand perk tree art
