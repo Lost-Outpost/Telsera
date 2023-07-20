@@ -80,6 +80,13 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Simple Wearable Lanterns Integration
 - Added Vigilant - No Enemy Blur
 - Added EVG Conditional Idles - Settings Loader
+- Added Enhanced Lights and FX
+- Added ELFX Subtle Candle Smoke
+- Added ELFX - Hearthfire Light Addon
+- Added ELFX Shadows
+- Added ELFX Shadows - Official Patches Hub
+- Added ELFX - Myrwatch Mesh Patch
+- Added Flickering Meshes Fix
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
@@ -87,7 +94,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated House of Horrors - Quest Expansion
 - Updated The Only Cure - Quest Expansion
 - Updated various Spaghetti's Cities - AIO - COTN patches
-- Updated Lux
 - Updated Embers XD
 - Updated Civil War Lines Expansion
 - Updated Saints and Seducers - Mysticism Rebalance
@@ -103,8 +109,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Spaghetti's Cities - AIO - COTN Falkreath Patch
 - Removed Cities of the North - Assorted Mesh Fixes Patch
 - Removed Eeekie's Taliesin
-- Tweaked interior brightness templates for Lux
+- Removed Lux (gasp!)
+- Removed various Lux-related patches
+- Removed Armor and Clothing Extension
+- Removed various Armor and Clothing Extension-related patches
 - Tweaked SSE Engine Fixes to enable Quicksaves as Regular Saves
+- Tweaked Smoothcam and added Eldryn Setup preset (simply reduces the distance in which the camera swings over your shoulder while equipped with a bow/crossbow)
 - Fixed missing Hand-to-Hand perk tree art
 - Fixed borked Monk Robes (potentially)
 
