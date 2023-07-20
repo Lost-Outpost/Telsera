@@ -85,6 +85,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added ELFX - Hearthfire Light Addon
 - Added ELFX Shadows
 - Added ELFX Shadows - Official Patches Hub
+- Added ELFX Shadows - AE Patch
 - Added ELFX - Myrwatch Mesh Patch
 - Added Flickering Meshes Fix
 - Updated Lockpicking for Barbarians
@@ -99,6 +100,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Saints and Seducers - Mysticism Rebalance
 - Updated Vestige - An Artifact Overhaul
 - Updated Base Object Swapper
+- Updated HIMBO Creation Club Armor Clothing Refits
 - Removed Bleak Falls Barrow Web Mother - CC The Contest Addon
 - Removed NPCs React To Necromancy (And More)
 - Removed NPCs React To Invisibility
