@@ -88,6 +88,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added ELFX Shadows - AE Patch
 - Added ELFX - Myrwatch Mesh Patch
 - Added Flickering Meshes Fix
+- Added Stalhrim Armors and Weapons Retexture SE
+- Added Refrozen Stalhrim
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
