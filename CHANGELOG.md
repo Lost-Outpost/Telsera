@@ -38,88 +38,98 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.1.0 [UNRELEASED] - No ETA.
 
-- Added The Heart of Dibella - Quest Expansion - Ace Bonus
-- Added High Poly Sweet Rolls
-- Added High Poly Soul Husks
-- Added Soul Husk Retexture for High Poly Soul Husks
-- Added Hermaeus Mora - Water and tentacles - My HD version
-- Added Unmarked Locations Pack - Sovngarde
-- Added Unmarked Locations Pack - Forgotten Vale
-- Added VIGILANT Music Extended
-- Added Unslaad
-- Added UNSLAAD Voiced - English Addon
-- Added UNSLAAD - Delayed Start
-- Added Unslaad Weapons and Armors Retexture
-- Added Unslaad Hoarfrost Knight armour and Helmet tweaks and fixes
-- Added Unslaad - Settings Loader
-- Added UNSLAAD Music Extended
-- Added Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
-- Added Project AHO
-- Added Unofficial Project AHO - Bugfix and Improvement Patch
-- Added Unofficial Project AHO - SMIM Chains Patch
-- Added Project AHO Vampirism Fix
-- Added Project AHO HD
-- Added Project AHO Sadrith Kegran ENB Fix
-- Added Ghosts of the Tribunal (CC) - Project AHO Integration Patch
-- Added Project AHO - Start When You Want
-- Added Project AHO - Tweaks
-- Added Project AHO - Security Overhaul Skyrim Patch
-- Added Project AHO - Spell Crafting for Mysticism
-- Added Modpocalypse NPCs - Resources
-- Added Modpocalypse NPCs - Project AHO
-- Added Spaghetti's Orc Strongholds - AIO
-- Added Seidr's Rest - Clever Man's Abode - Nord Mage Player Home
-- Added Soul Cairn Script Tweaks
-- Added Kruziik Golzze - Soul Cairn Ruins
-- Added Ulfric...Tullius...Give Me a Break
-- Added Dynamic Follower Weakening (SPID)
-- Added Aljo's Follower Tweaks
-- Added Puellah's Taliesin Replacer
-- Added Tel Jerdein - Telvanni Sorcerer Tower
-- Added Simple Wearable Lanterns
-- Added Simple Wearable Lanterns Integration
-- Added Vigilant - No Enemy Blur
-- Added EVG Conditional Idles - Settings Loader
-- Added Enhanced Lights and FX
-- Added ELFX Subtle Candle Smoke
-- Added ELFX - Hearthfire Light Addon
-- Added ELFX Shadows
-- Added ELFX Shadows - Official Patches Hub
-- Added ELFX Shadows - AE Patch
-- Added ELFX - Myrwatch Mesh Patch
-- Added Flickering Meshes Fix
-- Added Stalhrim Armors and Weapons Retexture SE
-- Added Refrozen Stalhrim
-- Added K.C.C.E Khajiit Character Creation Extended
-- Updated Lockpicking for Barbarians
-- Updated Gore
-- Updated Customizable Faster Mining Animation - OAR
-- Updated Customizable Faster Woodcutting Animation - OAR
-- Updated The Only Cure - Quest Expansion
-- Updated various Spaghetti's Cities - AIO - COTN patches
-- Updated Embers XD
-- Updated Civil War Lines Expansion
-- Updated Saints and Seducers - Mysticism Rebalance
-- Updated Vestige - An Artifact Overhaul
-- Updated Base Object Swapper
-- Updated HIMBO Creation Club Armor Clothing Refits
-- Updated Assorted mesh fixes
-- Updated The Thalmor's Shadow - Taliesin (Custom Voiced Follower)
-- Removed Bleak Falls Barrow Web Mother - CC The Contest Addon
-- Removed NPCs React To Necromancy (And More)
-- Removed NPCs React To Invisibility
-- Removed Adoption Spouse and Moving Fixes
-- Removed Armor and Clothing Extension - SPID Distribution
-- Removed Cities of the North - Falkreath
-- Removed COTN Falkreath Patch Collection
-- Removed Spaghetti's Cities - AIO - COTN Falkreath Patch
-- Removed Cities of the North - Assorted Mesh Fixes Patch
-- Removed Eeekie's Taliesin
-- Removed Lux (gasp!)
-- Removed various Lux-related patches
-- Removed Armor and Clothing Extension
-- Removed various Armor and Clothing Extension-related patches
-- Removed House of Horrors - Quest Expansion
+### Added
+- The Heart of Dibella - Quest Expansion - Ace Bonus
+- High Poly Sweet Rolls
+- High Poly Soul Husks
+- Soul Husk Retexture for High Poly Soul Husks
+- Hermaeus Mora - Water and tentacles - My HD version
+- Unmarked Locations Pack - Sovngarde
+- Unmarked Locations Pack - Forgotten Vale
+- VIGILANT Music Extended
+- Unslaad
+- UNSLAAD Voiced - English Addon
+- UNSLAAD - Delayed Start
+- Unslaad Weapons and Armors Retexture
+- Unslaad Hoarfrost Knight armour and Helmet tweaks and fixes
+- Unslaad - Settings Loader
+- UNSLAAD Music Extended
+- Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
+- Project AHO
+- Unofficial Project AHO - Bugfix and Improvement Patch
+- Unofficial Project AHO - SMIM Chains Patch
+- Project AHO Vampirism Fix
+- Project AHO HD
+- Project AHO Sadrith Kegran ENB Fix
+- Ghosts of the Tribunal (CC) - Project AHO Integration Patch
+- Project AHO - Start When You Want
+- Project AHO - Tweaks
+- Project AHO - Security Overhaul Skyrim Patch
+- Project AHO - Spell Crafting for Mysticism
+- Modpocalypse NPCs - Resources
+- Modpocalypse NPCs - Project AHO
+- Spaghetti's Orc Strongholds - AIO
+- Seidr's Rest - Clever Man's Abode - Nord Mage Player Home
+- Soul Cairn Script Tweaks
+- Kruziik Golzze - Soul Cairn Ruins
+- Ulfric...Tullius...Give Me a Break
+- Dynamic Follower Weakening (SPID)
+- Aljo's Follower Tweaks
+- Puellah's Taliesin Replacer
+- Tel Jerdein - Telvanni Sorcerer Tower
+- Simple Wearable Lanterns
+- Simple Wearable Lanterns Integration
+- Vigilant - No Enemy Blur
+- EVG Conditional Idles - Settings Loader
+- Enhanced Lights and FX
+- ELFX Subtle Candle Smoke
+- ELFX - Hearthfire Light Addon
+- ELFX Shadows
+- ELFX Shadows - Official Patches Hub
+- ELFX Shadows - AE Patch
+- ELFX - Myrwatch Mesh Patch
+- Flickering Meshes Fix
+- Stalhrim Armors and Weapons Retexture SE
+- Refrozen Stalhrim
+- K.C.C.E Khajiit Character Creation Extended
+
+### Updated
+
+- Lockpicking for Barbarians
+- Gore
+- Customizable Faster Mining Animation - OAR
+- Customizable Faster Woodcutting Animation - OAR
+- The Only Cure - Quest Expansion
+- various Spaghetti's Cities - AIO - COTN patches
+- Embers XD
+- Civil War Lines Expansion
+- Saints and Seducers - Mysticism Rebalance
+- Vestige - An Artifact Overhaul
+- Base Object Swapper
+- HIMBO Creation Club Armor Clothing Refits
+- Assorted mesh fixes
+- The Thalmor's Shadow - Taliesin (Custom Voiced Follower)
+
+### Removed
+
+- Bleak Falls Barrow Web Mother - CC The Contest Addon
+- NPCs React To Necromancy (And More)
+- NPCs React To Invisibility
+- Adoption Spouse and Moving Fixes
+- Armor and Clothing Extension - SPID Distribution
+- Cities of the North - Falkreath
+- COTN Falkreath Patch Collection
+- Spaghetti's Cities - AIO - COTN Falkreath Patch
+- Cities of the North - Assorted Mesh Fixes Patch
+- Eeekie's Taliesin
+- Lux
+- various Lux-related patches
+- Armor and Clothing Extension
+- various Armor and Clothing Extension-related patches
+- House of Horrors - Quest Expansion
+
+### Misc
+
 - Tweaked SSE Engine Fixes to enable Quicksaves as Regular Saves
 - Tweaked Smoothcam and added Eldryn Setup preset (simply reduces the distance in which the camera swings over your shoulder while equipped with a bow/crossbow)
 - Fixed missing Hand-to-Hand perk tree art
