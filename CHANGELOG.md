@@ -90,6 +90,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Flickering Meshes Fix
 - Added Stalhrim Armors and Weapons Retexture SE
 - Added Refrozen Stalhrim
+- Added The Thalmor's Shadow - Taliesin (Custom Voiced Follower)
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
