@@ -90,7 +90,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Flickering Meshes Fix
 - Added Stalhrim Armors and Weapons Retexture SE
 - Added Refrozen Stalhrim
-- Added The Thalmor's Shadow - Taliesin (Custom Voiced Follower)
+- Added K.C.C.E Khajiit Character Creation Extended
 - Updated Lockpicking for Barbarians
 - Updated Gore
 - Updated Customizable Faster Mining Animation - OAR
@@ -104,6 +104,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Base Object Swapper
 - Updated HIMBO Creation Club Armor Clothing Refits
 - Updated Assorted mesh fixes
+- Updated The Thalmor's Shadow - Taliesin (Custom Voiced Follower)
 - Removed Bleak Falls Barrow Web Mother - CC The Contest Addon
 - Removed NPCs React To Necromancy (And More)
 - Removed NPCs React To Invisibility
