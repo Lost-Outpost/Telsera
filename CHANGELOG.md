@@ -96,7 +96,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - RaceMenu Undress
 - SD's Vanilla Table Replacers - Cloth Fix
 - Spaghetti's Faction Halls - Jorrvaskr
-- Silent Level Up Sounds (must-have for testing purposes, will be under optionals)
+- Silent Level Up Sounds (a must-have for testing purposes, will be under Optional Mods)
 
 ### Updated
 
@@ -114,6 +114,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - HIMBO Creation Club Armor Clothing Refits
 - Assorted mesh fixes
 - The Thalmor's Shadow - Taliesin (Custom Voiced Follower)
+- COTN Dawnstar Patch Collection
+- COTN Morthal Patch Collection
+- COTN Winterhold Patch Collection
+- Jarl Sitting Animation Replacer 
 
 ### Removed
 
@@ -139,7 +143,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Tweaked Smoothcam and added Eldryn Setup preset (simply reduces the distance in which the camera swings over your shoulder while equipped with a bow/crossbow)
 - Fixed missing Hand-to-Hand perk tree art
 - Fixed borked Monk Robes (potentially)
-- Fixed Goetia Animations from not replacing Pristine Vanilla Movements Run/Walk animations
 
 ## Version 1.0.5.1
 
