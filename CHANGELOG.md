@@ -94,6 +94,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - K.C.C.E Khajiit Character Creation Extended
 - Buy and Sell Torches - bug fix
 - RaceMenu Undress
+- SD's Vanilla Table Replacers - Cloth Fix
 
 ### Updated
 
@@ -136,6 +137,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Tweaked Smoothcam and added Eldryn Setup preset (simply reduces the distance in which the camera swings over your shoulder while equipped with a bow/crossbow)
 - Fixed missing Hand-to-Hand perk tree art
 - Fixed borked Monk Robes (potentially)
+- Fixed Goetia Animations from not replacing Pristine Vanilla Movements Run/Walk animations
 
 ## Version 1.0.5.1
 
