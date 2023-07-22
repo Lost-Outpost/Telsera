@@ -127,9 +127,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Adoption Spouse and Moving Fixes
 - Armor and Clothing Extension - SPID Distribution
 - Cities of the North - Falkreath
-- COTN Falkreath Patch Collection
-- Spaghetti's Cities - AIO - COTN Falkreath Patch
-- Cities of the North - Assorted Mesh Fixes Patch
+- various Cities of the North - Falkreath-related patches
 - Eeekie's Taliesin
 - Lux
 - various Lux-related patches
