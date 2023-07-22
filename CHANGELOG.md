@@ -95,6 +95,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Buy and Sell Torches - bug fix
 - RaceMenu Undress
 - SD's Vanilla Table Replacers - Cloth Fix
+- Spaghetti's Faction Halls - Jorrvaskr
+- Silent Level Up Sounds (must-have for testing purposes, will be under optionals)
 
 ### Updated
 
