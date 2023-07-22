@@ -125,13 +125,13 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - NPCs React To Necromancy (And More)
 - NPCs React To Invisibility
 - Adoption Spouse and Moving Fixes
-- Armor and Clothing Extension - SPID Distribution
 - Cities of the North - Falkreath
 - various Cities of the North - Falkreath-related patches
 - Eeekie's Taliesin
 - Lux
 - various Lux-related patches
 - Armor and Clothing Extension
+- Armor and Clothing Extension - SPID Distribution
 - various Armor and Clothing Extension-related patches
 - House of Horrors - Quest Expansion
 
