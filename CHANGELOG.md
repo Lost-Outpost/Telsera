@@ -117,7 +117,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - COTN Dawnstar Patch Collection
 - COTN Morthal Patch Collection
 - COTN Winterhold Patch Collection
-- Jarl Sitting Animation Replacer 
+- Jarl Sitting Animation Replacer
+- Sure of Stealing
+- Universal Unwanted Effects Clearer
 
 ### Removed
 
