@@ -43,6 +43,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - High Poly Sweet Rolls
 - High Poly Soul Husks
 - Soul Husk Retexture for High Poly Soul Husks
+- Soul Cairn Trees and Shrubs Improved Textures
 - Hermaeus Mora - Water and tentacles - My HD version
 - Unmarked Locations Pack - Sovngarde
 - Unmarked Locations Pack - Forgotten Vale
