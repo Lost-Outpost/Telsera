@@ -47,6 +47,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Unmarked Locations Pack - Sovngarde
 - Unmarked Locations Pack - Forgotten Vale
 - VIGILANT Music Extended
+- Ashes - VIGILANT Witch Hunter Armor Retexture
 - Unslaad
 - UNSLAAD Voiced - English Addon
 - UNSLAAD - Delayed Start
@@ -54,7 +55,18 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Unslaad Hoarfrost Knight armour and Helmet tweaks and fixes
 - Unslaad - Settings Loader
 - UNSLAAD Music Extended
-- Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
+- GLENMORIL
+- GLENMORIL - English Translation
+- Glenmoril - Delayed Start
+- Glenmoril - Book Covers
+- GLENMORIL - Settings Loader
+- Glenmoril Gun Replacer
+- GLENMORIL - NPC Overhaul
+- GLENMORIL - NPC Overhaul - Salt and Wind
+- GLENMORIL - High Poly Sweet Rolls Patch
+- Glenmoril Armors and Weapons Retexture
+- Glenmoril CBBE Bodyslide
+- Glenmoril - Unslaad - Vigilant - xVASynth Voiced
 - Project AHO
 - Unofficial Project AHO - Bugfix and Improvement Patch
 - Unofficial Project AHO - SMIM Chains Patch
@@ -97,6 +109,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - SD's Vanilla Table Replacers - Cloth Fix
 - Spaghetti's Faction Halls - Jorrvaskr
 - Silent Level Up Sounds (a must-have for testing purposes, will be under Optional Mods)
+- Langleys Textures Workshop - Clutter
 
 ### Updated
 
