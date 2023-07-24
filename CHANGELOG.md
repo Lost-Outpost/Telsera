@@ -132,6 +132,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Jarl Sitting Animation Replacer
 - Sure of Stealing
 - Universal Unwanted Effects Clearer
+- Chanterelle
+- Remiel-Custom Voiced Dwemer Specialist and Companion
+- The Practical Dwemechanic - A Remiel Replacer
 
 ### Removed
 
