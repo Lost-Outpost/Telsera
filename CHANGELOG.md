@@ -48,7 +48,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Unmarked Locations Pack - Sovngarde
 - Unmarked Locations Pack - Forgotten Vale
 - VIGILANT Music Extended
-- Unslaad
+- UNSLAAD
 - UNSLAAD Voiced - English Addon
 - UNSLAAD - Delayed Start
 - Unslaad Weapons and Armors Retexture
