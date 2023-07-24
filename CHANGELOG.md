@@ -103,7 +103,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Flickering Meshes Fix
 - Stalhrim Armors and Weapons Retexture SE
 - Refrozen Stalhrim
-- K.C.C.E Khajiit Character Creation Extended
 - Buy and Sell Torches - bug fix
 - RaceMenu Undress
 - SD's Vanilla Table Replacers - Cloth Fix
