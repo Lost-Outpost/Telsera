@@ -66,7 +66,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - GLENMORIL - NPC Overhaul - Salt and Wind
 - GLENMORIL - High Poly Sweet Rolls Patch
 - Glenmoril Armors and Weapons Retexture
-- Glenmoril CBBE Bodyslide
 - Glenmoril - Unslaad - Vigilant - xVASynth Voiced
 - Project AHO
 - Unofficial Project AHO - Bugfix and Improvement Patch
