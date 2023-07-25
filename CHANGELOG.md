@@ -152,6 +152,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - various Armor and Clothing Extension-related patches
 - Simple Offence Suppression
 - Simple Offence Suppression MCM - Block Friendly Fire
+- House of Horrors - Quest Expansion
 
 ### Misc
 
