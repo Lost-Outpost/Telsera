@@ -48,6 +48,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Unmarked Locations Pack - Sovngarde
 - Unmarked Locations Pack - Forgotten Vale
 - VIGILANT Music Extended
+- VIGILANT - Divine Crusader
 - UNSLAAD
 - UNSLAAD Voiced - English Addon
 - UNSLAAD - Delayed Start
@@ -109,6 +110,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Spaghetti's Faction Halls - Jorrvaskr
 - Silent Level Up Sounds (a must-have for testing purposes, will be under Optional Mods)
 - Langleys Textures Workshop - Clutter
+- Immortal-Essential Followers
 
 ### Updated
 
@@ -135,6 +137,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Chanterelle
 - Remiel-Custom Voiced Dwemer Specialist and Companion
 - The Practical Dwemechanic - A Remiel Replacer
+- Powerofthree's Papyrus Extender
 
 ### Removed
 
