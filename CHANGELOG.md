@@ -144,7 +144,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 ### Misc
 
 - Tweaked SSE Engine Fixes to enable Quicksaves as Regular Saves
-- Tweaked Smoothcam and added Eldryn Setup preset (simply reduces the distance in which the camera swings over your shoulder while equipped with a bow/crossbow)
+- Tweaked Smoothcam and added Eldryn Setup preset (reduces the distance in which the camera swings over your shoulder while equipped with a bow/crossbow)
+- Tweaked start requirements for Vigilant to now involve completion of House of Horrors
 - Fixed missing Hand-to-Hand perk tree art
 - Fixed borked Monk Robes (potentially)
 
