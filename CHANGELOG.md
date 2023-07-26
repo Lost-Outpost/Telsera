@@ -93,6 +93,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Silent Level Up Sounds (a must-have for testing purposes, will be under Optional Mods)
 - Langleys Textures Workshop - Clutter
 - Immortal-Essential Followers
+- Fixed Mesh Lighting
 
 ### Updated
 
