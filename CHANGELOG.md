@@ -95,6 +95,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Immortal-Essential Followers
 - Fixed Mesh Lighting
 - Barenziah's Glowing SE - New Colors and ENB Particle Lights
+- CC Zombies Retexture
 
 ### Updated
 
