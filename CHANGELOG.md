@@ -56,17 +56,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Unslaad Hoarfrost Knight armour and Helmet tweaks and fixes
 - Unslaad - Settings Loader
 - UNSLAAD Music Extended
-- GLENMORIL
-- GLENMORIL - English Translation
-- Glenmoril - Delayed Start
-- Glenmoril - Book Covers
-- GLENMORIL - Settings Loader
-- Glenmoril Gun Replacer
-- GLENMORIL - NPC Overhaul
-- GLENMORIL - NPC Overhaul - Salt and Wind
-- GLENMORIL - High Poly Sweet Rolls Patch
-- Glenmoril Armors and Weapons Retexture
-- Glenmoril - Unslaad - Vigilant - xVASynth Voiced
+- Unslaad - Vigilant - xVASynth Voiced
 - Project AHO
 - Unofficial Project AHO - Bugfix and Improvement Patch
 - Unofficial Project AHO - SMIM Chains Patch
