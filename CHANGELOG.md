@@ -94,6 +94,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Langleys Textures Workshop - Clutter
 - Immortal-Essential Followers
 - Fixed Mesh Lighting
+- Barenziah's Glowing SE - New Colors and ENB Particle Lights
 
 ### Updated
 
