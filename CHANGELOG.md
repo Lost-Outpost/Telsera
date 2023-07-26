@@ -49,14 +49,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Unmarked Locations Pack - Forgotten Vale
 - VIGILANT Music Extended
 - VIGILANT - Divine Crusader
-- UNSLAAD
-- UNSLAAD Voiced - English Addon
-- UNSLAAD - Delayed Start
-- Unslaad Weapons and Armors Retexture
-- Unslaad Hoarfrost Knight armour and Helmet tweaks and fixes
-- Unslaad - Settings Loader
-- UNSLAAD Music Extended
-- Unslaad - Vigilant - xVASynth Voiced
+- Vigilant - xVASynth Voiced
 - Project AHO
 - Unofficial Project AHO - Bugfix and Improvement Patch
 - Unofficial Project AHO - SMIM Chains Patch
