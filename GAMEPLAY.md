@@ -243,7 +243,11 @@ Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspe
 
 - [Breezehome by Lupus](https://www.nexusmods.com/skyrimspecialedition/mods/9626) - Lupus' version of the good old Breezehome. Small yet functional and with their own flavor. Finally Brought from Oldrim with some tiny improvements.
 
-- [Sorrow Point Crypt](https://www.nexusmods.com/skyrimspecialedition/mods/34336) - A very cozy grounded-player home, with a bit of story and mystery. 
+- [Sorrow Point Crypt](https://www.nexusmods.com/skyrimspecialedition/mods/34336) - A very cozy grounded-player home, with a bit of story and mystery.
+
+- [Tel Jerdein - Telvanni Sorcerer Tower](https://www.nexusmods.com/skyrimspecialedition/mods/33539) - High on the cliffs in The Rift, a wizard's tower stands overgrown by the mystic fungal scaffolds of House Telvanni.
+
+- [Seidr's Rest - Clever Man's Abode - Nord Mage Player Home](https://www.nexusmods.com/skyrimspecialedition/mods/39918) - A small dwelling in the Pale, built by ancient Nords in the traditional method: telekinesis.
 
 ## Quests and Adventures
 
@@ -267,7 +271,7 @@ Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspe
 
 - [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) - Vigilant of Stendarr Quest.
 
-  > :video_game: To begin, you must be at least level 30, then speak with Altano, who is located in the Windpeak Inn in Dawnstar.
+  > :video_game: To begin, you must be at least level 30 and have completed the vanilla quest, House of Horrors. Once you have met those requirements, speak with Altano, who is located in the Windpeak Inn in Dawnstar.
 
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) - Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape.
 
@@ -277,11 +281,13 @@ Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspe
 
   > :video_game: To begin, you must speak to Teldryn Sero during the day in Raven Rock, and a new line of dialogue will appear.
 
+- [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) - Project AHO is a large quest modification, comparable in size to a medium-sized DLC. Designed in the best traditions of Bethesda Game Studios, this mod adds to Skyrim a hidden settlement of Great House Telvanni. Determine its fate for yourself!
+
+  > :video_game: To begin, you must be level 25. Once you have reached that level, talk to Iddra the innkeeper in Kynesgrove, and she will have a note for you to investigate a suspicious orc at Mixwater Mill.
+
 ### Quest Changes
 
 Eldryn includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that add immersion and several pathways to finish vanilla quests.
-
-- [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285) - Expands Molag Bal's daedric quest, giving you the option of choosing an alternative "good guy" route to finish the vanilla quest.
 
 - [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) - A fully voiced, quite expanded new take on the quest Paarthurnax, giving both the Blades and Paarthurnax good reasons for their stances, and you, the final choice.
 
