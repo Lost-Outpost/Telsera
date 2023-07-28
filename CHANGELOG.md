@@ -143,6 +143,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - House of Horrors - Quest Expansion
 - Vigilant - CBBE
 - Vigilant Armor - HIMBO Refit
+- Archery Gameplay Overhaul - Animations Only
 
 ### Misc
 
