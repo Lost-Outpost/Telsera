@@ -36,7 +36,7 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.1.0 [UNRELEASED] - No ETA.
+## Version 1.1.0
 
 ### Added
 - The Heart of Dibella - Quest Expansion - Ace Bonus
@@ -50,6 +50,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - VIGILANT Music Extended
 - VIGILANT - Divine Crusader
 - Vigilant - xVASynth Voiced
+- Vigilant - No Enemy Blur
 - Project AHO
 - Unofficial Project AHO - Bugfix and Improvement Patch
 - Unofficial Project AHO - SMIM Chains Patch
@@ -74,7 +75,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Tel Jerdein - Telvanni Sorcerer Tower
 - Simple Wearable Lanterns
 - Simple Wearable Lanterns Integration
-- Vigilant - No Enemy Blur
 - EVG Conditional Idles - Settings Loader
 - Enhanced Lights and FX
 - ELFX Subtle Candle Smoke
