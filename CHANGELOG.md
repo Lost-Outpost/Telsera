@@ -36,7 +36,9 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.2.0 [UNRELEASED] - NO ETA
+## Version 1.2.0 [UNRELEASED] - NO ETA - maybe late August? who knows!
+
+*The large dash separators indicate a WIP in implementation.*
 
 ### Added
 - - - - - - - - - - - - -
@@ -62,8 +64,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 ### Removed
 - Soul Cairn Script Tweaks
 - - - - - - - - - - - - -
-
-*The multiple -'s indicate a WIP in implementation.*
 
 ## Version 1.1.0
 
