@@ -36,6 +36,35 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.2.0 [UNRELEASED] - NO ETA
+
+### Added
+- - - - - - - - - - - - -
+- Gourmet - A Cooking Overhaul
+- Gourmet Patch Page
+- Missile's Gourmet Patches
+- Apothecary - An Alchemy Overhaul
+- Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
+- Argonian and Khajiit Teeth FIx
+- Spaghetti's Faction Halls - Thieves Guild
+
+### Updated
+- VIGILANT - Divine Crusader Addon
+- Lockpicking for Barbarians
+- Assorted Mesh Fixes
+- - - - - - - - - - - - -
+- Gore
+- Stormcrown - A Shout Overhaul
+- Mundus - A Standing Stone Overhaul
+- Aetherius - A Race Overhaul
+- Headhunter - Bounties Redone
+
+### Removed
+- Soul Cairn Script Tweaks
+- - - - - - - - - - - - -
+
+*The multiple -'s indicate a WIP in implementation.*
+
 ## Version 1.1.0
 
 ### Added
