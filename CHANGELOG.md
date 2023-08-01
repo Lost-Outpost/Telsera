@@ -41,11 +41,14 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 *The large dash separators indicate a WIP in implementation.*
 
 ### Added
-- - - - - - - - - - - - -
+- Gore - Vigilant (it's here!)
+- Dwemer Pipe Steam Warms You (Survival Mode) (esl flagged)
+- Crystal Mudcrabs
 - Gourmet - A Cooking Overhaul
 - Gourmet Patch Page
 - Missile's Gourmet Patches
 - Apothecary - An Alchemy Overhaul
+- - - - - - - - - - - - -
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
 - Argonian and Khajiit Teeth FIx
 - Spaghetti's Faction Halls - Thieves Guild
@@ -54,12 +57,13 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - VIGILANT - Divine Crusader Addon
 - Lockpicking for Barbarians
 - Assorted Mesh Fixes
-- - - - - - - - - - - - -
 - Gore
+- - - - - - - - - - - - -
 - Stormcrown - A Shout Overhaul
 - Mundus - A Standing Stone Overhaul
 - Aetherius - A Race Overhaul
 - Headhunter - Bounties Redone
+- Blade and Blunt - A Combat Overhaul
 
 ### Removed
 - Soul Cairn Script Tweaks
