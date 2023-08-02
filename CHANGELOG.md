@@ -48,10 +48,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Gourmet Patch Page
 - Missile's Gourmet Patches
 - Apothecary - An Alchemy Overhaul
+- SkyClimb
 - - - - - - - - - - - - -
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
 - Argonian and Khajiit Teeth FIx
 - Spaghetti's Faction Halls - Thieves Guild
+- SkyClimb - Settings Loader
 
 ### Updated
 - VIGILANT - Divine Crusader Addon
@@ -64,6 +66,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Aetherius - A Race Overhaul
 - Headhunter - Bounties Redone
 - Blade and Blunt - A Combat Overhaul
+- JK's Dragonsreach
 
 ### Removed
 - Soul Cairn Script Tweaks
