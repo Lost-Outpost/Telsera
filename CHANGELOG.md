@@ -73,6 +73,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Soul Cairn Script Tweaks
 - Alchemy Plus - Better Models and Names
 - Dungeon - An Encounter Overhaul
+- Apothecary - Food and Drink Addon
 
 ## Version 1.1.0
 
