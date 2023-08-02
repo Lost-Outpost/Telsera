@@ -44,11 +44,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Gore - Vigilant (it's here!)
 - Dwemer Pipe Steam Warms You (Survival Mode) (esl flagged)
 - Crystal Mudcrabs
+- Apothecary - An Alchemy Overhaul
 - Gourmet - A Cooking Overhaul
 - Gourmet Patch Page
 - Missile's Gourmet Patches
-- Apothecary - An Alchemy Overhaul
 - SkyClimb
+- DVA - Dynamic Vampire Apperance
 - - - - - - - - - - - - -
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
 - Argonian and Khajiit Teeth FIx
