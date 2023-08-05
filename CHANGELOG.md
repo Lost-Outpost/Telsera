@@ -53,6 +53,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Starfrost - A Survival Overhaul
 - Pandorable's Sebastian
 - Pandorable's Joseph
+- Hendraheim - Creation Club Patches
 - - - - - - - - - - - - -
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
 - Argonian and Khajiit Teeth FIx
