@@ -51,6 +51,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - SkyClimb
 - DVA - Dynamic Vampire Appearance
 - Starfrost - A Survival Overhaul
+- Pandorable's Sebastian
+- Pandorable's Joseph
 - - - - - - - - - - - - -
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
 - Argonian and Khajiit Teeth FIx
