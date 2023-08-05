@@ -49,7 +49,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Gourmet Patch Page
 - Missile's Gourmet Patches
 - SkyClimb
-- DVA - Dynamic Vampire Apperance
+- DVA - Dynamic Vampire Appearance
+- Starfrost - A Survival Overhaul
 - - - - - - - - - - - - -
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
 - Argonian and Khajiit Teeth FIx
@@ -60,8 +61,14 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - VIGILANT - Divine Crusader Addon
 - Lockpicking for Barbarians
 - Assorted Mesh Fixes
-- Gore
+- Navigator - Navmesh Fixes
+- Sure of Stealing
+- Mysticism - A Magic Overhaul
+- Unofficial Skyrim Creation Club Content Patches
+- Survival Mode Improved - SKSE
+- GORE - Miscellaneous Patches
 - - - - - - - - - - - - -
+- Gore
 - Stormcrown - A Shout Overhaul
 - Mundus - A Standing Stone Overhaul
 - Aetherius - A Race Overhaul
