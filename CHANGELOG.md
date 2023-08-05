@@ -67,6 +67,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Unofficial Skyrim Creation Club Content Patches
 - Survival Mode Improved - SKSE
 - GORE - Miscellaneous Patches
+- Immersive Equipment Displays
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
