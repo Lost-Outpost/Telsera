@@ -54,12 +54,17 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Pandorable's Sebastian
 - Pandorable's Joseph
 - Hendraheim - Creation Club Patches
+- Dressed Hearthfire Doll
+- FYX - Water Mesh Optimization
+- Survival Mode (CC) - Cloaks of Skyrim Patch
+- Rare Curious (CC) - Poison Apple Texture Swap Fix
+- Landscape Fixes For Grass Mods
+- Landscape Fixes For Grass Mods - COTN Morthal Patch
 - - - - - - - - - - - - -
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
 - Argonian and Khajiit Teeth FIx
 - Spaghetti's Faction Halls - Thieves Guild
 - SkyClimb - Settings Loader
-- FYX - Water Mesh Optimization
 
 ### Updated
 - VIGILANT - Divine Crusader Addon
@@ -74,6 +79,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Immersive Equipment Displays
 - Keyword Item Distributor (KID)
 - VIGILANT Voiced - English Addon Subtitle Patch
+- Lilebonymace's patches and xEdit scripts
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
