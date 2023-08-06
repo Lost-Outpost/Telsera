@@ -59,6 +59,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Argonian and Khajiit Teeth FIx
 - Spaghetti's Faction Halls - Thieves Guild
 - SkyClimb - Settings Loader
+- FYX - Water Mesh Optimization
 
 ### Updated
 - VIGILANT - Divine Crusader Addon
@@ -71,6 +72,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Survival Mode Improved - SKSE
 - GORE - Miscellaneous Patches
 - Immersive Equipment Displays
+- Keyword Item Distributor (KID)
+- VIGILANT Voiced - English Addon Subtitle Patch
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
