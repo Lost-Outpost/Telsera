@@ -48,6 +48,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Gourmet - A Cooking Overhaul
 - Gourmet Patch Page
 - Missile's Gourmet Patches
+- EVG Animated Traversal
 - SkyClimb
 - DVA - Dynamic Vampire Appearance
 - Starfrost - A Survival Overhaul
