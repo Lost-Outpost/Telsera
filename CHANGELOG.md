@@ -94,6 +94,13 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Apothecary - Food and Drink Addon
 - Reverb Interior Sounds Expansion
 - Acoustic Space Improvement Fixes
+- Skyrim's Got Talent - Player Reactions Addon
+
+### Misc
+- Fixed missing Shrouded Cowl mesh paths
+- Fixed DynDOLOD campfire pop-ins
+- Fixed stormy weather FX from appearing indoors
+- Fixed sunken objects around Hendraheim
 
 ## Version 1.1.0
 
