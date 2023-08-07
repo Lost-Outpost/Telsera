@@ -59,6 +59,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Survival Mode (CC) - Cloaks of Skyrim Patch
 - Rare Curious (CC) - Poison Apple Texture Swap Fix
 - Hunt vampires as a vampire - do dawnguard questline as a vampire
+- Darenii Spell Packs - Drop Rate Nerfs
+- Dust Effects by HHaleyy
 - - - - - - - - - - - - -
 - Argonian and Khajiit Teeth FIx
 - Spaghetti's Faction Halls - Thieves Guild
