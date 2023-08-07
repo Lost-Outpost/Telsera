@@ -61,6 +61,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Rare Curious (CC) - Poison Apple Texture Swap Fix
 - Landscape Fixes For Grass Mods
 - Landscape Fixes For Grass Mods - COTN Morthal Patch
+- Complementary Grass Fixes
 - - - - - - - - - - - - -
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
 - Argonian and Khajiit Teeth FIx
