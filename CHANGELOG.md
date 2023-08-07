@@ -47,6 +47,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Gourmet - A Cooking Overhaul
 - Gourmet Patch Page
 - Missile's Gourmet Patches
+- Gourmet - Beyond Skyrim - Wares of Tamriel Patch
 - EVG Animated Traversal
 - SkyClimb
 - Starfrost - A Survival Overhaul
