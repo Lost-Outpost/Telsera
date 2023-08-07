@@ -42,7 +42,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ### Added
 - Gore - Vigilant (it's here!)
-- Dwemer Pipe Steam Warms You (Survival Mode) (esl flagged)
 - Crystal Mudcrabs
 - Apothecary - An Alchemy Overhaul
 - Gourmet - A Cooking Overhaul
@@ -96,6 +95,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Reverb Interior Sounds Expansion
 - Acoustic Space Improvement Fixes
 - Skyrim's Got Talent - Player Reactions Addon
+- Play Dawnguard as Vampire Undetected - Sacrilege Tweaks
+- Mysticism - A Magic Overhaul - Survival Spells
 
 ### Misc
 - Fixed missing Shrouded Cowl mesh paths
