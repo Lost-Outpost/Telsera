@@ -58,8 +58,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - FYX - Water Mesh Optimization
 - Survival Mode (CC) - Cloaks of Skyrim Patch
 - Rare Curious (CC) - Poison Apple Texture Swap Fix
+- Hunt vampires as a vampire - do dawnguard questline as a vampire
 - - - - - - - - - - - - -
-- Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
 - Argonian and Khajiit Teeth FIx
 - Spaghetti's Faction Halls - Thieves Guild
 - SkyClimb - Settings Loader
@@ -78,6 +78,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Keyword Item Distributor (KID)
 - VIGILANT Voiced - English Addon Subtitle Patch
 - lilebonymace's patches and xEdit scripts
+- Unofficial Skyrim Modder's Patch - USMP SE
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
@@ -101,6 +102,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed DynDOLOD campfire pop-ins
 - Fixed stormy weather FX from appearing indoors
 - Fixed sunken objects around Hendraheim
+- Fixed mismatching masculine diffuse + normal maps for vampires
+- Tweaked diffuse + normal maps for vampires for BnP (CBBE)
 
 ## Version 1.1.0
 
