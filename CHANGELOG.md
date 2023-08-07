@@ -50,7 +50,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Missile's Gourmet Patches
 - EVG Animated Traversal
 - SkyClimb
-- DVA - Dynamic Vampire Appearance
 - Starfrost - A Survival Overhaul
 - Pandorable's Sebastian
 - Pandorable's Joseph
@@ -59,9 +58,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - FYX - Water Mesh Optimization
 - Survival Mode (CC) - Cloaks of Skyrim Patch
 - Rare Curious (CC) - Poison Apple Texture Swap Fix
-- Landscape Fixes For Grass Mods
-- Landscape Fixes For Grass Mods - COTN Morthal Patch
-- Complementary Grass Fixes
 - - - - - - - - - - - - -
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
 - Argonian and Khajiit Teeth FIx
@@ -81,7 +77,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Immersive Equipment Displays
 - Keyword Item Distributor (KID)
 - VIGILANT Voiced - English Addon Subtitle Patch
-- Lilebonymace's patches and xEdit scripts
+- lilebonymace's patches and xEdit scripts
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
@@ -96,6 +92,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Alchemy Plus - Better Models and Names
 - Dungeon - An Encounter Overhaul
 - Apothecary - Food and Drink Addon
+- Reverb Interior Sounds Expansion
+- Acoustic Space Improvement Fixes
 
 ## Version 1.1.0
 
