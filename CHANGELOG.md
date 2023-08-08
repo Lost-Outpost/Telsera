@@ -50,6 +50,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Gourmet - Beyond Skyrim - Wares of Tamriel Patch
 - EVG Animated Traversal
 - SkyClimb
+- SkyClimb - Settings Loader
 - Starfrost - A Survival Overhaul
 - Pandorable's Sebastian
 - Pandorable's Joseph
@@ -62,10 +63,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Darenii Spell Packs - Drop Rate Nerfs
 - Dust Effects by HHaleyy
 - Vanilla Script (micro)Optimization 1.16a - Adoption Bug Fix
-- - - - - - - - - - - - -
-- Argonian and Khajiit Teeth FIx
+- Argonian and Khajiit Teeth Fix
+- DyndoLOD FX Glow Accurate Disabler - Qality of Life
+- Hendraheim Hall Stability
+- Tundra Homestead Stability
 - Spaghetti's Faction Halls - Thieves Guild
-- SkyClimb - Settings Loader
+- - - - - - - - - - - - -
 
 ### Updated
 - VIGILANT - Divine Crusader Addon
@@ -82,12 +85,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - VIGILANT Voiced - English Addon Subtitle Patch
 - lilebonymace's patches and xEdit scripts
 - Unofficial Skyrim Modder's Patch - USMP SE
+- Headhunter - Bounties Redone
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
 - Mundus - A Standing Stone Overhaul
 - Aetherius - A Race Overhaul
-- Headhunter - Bounties Redone
 - Blade and Blunt - A Combat Overhaul
 - JK's Dragonsreach
 
