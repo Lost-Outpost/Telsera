@@ -64,11 +64,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Dust Effects by HHaleyy
 - Vanilla Script (micro)Optimization 1.16a - Adoption Bug Fix
 - Argonian and Khajiit Teeth Fix
-- DyndoLOD FX Glow Accurate Disabler - Qality of Life
 - Hendraheim Hall Stability
 - Tundra Homestead Stability
 - Spaghetti's Faction Halls - Thieves Guild
 - - - - - - - - - - - - -
+- DyndoLOD FX Glow Accurate Disabler - Quality of Life
 
 ### Updated
 - VIGILANT - Divine Crusader Addon
