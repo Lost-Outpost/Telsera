@@ -111,7 +111,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed stormy weather FX from appearing indoors
 - Fixed sunken objects around Hendraheim
 - Fixed mismatching masculine diffuse + normal maps for vampires
+- Fixed missing juniper berry textures
 - Tweaked diffuse + normal maps for vampires for BnP (CBBE)
+- Tweaked Vigilant's quest start to not include House of Horrors anymore (I'm lazy, let's be real here)
 
 ## Version 1.1.0
 
