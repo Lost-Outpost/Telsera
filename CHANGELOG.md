@@ -104,6 +104,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Skyrim's Got Talent - Player Reactions Addon
 - Play Dawnguard as Vampire Undetected - Sacrilege Tweaks
 - Mysticism - A Magic Overhaul - Survival Spells
+- Ashlander's Vestments - An Unofficial Thaumaturgy Addon
 
 ### Misc
 - Fixed missing Shrouded Cowl mesh paths
