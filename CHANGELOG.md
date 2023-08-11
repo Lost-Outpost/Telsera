@@ -92,6 +92,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - lilebonymace's patches and xEdit scripts
 - Unofficial Skyrim Modder's Patch - USMP SE
 - Headhunter - Bounties Redone
+- Kaidan 2 Extended Edition (it's here!)
+- Flute Animation Fix
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
@@ -107,6 +109,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Apothecary - Food and Drink Addon
 - Reverb Interior Sounds Expansion
 - Acoustic Space Improvement Fixes
+- Skyrim's Got Talent - Improve As a Bard
 - Skyrim's Got Talent - Player Reactions Addon
 - Play Dawnguard as Vampire Undetected - Sacrilege Tweaks
 - Mysticism - A Magic Overhaul - Survival Spells
