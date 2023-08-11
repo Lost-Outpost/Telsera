@@ -73,8 +73,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - JK's Temple of the Divines
 - JK's Temple of the Divines Lite
 - JK's Castle Dour
+- Mania Mushroom Retextured (Saints and Seducers CC)
 - - - - - - - - - - - - -
 - DyndoLOD FX Glow Accurate Disabler - Quality of Life
+- Guards and Stormcloaks Armors Retexture SE
 
 ### Updated
 - VIGILANT - Divine Crusader Addon
