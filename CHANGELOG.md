@@ -76,6 +76,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Mania Mushroom Retextured (Saints and Seducers CC)
 - - - - - - - - - - - - -
 - DyndoLOD FX Glow Accurate Disabler - Quality of Life
+- Minimalistic Follower Framework
 - Guards and Stormcloaks Armors Retexture SE
 
 ### Updated
