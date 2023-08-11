@@ -67,6 +67,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Hendraheim Hall Stability
 - Tundra Homestead Stability
 - Spaghetti's Faction Halls - Thieves Guild
+- JK's Temple of Dibella
+- JK's Temple of Kynareth
+- JK's Temple of Talos
+- JK's Temple of the Divines
+- JK's Temple of the Divines Lite
+- JK's Castle Dour
 - - - - - - - - - - - - -
 - DyndoLOD FX Glow Accurate Disabler - Quality of Life
 
