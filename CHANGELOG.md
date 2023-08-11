@@ -44,6 +44,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Gore - Vigilant (it's here!)
 - Crystal Mudcrabs
 - Apothecary - An Alchemy Overhaul
+- Starfrost - A Survival Overhaul
 - Gourmet - A Cooking Overhaul
 - Gourmet Patch Page
 - Missile's Gourmet Patches
@@ -51,7 +52,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - EVG Animated Traversal
 - SkyClimb
 - SkyClimb - Settings Loader
-- Starfrost - A Survival Overhaul
 - Pandorable's Sebastian
 - Pandorable's Joseph
 - Hendraheim - Creation Club Patches
