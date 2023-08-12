@@ -74,10 +74,15 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - JK's Temple of the Divines Lite
 - JK's Castle Dour
 - Mania Mushroom Retextured (Saints and Seducers CC)
+- CC's Camping Expansion
+- CC's Camping Expansion - Settings Loader
+- Unofficial Beyond Skyrim Bruma Camping (CC) Patch
 - - - - - - - - - - - - -
 - DyndoLOD FX Glow Accurate Disabler - Quality of Life
-- Minimalistic Follower Framework
+- Vampire Armors and Weapons Retexture SE
 - Guards and Stormcloaks Armors Retexture SE
+- Simple Follower Extension AE
+- Juniper's Fort Dawnguard
 
 ### Updated
 - VIGILANT - Divine Crusader Addon
