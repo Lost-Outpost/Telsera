@@ -78,11 +78,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - CC's Camping Expansion - Settings Loader
 - Unofficial Beyond Skyrim Bruma Camping (CC) Patch
 - Assorted Animation Fixes
+- Simple Follower Extension AE
 - - - - - - - - - - - - -
 - DyndoLOD FX Glow Accurate Disabler - Quality of Life
 - Vampire Armors and Weapons Retexture SE
 - Guards and Stormcloaks Armors Retexture SE
-- Simple Follower Extension AE
 
 ### Updated
 - VIGILANT - Divine Crusader Addon
@@ -131,7 +131,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed mismatching masculine diffuse + normal maps for vampires
 - Fixed missing juniper berry textures
 - Tweaked diffuse + normal maps for vampires for BnP (CBBE)
-- Tweaked Vigilant's quest start to not include House of Horrors anymore (I'm lazy, let's be real here)
+- Tweaked Vigilant's quest start not to include House of Horrors anymore (I'm lazy, let's be real here)
 
 ## Version 1.1.0
 
