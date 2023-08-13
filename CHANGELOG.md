@@ -79,8 +79,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Unofficial Beyond Skyrim Bruma Camping (CC) Patch
 - Assorted Animation Fixes
 - Simple Follower Extension AE
-- - - - - - - - - - - - -
 - DyndoLOD FX Glow Accurate Disabler - Quality of Life
+- - - - - - - - - - - - -
 - Vampire Armors and Weapons Retexture SE
 - Guards and Stormcloaks Armors Retexture SE
 
@@ -102,6 +102,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Headhunter - Bounties Redone
 - Kaidan 2 Extended Edition (it's here!)
 - Flute Animation Fix
+- Simplicity of Snow
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
