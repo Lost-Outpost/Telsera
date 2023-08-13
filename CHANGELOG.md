@@ -80,6 +80,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Assorted Animation Fixes
 - Simple Follower Extension AE
 - DyndoLOD FX Glow Accurate Disabler - Quality of Life
+- Better SMIM Junipers
+- Reach Trees Enhanced
 - - - - - - - - - - - - -
 - Vampire Armors and Weapons Retexture SE
 - Guards and Stormcloaks Armors Retexture SE
