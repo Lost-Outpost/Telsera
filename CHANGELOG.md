@@ -82,6 +82,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - DyndoLOD FX Glow Accurate Disabler - Quality of Life
 - Better SMIM Junipers
 - Reach Trees Enhanced
+- Myrwatch - Tweaks and Enhancements
+- Creation Club Basket Distribution - Base Object Swapper (BOS) (only the Forgotten Retex Project patch)
 - - - - - - - - - - - - -
 - Vampire Armors and Weapons Retexture SE
 - Guards and Stormcloaks Armors Retexture SE
