@@ -41,6 +41,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 *The large dash separators indicate a WIP in implementation.*
 
 ### Added
+
+**New optional, manual installation guide (HDT-SMP Armor Addon) that will be linked to upon release.**
+
 - Gore - Vigilant (it's here!)
 - Crystal Mudcrabs
 - Apothecary - An Alchemy Overhaul
@@ -82,6 +85,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - DyndoLOD FX Glow Accurate Disabler - Quality of Life
 - Better SMIM Junipers
 - Reach Trees Enhanced
+- Windhelm Docks Map Marker
 - Myrwatch - Tweaks and Enhancements
 - Creation Club Basket Distribution - Base Object Swapper (BOS) (only the Forgotten Retex Project patch)
 - - - - - - - - - - - - -
@@ -108,7 +112,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Flute Animation Fix
 - Simplicity of Snow
 - Lux Orbis Misc Patches
-- Windhelm Docks Map Marker
+- Use Those Blankets
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
