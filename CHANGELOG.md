@@ -105,6 +105,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Kaidan 2 Extended Edition (it's here!)
 - Flute Animation Fix
 - Simplicity of Snow
+- Lux Orbis Misc Patches
+- Windhelm Docks Map Marker
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
