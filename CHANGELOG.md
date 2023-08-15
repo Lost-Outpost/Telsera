@@ -115,7 +115,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Simplicity of Snow
 - Lux Orbis Misc Patches
 - Use Those Blankets
-- Security Overhaul SKSE - Lock Add-ons
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
@@ -123,6 +122,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Aetherius - A Race Overhaul
 - Blade and Blunt - A Combat Overhaul
 - JK's Dragonsreach
+- Security Overhaul SKSE - Lock Add-ons
 
 ### Removed
 - Soul Cairn Script Tweaks
