@@ -52,6 +52,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Gourmet Patch Page
 - Missile's Gourmet Patches
 - Gourmet - Beyond Skyrim - Wares of Tamriel Patch
+- Candlehearth - An Inn Overhaul
+- Candlehearth - An Inn Overhaul and Cities of the North (COTN) Patch
 - EVG Animated Traversal
 - SkyClimb
 - SkyClimb - Settings Loader
