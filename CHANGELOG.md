@@ -90,9 +90,13 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Windhelm Docks Map Marker
 - Myrwatch - Tweaks and Enhancements
 - Creation Club Basket Distribution - Base Object Swapper (BOS) (only the Forgotten Retex Project patch)
+- Unique Festival Ropes
+- Improved Table Transition Animations
+- Open Animation Replacer - IED Conditions
 - - - - - - - - - - - - -
 - Vampire Armors and Weapons Retexture SE
 - Guards and Stormcloaks Armors Retexture SE
+- Guards and Stormcloaks Armors Retexture - 3BA and HIMBO bodyslides
 
 ### Updated
 - VIGILANT - Divine Crusader Addon
