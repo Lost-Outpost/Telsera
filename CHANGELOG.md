@@ -123,6 +123,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Blade and Blunt - A Combat Overhaul
 - JK's Dragonsreach
 - Security Overhaul SKSE - Lock Add-ons
+- Chanterelle - a Savage World to Explore
+- Wild Horses of Chanterelle
 
 ### Removed
 - Soul Cairn Script Tweaks
