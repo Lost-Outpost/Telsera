@@ -91,7 +91,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Myrwatch - Tweaks and Enhancements
 - Creation Club Basket Distribution - Base Object Swapper (BOS) (only the Forgotten Retex Project patch)
 - Unique Festival Ropes
-- Improved Table Transition Animations
 - Open Animation Replacer - IED Conditions
 - - - - - - - - - - - - -
 - Vampire Armors and Weapons Retexture SE
