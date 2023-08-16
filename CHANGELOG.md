@@ -57,7 +57,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - EVG Animated Traversal
 - SkyClimb
 - SkyClimb - Settings Loader
-- SkyClimb - No Marker
+- SkyClimb - No Marker (thank you Squeegee!)
 - Pandorable's Sebastian
 - Pandorable's Joseph
 - Hendraheim - Creation Club Patches
@@ -84,7 +84,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - CC's Camping Expansion - Settings Loader
 - Unofficial Beyond Skyrim Bruma Camping (CC) Patch
 - Assorted Animation Fixes
-- Simple Follower Extension AE
 - DyndoLOD FX Glow Accurate Disabler - Quality of Life
 - Better SMIM Junipers
 - Reach Trees Enhanced
@@ -93,6 +92,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Creation Club Basket Distribution - Base Object Swapper (BOS) (only the Forgotten Retex Project patch)
 - Unique Festival Ropes
 - Open Animation Replacer - IED Conditions
+- Simple Follower Manager
+- Simply Order Summons
+- Swiftly Order Squad - Follower Commands UI
+- Swiftly Order Squad Icon Replacements
 - - - - - - - - - - - - -
 - Vampire Armors and Weapons Retexture SE
 - Guards and Stormcloaks Armors Retexture SE
