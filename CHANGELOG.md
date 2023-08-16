@@ -57,6 +57,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - EVG Animated Traversal
 - SkyClimb
 - SkyClimb - Settings Loader
+- SkyClimb - No Marker
 - Pandorable's Sebastian
 - Pandorable's Joseph
 - Hendraheim - Creation Club Patches
@@ -118,6 +119,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Simplicity of Snow
 - Lux Orbis Misc Patches
 - Use Those Blankets
+- Word Wall Transparency Fix for EN
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
