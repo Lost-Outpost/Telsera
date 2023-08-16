@@ -92,7 +92,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Creation Club Basket Distribution - Base Object Swapper (BOS) (only the Forgotten Retex Project patch)
 - Unique Festival Ropes
 - Open Animation Replacer - IED Conditions
-- Simple Follower Manager
+- Minimalistic Follower Framework
 - Simply Order Summons
 - Swiftly Order Squad - Follower Commands UI
 - Swiftly Order Squad Icon Replacements
