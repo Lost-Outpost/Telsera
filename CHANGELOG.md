@@ -123,7 +123,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Simplicity of Snow
 - Lux Orbis Misc Patches
 - Use Those Blankets
-- Word Wall Transparency Fix for EN
+- Word Wall Transparency Fix for ENB
+- XP32 Maximum Skeleton Special Extended
+- Vulcano
 - - - - - - - - - - - - -
 - Gore
 - Stormcrown - A Shout Overhaul
