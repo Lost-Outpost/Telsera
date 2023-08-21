@@ -152,6 +152,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - LOVERBOY (HIMBO)
 - AW Mosaic Male Skin (HIMBO) - Orc Normal Map Fix
 - AW Mosaic Male Skin (HIMBO) - Vampire Fix
+- Immortal-Essential Followers
 
 ### Misc
 - Fixed missing Shrouded Cowl mesh paths
