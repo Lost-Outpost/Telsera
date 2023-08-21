@@ -99,6 +99,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Guards and Stormcloaks Armors Retexture - 3BA and HIMBO bodyslides
 - Load Screen Shading Fix
 - BnP Male Skin (HIMBO)
+- CC Farming Rebalanced
 
 ### Updated
 - VIGILANT - Divine Crusader Addon
