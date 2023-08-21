@@ -36,7 +36,7 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.2.0 [UNRELEASED] - NO ETA - soonish
+## Version 1.2.0 [UNRELEASED] - NO ETA
 
 ### Added
 
@@ -89,7 +89,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Myrwatch - Tweaks and Enhancements
 - Creation Club Basket Distribution - Base Object Swapper (BOS) (only the Forgotten Retex Project patch)
 - Unique Festival Ropes
-- Open Animation Replacer - IED Conditions
 - Simply Order Summons
 - Swiftly Order Squad - Follower Commands UI
 - Swiftly Order Squad Icon Replacements
@@ -99,7 +98,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Guards and Stormcloaks Armors Retexture SE
 - Guards and Stormcloaks Armors Retexture - 3BA and HIMBO bodyslides
 - Load Screen Shading Fix
-- Weapon Styles - DrawSheathe Animations for IED
+- BnP Male Skin (HIMBO)
 
 ### Updated
 - VIGILANT - Divine Crusader Addon
@@ -150,6 +149,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Expressive Remiel
 - Frankly HD Stormcloak and City Guards
 - Frankly HD Stormcloak and City Guards - Fixed Fix
+- LOVERBOY (HIMBO)
+- AW Mosaic Male Skin (HIMBO) - Orc Normal Map Fix
+- AW Mosaic Male Skin (HIMBO) - Vampire Fix
 
 ### Misc
 - Fixed missing Shrouded Cowl mesh paths
