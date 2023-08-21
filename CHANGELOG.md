@@ -133,6 +133,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - JK's Dragonsreach
 - Security Overhaul SKSE - Lock Add-ons
 - Wild Horses of Chanterelle
+- Nordic Feel - Realistic Bodyslide for CBBE - Eldryn Edition
 
 ### Removed
 - Soul Cairn Script Tweaks
