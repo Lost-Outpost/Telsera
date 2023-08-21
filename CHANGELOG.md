@@ -38,11 +38,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.2.0 [UNRELEASED] - NO ETA - maybe late August? who knows!
 
-*The large dash separators indicate a WIP in implementation.*
-
 ### Added
 
-**New optional, manual installation guide (HDT-SMP Armor Addon) that will be linked to upon release.**
+**A new optional, manual installation guide (HDT-SMP Armor Addon) will be linked to upon release.**
 
 - Gore - Vigilant (it's here!)
 - Crystal Mudcrabs
@@ -97,10 +95,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Swiftly Order Squad Icon Replacements
 - Nether's Follower Framework
 - Nether's Follower Framework - Settings Loader
-- - - - - - - - - - - - -
 - Vampire Armors and Weapons Retexture SE
 - Guards and Stormcloaks Armors Retexture SE
 - Guards and Stormcloaks Armors Retexture - 3BA and HIMBO bodyslides
+- Load Screen Shading Fix
+- Weapon Styles - DrawSheathe Animations for IED
 
 ### Updated
 - VIGILANT - Divine Crusader Addon
@@ -126,16 +125,16 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Word Wall Transparency Fix for ENB
 - XP32 Maximum Skeleton Special Extended
 - Vulcano
-- - - - - - - - - - - - -
 - Gore
+- Remiel
 - Stormcrown - A Shout Overhaul
 - Mundus - A Standing Stone Overhaul
 - Aetherius - A Race Overhaul
 - Blade and Blunt - A Combat Overhaul
 - JK's Dragonsreach
 - Security Overhaul SKSE - Lock Add-ons
-- Chanterelle - a Savage World to Explore
 - Wild Horses of Chanterelle
+- CBBE
 
 ### Removed
 - Soul Cairn Script Tweaks
@@ -149,6 +148,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Play Dawnguard as Vampire Undetected - Sacrilege Tweaks
 - Mysticism - A Magic Overhaul - Survival Spells
 - Ashlander's Vestments - An Unofficial Thaumaturgy Addon
+- Expressive Remiel
+- Frankly HD Stormcloak and City Guards
+- Frankly HD Stormcloak and City Guards - Fixed Fix
 
 ### Misc
 - Fixed missing Shrouded Cowl mesh paths
