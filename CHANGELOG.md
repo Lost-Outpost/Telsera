@@ -134,7 +134,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - JK's Dragonsreach
 - Security Overhaul SKSE - Lock Add-ons
 - Wild Horses of Chanterelle
-- CBBE
 
 ### Removed
 - Soul Cairn Script Tweaks
