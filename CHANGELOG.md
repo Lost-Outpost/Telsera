@@ -36,11 +36,11 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.2.0 [UNRELEASED] - NO ETA
+## Version 1.2.0
+
+**NEW** - [Eldryn Extended - HDT-SMP Armor Addon by Foamimi](https://github.com/Foamimi/Eldryn-Extended---HDT-SMP-Armor-Addon)
 
 ### Added
-
-**A new optional, manual installation guide (HDT-SMP Armor Addon) will be linked to upon release.**
 
 - Gore - Vigilant (it's here!)
 - Crystal Mudcrabs
@@ -166,6 +166,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Tweaked diffuse + normal maps for vampires for BnP (CBBE)
 - Tweaked Vigilant's quest start not to include House of Horrors anymore (I'm lazy, let's be real here)
 
+- - - - - - - - -
+
 ## Version 1.1.0
 
 ### Added
@@ -283,10 +285,14 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed missing Hand-to-Hand perk tree art
 - Fixed borked Monk Robes (potentially)
 
+- - - - - - - - -
+
 ## Version 1.0.5.1
 
 - Updated Gore - Romance Dialogue Expansion
 - Fixed cast iron pots from having misaligned textures
+
+- - - - - - - - -
 
 ## Version 1.0.5
 
@@ -322,6 +328,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed missing hand meshes for Warlock Robes
 - Fixed missing map markers in Bruma
 
+- - - - - - - - -
+
 ## Version 1.0.4
 
 - Added ElSopa - Carved Gildegreen HD - Alive Fix
@@ -341,6 +349,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Gore
 - Updated Assorted Mesh Fixes
 - Tweaked start for VIGILANT to occur at level 30 instead of 25
+
+- - - - - - - - -
 
 ## Version 1.0.3
 
@@ -373,6 +383,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed incorrect texture placement on Dragonbone Shields
 - Included RDO settings to Eldryn Edition - Misc Config Settings to turn off the encounter with Terek by default
 
+- - - - - - - - -
+
 ## Version 1.0.2
 
 **NOTE** - You may receive a pop-up about a plugin related to Companions Dialogue Bundle that is missing. **This notification is safe to ignore**.
@@ -402,9 +414,13 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Tweaked screenshot pop-up text from a successful take
 - Tweaked screenshot output from .bmp to .png format
 
+- - - - - - - - -
+
 ## Version 1.0.1.1
 
 - Fixed compilation issues with Creation Club Content (for realsies)
+
+- - - - - - - - -
 
 ## Version 1.0.1
 
@@ -422,6 +438,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Artic - Frost Effects Redux
 - Fixed compilation issues with Creation Club Content
 
+- - - - - - - - -
+
 ## Version 1.0.0
 
 - Release
+
+- - - - - - - - -
