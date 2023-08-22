@@ -16,6 +16,6 @@
 
 # Add-ons
 
-The following list is a set of add-ons that can be installed alongside your instance of Eldryn. Note, support for addons is provided by the creator of that addon and not by Eldryn support. Install instructions are provided on the respective page.
+The following list is a set of add-ons that can be installed alongside your instance of Eldryn. Note, that support for addons is provided by the creator of that addon, and not by Eldryn support. Install instructions are provided on the respective page.
 
-### [Eldryn-Extended---NSFW Addon](X) by Foamimi (WIP - Currently not available.)
+### [Eldryn-Extended---HDT-SMP Armor Addon](https://github.com/Foamimi/Eldryn-Extended---HDT-SMP-Armor-Addon) by Foamimi
