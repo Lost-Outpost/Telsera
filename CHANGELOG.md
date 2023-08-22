@@ -38,7 +38,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.2.0
 
-**NEW** - [Eldryn Extended - HDT-SMP Armor Addon by Foamimi](https://github.com/Foamimi/Eldryn-Extended---HDT-SMP-Armor-Addon)
+**NEW** - [Eldryn Extended - HDT-SMP Armor Addon](https://github.com/Foamimi/Eldryn-Extended---HDT-SMP-Armor-Addon) by Foamimi
 
 ### Added
 
