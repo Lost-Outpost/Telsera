@@ -14,7 +14,7 @@
 
 ---
 
-# Add-ons
+# Addons
 
 The following list is a set of add-ons that can be installed alongside your instance of Eldryn. Note, that support for addons is provided by the creator of that addon, and not by Eldryn support. Install instructions are provided on the respective page.
 
