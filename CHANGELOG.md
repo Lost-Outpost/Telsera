@@ -41,6 +41,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Baited - A Fishing Artifact Overhaul
 - Added Kill Caps Lock NG
 - Added Leviathan Animations II - Greatsword Sneak Locomotion And Attacks
+- Added Madness and Order
 - Updated VIGILANT
 - Updated VIGILANT Voiced - English Addon
 - Updated PhotoMode
