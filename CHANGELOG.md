@@ -36,6 +36,18 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.2.1 [UNRELEASED] - No ETA.
+
+- Added Baited - A Fishing Artifact Overhaul
+- Added Kill Caps Lock NG
+- Added Leviathan Animations II - Greatsword Sneak Locomotion And Attacks
+- Updated VIGILANT
+- Updated VIGILANT Voiced - English Addon
+- Updated PhotoMode
+- Updated Candlehearth - An Inn Overhaul
+- Updated Nether's Follower Framework
+- Updated Sure of Stealing
+
 ## Version 1.2.0.1
 
 - Removed VIGILANT - Divine Crusader Addon
