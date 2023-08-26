@@ -42,6 +42,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Kill Caps Lock NG
 - Added Leviathan Animations II - Greatsword Sneak Locomotion And Attacks
 - Added Madness and Order
+- Added Optimized Meshes - Rudy HQ - Miscellaneous SE
 - Updated VIGILANT
 - Updated VIGILANT Voiced - English Addon
 - Updated PhotoMode
@@ -49,9 +50,13 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Nether's Follower Framework
 - Updated Sure of Stealing
 
+- - - - - - - - -
+
 ## Version 1.2.0.1
 
 - Removed VIGILANT - Divine Crusader Addon
+
+- - - - - - - - -
 
 ## Version 1.2.0
 
