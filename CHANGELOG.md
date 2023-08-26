@@ -49,6 +49,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Candlehearth - An Inn Overhaul
 - Updated Nether's Follower Framework
 - Updated Sure of Stealing
+- Updated Kaidan 2 Extended Edition
 
 - - - - - - - - -
 
