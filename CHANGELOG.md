@@ -53,6 +53,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Sure of Stealing
 - Updated Kaidan 2 Extended Edition
 - Updated Vestige - An Artifact Overhaul
+- Updated Base Object Swapper
+- Updated Keyword Item Distributor (KID)
+- Updated Glenmoril Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
 - - - - - - - - -
 
 ## Version 1.2.0.1
