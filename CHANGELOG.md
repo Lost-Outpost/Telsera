@@ -45,6 +45,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Optimized Meshes - Rudy HQ - Miscellaneous SE
 - Added Organic Player Animations (OAR)
 - Added Stand Still in RaceMenu (OAR) - Vanilla Idle
+- Added Forsworn Armors and Weapons Retexture SE
 - Updated VIGILANT
 - Updated VIGILANT Voiced - English Addon
 - Updated PhotoMode
