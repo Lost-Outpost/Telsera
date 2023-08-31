@@ -46,6 +46,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Organic Player Animations (OAR)
 - Added Stand Still in RaceMenu (OAR) - Vanilla Idle
 - Added Forsworn Armors and Weapons Retexture SE
+- Added Paired Animation Improvements
+- Added Container Item Distributor (CID)
+- Added Purchasable CC Camping Supplies (CID)
 - Updated VIGILANT
 - Updated VIGILANT Voiced - English Addon
 - Updated PhotoMode
@@ -57,6 +60,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Base Object Swapper
 - Updated Keyword Item Distributor (KID)
 - Updated Glenmoril Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
+- Updated Open Animation Replacer
 - - - - - - - - -
 
 ## Version 1.2.0.1
