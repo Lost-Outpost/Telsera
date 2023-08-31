@@ -47,6 +47,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Paired Animation Improvements
 - Added Container Item Distributor (CID)
 - Added Purchasable CC Camping Supplies (CID)
+- Added Flawn's Vanilla Argonians Redux (UNP - CBBE - HIMBO)
 - Updated VIGILANT
 - Updated VIGILANT Voiced - English Addon
 - Updated PhotoMode
@@ -59,6 +60,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Keyword Item Distributor (KID)
 - Updated Glenmoril Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
 - Updated Open Animation Replacer
+- Removed Feminine Argonian Textures (CBBE)
+- Removed Masculine Argonian Textures (HIMBO)
 - Fixed aging maps via BnP from being overwritten (give us back the wrinkles!)
 - - - - - - - - -
 
