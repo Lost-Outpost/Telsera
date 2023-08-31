@@ -42,7 +42,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Kill Caps Lock NG
 - Added Leviathan Animations II - Greatsword Sneak Locomotion And Attacks
 - Added Madness and Order
-- Added Optimized Meshes - Rudy HQ - Miscellaneous SE
 - Added Forsworn Armors and Weapons Retexture SE
 - Added Paired Animation Improvements
 - Added Container Item Distributor (CID)
@@ -63,6 +62,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Feminine Argonian Textures (CBBE)
 - Removed Masculine Argonian Textures (HIMBO)
 - Fixed aging maps via BnP from being overwritten (give us back the wrinkles!)
+- Made various consistency patches for NPC overhauls to have more defined wrinkles (huzzah!)
 - - - - - - - - -
 
 ## Version 1.2.0.1
