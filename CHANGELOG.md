@@ -59,6 +59,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Keyword Item Distributor (KID)
 - Updated Glenmoril Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
 - Updated Open Animation Replacer
+- Fixed aging maps via BnP from being overwritten (give us back the wrinkles!)
 - - - - - - - - -
 
 ## Version 1.2.0.1
