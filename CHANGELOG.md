@@ -43,8 +43,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Leviathan Animations II - Greatsword Sneak Locomotion And Attacks
 - Added Madness and Order
 - Added Optimized Meshes - Rudy HQ - Miscellaneous SE
-- Added Organic Player Animations (OAR)
-- Added Stand Still in RaceMenu (OAR) - Vanilla Idle
 - Added Forsworn Armors and Weapons Retexture SE
 - Added Paired Animation Improvements
 - Added Container Item Distributor (CID)
