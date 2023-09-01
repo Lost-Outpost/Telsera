@@ -47,6 +47,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Container Item Distributor (CID)
 - Added Purchasable CC Camping Supplies (CID)
 - Added Flawn's Vanilla Argonians Redux (UNP - CBBE - HIMBO)
+- Added Skin Feature Overlays SE - Freckles Scars Birthmarks Stretch Marks Moles
+- Added FA ORCODONTIST - Orsimer Mouth and Teeth Fix
+- Added Shiny ENB Eyebrows Begone
+- Added ENB Shiny Beard Fix
+- Added K.C.C.E Khajiit Character Creation Extended
 - Updated VIGILANT
 - Updated VIGILANT Voiced - English Addon
 - Updated PhotoMode
