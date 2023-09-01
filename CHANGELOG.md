@@ -52,6 +52,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Shiny ENB Eyebrows Begone
 - Added ENB Shiny Beard Fix
 - Added K.C.C.E Khajiit Character Creation Extended
+- Added ECE Ear Shape Sliders for RaceMenu
 - Updated VIGILANT
 - Updated VIGILANT Voiced - English Addon
 - Updated PhotoMode
