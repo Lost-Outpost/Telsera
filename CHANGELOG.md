@@ -74,6 +74,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Feminine Argonian Textures (CBBE)
 - Removed Masculine Argonian Textures (HIMBO)
 - Removed GORE - Pink-ified (won't work anymore with the most recent version)
+- Fixed Inigo's ebony bow from having a rainbow, oil-like cubemap appearance
 - Fixed aging maps via BnP from being overwritten (give us back the wrinkles!)
 - Made consistency patches for NPC overhauls to have more defined wrinkles (huzzah!)
 - - - - - - - - -
