@@ -38,6 +38,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.2.1 [UNRELEASED] - No ETA.
 
+**NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
+
 - Added Baited - A Fishing Artifact Overhaul
 - Added Kill Caps Lock NG
 - Added Leviathan Animations II - Greatsword Sneak Locomotion And Attacks
@@ -51,8 +53,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added FA ORCODONTIST - Orsimer Mouth and Teeth Fix
 - Added Shiny ENB Eyebrows Begone
 - Added ENB Shiny Beard Fix
-- Added K.C.C.E Khajiit Character Creation Extended
 - Added ECE Ear Shape Sliders for RaceMenu
+- Added VIGILANT - JS Common Cages Patch
+- Added Medieval Spirits - Empty Hearthfire Wine Bottles Patch
 - Updated VIGILANT
 - Updated VIGILANT Voiced - English Addon
 - Updated PhotoMode
@@ -65,10 +68,14 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Keyword Item Distributor (KID)
 - Updated Glenmoril Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
 - Updated Open Animation Replacer
+- Updated Unofficial eFPS Patches
+- Updated Navigator - Navmesh Fixes
+- Updated Serana Dialogue Add-On Patch Hub
 - Removed Feminine Argonian Textures (CBBE)
 - Removed Masculine Argonian Textures (HIMBO)
+- Removed GORE - Pink-ified (won't work anymore with the most recent version)
 - Fixed aging maps via BnP from being overwritten (give us back the wrinkles!)
-- Made various consistency patches for NPC overhauls to have more defined wrinkles (huzzah!)
+- Made consistency patches for NPC overhauls to have more defined wrinkles (huzzah!)
 - - - - - - - - -
 
 ## Version 1.2.0.1
