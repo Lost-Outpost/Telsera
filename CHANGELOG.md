@@ -53,9 +53,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added FA ORCODONTIST - Orsimer Mouth and Teeth Fix
 - Added Shiny ENB Eyebrows Begone
 - Added ENB Shiny Beard Fix
-- Added ECE Ear Shape Sliders for RaceMenu
 - Added VIGILANT - JS Common Cages Patch
 - Added Medieval Spirits - Empty Hearthfire Wine Bottles Patch
+- Added Show Follower Carry Weight
+- Added KiLoader for Skyrim
+- Added ENB Extender for Skyrim
+- Added ENBSeries - Pi-Cho and Silent Horizons 2 Fusion
 - Updated VIGILANT
 - Updated VIGILANT Voiced - English Addon
 - Updated PhotoMode
@@ -71,11 +74,14 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Unofficial eFPS Patches
 - Updated Navigator - Navmesh Fixes
 - Updated Serana Dialogue Add-On Patch Hub
+- Updated Foamimi's Redoran Presets
 - Removed Feminine Argonian Textures (CBBE)
 - Removed Masculine Argonian Textures (HIMBO)
-- Removed GORE - Pink-ified (won't work anymore with the most recent version)
+- Removed GORE - Pink-ified (won't work anymore with the upcoming version)
+- Removed Eldryn Edition - Gigachad Presets (included in the updated version of my Redoran preset page)
 - Fixed Inigo's ebony bow from having a rainbow, oil-like cubemap appearance
-- Fixed aging maps via BnP from being overwritten (give us back the wrinkles!)
+- Fixed aging maps via BnP from being overwritten
+- Tweaked BnP for Males facial normal maps
 - Made consistency patches for NPC overhauls to have more defined wrinkles (huzzah!)
 - - - - - - - - -
 
