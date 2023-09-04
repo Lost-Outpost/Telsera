@@ -77,6 +77,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Masculine Argonian Textures (HIMBO)
 - Removed GORE - Pink-ified (won't work anymore with the upcoming version)
 - Removed Eldryn Edition - Gigachad Presets (included in the updated version of my Redoran preset page)
+- Removed Belt-Worn Dragon Priest Masks - WACCF Patch
 - Fixed Inigo's ebony bow from having a rainbow, oil-like cubemap appearance
 - Fixed aging maps via BnP from being overwritten
 - Tweaked BnP for males facial normal maps
