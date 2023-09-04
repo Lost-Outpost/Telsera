@@ -81,6 +81,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed aging maps via BnP from being overwritten
 - Tweaked BnP for males facial normal maps
 - Made consistency patches for NPC overhauls to have more defined wrinkles (huzzah!)
+- Reverted Gore's two-handed drawn idle animations so they last longer/don't reset as frequently (not sure how to explain this lol, he'll be a poser with his sword over his shoulders more consistently rather than him lowering it after like 2 seconds)
 - - - - - - - - -
 
 ## Version 1.2.0.1
