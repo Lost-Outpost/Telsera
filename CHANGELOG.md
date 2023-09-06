@@ -40,6 +40,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 - Added Males Of Skyrim by zzjay - with Better Male Feet and High poly hands - SE
 - Updated Crash Logger SSE AE VR
+- Updated Navigator - Navmesh Fixes
 - Fixed broken wedding ceremony pathing
 - Fixed broken fur shoe meshes for masculine characters
 - - - - - - - - - -
