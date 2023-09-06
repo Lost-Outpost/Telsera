@@ -36,6 +36,14 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.2.2 [UNRELEASED] - NO ETA.
+
+- Added Males Of Skyrim by zzjay - with Better Male Feet and High poly hands - SE
+- Updated Crash Logger SSE AE VR
+- Fixed broken wedding ceremony pathing
+- Fixed broken fur shoe meshes for masculine characters
+- - - - - - - - - -
+
 ## Version 1.2.1
 
 **NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
