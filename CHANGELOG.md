@@ -38,7 +38,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.2.2 [UNRELEASED] - NO ETA.
 
-- Added Males Of Skyrim by zzjay - with Better Male Feet and High poly hands - SE
+- Added Civil War Champions - Reduced Cut
+- Added ULTRAWIDE UI FIX (32 to 9 aspect ratio)
+- Added 32 to 9 ULTRAWIDE Skyrim Main Menu Background Replacer
+- Added Constructible Object Custom Keyword System - Widescreen Fixed - 21-9
+- Added Constructible Object Custom Keyword System - Ultrawide - 32 x 9 Patch
 - Updated Crash Logger SSE AE VR
 - Updated Navigator - Navmesh Fixes
 - Fixed broken wedding ceremony pathing
