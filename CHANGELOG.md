@@ -45,8 +45,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Constructible Object Custom Keyword System - Ultrawide - 32 x 9 Patch
 - Updated Crash Logger SSE AE VR
 - Updated Navigator - Navmesh Fixes
+- Updated Container Item Distributor
 - Fixed broken wedding ceremony pathing
 - Fixed broken fur shoe meshes for masculine characters
+- Fixed doubled windows at the Thalmor Embassy
 - - - - - - - - - -
 
 ## Version 1.2.1
