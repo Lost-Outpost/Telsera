@@ -43,9 +43,16 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added 32 to 9 ULTRAWIDE Skyrim Main Menu Background Replacer
 - Added Constructible Object Custom Keyword System - Widescreen Fixed - 21-9
 - Added Constructible Object Custom Keyword System - Ultrawide - 32 x 9 Patch
+- Added Tel Mithryn Overhaul - High Poly and Improved Meshes
+- Added High Poly Solstheim Mushroom Trees
 - Updated Crash Logger SSE AE VR
 - Updated Navigator - Navmesh Fixes
 - Updated Container Item Distributor
+- Updated Gore (WOO!)
+- Updated GORE - Miscellaneous Patches
+- Updated Gore - Romance Dialogue Expansion
+- Updated Follower Distance Tweaks
+- Updated Immersive folded hands (OAR)
 - Fixed broken wedding ceremony pathing
 - Fixed broken fur shoe meshes for masculine characters
 - Fixed doubled windows at the Thalmor Embassy
