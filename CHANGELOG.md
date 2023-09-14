@@ -36,7 +36,7 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.2.2 [UNRELEASED] - NO ETA.
+## Version 1.2.2
 
 - Added Civil War Champions - Reduced Cut
 - Added ULTRAWIDE UI FIX (32 to 9 aspect ratio)
@@ -46,6 +46,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Tel Mithryn Overhaul - High Poly and Improved Meshes
 - Added High Poly Solstheim Mushroom Trees
 - Added Mind of Madness Bald Fix
+- Added JLL' s Tel Mithryn
 - Updated Crash Logger SSE AE VR
 - Updated Navigator - Navmesh Fixes
 - Updated Container Item Distributor
@@ -54,6 +55,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Gore - Romance Dialogue Expansion
 - Updated Follower Distance Tweaks
 - Updated Immersive folded hands (OAR)
+- Updated NPC Animation Remix (OAR)
 - Fixed broken wedding ceremony pathing
 - Fixed broken fur shoe meshes for masculine characters
 - Fixed doubled windows at the Thalmor Embassy
