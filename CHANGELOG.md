@@ -45,6 +45,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Constructible Object Custom Keyword System - Ultrawide - 32 x 9 Patch
 - Added Tel Mithryn Overhaul - High Poly and Improved Meshes
 - Added High Poly Solstheim Mushroom Trees
+- Added Mind of Madness Bald Fix
 - Updated Crash Logger SSE AE VR
 - Updated Navigator - Navmesh Fixes
 - Updated Container Item Distributor
