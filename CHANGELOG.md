@@ -38,9 +38,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.3.0 [UNRELEASED] - NO ETA.
 
-- Added Caryalind Thallery
-- Added Caryalind Thallery - Delayed (16)
-- Added Prince Charming Caryalind Thallery
 - Updated Mind of Madness Bald Fix
 - - - - - - - - - -
 
