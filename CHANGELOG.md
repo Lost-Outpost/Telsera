@@ -36,6 +36,14 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.3.0 [UNRELEASED] - NO ETA.
+
+- Added Caryalind Thallery
+- Added Caryalind Thallery - Delayed (16)
+- Added Prince Charming Caryalind Thallery
+- Updated Mind of Madness Bald Fix
+- - - - - - - - - -
+
 ## Version 1.2.2
 
 - Added Civil War Champions - Reduced Cut
