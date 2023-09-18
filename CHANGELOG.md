@@ -36,9 +36,25 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.X.X [UNRELEASED] - NO ETA.
+## Version 1.3.0 [UNRELEASED] - NO ETA.
 
+- Added Artificer - An Artifact Overhaul
+- Added Aljo's Artificer Patches
+- Added ArteFakes - Unique Artifacts Replacer
 - Updated Mind of Madness Bald Fix
+- Updated Gore
+- Updated Desecration
+- Updated Abyss
+- Updated Arcane
+- Updated Arclight
+- Updated Vulcano
+- Updated Stellaris
+- Updated Necrom
+- Updated Flames of Coldharbour
+- Updated Bloodmoon
+- Updated Lunaris
+- Updated Natura
+- Removed Vestige - An Artifact Overhaul
 - - - - - - - - - -
 
 ## Version 1.2.2
