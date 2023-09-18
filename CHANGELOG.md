@@ -41,6 +41,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Artificer - An Artifact Overhaul
 - Added Aljo's Artificer Patches
 - Added ArteFakes - Unique Artifacts Replacer
+- Added RUSTIC AMULETS - Special Edition
 - Updated Mind of Madness Bald Fix
 - Updated Gore
 - Updated Desecration
