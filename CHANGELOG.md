@@ -54,6 +54,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Bloodmoon
 - Updated Lunaris
 - Updated Natura
+- Updated Thaumaturgy - An Enchanting Overhaul
 - Removed Vestige - An Artifact Overhaul
 - - - - - - - - - -
 
