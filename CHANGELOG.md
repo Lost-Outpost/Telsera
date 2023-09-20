@@ -42,6 +42,18 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Aljo's Artificer Patches
 - Added ArteFakes - Unique Artifacts Replacer
 - Added RUSTIC AMULETS - Special Edition
+- Added Artificer - An Artifact Overhaul - I4 Patch
+- Added FleshFX
+- Added FleshFX Patches for Simonrim
+- Added GLENMORIL
+- Added GLENMORIL - English Translation
+- Added GLENMORIL - Settings Loader
+- Added Glenmoril - Delayed Start
+- Added GLENMORIL - Book Covers
+- Added Glenmoril Armors and Weapons Retexture
+- Added Glenmoril Gun Replacer
+- Added GLENMORIL - NPC Overhaul
+- Added Katana - Journey in the Shadows
 - Updated Mind of Madness Bald Fix
 - Updated Gore
 - Updated Desecration
@@ -56,6 +68,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Lunaris
 - Updated Natura
 - Updated Thaumaturgy - An Enchanting Overhaul
+- Updated Skyrim on Skooma
+- Updated Container Item Distributor (CID)
 - Removed Vestige - An Artifact Overhaul
 - - - - - - - - - -
 
