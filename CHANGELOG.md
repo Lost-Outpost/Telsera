@@ -71,6 +71,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Skyrim on Skooma
 - Updated Container Item Distributor (CID)
 - Removed Vestige - An Artifact Overhaul
+- Removed Particle Lights for ENB - Riekling Outposts
 - - - - - - - - - -
 
 ## Version 1.2.2
