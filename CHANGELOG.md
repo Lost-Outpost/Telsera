@@ -72,6 +72,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Thaumaturgy - An Enchanting Overhaul
 - Updated Skyrim on Skooma
 - Updated Container Item Distributor (CID)
+- Updated Cities of the North - Dawnstar Patch Collection
 - Removed Vestige - An Artifact Overhaul
 - Removed Particle Lights for ENB - Riekling Outposts
 - Fixed mismatching soul husk textures
