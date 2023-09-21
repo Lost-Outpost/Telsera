@@ -56,6 +56,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Katana - Journey in the Shadows
 - Added Praedy's Soul Cairn - SE
 - Added Praedy's Soul Cairn - SE - Chest Light Fix
+- Added Missile's Apothecary Patches
+- Added aljos Apothecary Patches
+- Added Patch for Project AHO and Apothecary - An Alchemy Overhaul
+- Added Some more Gourmet patches
 - Updated Mind of Madness Bald Fix
 - Updated Gore
 - Updated Desecration
@@ -73,6 +77,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Skyrim on Skooma
 - Updated Container Item Distributor (CID)
 - Updated Cities of the North - Dawnstar Patch Collection
+- Updated lilebonymace's patches and xEdit scripts
+- Updated JK's Interiors Patch Collection
 - Removed Vestige - An Artifact Overhaul
 - Removed Particle Lights for ENB - Riekling Outposts
 - Fixed mismatching soul husk textures
