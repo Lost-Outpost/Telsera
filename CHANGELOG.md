@@ -60,6 +60,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added aljos Apothecary Patches
 - Added Patch for Project AHO and Apothecary - An Alchemy Overhaul
 - Added Some more Gourmet patches
+- Added Disable screen shake effect.
 - Updated Mind of Madness Bald Fix
 - Updated Gore
 - Updated Desecration
