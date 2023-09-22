@@ -53,6 +53,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Glenmoril Armors and Weapons Retexture
 - Added Glenmoril Gun Replacer
 - Added GLENMORIL - NPC Overhaul
+- Added GLENMORIL - Patches
 - Added Katana - Journey in the Shadows
 - Added Praedy's Soul Cairn - SE
 - Added Praedy's Soul Cairn - SE - Chest Light Fix
