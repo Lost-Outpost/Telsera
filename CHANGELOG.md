@@ -62,6 +62,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Patch for Project AHO and Apothecary - An Alchemy Overhaul
 - Added Some more Gourmet patches
 - Added Disable screen shake effect.
+- Added Dragon Priests Retexture SE
 - Updated Mind of Madness Bald Fix
 - Updated Gore
 - Updated Desecration
@@ -83,6 +84,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated JK's Interiors Patch Collection
 - Removed Vestige - An Artifact Overhaul
 - Removed Particle Lights for ENB - Riekling Outposts
+- Removed Masks of the ﻿Dovah Sonaak
+- Removed Frankly HD Miraak
 - Fixed mismatching soul husk textures
 - - - - - - - - - -
 
