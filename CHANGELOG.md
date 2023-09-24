@@ -41,6 +41,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Artificer - An Artifact Overhaul
 - Artificer - An Artifact Overhaul - I4 Patch
 - Aljo's Artificer Patches
+- Artificer - Xavbio Textures - CBBE Refit
+- Artificer - Xavbio Textures - HIMBO Refit
 - ArteFakes - Unique Artifacts Replacer
 - RUSTIC AMULETS - Special Edition
 - FleshFX
@@ -63,6 +65,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Glenmoril Gun Replacer
 - GLENMORIL - NPC Overhaul
 - GLENMORIL - Patches
+- Throw Item Animation for Glenmoril (DAR)
 - Katana - Journey in the Shadows
 - Praedy's Soul Cairn - SE
 - Praedy's Soul Cairn - SE - Chest Light Fix
@@ -73,6 +76,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Disable screen shake effect.
 - Dragon Priests Retexture SE
 - Leon S. Kennedy - Standalone Follower (HIMBO) (I do what I please!)
+- My Home is Your Home - Blank Name Fix
+- Throw Stone -- Simple Distraction Tool (Enhanced)
 
 ### Updated
 
@@ -102,6 +107,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Particle Lights for ENB - Riekling Outposts
 - Masks of the ﻿Dovah Sonaak
 - Frankly HD Miraak
+- Silent Skill and Level Up Sounds
 
 ### Misc
 
