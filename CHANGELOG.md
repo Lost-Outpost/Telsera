@@ -38,55 +38,75 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.3.0 [UNRELEASED] - NO ETA.
 
-- Added Artificer - An Artifact Overhaul
-- Added Aljo's Artificer Patches
-- Added ArteFakes - Unique Artifacts Replacer
-- Added RUSTIC AMULETS - Special Edition
-- Added Artificer - An Artifact Overhaul - I4 Patch
-- Added FleshFX
-- Added FleshFX Patches for Simonrim
-- Added GLENMORIL
-- Added GLENMORIL - English Translation
-- Added GLENMORIL - Settings Loader
-- Added Glenmoril - Delayed Start
-- Added GLENMORIL - Book Covers
-- Added Glenmoril Armors and Weapons Retexture
-- Added Glenmoril Gun Replacer
-- Added GLENMORIL - NPC Overhaul
-- Added GLENMORIL - Patches
-- Added Katana - Journey in the Shadows
-- Added Praedy's Soul Cairn - SE
-- Added Praedy's Soul Cairn - SE - Chest Light Fix
-- Added Missile's Apothecary Patches
-- Added aljos Apothecary Patches
-- Added Patch for Project AHO and Apothecary - An Alchemy Overhaul
-- Added Some more Gourmet patches
-- Added Disable screen shake effect.
-- Added Dragon Priests Retexture SE
-- Updated Mind of Madness Bald Fix
-- Updated Gore
-- Updated Desecration
-- Updated Abyss
-- Updated Arcane
-- Updated Arclight
-- Updated Vulcano
-- Updated Stellaris
-- Updated Necrom
-- Updated Flames of Coldharbour
-- Updated Bloodmoon
-- Updated Lunaris
-- Updated Natura
-- Updated Thaumaturgy - An Enchanting Overhaul
-- Updated Skyrim on Skooma
-- Updated Container Item Distributor (CID)
-- Updated Cities of the North - Dawnstar Patch Collection
-- Updated lilebonymace's patches and xEdit scripts
-- Updated JK's Interiors Patch Collection
-- Removed Vestige - An Artifact Overhaul
-- Removed Particle Lights for ENB - Riekling Outposts
-- Removed Masks of the ﻿Dovah Sonaak
-- Removed Frankly HD Miraak
+- Artificer - An Artifact Overhaul
+- Artificer - An Artifact Overhaul - I4 Patch
+- Aljo's Artificer Patches
+- ArteFakes - Unique Artifacts Replacer
+- RUSTIC AMULETS - Special Edition
+- FleshFX
+- FleshFX Patches for Simonrim
+- UNSLAAD
+- UNSLAAD - Settings Loader
+- Unslaad - Delayed Start
+- UNSLAAD Voiced - English Addon
+- UNSLAAD Music Extended
+- Unslaad Weapons and Armors Retexture
+- Unslaad Hoarfrost Knight Tweaks and Fixes
+- UNSLAAD - Hoarfrost Knight Armour and Helmet Tweaks and Fixes - Textures Path Updated
+- UNSLAAD - Dragonslayer Armor Mesh Edit
+- GLENMORIL
+- GLENMORIL - English Translation
+- GLENMORIL - Settings Loader
+- Glenmoril - Delayed Start
+- GLENMORIL - Book Covers
+- Glenmoril Armors and Weapons Retexture
+- Glenmoril Gun Replacer
+- GLENMORIL - NPC Overhaul
+- GLENMORIL - Patches
+- Katana - Journey in the Shadows
+- Praedy's Soul Cairn - SE
+- Praedy's Soul Cairn - SE - Chest Light Fix
+- Missile's Apothecary Patches
+- aljos Apothecary Patches
+- Patch for Project AHO and Apothecary - An Alchemy Overhaul
+- Some more Gourmet patches
+- Disable screen shake effect.
+- Dragon Priests Retexture SE
+- Leon S. Kennedy - Standalone Follower (HIMBO) (I do what I please!)
+
+### Updated
+
+- Mind of Madness Bald Fix
+- Gore
+- Desecration
+- Abyss
+- Arcane
+- Arclight
+- Vulcano
+- Stellaris
+- Necrom
+- Flames of Coldharbour
+- Bloodmoon
+- Lunaris
+- Natura
+- Thaumaturgy - An Enchanting Overhaul
+- Skyrim on Skooma
+- Container Item Distributor (CID)
+- Cities of the North - Dawnstar Patch Collection
+- lilebonymace's patches and xEdit scripts
+- JK's Interiors Patch Collection
+
+### Removed
+
+- Vestige - An Artifact Overhaul
+- Particle Lights for ENB - Riekling Outposts
+- Masks of the ﻿Dovah Sonaak
+- Frankly HD Miraak
+
+### Misc
+
 - Fixed mismatching soul husk textures
+- Fixed floating windows at Old Hroldan Inn
 - - - - - - - - - -
 
 ## Version 1.2.2
