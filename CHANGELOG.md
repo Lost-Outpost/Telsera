@@ -108,6 +108,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Masks of the ﻿Dovah Sonaak
 - Frankly HD Miraak
 - Silent Skill and Level Up Sounds
+- Wyrmstooth Suleyk Retexture
 
 ### Misc
 
