@@ -67,12 +67,14 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - GLENMORIL - Patches
 - Throw Item Animation for Glenmoril (DAR)
 - Katana - Journey in the Shadows
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+- Editable Myrwatch - Xelzaz AE (CC) Patch
+- Xelzaz's Telvanni Spellsword Armor Enhanced
 - Praedy's Soul Cairn - SE
 - Praedy's Soul Cairn - SE - Chest Light Fix
 - Missile's Apothecary Patches
 - aljos Apothecary Patches
 - Patch for Project AHO and Apothecary - An Alchemy Overhaul
-- Some more Gourmet patches
 - Disable screen shake effect.
 - Dragon Priests Retexture SE
 - Leon S. Kennedy - Standalone Follower (HIMBO) (I do what I please!)
@@ -82,6 +84,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Sentinel - Patch Page - Adamant
 - Sentinel - Removed Guards and Stormcloaks
 - Pandorable's Dunmer Damsels
+- Skyrim's Got Talent - Improve As a Bard
+- Skyrim's Got Talent - Adamant Bard Perks Synergy
 
 ### Updated
 
