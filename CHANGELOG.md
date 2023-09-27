@@ -78,6 +78,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Leon S. Kennedy - Standalone Follower (HIMBO) (I do what I please!)
 - My Home is Your Home - Blank Name Fix
 - Throw Stone -- Simple Distraction Tool (Enhanced)
+- Sentinel - An Equipment Overhaul
+- Sentinel - Patch Page - Adamant
+- Sentinel - Removed Guards and Stormcloaks
+- Pandorable's Dunmer Damsels
 
 ### Updated
 
@@ -100,6 +104,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Cities of the North - Dawnstar Patch Collection
 - lilebonymace's patches and xEdit scripts
 - JK's Interiors Patch Collection
+- Foamimi's Salt and Wind Retexture Hub
 
 ### Removed
 
@@ -109,11 +114,14 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Frankly HD Miraak
 - Silent Skill and Level Up Sounds
 - Wyrmstooth Suleyk Retexture
+- Ring of Namira - Improved
 
 ### Misc
 
 - Fixed mismatching soul husk textures
 - Fixed floating windows at Old Hroldan Inn
+- Fixed floating windows in Windhelm
+- Fixed misaligned stormcloak sleeves for feminine characters
 - - - - - - - - - -
 
 ## Version 1.2.2
