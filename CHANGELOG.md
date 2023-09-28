@@ -84,7 +84,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Sentinel - Patch Page - Adamant
 - Sentinel - Removed Guards and Stormcloaks
 - Pandorable's Dunmer Damsels
-- Chanterelle - Increased Grass Density
+- Chanterelle - Patches
 
 ### Updated
 
@@ -108,6 +108,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - lilebonymace's patches and xEdit scripts
 - JK's Interiors Patch Collection
 - Foamimi's Salt and Wind Retexture Hub
+- Chanterelle - a Savage World to Explore
 
 ### Removed
 
