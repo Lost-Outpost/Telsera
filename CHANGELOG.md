@@ -84,8 +84,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Sentinel - Patch Page - Adamant
 - Sentinel - Removed Guards and Stormcloaks
 - Pandorable's Dunmer Damsels
-- Skyrim's Got Talent - Improve As a Bard
-- Skyrim's Got Talent - Adamant Bard Perks Synergy
+- Chanterelle - Increased Grass Density
 
 ### Updated
 
