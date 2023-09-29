@@ -85,7 +85,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Sentinel - Removed Guards and Stormcloaks
 - Pandorable's Dunmer Damsels
 - Clockwork - Silent Shadow Siren
-- Chanterelle - Patches
+- Chanterelle - Patches and Tweaks
 - Northbourne NPCs Resources
 
 ### Updated
@@ -126,6 +126,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Wyrmstooth Suleyk Retexture
 - Ring of Namira - Improved
 - Wild Horses of Chanterelle
+- Particle Lights for ENB - Luminous Ground Cover
 
 ### Misc
 
