@@ -84,6 +84,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Sentinel - Patch Page - Adamant
 - Sentinel - Removed Guards and Stormcloaks
 - Pandorable's Dunmer Damsels
+- Clockwork - Silent Shadow Siren
 - Chanterelle - Patches
 
 ### Updated
