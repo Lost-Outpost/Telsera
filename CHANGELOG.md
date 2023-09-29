@@ -86,6 +86,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Pandorable's Dunmer Damsels
 - Clockwork - Silent Shadow Siren
 - Chanterelle - Patches
+- Northbourne NPCs Resources
 
 ### Updated
 
@@ -110,6 +111,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - JK's Interiors Patch Collection
 - Foamimi's Salt and Wind Retexture Hub
 - Chanterelle - a Savage World to Explore
+- Spell Perk Item Distributor (SPID)
+- powerofthree's Tweaks
+- Container Item Distributor
+- Northbourne NPCs of Whiterun Hold
 
 ### Removed
 
@@ -120,6 +125,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Silent Skill and Level Up Sounds
 - Wyrmstooth Suleyk Retexture
 - Ring of Namira - Improved
+- Wild Horses of Chanterelle
 
 ### Misc
 
@@ -127,6 +133,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed floating windows at Old Hroldan Inn
 - Fixed floating windows in Windhelm
 - Fixed misaligned stormcloak sleeves for feminine characters
+- Fixed misaligned bandit/fur shoes for masculine characters
+- Tweaked entrance to Jarl Elisif's bathroom to be locked by default
 - - - - - - - - - -
 
 ## Version 1.2.2
