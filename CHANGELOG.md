@@ -82,7 +82,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Throw Stone -- Simple Distraction Tool (Enhanced)
 - Sentinel - An Equipment Overhaul
 - Sentinel - Patch Page - Adamant
-- Sentinel - Removed Guards and Stormcloaks
+- Sentinel - Reverted Guards and Stormcloaks
 - Pandorable's Dunmer Damsels
 - Clockwork - Silent Shadow Siren
 - Chanterelle - Patches and Tweaks
@@ -116,6 +116,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Container Item Distributor
 - Northbourne NPCs of Whiterun Hold
 - Spaghetti's Faction Halls - Companions
+- Follower Distance Tweaks
 
 ### Removed
 
@@ -128,6 +129,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Ring of Namira - Improved
 - Wild Horses of Chanterelle
 - Particle Lights for ENB - Luminous Ground Cover
+- Realms of Oblivion - Survival Mode Consistency - S&S (CC)
+- Realms of Oblivion - Survival Mode Consistency - VIGILANT
 
 ### Misc
 
