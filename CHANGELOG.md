@@ -115,6 +115,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - powerofthree's Tweaks
 - Container Item Distributor
 - Northbourne NPCs of Whiterun Hold
+- Spaghetti's Faction Halls - Companions
 
 ### Removed
 
