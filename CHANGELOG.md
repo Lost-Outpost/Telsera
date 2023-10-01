@@ -87,6 +87,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Clockwork - Silent Shadow Siren
 - Chanterelle - Patches and Tweaks
 - Northbourne NPCs Resources
+- Detailed Rugs
 
 ### Updated
 
@@ -117,6 +118,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Northbourne NPCs of Whiterun Hold
 - Spaghetti's Faction Halls - Companions
 - Follower Distance Tweaks
+- Skyland Bits and Bobs
 
 ### Removed
 
@@ -131,6 +133,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Particle Lights for ENB - Luminous Ground Cover
 - Realms of Oblivion - Survival Mode Consistency - S&S (CC)
 - Realms of Oblivion - Survival Mode Consistency - VIGILANT
+- JS Common Cages
+- VIGILANT - JS Common Cages Patch
 
 ### Misc
 
