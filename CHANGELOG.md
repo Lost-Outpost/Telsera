@@ -92,6 +92,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Additional Dremora faces - My optimized textures
 - Dremora Lines Expansion
 - Cathedral - Mushrooms
+- Skyrim Remastered - Metal Cages and SMIM Imperial Jails
 
 ### Updated
 
@@ -128,6 +129,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Apothecary - An Alchemy Overhaul
 - Adamant - A Perk Overhaul
 - Baited - A Fishing Artifact Overhaul
+- VIGILANT
+- VIGILANT Voiced - English Addon
 
 ### Removed
 
