@@ -85,9 +85,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Sentinel - Reverted Guards and Stormcloaks
 - Pandorable's Dunmer Damsels
 - Clockwork - Silent Shadow Siren
-- Chanterelle - Patches and Tweaks
 - Northbourne NPCs Resources
 - Detailed Rugs
+- Vigilant - No Free Library Books
+- Additional Dremora faces
+- Additional Dremora faces - My optimized textures
+- Dremora Lines Expansion
 
 ### Updated
 
@@ -111,7 +114,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - lilebonymace's patches and xEdit scripts
 - JK's Interiors Patch Collection
 - Foamimi's Salt and Wind Retexture Hub
-- Chanterelle - a Savage World to Explore
 - Spell Perk Item Distributor (SPID)
 - powerofthree's Tweaks
 - Container Item Distributor
@@ -119,6 +121,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Spaghetti's Faction Halls - Companions
 - Follower Distance Tweaks
 - Skyland Bits and Bobs
+- Candlehearth - Unofficial Patches
+- Unofficial eFPS patches
+- Hand to Hand - An Adamant Addon
+- Apothecary - An Alchemy Overhaul
+- Adamant - A Perk Overhaul
+- Baited - A Fishing Artifact Overhaul
 
 ### Removed
 
@@ -129,12 +137,15 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Silent Skill and Level Up Sounds
 - Wyrmstooth Suleyk Retexture
 - Ring of Namira - Improved
-- Wild Horses of Chanterelle
 - Particle Lights for ENB - Luminous Ground Cover
 - Realms of Oblivion - Survival Mode Consistency - S&S (CC)
 - Realms of Oblivion - Survival Mode Consistency - VIGILANT
 - JS Common Cages
 - VIGILANT - JS Common Cages Patch
+- Chanterelle (goodbye old friend...)
+- No Ore Markers for Chanterelle
+- Wild Horses of Chanterelle
+- KYNE'S HUNT - A Quest for Chanterelle
 
 ### Misc
 
@@ -144,6 +155,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed misaligned stormcloak sleeves for feminine characters
 - Fixed misaligned bandit/fur shoes for masculine characters
 - Tweaked entrance to Jarl Elisif's bathroom to be locked by default
+- Moved Obsidian Weathers Addons and Required Files to ENB OPTIONS section
 - - - - - - - - - -
 
 ## Version 1.2.2
