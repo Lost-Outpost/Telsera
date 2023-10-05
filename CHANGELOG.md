@@ -94,6 +94,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Dremora Lines Expansion
 - Cathedral - Mushrooms
 - Skyrim Remastered - Metal Cages and SMIM Imperial Jails
+- 2K Tendril Vines
 
 ### Updated
 
