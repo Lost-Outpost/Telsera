@@ -110,28 +110,32 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Bloodmoon
 - Lunaris
 - Natura
-- Thaumaturgy - An Enchanting Overhaul
 - Skyrim on Skooma
 - Container Item Distributor (CID)
 - Cities of the North - Dawnstar Patch Collection
 - lilebonymace's patches and xEdit scripts
 - JK's Interiors Patch Collection
+- JK's Guild HQ Interiors Patch Collection
 - Foamimi's Salt and Wind Retexture Hub
 - Spell Perk Item Distributor (SPID)
 - powerofthree's Tweaks
-- Container Item Distributor
 - Northbourne NPCs of Whiterun Hold
 - Spaghetti's Faction Halls - Companions
 - Follower Distance Tweaks
+- Skyland AIO
 - Skyland Bits and Bobs
 - Candlehearth - Unofficial Patches
 - Unofficial eFPS patches
 - Hand to Hand - An Adamant Addon
 - Apothecary - An Alchemy Overhaul
 - Adamant - A Perk Overhaul
+- Mysticism - A Magic Overhaul
+- Thaumaturgy - An Enchanting Overhaul
+- Starfrost - A Survival Overhaul
 - Baited - A Fishing Artifact Overhaul
 - VIGILANT
 - VIGILANT Voiced - English Addon
+- NPC Animation Remix (OAR)
 
 ### Removed
 
