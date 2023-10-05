@@ -165,6 +165,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed floating windows in Windhelm
 - Fixed misaligned stormcloak sleeves for feminine characters
 - Fixed misaligned bandit/fur shoes for masculine characters
+- Fixed misaligned wrists via studded/hide/fur cuirasses for feminine characters
 - Tweaked entrance to Jarl Elisif's bathroom to be locked by default
 - Tweaked bloom settings for Pi-Cho Quality and Pi-Cho Performance
 - Moved Obsidian Weathers Addons and Required Files to ENB OPTIONS section
