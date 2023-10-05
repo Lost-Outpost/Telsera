@@ -48,6 +48,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - RUSTIC AMULETS - Special Edition
 - FleshFX
 - FleshFX Patches for Simonrim
+- SavrenX Solstheim Creatures
 - UNSLAAD
 - UNSLAAD - Settings Loader
 - Unslaad - Delayed Start
