@@ -49,6 +49,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - FleshFX
 - FleshFX Patches for Simonrim
 - SavrenX Solstheim Creatures
+- Zombies Retexture - Desaturated and Less Wet
 - UNSLAAD
 - UNSLAAD - Settings Loader
 - Unslaad - Delayed Start
@@ -152,6 +153,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - No Ore Markers for Chanterelle
 - Wild Horses of Chanterelle
 - KYNE'S HUNT - A Quest for Chanterelle
+- CC Zombies Retexture
 
 ### Misc
 
