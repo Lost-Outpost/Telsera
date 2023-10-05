@@ -91,6 +91,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Additional Dremora faces
 - Additional Dremora faces - My optimized textures
 - Dremora Lines Expansion
+- Cathedral - Mushrooms
 
 ### Updated
 
