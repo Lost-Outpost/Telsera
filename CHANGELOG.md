@@ -44,6 +44,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Artificer - Xavbio Textures - CBBE Refit
 - Artificer - Xavbio Textures - HIMBO Refit
 - ArteFakes - Unique Artifacts Replacer
+- Immersive Load Screens for ArteFakes
 - RUSTIC AMULETS - Special Edition
 - FleshFX
 - FleshFX Patches for Simonrim
