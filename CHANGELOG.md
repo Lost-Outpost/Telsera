@@ -70,9 +70,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - GLENMORIL - Patches
 - Throw Item Animation for Glenmoril (DAR)
 - Katana - Journey in the Shadows
-- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
-- Editable Myrwatch - Xelzaz AE (CC) Patch
-- Xelzaz's Telvanni Spellsword Armor Enhanced
 - Praedy's Soul Cairn - SE
 - Praedy's Soul Cairn - SE - Chest Light Fix
 - Missile's Apothecary Patches
