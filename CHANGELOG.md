@@ -157,6 +157,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Wild Horses of Chanterelle
 - KYNE'S HUNT - A Quest for Chanterelle
 - CC Zombies Retexture
+- Guards and Stormcloaks Armors Retexture - HIMBO Refit
 
 ### Misc
 
