@@ -70,6 +70,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - GLENMORIL - Patches
 - Throw Item Animation for Glenmoril (DAR)
 - Katana - Journey in the Shadows
+- Custom Ruins in Soul Cairn
 - Praedy's Soul Cairn - SE
 - Praedy's Soul Cairn - SE - Chest Light Fix
 - Missile's Apothecary Patches
