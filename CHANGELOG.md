@@ -87,7 +87,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Pandorable's Dunmer Damsels
 - Clockwork - Silent Shadow Siren
 - Northbourne NPCs Resources
-- Detailed Rugs
 - Vigilant - No Free Library Books
 - Additional Dremora faces
 - Additional Dremora faces - My optimized textures
@@ -95,6 +94,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Cathedral - Mushrooms
 - Skyrim Remastered - Metal Cages and SMIM Imperial Jails
 - 2K Tendril Vines
+- RUGNAROK - Special Edition (was using the 1K version before)
 
 ### Updated
 
