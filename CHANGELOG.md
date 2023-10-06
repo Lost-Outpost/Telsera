@@ -140,6 +140,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - NPC Animation Remix (OAR)
 - DynDOLOD 3 Alpha
 - DynDOLOD Resources
+- Unaggressive Dragon Priests Fix
 
 ### Removed
 
