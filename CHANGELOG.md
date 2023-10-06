@@ -96,6 +96,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - 2K Tendril Vines
 - RUGNAROK - Special Edition (was using the 1K version before)
 - DynDOLOD DLL NG
+- DynDOLOD DLL NG - Settings Loader
 
 ### Updated
 
