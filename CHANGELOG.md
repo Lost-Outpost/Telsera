@@ -36,7 +36,7 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.3.0 [UNRELEASED] - NO ETA.
+## Version 1.3.0
 
 - Artificer - An Artifact Overhaul
 - Artificer - An Artifact Overhaul - I4 Patch
@@ -96,6 +96,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - 2K Tendril Vines
 - RUGNAROK - Special Edition (was using the 1K version before)
 - DynDOLOD DLL
+- Armory of the Dragon Cult - Dragon Priest Armor
+- King-Priest - Enhanced Dragon Priests
+- Apothecary 1 Second Restore - Eldryn Cut
 
 ### Updated
 
