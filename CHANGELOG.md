@@ -95,6 +95,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Skyrim Remastered - Metal Cages and SMIM Imperial Jails
 - 2K Tendril Vines
 - RUGNAROK - Special Edition (was using the 1K version before)
+- DynDOLOD DLL NG
 
 ### Updated
 
@@ -137,6 +138,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - VIGILANT
 - VIGILANT Voiced - English Addon
 - NPC Animation Remix (OAR)
+- DynDOLOD 3 Alpha
+- DynDOLOD Resources
 
 ### Removed
 
