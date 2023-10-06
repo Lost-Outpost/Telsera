@@ -95,8 +95,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Skyrim Remastered - Metal Cages and SMIM Imperial Jails
 - 2K Tendril Vines
 - RUGNAROK - Special Edition (was using the 1K version before)
-- DynDOLOD DLL NG
-- DynDOLOD DLL NG - Settings Loader
+- DynDOLOD DLL
 
 ### Updated
 
