@@ -144,6 +144,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - DynDOLOD 3 Alpha
 - DynDOLOD Resources
 - Unaggressive Dragon Priests Fix
+- Navigator - Navmesh Fixes
+- Nordic Tent Upgrade by Pfuscher
 
 ### Removed
 
