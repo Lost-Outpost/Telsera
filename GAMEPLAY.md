@@ -205,6 +205,8 @@ Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspe
 
 - [Sexier Vanilla - Guards](https://www.nexusmods.com/skyrimspecialedition/mods/60399) - Diversifies and enhances town guards and Stormcloaks, adding heavy armor variants and more.
 
+- [Sentinel - An Equipment Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/100985) - Adds the community's best armors to a cohesive crafting system, and distributes them to the world in an immersive way.
+
 ## Followers and Companions
 
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) - Inigo is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
@@ -235,6 +237,10 @@ Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspe
 
   > :video_game: You can find Taliesin at the hidden statue of Talos along Lake Illinalta.
 
+- [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) - This mod includes 4800+ dialogue lines, dynamic combat, and 2 human-voiced followers. Katana, a not-so-roguish rogue with mysterious powers, chased a stolen heirloom to Skyrim. Megara, a healer with a knack for getting information, found herself helping Katana find it, but they need you to succeed. New features unlock after completing their quest.
+
+  > :video_game: You can find Katana at the Winking Skeever in Solitude.
+
 ## Player Homes
 
 - [Cityside - A Starter Home](https://www.nexusmods.com/skyrimspecialedition/mods/27777) - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude.
@@ -261,17 +267,21 @@ Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspe
 
   > :video_game: To begin, head to Pale Pass southeast of Falkreath
 
-- [Chanterelle](https://www.nexusmods.com/skyrimspecialedition/mods/32603) - An open world to explore, made to be used alongside Survival Mode.
-
-  > :video_game: To begin, find the various cave entries along the southern borders of Falkreath Hold.
-
 - [Saints and Seducers - Extended Cut](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation.
 
   > :video_game: To begin, you must be at least level 20 and have completed the vanilla Daedric quest The Mind of Madness. Sleeping for 6 in-game hours or reentering Solitude will begin a series of events setting you on the path.
 
 - [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) - Vigilant of Stendarr Quest.
 
-  > :video_game: To begin, you must be at least level 30 and have completed the vanilla quest, House of Horrors. Once you have met those requirements, speak with Altano, who is located in the Windpeak Inn in Dawnstar.
+  > :video_game: To begin, you must be at least level 30. Travel to the Windpeak Inn in Dawnstar to speak with Altano.
+
+- [UNSLAAD](https://www.nexusmods.com/skyrimspecialedition/mods/11789) - Quest mod of Half-Dragon. Add fluffy equipment and creatures.
+
+  > :video_game: To begin, you must be at least level 30. Travel to the training grounds at High Hrothgar and activate the doll at the edge of the mountain cliff.
+
+- [GLENMORIL](https://www.nexusmods.com/skyrimspecialedition/mods/32998) - Witch Hunter's Quest, Armors and weapons.
+
+  > :video_game: To begin, you must be at least level 30. Travel to the gate entrance of Falkreath and speak with Lalanoah.
 
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) - Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape.
 
@@ -283,7 +293,7 @@ Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspe
 
 - [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) - Project AHO is a large quest modification, comparable in size to a medium-sized DLC. Designed in the best traditions of Bethesda Game Studios, this mod adds to Skyrim a hidden settlement of Great House Telvanni. Determine its fate for yourself!
 
-  > :video_game: To begin, you must be level 25. Once you have reached that level, talk to Iddra the innkeeper in Kynesgrove, and she will have a note for you to investigate a suspicious orc at Mixwater Mill.
+  > :video_game: To begin, you must be level 25. Talk to Iddra the innkeeper in Kynesgrove, and she will have a note for you to investigate a suspicious orc at Mixwater Mill.
 
 ### Quest Changes
 
@@ -306,8 +316,6 @@ Other changes to quests include;
 - [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300) - Actually back out of becoming a werewolf without leaving Skjor and Aela stuck in the Underforge forever, and various other tweaks for the Companions.
 
 - [Skyrim on Skooma](https://www.nexusmods.com/skyrimspecialedition/mods/80975) - Tired of skooma being so boring? This mod turns skooma into a proper recreational substance with 69 possible scenarios, and a thousand different variations. Funny, yet still immersively immersive.
-
-- [Skyrim's Got Talent - Improve as a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) - Play instruments, get better, NPCs react to your skill dynamically, many new songs, lots of easter eggs, simple implementation. A compact, yet powerful Bard Gameplay Overhaul.
 
 - [Vittorias Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466) - This mod allows you to attend Vittoria's Vici wedding after you destroy the Dark Brotherhood.
 
