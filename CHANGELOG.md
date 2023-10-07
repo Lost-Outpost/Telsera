@@ -99,6 +99,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Armory of the Dragon Cult - Dragon Priest Armor
 - King-Priest - Enhanced Dragon Priests
 - Apothecary 1 Second Restore - Eldryn Cut
+- USSEP Caravan Stuck Fix for VSMO
 
 ### Updated
 
@@ -146,6 +147,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Unaggressive Dragon Priests Fix
 - Navigator - Navmesh Fixes
 - Nordic Tent Upgrade by Pfuscher
+- Particle Patch for ENB
 
 ### Removed
 
