@@ -40,9 +40,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Immersive Equipment Displays
 - Updated UNSLAAD - Dragonslayer Armor Mesh Edit
 - Reverted update to Nordic Tent upgrade by Pfuscher to prevent crashing near caravans
+- - - - - - - - - -
 
 ## Version 1.3.0.1
 - Removed CK scripts.zip that snuck its way in
+- - - - - - - - - -
 
 ## Version 1.3.0
 
