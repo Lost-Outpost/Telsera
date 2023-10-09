@@ -36,6 +36,14 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.3.0.2
+- Updated Immersive Equipment Displays
+- Updated UNSLAAD - Dragonslayer Armor Mesh Edit
+- Reverted update to Nordic Tent upgrade by Pfuscher to prevent crashing near caravans
+
+## Version 1.3.0.1
+- Removed CK scripts.zip that snuck its way in
+
 ## Version 1.3.0
 
 - Artificer - An Artifact Overhaul
