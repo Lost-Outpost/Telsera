@@ -36,6 +36,26 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.3.1 [UNRELEASED]
+
+**NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
+No update is needed for the HDT-SMP Armor Addon.
+
+- Added CBBE Conversions for Beyond Skyrim - Bruma
+- Updated Unofficial Skyrim Modder's Patch - USMP
+- Updated Unofficial Skyrim Modder's Patch - USMP - Patch Emporium
+- Updated Natura
+- Updated Lunaris
+- Updated BnP - Female Skin
+- Updated BnP - Male Skin
+- Updated Additional Dremora faces
+- Updated Dremora Lines Expansion
+- Updated Armory of the Dragon Cult - Dragon Priest Armor
+- Updated Edgar Preset for HIMBO - Eldryn Edition
+- Fixed freezing in High Hrothgar
+- Fixed incorrect file name for AW Mosaic Male Skin (HIMBO) - Reverted Vampire Diffuse Map
+- - - - - - - - - -
+
 ## Version 1.3.0.2
 
 No update is needed for the HDT-SMP Armor Addon.
