@@ -42,6 +42,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 No update is needed for the HDT-SMP Armor Addon.
 
 - Added CBBE Conversions for Beyond Skyrim - Bruma
+- Added Beard Mask Fix - Beards Use Slot 44 SKSE Plugin
 - Updated Unofficial Skyrim Modder's Patch - USMP
 - Updated Unofficial Skyrim Modder's Patch - USMP - Patch Emporium
 - Updated Natura
@@ -54,6 +55,7 @@ No update is needed for the HDT-SMP Armor Addon.
 - Updated Edgar Preset for HIMBO - Eldryn Edition
 - Fixed freezing in High Hrothgar
 - Fixed incorrect file name for AW Mosaic Male Skin (HIMBO) - Reverted Vampire Diffuse Map
+- Fixed broken Ancient Shrouded Cowl and Shrouded Cowl masks
 - - - - - - - - - -
 
 ## Version 1.3.0.2
