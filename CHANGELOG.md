@@ -38,9 +38,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.3.2 [UNRELEASED] - NO ETA.
 
-No update is needed for the HDT-SMP Armor Addon.
+No update is needed for the HDT-SMP Armor Addon (as of now).
 
+- Updated Gore
 - Updated GORE - SHADOW WIZARD SEPTIM GANG
+- Moved all of the Eldryn NPC consistency patches to one megapatch to reduce Wabbajack's dl size
 - - - - - - - - - -
 
 ## Version 1.3.1
