@@ -36,6 +36,13 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.3.2 [UNRELEASED] - NO ETA.
+
+No update is needed for the HDT-SMP Armor Addon.
+
+- Updated GORE - SHADOW WIZARD SEPTIM GANG
+- - - - - - - - - -
+
 ## Version 1.3.1
 
 **NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**. 
