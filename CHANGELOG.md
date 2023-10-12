@@ -38,7 +38,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.3.1
 
-**NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**. No update is needed for the HDT-SMP Armor Addon.
+**NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**. 
+
+No update is needed for the HDT-SMP Armor Addon.
 
 - Added CBBE Conversions for Beyond Skyrim - Bruma
 - Added Beard Mask Fix - Beards Use Slot 44 SKSE Plugin
