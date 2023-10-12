@@ -39,6 +39,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 ## Version 1.3.1 [UNRELEASED]
 
 **NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**.
+
 No update is needed for the HDT-SMP Armor Addon.
 
 - Added CBBE Conversions for Beyond Skyrim - Bruma
@@ -53,6 +54,7 @@ No update is needed for the HDT-SMP Armor Addon.
 - Updated Dremora Lines Expansion
 - Updated Armory of the Dragon Cult - Dragon Priest Armor
 - Updated Edgar Preset for HIMBO - Eldryn Edition
+- Tweaked SSE Display Tweaks to disable player/actor camera fade effect
 - Fixed freezing in High Hrothgar
 - Fixed incorrect file name for AW Mosaic Male Skin (HIMBO) - Reverted Vampire Diffuse Map
 - Fixed broken Ancient Shrouded Cowl and Shrouded Cowl masks
