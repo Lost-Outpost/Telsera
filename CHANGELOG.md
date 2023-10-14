@@ -38,10 +38,39 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.3.2 [UNRELEASED] - NO ETA.
 
+**NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**. 
+
+**NEW** - [Eldryn Extended - HD Quests Addon](https://github.com/Foamimi/Eldryn-Extended---HD-Quests) by Foamimi
+
 No update is needed for the HDT-SMP Armor Addon (as of now).
 
+- Added VIGILANT - Edits
+- Added Dynamic Activation Key
+- Added Press E to Heal Followers
+- Added Bring Meeko To Lod
 - Updated Gore
 - Updated GORE - SHADOW WIZARD SEPTIM GANG
+- Updated Civil War Lines Expansion
+- Updated Katana - Journey in the Shadows
+- Removed Beyond Skyrim - Bruma Upscaled Textures - Armor
+- Removed Beyond Skyrim - Bruma Upscaled Textures - Clothes
+- Removed Beyond Skyrim - Bruma Upscaled Textures - Weapons
+- Removed Project AHO HD
+- Removed Project AHO HD Outfit Textures
+- Removed VIGILANT - HiRes Pack
+- Removed Vigilant Armors and Weapons Retexture
+- Removed Vigilant Gun Replacer
+- Removed Vigilant DeadPile Flesh Retexture
+- Removed Vigilant's Molag Bal Dragon Retexture
+- Removed Vigilant - Greymarch Retexture
+- Removed Vigilant - Coldharbour Landscape and Architecture Retexture
+- Removed Vigilant - Coldharbour Landscape and Architecture Retexture - Bone Pile Fix
+- Removed VIGILANT - ENB Light Chest Fix
+- Removed Unslaad Weapons and Armors Retexture
+- Removed GLENMORIL - HiRes Pack
+- Removed Glenmoril Armors and Weapons Retexture
+- Removed Glenmoril Gun Replacer
+- Removed Clockwork Re-Imagined
 - Moved all of the Eldryn NPC consistency patches to one megapatch to reduce Wabbajack's dl size
 - - - - - - - - - -
 
