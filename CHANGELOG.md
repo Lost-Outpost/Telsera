@@ -48,6 +48,7 @@ No update is needed for the HDT-SMP Armor Addon (as of now).
 - Added Dynamic Activation Key
 - Added Press E to Heal Followers
 - Added Bring Meeko To Lod
+- Added Spaghetti's Faction Halls - Hall of the Vigilant
 - Updated Gore
 - Updated GORE - SHADOW WIZARD SEPTIM GANG
 - Updated Civil War Lines Expansion
