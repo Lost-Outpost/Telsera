@@ -72,6 +72,7 @@ No update is needed for the HDT-SMP Armor Addon (as of now).
 - Removed Glenmoril Gun Replacer
 - Removed Clockwork Re-Imagined
 - Moved all of the Eldryn NPC consistency patches to one megapatch to reduce Wabbajack's dl size
+- Fixed mismatching water in Morthal
 - - - - - - - - - -
 
 ## Version 1.3.1
