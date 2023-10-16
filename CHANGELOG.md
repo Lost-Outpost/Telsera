@@ -49,10 +49,15 @@ No update is needed for the HDT-SMP Armor Addon (as of now).
 - Added Press E to Heal Followers
 - Added Bring Meeko To Lod
 - Added Spaghetti's Faction Halls - Hall of the Vigilant
+- Added CBBE Armour and Clothing Conversions for Beyond Skyrim - Bruma - Nibenese Mage Robes - Patch
+- Added Common Colovian Clothes Bodyslide Fix CBBE HIMBO
 - Updated Gore
 - Updated GORE - SHADOW WIZARD SEPTIM GANG
 - Updated Civil War Lines Expansion
 - Updated Katana - Journey in the Shadows
+- Updated Thunderbolt - HD Lightning
+- Updated Northbourne NPCs Resources
+- Updated Northbourne NPCs of Whiterun Hold
 - Removed Beyond Skyrim - Bruma Upscaled Textures - Armor
 - Removed Beyond Skyrim - Bruma Upscaled Textures - Clothes
 - Removed Beyond Skyrim - Bruma Upscaled Textures - Weapons
