@@ -42,7 +42,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 No update is needed for the HDT-SMP Armor Addon (as of now).
 
-- No changelog is available for this update, as I rebuilt around v1.2.2 and the changes seemed confusing.
+- No changelog is available for this update, as I rebuilt around v1.2.2.
 - - - - - - - - - -
 
 ## Version 1.3.1
