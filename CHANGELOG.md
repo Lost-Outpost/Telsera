@@ -36,49 +36,13 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.3.2 [UNRELEASED]
-
-**NOTES** - You may receive a pop-up about missing plugins. **These notifications are safe to ignore**. 
+## Version 1.4.0 [UNRELEASED] - NO ETA.
 
 **NEW** - [Eldryn Extended - HD Quests Addon](https://github.com/Foamimi/Eldryn-Extended---HD-Quests) by Foamimi
 
 No update is needed for the HDT-SMP Armor Addon (as of now).
 
-- Added VIGILANT - Edits
-- Added Dynamic Activation Key
-- Added Press E to Heal Followers
-- Added Bring Meeko To Lod
-- Added Spaghetti's Faction Halls - Hall of the Vigilant
-- Added CBBE Armour and Clothing Conversions for Beyond Skyrim - Bruma - Nibenese Mage Robes - Patch
-- Added Common Colovian Clothes Bodyslide Fix CBBE HIMBO
-- Updated Gore
-- Updated GORE - SHADOW WIZARD SEPTIM GANG
-- Updated Civil War Lines Expansion
-- Updated Katana - Journey in the Shadows
-- Updated Thunderbolt - HD Lightning
-- Updated Northbourne NPCs Resources
-- Updated Northbourne NPCs of Whiterun Hold
-- Removed Beyond Skyrim - Bruma Upscaled Textures - Armor
-- Removed Beyond Skyrim - Bruma Upscaled Textures - Clothes
-- Removed Beyond Skyrim - Bruma Upscaled Textures - Weapons
-- Removed Project AHO HD
-- Removed Project AHO HD Outfit Textures
-- Removed VIGILANT - HiRes Pack
-- Removed Vigilant Armors and Weapons Retexture
-- Removed Vigilant Gun Replacer
-- Removed Vigilant DeadPile Flesh Retexture
-- Removed Vigilant's Molag Bal Dragon Retexture
-- Removed Vigilant - Greymarch Retexture
-- Removed Vigilant - Coldharbour Landscape and Architecture Retexture
-- Removed Vigilant - Coldharbour Landscape and Architecture Retexture - Bone Pile Fix
-- Removed VIGILANT - ENB Light Chest Fix
-- Removed Unslaad Weapons and Armors Retexture
-- Removed GLENMORIL - HiRes Pack
-- Removed Glenmoril Armors and Weapons Retexture
-- Removed Glenmoril Gun Replacer
-- Removed Clockwork Re-Imagined
-- Moved all of the Eldryn NPC consistency patches to one megapatch to reduce Wabbajack's dl size
-- Fixed mismatching water in Morthal
+- No changelog is available for this update, as I rebuilt around v1.2.2 and the changes seemed confusing.
 - - - - - - - - - -
 
 ## Version 1.3.1
