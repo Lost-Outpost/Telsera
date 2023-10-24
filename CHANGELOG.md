@@ -38,8 +38,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 1.4.0 [UNRELEASED] - NO ETA.
 
-**NEW** - [Eldryn Extended - HD Quests Addon](https://github.com/Foamimi/Eldryn-Extended---HD-Quests) by Foamimi
-
 No update is needed for the HDT-SMP Armor Addon (as of now).
 
 - No changelog is available for this update, as I rebuilt around v1.2.2.
