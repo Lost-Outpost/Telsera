@@ -205,8 +205,6 @@ Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspe
 
 - [Sexier Vanilla - Guards](https://www.nexusmods.com/skyrimspecialedition/mods/60399) - Diversifies and enhances town guards and Stormcloaks, adding heavy armor variants and more.
 
-- [Sentinel - An Equipment Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/100985) - Adds the community's best armors to a cohesive crafting system, and distributes them to the world in an immersive way.
-
 ## Followers and Companions
 
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) - Inigo is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
@@ -259,17 +257,25 @@ Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspe
 
 ### New Quests
 
+- [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) - Not just a display mod, not just a quest mod, not just a new guild mod, but a complete foundational flagship mod to build an entire load order around. This DLC expansion sized mod adds hundreds of new items, dozens of new quests and hundreds of extra hours of play.
+
+  > :video_game: To begin, head to the new museum near the Blue Palace in Solitude. If you wish to skip the intro quest, when starting a new game, select "I arrived on board a ship." from the ASLAL menu. Pick Solitude, then select "Yes" when asked if you are a relic hunter once you're loaded in.
+
 - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) - Travel to a new DLC-sized island and investigate a powerful dragon for the East Empire Company.
 
-  > :video_game: To begin, Wyrmstooth automatically starts once the player reaches level 10 and has finished Way of the Voice in the main questline
+  > :video_game: To begin, Wyrmstooth automatically starts once the player reaches level 10 and has finished Way of the Voice in the main questline.
 
 - [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) - Beyond Skyrim - Bruma introduces a completely new DLC-sized area south of Skyrim with many new quests and encounters to be had.
 
-  > :video_game: To begin, head to Pale Pass southeast of Falkreath
+  > :video_game: To begin, head to Pale Pass southeast of Falkreath.
 
 - [Saints and Seducers - Extended Cut](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation.
 
   > :video_game: To begin, you must be at least level 20 and have completed the vanilla Daedric quest The Mind of Madness. Sleeping for 6 in-game hours or reentering Solitude will begin a series of events setting you on the path.
+
+- [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) - Project AHO is a large quest modification, comparable in size to a medium-sized DLC. Designed in the best traditions of Bethesda Game Studios, this mod adds to Skyrim a hidden settlement of Great House Telvanni. Determine its fate for yourself!
+
+  > :video_game: To begin, you must be level 25. Talk to Iddra the innkeeper in Kynesgrove, and she will have a note for you to investigate a suspicious orc at Mixwater Mill.
 
 - [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) - Vigilant of Stendarr Quest.
 
@@ -290,10 +296,6 @@ Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspe
 - [A Serious Wedding - A Teldyn Sero Marriage Mod](https://www.nexusmods.com/skyrimspecialedition/mods/10238) - Play an immersive, lore-friendly quest that features 105 lines of dialogue, free hugs, a Dunmeri wedding ceremony, experience buffs, and meals.
 
   > :video_game: To begin, you must speak to Teldryn Sero during the day in Raven Rock, and a new line of dialogue will appear.
-
-- [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) - Project AHO is a large quest modification, comparable in size to a medium-sized DLC. Designed in the best traditions of Bethesda Game Studios, this mod adds to Skyrim a hidden settlement of Great House Telvanni. Determine its fate for yourself!
-
-  > :video_game: To begin, you must be level 25. Talk to Iddra the innkeeper in Kynesgrove, and she will have a note for you to investigate a suspicious orc at Mixwater Mill.
 
 ### Quest Changes
 
