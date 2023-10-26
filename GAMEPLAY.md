@@ -193,11 +193,13 @@ Eldryn includes a minimalistic and modern UI, featuring:
 
 ## Gear and Items
 
-Eldryn uses [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/85301) to overhaul artifacts. In addition to this, there are mods and patches that balance Creation Club items, and [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) takes care of balancing vanilla enchanted items and gear.
+Eldryn uses [Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/99619) to overhaul artifacts. In addition to this, there are mods and patches that balance Creation Club items, and [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) takes care of balancing vanilla enchanted items and gear.
 
 ### New Gear
 
 - [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Completes the Dawnguard weapon collection and distributes the armor weapons to the members as well.
+
+- [Beyond Skyrim Morrowind - Bonemold Weapon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/66906) - Adds the bonemold weapon set from Beyond Skyrim: Morrowind for use in the base game. Happy anniversary, Morrowind!
 
 - [Common Clothes and Armors](https://www.nexusmods.com/skyrimspecialedition/mods/21305) - Adds over 130 new clothes and armor to the common people of Skyrim.
 
