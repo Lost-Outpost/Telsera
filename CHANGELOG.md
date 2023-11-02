@@ -36,6 +36,34 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 1.4.1 [UNRELEASED] - NO ETA.
+
+The HDT-SMP Armor Addon will need an update.
+
+- Added No Survival Camera Effects
+- Added Creation Club - Adjustments Rebalancing and Variants
+- Added Forgotten Curios - A Creation Club Artifact Overhaul
+- Added Gift of the Underking
+- Added Champion's Mettle
+- Added Relics of the Crusader Improved
+- Added Legacy of the Remnants
+- Added Arcane Archer - Tweaks and Enhancements
+- Added Menagerie - A Creation Club Pet Overhaul
+- Added Decorating Madness
+- Added Unofficial TCC patch for me
+- Updated Katana - Journey in the Shadows
+- Updated Misc Dialogue Edits
+- Updated Beyond Skyrim - Bruma - Unofficial Patch
+- Updated Necrotic
+- Updated JK's Castle Dour
+- Updated Caliente's Beautiful Bodies Enhancer -CBBE-
+- Updated Gore
+- Updated Beyond Skyrim - Wares of Tamriel SE
+- Updated Beyond Skyrim Morrowind - Bonemold Weapon Pack
+- Removed Dragonborn - Controls
+- Moved Gemling Queen Jewelry - CBBE Patch to a later position
+- - - - - - - - - -
+
 ## Version 1.4.0
 
 The HDT-SMP Armor Addon has been updated.
