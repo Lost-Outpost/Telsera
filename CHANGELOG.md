@@ -51,6 +51,7 @@ The HDT-SMP Armor Addon will need an update.
 - Added Menagerie - A Creation Club Pet Overhaul
 - Added Decorating Madness
 - Added Unofficial TCC patch for me
+- Added CC Staves - Mysticism Consistency Patch
 - Updated Katana - Journey in the Shadows
 - Updated Misc Dialogue Edits
 - Updated Beyond Skyrim - Bruma - Unofficial Patch
