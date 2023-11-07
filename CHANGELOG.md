@@ -62,6 +62,10 @@ The HDT-SMP Armor Addon will need an update.
 - Updated Beyond Skyrim - Wares of Tamriel SE
 - Updated Beyond Skyrim Morrowind - Bonemold Weapon Pack
 - Removed Dragonborn - Controls
+- Removed Goetia Animations - Female Walk And Run - CATA Addon
+- Removed Goetia Animations - Male Walk And Run - CATA Addon
+- Removed Random Male Wall Leaning Animations
+- Removed UNDERDOG Animations
 - Moved Gemling Queen Jewelry - CBBE Patch to a later position
 - - - - - - - - - -
 
