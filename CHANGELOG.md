@@ -61,6 +61,10 @@ The HDT-SMP Armor Addon will need an update.
 - Updated Gore
 - Updated Beyond Skyrim - Wares of Tamriel SE
 - Updated Beyond Skyrim Morrowind - Bonemold Weapon Pack
+- Updated Bring Meeko To Lod
+- Updated Arcane
+- Updated Abyss
+- Updated kryptopyr's Patch Hub
 - Removed Dragonborn - Controls
 - Removed Goetia Animations - Female Walk And Run - CATA Addon
 - Removed Goetia Animations - Male Walk And Run - CATA Addon
