@@ -52,6 +52,8 @@ The HDT-SMP Armor Addon will need an update.
 - Added Decorating Madness
 - Added Unofficial TCC patch for me
 - Added CC Staves - Mysticism Consistency Patch
+- Added Where's Your Smelter
+- Added Simple Hide HUD Hotkey
 - Updated Katana - Journey in the Shadows
 - Updated Misc Dialogue Edits
 - Updated Beyond Skyrim - Bruma - Unofficial Patch
