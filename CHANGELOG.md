@@ -73,6 +73,7 @@ The HDT-SMP Armor Addon will need an update.
 - Removed Random Male Wall Leaning Animations
 - Removed UNDERDOG Animations
 - Moved Gemling Queen Jewelry - CBBE Patch to a later position
+- Tweaked Rudy ENB to have less plastic-ish water
 - - - - - - - - - -
 
 ## Version 1.4.0
