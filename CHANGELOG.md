@@ -73,6 +73,7 @@ The HDT-SMP Armor Addon will need an update.
 - Updated ELFX or LUX - Myrwatch Mesh Patch
 - Updated Security Overhaul SKSE - Lock Add-ons
 - Updated True Directional Movement - Modernized Third Person Gameplay
+- Updated Desecration
 - Removed Dragonborn - Controls
 - Removed Goetia Animations - Female Walk And Run - CATA Addon
 - Removed Goetia Animations - Male Walk And Run - CATA Addon
