@@ -51,3 +51,6 @@ As of now, the following issues are currently known:
 
   - Using Poison Spells or Poison-related FX with Rudy's ENB will occasionally cause the game to CTD.
 >This is a finicky bug that not everybody experiences and is difficult to solve. The alternative ENB in the guide, Pi-Cho (Quality or Performance), does not run into this issue nearly as frequently as compared to Rudy's, so my only suggestion is to swap ENBs (untick ENBSeries - Rudy ENB and tick either ENBSeries - Pi-Cho ENB - Quality Version or the Performance variant).
+
+  - Lagging while switching cells or worldspace locations may cause random warpaint to appear on your character.
+>To fix this occurrence, type ' to bring up the console, type showracemenu to bring up racemenu, type ' to remove the console, change NOTHING in racemenu (not even your character's name) and press enter/exit out per normal character creation, press yes to confirm your character's name, then vola! Warpaint removed.
