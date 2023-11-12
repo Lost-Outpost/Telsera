@@ -52,8 +52,10 @@ The HDT-SMP Armor Addon will need an update.
 - Added Decorating Madness
 - Added Unofficial TCC patch for me
 - Added CC Staves - Mysticism Consistency Patch
-- Added Where's Your Smelter
 - Added Simple Hide HUD Hotkey
+- Added Smelters for Riften and Solitude
+- Added Smelters for Falkreath and Riverwood
+- Added Simple Fishing Overhaul - Animations and Improved Quest Dialogue
 - Updated Katana - Journey in the Shadows
 - Updated Misc Dialogue Edits
 - Updated Beyond Skyrim - Bruma - Unofficial Patch
@@ -61,12 +63,16 @@ The HDT-SMP Armor Addon will need an update.
 - Updated JK's Castle Dour
 - Updated Caliente's Beautiful Bodies Enhancer -CBBE-
 - Updated Gore
+- Updated Gore - Romance Dialogue Expansion
 - Updated Beyond Skyrim - Wares of Tamriel SE
 - Updated Beyond Skyrim Morrowind - Bonemold Weapon Pack
 - Updated Bring Meeko To Lod
 - Updated Arcane
 - Updated Abyss
 - Updated kryptopyr's Patch Hub
+- Updated ELFX or LUX - Myrwatch Mesh Patch
+- Updated Security Overhaul SKSE - Lock Add-ons
+- Updated True Directional Movement - Modernized Third Person Gameplay
 - Removed Dragonborn - Controls
 - Removed Goetia Animations - Female Walk And Run - CATA Addon
 - Removed Goetia Animations - Male Walk And Run - CATA Addon
