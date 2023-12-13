@@ -1,4 +1,4 @@
-<a href="https://youtu.be/XRIE02v7Ri4"><img src="https://i.imgur.com/tRwxNaE.png" target="_blank"></a>
+<a href="https://youtu.be/XRIE02v7Ri4"><img src="images/000-ELDRYN-NEW-WIP2.webp" target="_blank"></a>
 
 ---
 
