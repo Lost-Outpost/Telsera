@@ -1,4 +1,4 @@
-<a href="https://youtu.be/XRIE02v7Ri4"><img src="https://i.imgur.com/tRwxNaE.png" target="_blank"></a>
+<a href="https://youtu.be/XRIE02v7Ri4"><img src="https://imgur.com/lrFL8cG" target="_blank"></a>
 
 ---
 
@@ -36,51 +36,46 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 1.4.1 [UNRELEASED] - NO ETA.
+## Version 2.0.0
 
-The HDT-SMP Armor Addon will need an update.
+The HDT-SMP Armor Addon is CURRENTLY UNSUPPORTED! I do not have space on my computer to have a separate instance of Eldryn installed, so I cannot test it with the current version of the guide as of now.
 
-- Added No Survival Camera Effects
-- Added Creation Club - Adjustments Rebalancing and Variants
-- Added Forgotten Curios - A Creation Club Artifact Overhaul
-- Added Gift of the Underking
-- Added Champion's Mettle
-- Added Relics of the Crusader Improved
-- Added Legacy of the Remnants
-- Added Arcane Archer - Tweaks and Enhancements
-- Added Menagerie - A Creation Club Pet Overhaul
-- Added Decorating Madness
-- Added Unofficial TCC patch for me
-- Added CC Staves - Mysticism Consistency Patch
-- Added Simple Hide HUD Hotkey
-- Added Smelters for Riften and Solitude
-- Added Smelters for Falkreath and Riverwood
-- Added Simple Fishing Overhaul - Animations and Improved Quest Dialogue
-- Updated Katana - Journey in the Shadows
-- Updated Misc Dialogue Edits
-- Updated Beyond Skyrim - Bruma - Unofficial Patch
-- Updated Necrotic
-- Updated JK's Castle Dour
-- Updated Caliente's Beautiful Bodies Enhancer -CBBE-
-- Updated Gore
-- Updated Gore - Romance Dialogue Expansion
-- Updated Beyond Skyrim - Wares of Tamriel SE
-- Updated Beyond Skyrim Morrowind - Bonemold Weapon Pack
-- Updated Bring Meeko To Lod
-- Updated Arcane
-- Updated Abyss
-- Updated kryptopyr's Patch Hub
-- Updated ELFX or LUX - Myrwatch Mesh Patch
-- Updated Security Overhaul SKSE - Lock Add-ons
-- Updated True Directional Movement - Modernized Third Person Gameplay
-- Updated Desecration
-- Removed Dragonborn - Controls
-- Removed Goetia Animations - Female Walk And Run - CATA Addon
-- Removed Goetia Animations - Male Walk And Run - CATA Addon
-- Removed Random Male Wall Leaning Animations
-- Removed UNDERDOG Animations
-- Moved Gemling Queen Jewelry - CBBE Patch to a later position
-- Tweaked Rudy ENB to have less plastic-ish water
+- Additional highlights include;
+  - Northern Scenery Overhauls
+  - Unique Locations - Riverwood Forest
+  - Northern Vanilla Farmhouses
+  - Distinct Interiors
+  - FrozenLands
+  - AI Overhaul
+  - Madmen - A Forsworn Overhaul
+  - Lawless - A Bandit Overhaul
+  - Haugbui - A Draugr Overhaul
+  - Finding Helgi and Laelette
+  - Finding Susanna Alive
+  - Finding Derkeethus
+  - Finding Velehk Sain
+  - Zim's Trainers Expansion
+  - Search and Seizure - Quest Expansion
+  - Blood on the Ice Redux
+  - Gift of the Underking
+  - Legacy of the Remnants
+  - Menagerie - A Creation Club Pet Overhaul
+  - Chanterelle - a Savage World to Explore
+  - Hammet's Dungeon Pack 1
+  - Hammet's Dungeon Pack 2
+  - NordWarUA's Armor Variants
+  - New Armory Series - Ashen Weapons
+  - Sleek Wolf Armor - Standalone
+  - Lunar Guard Armor
+  - Ducks and Swans
+  - Hungers
+  - Durzogs
+  - Shalks
+  - Shroom Beetles
+  - Default Face NPCs Fixed
+  - NITHI NPC Enhancement - The Reach
+  - Children of the Pariah - An Orc NPC Overhaul
+  - Pandorable's NPCs - Sovngarde
 - - - - - - - - - -
 
 ## Version 1.4.0
