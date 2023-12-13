@@ -1,4 +1,4 @@
-<a href="https://youtu.be/XRIE02v7Ri4"><img src="https://imgur.com/lrFL8cG" target="_blank"></a>
+<a href="https://youtu.be/XRIE02v7Ri4"><img src="X" target="_blank"></a>
 
 ---
 
@@ -38,7 +38,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 2.0.0
 
-The HDT-SMP Armor Addon is CURRENTLY UNSUPPORTED! I do not have space on my computer to have a separate instance of Eldryn installed, so I cannot test it with the current version of the guide as of now.
+The **HDT-SMP Armor Addon is CURRENTLY UNSUPPORTED!** I do not have space on my computer to have a separate instance of Eldryn installed, so I cannot test it with the current version of the guide as of now.
 
 - Additional highlights include;
   - Northern Scenery Overhauls
