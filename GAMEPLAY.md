@@ -1,4 +1,4 @@
-<a href="https://youtu.be/XRIE02v7Ri4"><img src="https://i.imgur.com/tRwxNaE.png" target="_blank"></a>
+<a href="https://youtu.be/XRIE02v7Ri4"><img src="images/000-ELDRYN-NEW-WIP2.webp" target="_blank"></a>
 
 ---
 
@@ -70,7 +70,7 @@ Icons in this guide:
 
 ### ENB Hotkeys
 
-- <kbd>F7</kbd> - Toggles FPS visibility, provided you are using ENB
+- <kbd>F7</kbd> - Toggles FPS visibility, provided you are using ENB (may need to press it several times)
 
 - <kbd>F10</kbd> - Toggles ENB on/off
 
@@ -197,8 +197,6 @@ Eldryn uses [Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrims
 
 ### New Gear
 
-- [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Completes the Dawnguard weapon collection and distributes the armor weapons to the members as well.
-
 - [Beyond Skyrim Morrowind - Bonemold Weapon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/66906) - Adds the bonemold weapon set from Beyond Skyrim: Morrowind for use in the base game. Happy anniversary, Morrowind!
 
 - [Common Clothes and Armors](https://www.nexusmods.com/skyrimspecialedition/mods/21305) - Adds over 130 new clothes and armor to the common people of Skyrim.
@@ -228,14 +226,6 @@ Eldryn uses [Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrims
 - [Gore](https://www.nexusmods.com/skyrimspecialedition/mods/85298) - Gore is a fully voiced, lore-friendly, standalone follower I have spent the last six months writing. This mod is dedicated to my friend, Eden "Solaria" Knight. You will never not be loved.
 
   > :video_game: You can find Gore at Peak's Shade Tower.
-
-- [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956) - Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion and friend. And a grandma!
-
-  > :video_game: You can find Shirley in her home, Brightwood.
-
-- [Taliesin](https://www.nexusmods.com/skyrimspecialedition/mods/93413) - Adds a custom-voiced (VA - Pat Mahoney) Thalmor follower to your Skyrim. A former member of the Thalmor wants a clean start, and only you can save him from his past life. Why do you always fall for the broken ones?
-
-  > :video_game: You can find Taliesin at the hidden statue of Talos along Lake Illinalta.
 
 - [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) - This mod includes 4800+ dialogue lines, dynamic combat, and 2 human-voiced followers. Katana, a not-so-roguish rogue with mysterious powers, chased a stolen heirloom to Skyrim. Megara, a healer with a knack for getting information, found herself helping Katana find it, but they need you to succeed. New features unlock after completing their quest.
 
@@ -299,6 +289,10 @@ Eldryn uses [Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrims
 
   > :video_game: To begin, you must speak to Teldryn Sero during the day in Raven Rock, and a new line of dialogue will appear.
 
+- [Chanterelle - a Savage World to Explore](https://www.nexusmods.com/skyrimspecialedition/mods/32603) - A world Skyrim sized made to be used with Campfire/Hunterborn/Frostfall. Huge, no civilization. To expand Skyrim with wildlands. Two full worldspaces to explore.
+
+  > :video_game: To begin, look for the various passageways scattered throughout the South and Southwest borders of Falkreath and The Reach.
+
 ### Quest Changes
 
 Eldryn includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that add immersion and several pathways to finish vanilla quests.
@@ -312,8 +306,6 @@ Eldryn includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/user
 - [Caught Red Handed - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/65708) - Mind your own business, Svana. Everyone should be allowed to practice the "Dibellan" arts free of shame! Expands this misc quest with some new... interesting outcomes.
 
 - [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606) - Expands on Mephala's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra.
-
-- [Innocence Lost - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80974) - Expands on the Dark Brotherhood entry quest by giving new options to deal with Grelod.
 
 Other changes to quests include;
 
