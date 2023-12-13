@@ -1,4 +1,4 @@
-<a href="https://youtu.be/XRIE02v7Ri4"><img src="https://i.imgur.com/tRwxNaE.png" target="_blank"></a>
+<a href="https://youtu.be/XRIE02v7Ri4"><img src="images/000-ELDRYN-NEW-WIP2.webp" target="_blank"></a>
 
 ---
 
@@ -19,3 +19,4 @@
 The following list is a set of add-ons that can be installed alongside your instance of Eldryn. Note, that support for addons is provided by the creator of that addon, and not by Eldryn support. Install instructions are provided on the respective page.
 
 ### [Eldryn-Extended---HDT-SMP Armor Addon](https://github.com/Foamimi/Eldryn-Extended---HDT-SMP-Armor-Addon) by Foamimi
+- **CURRENTLY UNSUPPORTED!**
