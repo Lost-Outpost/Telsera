@@ -36,6 +36,19 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 2.0.0.3
+
+- Added Godd Statue
+- Added Improvement Names Customized AE
+- Added Warmage of Shornhelm - Redone Spell Knight Armor for Thamauturgy
+- Updated Simplicity of Snow
+- Updated Madness and Order - Artifacts
+- Updated Legacy of the Remnants
+- Updated Descriptions for Various Mods
+- Updated Dynamic Follower Weakening (SPID) - Eldryn Config
+- Fixed CTD at startup (dangit Todd)
+- - - - - - - - - -
+
 ## Version 2.0.0.2
 
 - Fixed installation issues/halts (FOR REAL THIS TIME!)
