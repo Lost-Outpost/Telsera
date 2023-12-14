@@ -36,6 +36,11 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 2.0.0.2
+
+- Fixed installation issues/halts (FOR REAL THIS TIME!)
+- - - - - - - - - -
+
 ## Version 2.0.0
 
 The **HDT-SMP Armor Addon is CURRENTLY UNSUPPORTED!** I do not have space on my computer to have a separate instance of Eldryn installed, so I cannot test it with the current version of the guide as of now.
