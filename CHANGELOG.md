@@ -40,6 +40,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 - Updated Gore
 - Removed Streamlined Fishing - Rod Selection Menu
+- Fixed missing textures for Juniper Berries
 - Fixed CTD at startup, along with remaining installation issues
 - - - - - - - - - -
 
