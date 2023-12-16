@@ -38,7 +38,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 2.0.0.4 [UNRELEASED]
 
+- Added Mari's Flora Texture Tweaks
 - Updated Gore
+- Updated Dynamic Random Spell Idle
+- Updated Description Framework
+- Updated Trainwreck - A Crash Logger
 - Removed Streamlined Fishing - Rod Selection Menu
 - Fixed missing textures for Juniper Berries
 - Fixed CTD at startup, along with remaining installation issues
