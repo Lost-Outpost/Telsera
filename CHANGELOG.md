@@ -44,7 +44,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Description Framework
 - Updated Trainwreck - A Crash Logger
 - Updated Immersive folded hands (OAR)
-- Updated No Grassias - A Universal Grass Fix For Grass Mods
+- Removed No Grassias - A Universal Grass Fix For Grass Mods
 - Removed Streamlined Fishing - Rod Selection Menu
 - Removed Autumngate - A Believable Player Home
 - Fixed missing textures for Juniper Berries
