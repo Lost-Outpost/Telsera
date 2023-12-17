@@ -44,6 +44,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Description Framework
 - Updated Trainwreck - A Crash Logger
 - Removed Streamlined Fishing - Rod Selection Menu
+- Removed Autumngate - A Believable Player Home
 - Fixed missing textures for Juniper Berries
 - Fixed CTD at startup, along with remaining installation issues
 - - - - - - - - - -
