@@ -36,16 +36,19 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 2.0.0.4 [UNRELEASED]
+## Version 2.0.0.4
 
 - Added Mari's Flora Texture Tweaks
 - Updated Gore
 - Updated Dynamic Random Spell Idle
 - Updated Description Framework
 - Updated Trainwreck - A Crash Logger
+- Updated Immersive folded hands (OAR)
+- Updated No Grassias - A Universal Grass Fix For Grass Mods
 - Removed Streamlined Fishing - Rod Selection Menu
 - Removed Autumngate - A Believable Player Home
 - Fixed missing textures for Juniper Berries
+- Fixed gap between certain masculine sets from Common Clothes and Armors
 - Fixed CTD at startup, along with remaining installation issues
 - - - - - - - - - -
 
