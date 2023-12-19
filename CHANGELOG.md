@@ -44,7 +44,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Chanterelle Alternate Start option
 - Removed Beyond Skyrim - Bruma - Unofficial Fixes
 - Fixed installation issues with Rare Curious (CC)
-- Fixed various freezes (thank MARA)
+- Fixed various freezes!!
 - Fixed snowed-in entrance at Raven's Rest
 - Fixed grass clipping around the unmarked bandit camp south of the Guardian Stones
 - Fixed floating health potion outside of Erikur's house
