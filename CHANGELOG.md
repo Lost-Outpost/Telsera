@@ -48,7 +48,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed snowed-in entrance at Raven's Rest
 - Fixed grass clipping around the unmarked bandit camp south of the Guardian Stones
 - Fixed floating health potion outside of Erikur's house
-- Fixed floating icicles and debris below the College of Winterhold's bridge
+- Fixed floating icicles below the College of Winterhold's bridge (debris will be fixed another time)
 - Fixed flickering in ASLAL start room
 - Fixed flickering in Dragonsreach
 - Fixed clipping objects in the Winking Skeever
