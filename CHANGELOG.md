@@ -49,12 +49,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated SSE Display Tweaks
 - Updated MCM Helper
 - Updated RaceMenu
+- Updated Constructible Object Custom Keyword System
 - Removed Trainwreck - A Crash Logger
 - Removed Backported Extended ESL Support
 - Removed SkyUI - Flashing Savegames Fix
 - Removed SkyUI - Ghost Item Bug Fix
 - Removed Fix Note Icon for SkyUI
-- Removed 
 - - - - - - - - - -
 
 ## Version 2.0.0.5
