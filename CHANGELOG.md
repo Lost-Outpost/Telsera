@@ -36,10 +36,17 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 2.0.0.5 [UNRELEASED]
+## Version 2.1.0 [UNRELEASED]
 
+- Added SMIM Minewood HD Texture Replacer
+- Added Legacy of the Dragonborn Wraithguard Patch
+- Added The Gift of Saturalia - A Quest for the Holidays
 - Removed Chanterelle Alternate Start option
+- Removed Beyond Skyrim - Bruma - Unofficial Fixes
 - Fixed installation issues with Rare Curious (CC)
+- Fixed various freezes
+- Tweaked ASLAL - Redoran Cut to remove certain starts
+- Tweaked Rudy ENB to be slightly brighter.
 - - - - - - - - - -
 
 ## Version 2.0.0.4
