@@ -36,6 +36,27 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 2.1.0 [UNRELEASED] - NO ETA.
+
+- Added SkyUI SE - Difficulty Persistence Fix
+- Updated Crash Logger SSE AE VR
+- Updated PapyrusUtil SE - Modders Scripting Utility Functions
+- Updated powerofthree's Papyrus Extender
+- Updated JContainers
+- Updated Spell Perk Item Distributor (SPID)
+- Updated Fuz Ro D-oh - Silent Voice
+- Updated More Informative Console
+- Updated SSE Display Tweaks
+- Updated MCM Helper
+- Updated RaceMenu
+- Removed Trainwreck - A Crash Logger
+- Removed Backported Extended ESL Support
+- Removed SkyUI - Flashing Savegames Fix
+- Removed SkyUI - Ghost Item Bug Fix
+- Removed Fix Note Icon for SkyUI
+- Removed 
+- - - - - - - - - -
+
 ## Version 2.0.0.5
 
 - Added SMIM Minewood HD Texture Replacer
