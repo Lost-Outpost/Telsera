@@ -36,7 +36,7 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 2.1.0 [UNRELEASED]
+## Version 2.0.0.5
 
 - Added SMIM Minewood HD Texture Replacer
 - Added Legacy of the Dragonborn Wraithguard Patch
@@ -44,9 +44,16 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Chanterelle Alternate Start option
 - Removed Beyond Skyrim - Bruma - Unofficial Fixes
 - Fixed installation issues with Rare Curious (CC)
-- Fixed various freezes
+- Fixed various freezes (thank MARA)
+- Fixed snowed-in entrance at Raven's Rest
+- Fixed grass clipping around the unmarked bandit camp south of the Guardian Stones
+- Fixed floating health potion outside of Erikur's house
+- Fixed floating icicles and debris below the College of Winterhold's bridge
+- Fixed flickering in ASLAL start room
+- Fixed flickering in Dragonsreach
+- Fixed clipping objects in the Winking Skeever
 - Tweaked ASLAL - Redoran Cut to remove certain starts
-- Tweaked Rudy ENB to be slightly brighter.
+- Tweaked Rudy ENB to be slightly brighter
 - - - - - - - - - -
 
 ## Version 2.0.0.4
