@@ -50,6 +50,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated MCM Helper
 - Updated RaceMenu
 - Updated Constructible Object Custom Keyword System
+- Updated Auto Input Switch
+- Updated ConsolePlusPlus
 - Removed Trainwreck - A Crash Logger
 - Removed Backported Extended ESL Support
 - Removed SkyUI - Flashing Savegames Fix
