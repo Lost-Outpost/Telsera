@@ -39,6 +39,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 ## Version 2.1.0 [UNRELEASED] - NO ETA.
 
 - Added SkyUI SE - Difficulty Persistence Fix
+- Added Simple Mod Item Spawner
 - Updated Crash Logger SSE AE VR
 - Updated PapyrusUtil SE - Modders Scripting Utility Functions
 - Updated powerofthree's Papyrus Extender
@@ -52,11 +53,21 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Constructible Object Custom Keyword System
 - Updated Auto Input Switch
 - Updated ConsolePlusPlus
+- Updated Equip Enchantment Fix
+- Updated DynDOLOD DLL - SKSE64 Plugin
+- Updated Survival Mode Improved - SKSE
+- Updated Simple Dual Sheath
+- Updated Immersive Equipment Displays
+- Updated Conditional Expressions Extended
 - Removed Trainwreck - A Crash Logger
 - Removed Backported Extended ESL Support
 - Removed SkyUI - Flashing Savegames Fix
 - Removed SkyUI - Ghost Item Bug Fix
 - Removed Fix Note Icon for SkyUI
+- Removed AddItemMenu
+- Removed AddItemMenu - NG
+- Removed Improved Alternate Conversation Camera (goodbye my sweet prince...)
+- Removed Improved Alternate Conversation Camera - Redoran Settings
 - - - - - - - - - -
 
 ## Version 2.0.0.5
