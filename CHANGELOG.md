@@ -41,7 +41,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added SkyUI SE - Difficulty Persistence Fix
 - Added Simple Mod Item Spawner
 - Added Scaleform Translation Plus Plus NG
-- Added SSE Engine Fixes - Save Corrupt Fix AE
 - Updated SKSE
 - Updated PapyrusUtil SE - Modders Scripting Utility Functions
 - Updated powerofthree's Papyrus Extender
@@ -85,6 +84,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed ENB Input Disabler
 - Removed Infinity UI
 - Removed Compass Navigation Overhaul (you will be missed...)
+- Removed Fires Hurt RE
+- Removed Fire Hurts NG
 - - - - - - - - - -
 
 ## Version 2.0.0.5
