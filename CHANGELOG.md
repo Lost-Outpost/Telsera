@@ -95,6 +95,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed QuickLoot EE - Settings Loader
 - Removed QuickLoot EE - Dynamic Resize and Value-Weight Patch
 - Removed Apothecary - An Alchemy Overhaul - Rustic Animated Potions Patch
+- Removed EVG Animated Traversal
+- Removed SkyClimb (we le sigh on)
+- Removed SkyClimb - Settings Loader
+- Removed SkyClimb - No Marker
 - - - - - - - - - -
 
 ## Version 2.0.0.5
