@@ -42,6 +42,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Simple Mod Item Spawner
 - Added Scaleform Translation Plus Plus NG
 - Added Sons of Nirn - Whiterun
+- Added Organic Player Animations (OAR)
 - Updated SKSE
 - Updated PapyrusUtil SE - Modders Scripting Utility Functions
 - Updated powerofthree's Papyrus Extender
