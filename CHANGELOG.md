@@ -41,6 +41,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added SkyUI SE - Difficulty Persistence Fix
 - Added Simple Mod Item Spawner
 - Added Scaleform Translation Plus Plus NG
+- Added Sons of Nirn - Whiterun
 - Updated SKSE
 - Updated PapyrusUtil SE - Modders Scripting Utility Functions
 - Updated powerofthree's Papyrus Extender
