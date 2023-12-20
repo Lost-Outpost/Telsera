@@ -83,6 +83,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed TrueHUD - HUD Additions
 - Removed Animation Motion Revolution
 - Removed ENB Input Disabler
+- Removed Infinity UI
+- Removed Compass Navigation Overhaul (you will be missed...)
 - - - - - - - - - -
 
 ## Version 2.0.0.5
