@@ -85,7 +85,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Infinity UI
 - Removed Compass Navigation Overhaul (you will be missed...)
 - Removed Fires Hurt RE
-- Removed Fire Hurts NG (fire fire, burns.. something something.. when oxygen, is the supplier..)
+- Removed Fire Hurts NG (fire fire, burns.. something something.. when oxygen, is the supplier...)
+- Removed QuickLoot EE (hello darkness my old friend)
+- Removed QuickLoot EE - Settings Loader
+- Removed QuickLoot EE - Dynamic Resize and Value-Weight Patch
 - - - - - - - - - -
 
 ## Version 2.0.0.5
