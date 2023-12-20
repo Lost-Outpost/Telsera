@@ -40,6 +40,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 - Added SkyUI SE - Difficulty Persistence Fix
 - Added Simple Mod Item Spawner
+- Added Scaleform Translation Plus Plus NG
+- Updated SKSE
 - Updated Crash Logger SSE AE VR
 - Updated PapyrusUtil SE - Modders Scripting Utility Functions
 - Updated powerofthree's Papyrus Extender
@@ -60,6 +62,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Immersive Equipment Displays
 - Updated Conditional Expressions Extended
 - Updated Photo Mode
+- Updated Unofficial Skyrim Special Edition Patch
+- Updated Unofficial Skyrim Creation Club Content Patch
+- Updated Dragon Weapons and Armor Retexture
+- Updated Bring Meeko To Lod
 - Removed Trainwreck - A Crash Logger
 - Removed Backported Extended ESL Support
 - Removed SkyUI - Flashing Savegames Fix
