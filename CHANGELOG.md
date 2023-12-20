@@ -90,8 +90,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Infinity UI
 - Removed Compass Navigation Overhaul (you will be missed...)
 - Removed Fires Hurt RE
-- Removed Fire Hurts NG (fire fire, burns.. something something.. when oxygen, is the supplier...)
-- Removed QuickLoot EE (hello darkness my old friend)
+- Removed Fire Hurts NG (fire fire, burns.. something something.. when oxygen, is the supplier...) [actual song is here lol](https://youtu.be/hZb_6_WfquU?si=gP9C4-d2yetNhLpY)
+- Removed QuickLoot EE (hello darkness my old friend) [actual song is here lol](https://youtu.be/4fWyzwo1xg0?si=YNJnp_vEfX2tCNwh)
 - Removed QuickLoot EE - Settings Loader
 - Removed QuickLoot EE - Dynamic Resize and Value-Weight Patch
 - Removed Apothecary - An Alchemy Overhaul - Rustic Animated Potions Patch
@@ -99,6 +99,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed SkyClimb (we le sigh on)
 - Removed SkyClimb - Settings Loader
 - Removed SkyClimb - No Marker
+- Removed Remiel (rest in peace best girl </3)
+- Removed Remiel Addon - Saddle for Dumac
+- Removed Remiel - Crossbow Tweaks
+- Removed Remiel's Crossbow Replacer
 - - - - - - - - - -
 
 ## Version 2.0.0.5
