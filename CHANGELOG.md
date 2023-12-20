@@ -75,6 +75,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Improved Alternate Conversation Camera (goodbye my sweet prince...)
 - Removed Improved Alternate Conversation Camera - Redoran Settings
 - Removed Oxygen Meter 2
+- Removed LOD Unloading Bug Fix
+- Removed Autorun
+- Removed ConsoleUtilSSE
 - - - - - - - - - -
 
 ## Version 2.0.0.5
