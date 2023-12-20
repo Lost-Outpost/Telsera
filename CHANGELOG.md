@@ -59,6 +59,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Simple Dual Sheath
 - Updated Immersive Equipment Displays
 - Updated Conditional Expressions Extended
+- Updated Photo Mode
 - Removed Trainwreck - A Crash Logger
 - Removed Backported Extended ESL Support
 - Removed SkyUI - Flashing Savegames Fix
