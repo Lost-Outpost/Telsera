@@ -42,7 +42,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Simple Mod Item Spawner
 - Added Scaleform Translation Plus Plus NG
 - Updated SKSE
-- Updated Crash Logger SSE AE VR
 - Updated PapyrusUtil SE - Modders Scripting Utility Functions
 - Updated powerofthree's Papyrus Extender
 - Updated JContainers
@@ -66,7 +65,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Unofficial Skyrim Creation Club Content Patch
 - Updated Dragon Weapons and Armor Retexture
 - Updated Bring Meeko To Lod
-- Removed Trainwreck - A Crash Logger
+- Removed Crash Logger SSE AE VR
 - Removed Backported Extended ESL Support
 - Removed SkyUI - Flashing Savegames Fix
 - Removed SkyUI - Ghost Item Bug Fix
@@ -75,6 +74,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed AddItemMenu - NG
 - Removed Improved Alternate Conversation Camera (goodbye my sweet prince...)
 - Removed Improved Alternate Conversation Camera - Redoran Settings
+- Removed Oxygen Meter 2
 - - - - - - - - - -
 
 ## Version 2.0.0.5
