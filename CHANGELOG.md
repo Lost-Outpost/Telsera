@@ -82,6 +82,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Classic Sprinting Redone (SKSE64)
 - Removed TrueHUD - HUD Additions
 - Removed Animation Motion Revolution
+- Removed ENB Input Disabler
 - - - - - - - - - -
 
 ## Version 2.0.0.5
