@@ -45,6 +45,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Sorcerer - Patch Page
 - Added Sons of Nirn - Whiterun
 - Added Organic Player Animations (OAR)
+- Added Stand still in RaceMenu (OAR)
 - Updated SKSE
 - Updated PapyrusUtil SE - Modders Scripting Utility Functions
 - Updated powerofthree's Papyrus Extender
