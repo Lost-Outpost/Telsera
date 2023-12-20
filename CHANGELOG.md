@@ -103,6 +103,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Remiel Addon - Saddle for Dumac
 - Removed Remiel - Crossbow Tweaks
 - Removed Remiel's Crossbow Replacer
+- Removed The Practical Dwemechanic - A Remiel Replacer
 - - - - - - - - - -
 
 ## Version 2.0.0.5
