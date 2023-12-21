@@ -103,6 +103,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Remiel - Crossbow Tweaks
 - Removed Remiel's Crossbow Replacer
 - Removed The Practical Dwemechanic - A Remiel Replacer
+- Removed Carriage Drivers Are Alive - LOTD Patch
 - - - - - - - - - -
 
 ## Version 2.0.0.5
