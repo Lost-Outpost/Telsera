@@ -43,7 +43,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Scaleform Translation Plus Plus NG
 - Added Sorcerer - A Staff and Scroll Overhaul
 - Added Sorcerer - Patch Page
-- Added Sons of Nirn - Whiterun
 - Added Organic Player Animations (OAR)
 - Added Stand still in RaceMenu (OAR)
 - Updated SKSE
