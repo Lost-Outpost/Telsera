@@ -36,7 +36,7 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 2.1.0 [UNRELEASED] - NO ETA.
+## Version 2.1.0 (OPEN BETA)
 
 - Added SkyUI SE - Difficulty Persistence Fix
 - Added Simple Mod Item Spawner
@@ -69,6 +69,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Unofficial Skyrim Creation Club Content Patch
 - Updated Dragon Weapons and Armor Retexture
 - Updated Bring Meeko To Lod
+- Updated Load Screen Shading Fix
 - Removed Crash Logger SSE AE VR
 - Removed Backported Extended ESL Support
 - Removed SkyUI - Flashing Savegames Fix
