@@ -46,7 +46,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Sa'chil Official Patch Hub
 - Added Bjorn
 - Added Bjorn - HIMBO Patch
-- Added Hayd's Bjorn
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
