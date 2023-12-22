@@ -40,8 +40,15 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 - Added Subtle Night Eye
 - Added The Gift of Saturalia - Lalup's NPCs Patch
+- Added Sa'chil
+- Added Sa'chil Body Patches
+- Added Sa'chil Official Patch Hub
+- Added Bjorn
+- Added Bjorn - HIMBO Patch
+- Added Hayd's Bjorn
 - Updated Gore
 - Updated Complete Widescreen Fix
+- Updated NPC Animation Remix (OAR)
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
 - Removed Project AHO
 - Removed Unofficial Project AHO - Bugfix and Improvement Patch
@@ -52,6 +59,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Soul Husk Retexture for High Poly Soul Husks - Project AHO Patch
 - Removed Project AHO - Start When You Want
 - Removed Ghosts of the Tribunal (CC) - Project AHO Integration Patch
+- Removed Modpocalypse NPCs - Resources
+- Removed Modpocalypse NPCs - Project AHO
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed landscape clipping in Riverwood (bandit camp)
 - - - - - - - - - -
