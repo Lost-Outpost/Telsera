@@ -43,6 +43,15 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
+- Removed Project AHO
+- Removed Unofficial Project AHO - Bugfix and Improvement Patch
+- Removed Unofficial Project AHO - SMIM Chains Patch
+- Removed Project AHO Vampirism Fix
+- Removed Project AHO Sadrith Kegran ENB Fix
+- Removed Project AHO HD
+- Removed Soul Husk Retexture for High Poly Soul Husks - Project AHO Patch
+- Removed Project AHO - Start When You Want
+- Removed Ghosts of the Tribunal (CC) - Project AHO Integration Patch
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed landscape clipping in Riverwood (bandit camp)
 - - - - - - - - - -
