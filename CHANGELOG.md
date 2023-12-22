@@ -61,6 +61,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Ghosts of the Tribunal (CC) - Project AHO Integration Patch
 - Removed Modpocalypse NPCs - Resources
 - Removed Modpocalypse NPCs - Project AHO
+- Removed Unique Locations - Riverwood Forest (big sad...)
+- Removed Unique Locations - Riverwood Forest - Patches and Tweaks
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed landscape clipping in Riverwood (bandit camp)
 - - - - - - - - - -
