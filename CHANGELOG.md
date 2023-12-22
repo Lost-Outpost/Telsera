@@ -38,7 +38,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 ## Version 2.1.1 (OPEN BETA) [UNRELEASED]
 
+- Added Subtle Night Eye
 - Updated Gore
+- Updated Complete Widescreen Fix
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - - - - - - - - - -
