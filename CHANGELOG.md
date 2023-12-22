@@ -40,6 +40,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 
 - Added Subtle Night Eye
 - Added The Gift of Saturalia - Lalup's NPCs Patch
+- Added Terrain Fixes for CC Mods
 - Added Sa'chil
 - Added Sa'chil Body Patches
 - Added Sa'chil Official Patch Hub
