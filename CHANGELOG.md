@@ -36,9 +36,10 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 2.1.1 (OPEN BETA) [UNRELEASED]
+## Version 2.1.1 (OPEN BETA)
 
 - Added Subtle Night Eye
+- Added The Gift of Saturalia - Lalup's NPCs Patch
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
