@@ -46,11 +46,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Sa'chil Official Patch Hub
 - Added Bjorn
 - Added Bjorn - HIMBO Patch
-- Added Seamless Varied Feminine Idles OAR
-- Added Seamless Varied Masculine Idles OAR
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
+- Updated Happy Little Trees
+- Updated Description Framework
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
 - Removed Project AHO
 - Removed Unofficial Project AHO - Bugfix and Improvement Patch
