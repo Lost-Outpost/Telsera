@@ -48,6 +48,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Bjorn - HIMBO Patch
 - Added TrueHUD - HUD Additions
 - Added Archery Gameplay Overhaul (Animations Only)
+- Added Northern Scenery - Bleak Falls Barrow
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
