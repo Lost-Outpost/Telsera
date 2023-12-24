@@ -52,6 +52,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Markarth - Help the Warrens and A Cure for Cairine
 - Added GLENMORIL - Help the Warrens Patch
 - Added Papyrus Tweaks NG
+- Added YAR - Yuril's Additional Resources
+- Added FYX - Windhelm Graveyard
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
@@ -75,6 +77,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Unique Locations - Riverwood Forest - Patches and Tweaks
 - Removed Young Lovers - Voice Overhaul
 - Removed Brawl Lines Expansion and Fixes
+- Removed Ash's Rest - Solstheim Dunmer Player Home
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - - - - - - - - - -
 
