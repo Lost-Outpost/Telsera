@@ -51,11 +51,14 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Northern Scenery - Bleak Falls Barrow
 - Added Markarth - Help the Warrens and A Cure for Cairine
 - Added GLENMORIL - Help the Warrens Patch
+- Added Papyrus Tweaks NG
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
 - Updated Happy Little Trees
 - Updated Description Framework
+- Updated Morthal Where's Wares
+- Updated SSE Display Tweaks
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
 - Removed Project AHO
 - Removed Unofficial Project AHO - Bugfix and Improvement Patch
@@ -73,7 +76,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Young Lovers - Voice Overhaul
 - Removed Brawl Lines Expansion and Fixes
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
-- Fixed landscape clipping in Riverwood (bandit camp)
 - - - - - - - - - -
 
 ## Version 2.1.0 (OPEN BETA)
