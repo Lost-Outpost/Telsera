@@ -49,6 +49,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added TrueHUD - HUD Additions
 - Added Archery Gameplay Overhaul (Animations Only)
 - Added Northern Scenery - Bleak Falls Barrow
+- Added Markarth - Help the Warrens and A Cure for Cairine
+- Added GLENMORIL - Help the Warrens Patch
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
