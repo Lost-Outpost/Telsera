@@ -69,6 +69,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Unique Locations - Riverwood Forest (big sad...)
 - Removed Unique Locations - Riverwood Forest - Patches and Tweaks
 - Removed Young Lovers - Voice Overhaul
+- Removed Brawl Lines Expansion and Fixes
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed landscape clipping in Riverwood (bandit camp)
 - - - - - - - - - -
