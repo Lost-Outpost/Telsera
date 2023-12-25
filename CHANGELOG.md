@@ -54,6 +54,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Papyrus Tweaks NG
 - Added YAR - Yuril's Additional Resources
 - Added FYX - Windhelm Graveyard
+- Added Northfire's Windhelm
+- Added Remove Gildergreen Root
+- Added Overlooked Dungeon Objects Retextures
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
@@ -78,6 +81,11 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Young Lovers - Voice Overhaul
 - Removed Brawl Lines Expansion and Fixes
 - Removed Ash's Rest - Solstheim Dunmer Player Home
+- Removed Chanterelle
+- Removed No Ore Markers for Chanterelle
+- Removed Chanterelle - Patches and Tweaks
+- Removed KYNE'S HUNT - A Quest for Chanterelle
+- Removed Chanterelle - A Native Life - Tweaks and Addons
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - - - - - - - - - -
 
