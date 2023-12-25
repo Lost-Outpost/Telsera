@@ -86,6 +86,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Chanterelle - Patches and Tweaks
 - Removed KYNE'S HUNT - A Quest for Chanterelle
 - Removed Chanterelle - A Native Life - Tweaks and Addons
+- Removed Actor Limit Fix
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - - - - - - - - - -
 
