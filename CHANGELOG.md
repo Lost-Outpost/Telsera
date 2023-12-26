@@ -57,6 +57,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Northfire's Windhelm
 - Added Remove Gildergreen Root
 - Added Overlooked Dungeon Objects Retextures
+- Added Curse of the Dragonborn - REDUX
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
@@ -87,6 +88,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed KYNE'S HUNT - A Quest for Chanterelle
 - Removed Chanterelle - A Native Life - Tweaks and Addons
 - Removed Actor Limit Fix
+- Removed NITHI NPC Enhancement - Eastmarch
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - - - - - - - - - -
 
