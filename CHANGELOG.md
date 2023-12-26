@@ -90,6 +90,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Actor Limit Fix
 - Removed NITHI NPC Enhancement - Eastmarch
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
+- Fixed broken, semi-transparent Stalhrim meshes
+- Fixed excess clutter in Candlehearth Hall
+- Fixed excess clutter in the Bannered Mare
+- Fixed floating nordic rubble under the Winterhold bridge
 - - - - - - - - - -
 
 ## Version 2.1.0 (OPEN BETA)
