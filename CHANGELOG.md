@@ -90,6 +90,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Chanterelle - A Native Life - Tweaks and Addons
 - Removed Actor Limit Fix
 - Removed NITHI NPC Enhancement - Eastmarch
+- Removed Paarthurnax - Quest Expansion
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
