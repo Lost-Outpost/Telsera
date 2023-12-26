@@ -58,6 +58,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Remove Gildergreen Root
 - Added Overlooked Dungeon Objects Retextures
 - Added Curse of the Dragonborn - REDUX
+- Added Fantasia Landscapes
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
