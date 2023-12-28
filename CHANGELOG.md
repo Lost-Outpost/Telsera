@@ -132,6 +132,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Simple Dual Sheath
 - Removed Immersive Equipment Displays
 - Removed Immersive Equipment Displays - Floating Weapons Fix
+- Removed PAPER
+- Removed Optimized Scripts for Enhanced Blood Textures
+- Removed Andrealphus' Papyrus Functions
+- Removed Arcane Archer - Tweaks and Enhancements
+- Removed Moons and Stars - Sky Overhaul SKSE
+- Removed Animation Queue Fix
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
