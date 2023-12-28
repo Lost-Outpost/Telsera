@@ -69,6 +69,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Grass Sampler Fix
 - Updated AI Overhaul
 - Updated Ancient Knowledge - Automaton Summoning
+- Updated Embers XD
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
 - Removed Project AHO
 - Removed Unofficial Project AHO - Bugfix and Improvement Patch
@@ -157,6 +158,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Unmarked Locations Pack - Soul Cairn
 - Removed Tel Jerdein
 - Removed Tel Jerdein - Staff and Scroll Crafting - Sorcerer
+- Removed Embers XD - Downscaled
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
