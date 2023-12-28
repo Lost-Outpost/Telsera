@@ -49,7 +49,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Northern Scenery - Bleak Falls Barrow
 - Added Markarth - Help the Warrens and A Cure for Cairine
 - Added GLENMORIL - Help the Warrens Patch
-- Added Papyrus Tweaks NG
 - Added YAR - Yuril's Additional Resources
 - Added FYX - Windhelm Graveyard
 - Added Northfire's Windhelm
@@ -59,6 +58,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Nocturnal's Portal HD
 - Added Iconic's Moon Crest Retexture
 - Added ArteFakes Remeshed. Realistic Proportions
+- Added Zooey's Eldryn Presets
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
@@ -140,6 +140,23 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Animation Queue Fix
 - Removed New Creature Animation - Falmer
 - Removed New Creature Animation - Riekling and Goblin
+- Removed ENB Light for Nirnroot by Mari
+- Removed Rudy HQ - More Lights for ENB Decal Fix
+- Removed Alchemy Ingredients ENB Light
+- Removed Barenziah's Glowing
+- Removed Apocrypha - ENB Light
+- Removed Dark Elf Lantern - ENB Light
+- Removed Spiders of Solstheim - ENB Light
+- Removed Particle Lights for ENB - Falmer Things
+- Removed Particle Lights for ENB - Falmer Drips
+- Removed Elytra and Bliss Bug - ENB Light
+- Removed Ayleid Ruins - ENB Light
+- Removed Ghosts of the Tribunal - Particle Lights for ENB Addon
+- Removed Unmarked Locations Pack - Sovngarde
+- Removed Unmarked Locations Pack - Forgotten Vale
+- Removed Unmarked Locations Pack - Soul Cairn
+- Removed Tel Jerdein
+- Removed Tel Jerdein - Staff and Scroll Crafting - Sorcerer
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
