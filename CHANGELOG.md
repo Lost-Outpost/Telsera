@@ -57,7 +57,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Northfire's Windhelm
 - Added Remove Gildergreen Root
 - Added Overlooked Dungeon Objects Retextures
-- Added Curse of the Dragonborn - REDUX
 - Added Fantasia Landscapes
 - Updated Gore
 - Updated Complete Widescreen Fix
@@ -91,6 +90,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Actor Limit Fix
 - Removed NITHI NPC Enhancement - Eastmarch
 - Removed Paarthurnax - Quest Expansion
+- Removed Throw Stone -- Simple Distraction Tool (Enhanced)
+- Removed Maxwell the Cat - Stone of Barenziah Replacer
+- Removed Rectus' Bilbo the Good Cat Boy (Food Item)
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
