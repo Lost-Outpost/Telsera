@@ -44,8 +44,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Sa'chil
 - Added Sa'chil Body Patches
 - Added Sa'chil Official Patch Hub
-- Added Bjorn
-- Added Bjorn - HIMBO Patch
 - Added TrueHUD - HUD Additions
 - Added Archery Gameplay Overhaul (Animations Only)
 - Added Northern Scenery - Bleak Falls Barrow
@@ -58,7 +56,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Remove Gildergreen Root
 - Added Overlooked Dungeon Objects Retextures
 - Added Fantasia Landscapes
-- Added SSE Engine Fixes - Save Corrupt Fix AE
+- Added Nocturnal's Portal HD
+- Added Iconic's Moon Crest Retexture
+- Added ArteFakes Remeshed. Realistic Proportions
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
@@ -68,6 +68,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated SSE Display Tweaks
 - Updated Grass Sampler Fix
 - Updated AI Overhaul
+- Updated Ancient Knowledge - Automaton Summoning
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
 - Removed Project AHO
 - Removed Unofficial Project AHO - Bugfix and Improvement Patch
@@ -102,6 +103,31 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Better Jumping
 - Removed Purchasable CC Camping Supplies (CID)
 - Removed Sure of Stealing
+- Removed Hearthfire Bedroom Doors
+- Removed Myrwatch - Tweaks and Enhancements
+- Removed FrozenLands
+- Removed Ryn's Dragon Mounds AIO
+- Removed Half Moon Creek
+- Removed Solstheim - Skaal Fishing Camp
+- Removed Save the Icerunner - Lights Out Alternate Routes
+- Removed Finding Velehk Sain
+- Removed Finding Derkeethus
+- Removed Finding Derkeethus Duplicate FormID Fix
+- Removed Finding Helgi and Laelette
+- Removed Blood on the Ice Redux
+- Removed Blood on the Ice Redux - Voiced - Revoiced
+- Removed Finding Susanna Alive for BotI Redux
+- Removed CS Soul Fragments to Soul Gems
+- Removed Vittorias Alternate Wedding
+- Removed Vittorias Alternate Wedding Patches
+- Removed Carriage Drivers Are Alive
+- Removed Hungers
+- Removed Durzogs
+- Removed Shalks
+- Removed 4thUnknown Bug Fixes and World Integration
+- Removed Creation Club Farming - Tweaks Enhancements and Quest Expansion
+- Removed Gelebor Teaches Sunhallowed Arrows Spell
+- Removed Show Follower Carry Weight
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
