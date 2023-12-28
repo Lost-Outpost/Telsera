@@ -138,6 +138,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Arcane Archer - Tweaks and Enhancements
 - Removed Moons and Stars - Sky Overhaul SKSE
 - Removed Animation Queue Fix
+- Removed New Creature Animation - Falmer
+- Removed New Creature Animation - Riekling and Goblin
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
