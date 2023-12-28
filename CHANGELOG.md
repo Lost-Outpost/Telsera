@@ -102,7 +102,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Skyrim Priority SE AE - SKSE Plugin
 - Removed Papyrus Tweaks NG
 - Removed Better Jumping
-- Removed Purchasable CC Camping Supplies (CID)
 - Removed Sure of Stealing
 - Removed Hearthfire Bedroom Doors
 - Removed Myrwatch - Tweaks and Enhancements
