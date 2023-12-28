@@ -128,6 +128,10 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Creation Club Farming - Tweaks Enhancements and Quest Expansion
 - Removed Gelebor Teaches Sunhallowed Arrows Spell
 - Removed Show Follower Carry Weight
+- Removed Another Race Menu Rotation Mod
+- Removed Simple Dual Sheath
+- Removed Immersive Equipment Displays
+- Removed Immersive Equipment Displays - Floating Weapons Fix
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
