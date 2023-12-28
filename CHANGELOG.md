@@ -67,6 +67,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Morthal Where's Wares
 - Updated SSE Display Tweaks
 - Updated Grass Sampler Fix
+- Updated AI Overhaul
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
 - Removed Project AHO
 - Removed Unofficial Project AHO - Bugfix and Improvement Patch
