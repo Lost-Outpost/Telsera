@@ -58,6 +58,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Remove Gildergreen Root
 - Added Overlooked Dungeon Objects Retextures
 - Added Fantasia Landscapes
+- Added SSE Engine Fixes - Save Corrupt Fix AE
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
@@ -65,6 +66,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Description Framework
 - Updated Morthal Where's Wares
 - Updated SSE Display Tweaks
+- Updated Grass Sampler Fix
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
 - Removed Project AHO
 - Removed Unofficial Project AHO - Bugfix and Improvement Patch
@@ -93,6 +95,12 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Throw Stone -- Simple Distraction Tool (Enhanced)
 - Removed Maxwell the Cat - Stone of Barenziah Replacer
 - Removed Rectus' Bilbo the Good Cat Boy (Food Item)
+- Removed Freed Prisoner Uses Items
+- Removed Skyrim Priority SE AE - SKSE Plugin
+- Removed Papyrus Tweaks NG
+- Removed Better Jumping
+- Removed Purchasable CC Camping Supplies (CID)
+- Removed Sure of Stealing
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
