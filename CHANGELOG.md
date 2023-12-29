@@ -72,6 +72,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Embers XD
 - Updated DynDOLOD
 - Updated DynDOLOD Resources
+- Updated Adamant - A Perk Overhaul
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
 - Removed Project AHO
 - Removed Unofficial Project AHO - Bugfix and Improvement Patch
