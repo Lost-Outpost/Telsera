@@ -158,6 +158,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Tel Jerdein
 - Removed Tel Jerdein - Staff and Scroll Crafting - Sorcerer
 - Removed Embers XD - Downscaled
+- Removed Skyland - ProjectedDiffuse
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
