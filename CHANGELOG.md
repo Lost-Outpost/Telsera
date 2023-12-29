@@ -70,6 +70,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated AI Overhaul
 - Updated Ancient Knowledge - Automaton Summoning
 - Updated Embers XD
+- Updated DynDOLOD
+- Updated DynDOLOD Resources
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
 - Removed Project AHO
 - Removed Unofficial Project AHO - Bugfix and Improvement Patch
