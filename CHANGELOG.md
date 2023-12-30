@@ -59,6 +59,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Iconic's Moon Crest Retexture
 - Added ArteFakes Remeshed. Realistic Proportions
 - Added Zooey's Eldryn Presets
+- Added Mathy's Repository
+- Added No More Witcher Bread
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
