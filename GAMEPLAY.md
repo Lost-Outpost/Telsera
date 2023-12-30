@@ -112,8 +112,6 @@ In addition to SimonRim, this list includes:
 
 - [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) - Growl is a lightweight werewolf and werebear overhaul. Better werebeast combat, scaling, experience gain, reworked perks, synergies between beast and mortal form, lunar transformations, werebears, and many quality-of-life improvements. Growl makes werebeasts a viable choice without "taking over" or imbalancing the game.
 
-- [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Adds a potion for sale at your neighborhood alchemist that lets you respec perk points.
-
 ## Creation Club Distribution
 
 - [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) - Overhauls the AE creation called [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode).
@@ -215,10 +213,6 @@ Eldryn uses [Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrims
 
   > :video_game: You can find Lucien in Dead's Man's Drink in Falkreath.
 
-- [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874) - Adds Remiel to your game, custom-voiced with ~3750 lines of dialogue, a Breton engineer who will accompany you in your travels. She's traveled from Wayrest to explore dwemer ruins in Skyrim, but she needs your help. While she's not much of a fighter, she boasts a knack for machinery and will reprogram a dwemer spider to fight alongside you both.
-
-  > :video_game: You can find Remiel in The Silver-Blood Inn in Markarth.
-
 - [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) - Rebuilt and expanded, this romantic follower features over 1200 lines of dialogue, a custom home, and mini-quests.
 
   > :video_game: You can find Kaidan in the Abandoned Prison.
@@ -235,13 +229,9 @@ Eldryn uses [Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrims
 
 - [Cityside - A Starter Home](https://www.nexusmods.com/skyrimspecialedition/mods/27777) - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude.
 
-- [Autumngate - A Believable Player Home](https://www.nexusmods.com/skyrimspecialedition/mods/60951) - A small, believable player home situated near Ivarstead in the Rift. The house has one large living/dining room, a bedroom, a cellar, an outdoor patio, and a dock.
-
 - [Breezehome by Lupus](https://www.nexusmods.com/skyrimspecialedition/mods/9626) - Lupus' version of the good old Breezehome. Small yet functional and with their own flavor. Finally Brought from Oldrim with some tiny improvements.
 
 - [Sorrow Point Crypt](https://www.nexusmods.com/skyrimspecialedition/mods/34336) - A very cozy grounded-player home, with a bit of story and mystery.
-
-- [Tel Jerdein - Telvanni Sorcerer Tower](https://www.nexusmods.com/skyrimspecialedition/mods/33539) - High on the cliffs in The Rift, a wizard's tower stands overgrown by the mystic fungal scaffolds of House Telvanni.
 
 - [Seidr's Rest - Clever Man's Abode - Nord Mage Player Home](https://www.nexusmods.com/skyrimspecialedition/mods/39918) - A small dwelling in the Pale, built by ancient Nords in the traditional method: telekinesis.
 
@@ -265,10 +255,6 @@ Eldryn uses [Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrims
 
   > :video_game: To begin, you must be at least level 20 and have completed the vanilla Daedric quest The Mind of Madness. Sleeping for 6 in-game hours or reentering Solitude will begin a series of events setting you on the path.
 
-- [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) - Project AHO is a large quest modification, comparable in size to a medium-sized DLC. Designed in the best traditions of Bethesda Game Studios, this mod adds to Skyrim a hidden settlement of Great House Telvanni. Determine its fate for yourself!
-
-  > :video_game: To begin, you must be level 25. Talk to Iddra the innkeeper in Kynesgrove, and she will have a note for you to investigate a suspicious orc at Mixwater Mill.
-
 - [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) - Vigilant of Stendarr Quest.
 
   > :video_game: To begin, you must be at least level 30. Travel to the Windpeak Inn in Dawnstar to speak with Altano.
@@ -289,15 +275,9 @@ Eldryn uses [Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrims
 
   > :video_game: To begin, you must speak to Teldryn Sero during the day in Raven Rock, and a new line of dialogue will appear.
 
-- [Chanterelle - a Savage World to Explore](https://www.nexusmods.com/skyrimspecialedition/mods/32603) - A world Skyrim sized made to be used with Campfire/Hunterborn/Frostfall. Huge, no civilization. To expand Skyrim with wildlands. Two full worldspaces to explore.
-
-  > :video_game: To begin, look for the various passageways scattered throughout the South and Southwest borders of Falkreath and The Reach.
-
 ### Quest Changes
 
 Eldryn includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that add immersion and several pathways to finish vanilla quests.
-
-- [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) - A fully voiced, quite expanded new take on the quest Paarthurnax, giving both the Blades and Paarthurnax good reasons for their stances, and you, the final choice.
 
 - [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) - Enhances Peryite's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra.
 
@@ -312,7 +292,5 @@ Other changes to quests include;
 - [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300) - Actually back out of becoming a werewolf without leaving Skjor and Aela stuck in the Underforge forever, and various other tweaks for the Companions.
 
 - [Skyrim on Skooma](https://www.nexusmods.com/skyrimspecialedition/mods/80975) - Tired of skooma being so boring? This mod turns skooma into a proper recreational substance with 69 possible scenarios, and a thousand different variations. Funny, yet still immersively immersive.
-
-- [Vittorias Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466) - This mod allows you to attend Vittoria's Vici wedding after you destroy the Dark Brotherhood.
 
 - [Thieves Guild Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256) - A compilation of adjustments to the Thieves Guild and its related quests. Adds skill and radiant requirements that must be met in order to advance the Thieves Guild questline, the ability to sell Stones of Berenziah, improved shadowmarks, and much more! All are configurable via MCM (see Images for default settings).
