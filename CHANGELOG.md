@@ -45,7 +45,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Sa'chil Body Patches
 - Added Sa'chil Official Patch Hub
 - Added TrueHUD - HUD Additions
-- Added Archery Gameplay Overhaul (Animations Only)
 - Added Northern Scenery - Bleak Falls Barrow
 - Added Markarth - Help the Warrens and A Cure for Cairine
 - Added GLENMORIL - Help the Warrens Patch
