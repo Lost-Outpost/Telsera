@@ -59,8 +59,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Iconic's Moon Crest Retexture
 - Added ArteFakes Remeshed. Realistic Proportions
 - Added Zooey's Eldryn Presets
-- Added Mathy's Repository
 - Added No More Witcher Bread
+- Added Dawnguard Quests as Vampire
+- Added My Unslaad NPCs
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
@@ -166,6 +167,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Skyland - ProjectedDiffuse
 - Removed Survival Mode Improved - SKSE - I4 Icons for Diseases
 - Removed Survival Mode Improved - SKSE - Aetherius - I4 Icons
+- Removed Play Dawnguard as Vampire Undetected - Sacrilege Tweaks
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
