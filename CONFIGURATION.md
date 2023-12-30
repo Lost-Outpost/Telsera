@@ -17,20 +17,9 @@
 # Configuration
 
 - [Optional Tweaks](#optional-tweaks)
-  - [Widescreen](#widescreen)
   - [Character Presets](#character-presets)
 - [ENB and Reshade Presets](#ENB-and-Reshade-Presets)
 - [Performance Guide](#performance-guide)
-
-## Optional Tweaks
-
-When enabling any optional tweaks, make sure they are always loaded BEFORE RealisticWaterTwo.esp in your load order. See the alternate start section for an example of this.
-
-### Widescreen
-
-I have included the necessary mods to enable widescreen UI support. If you play on a widescreen monitor, this can be enabled in the optional mods section.
-
-![Widescreen](https://i.imgur.com/zZ7yIIn.png)
 
 ### Character Presets
 
