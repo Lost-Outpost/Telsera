@@ -66,6 +66,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Meeko Reborn
 - Added Vigilance Reborn
 - Added Vigilance the Husky
+- Added Immersive Letter of Inheritance
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
