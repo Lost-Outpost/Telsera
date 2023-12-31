@@ -171,7 +171,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Survival Mode Improved - SKSE - I4 Icons for Diseases
 - Removed Survival Mode Improved - SKSE - Aetherius - I4 Icons
 - Removed Play Dawnguard as Vampire Undetected - Sacrilege Tweaks
-- Removed Dimmer Fog 2.0
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
