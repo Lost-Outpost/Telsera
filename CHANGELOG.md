@@ -61,6 +61,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added No More Witcher Bread
 - Added Dawnguard Quests as Vampire
 - Added My Unslaad NPCs
+- Added Vigilance the Husky
+- Added Meeko The Husky SE
+- Added Spaghetti's Castle Volkihar - Patch Collection
 - Updated Gore
 - Updated Complete Widescreen Fix
 - Updated NPC Animation Remix (OAR)
