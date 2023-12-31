@@ -62,7 +62,6 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Dawnguard Quests as Vampire
 - Added My Unslaad NPCs
 - Added Vigilance the Husky
-- Added Meeko The Husky SE
 - Added Spaghetti's Castle Volkihar - Patch Collection
 - Updated Gore
 - Updated Complete Widescreen Fix
@@ -78,6 +77,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated DynDOLOD
 - Updated DynDOLOD Resources
 - Updated Adamant - A Perk Overhaul
+- Updated BnP Male Skin (HIMBO)
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
 - Removed Project AHO
 - Removed Unofficial Project AHO - Bugfix and Improvement Patch
@@ -174,7 +174,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
 - Fixed excess clutter in the Bannered Mare
+- Fixed excess clutter in the Winking Skeever
 - Fixed floating nordic rubble under the Winterhold bridge
+- Fixed terrain gaps near the bandit camp outside of Helgen
 - - - - - - - - - -
 
 ## Version 2.1.0 (OPEN BETA)
