@@ -36,7 +36,7 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 2.0.0
+## Version 2.0.0 (re-release)
 
 - Added Subtle Night Eye
 - Added The Gift of Saturalia - Lalup's NPCs Patch
@@ -177,6 +177,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Survival Mode Improved - SKSE - Aetherius - I4 Icons
 - Removed Play Dawnguard as Vampire Undetected - Sacrilege Tweaks
 - Removed STAYDOWN
+- Removed Plague of the Dead - Mysticism Rebalance
 - Moved various custom patches and inclusions to Eldryn's Nexus page to reduce the .wabbajack file size.
 - Fixed broken, semi-transparent Stalhrim meshes
 - Fixed excess clutter in Candlehearth Hall
