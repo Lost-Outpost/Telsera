@@ -184,6 +184,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Fixed excess clutter in the Winking Skeever
 - Fixed floating nordic rubble under the Winterhold bridge
 - Fixed terrain gaps near the bandit camp outside of Helgen
+- Fixed broken brawls with NPCs
 - - - - - - - - - -
 
 ## Version 2.1.0 (OPEN BETA)
