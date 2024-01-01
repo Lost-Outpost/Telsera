@@ -82,6 +82,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated DynDOLOD Resources
 - Updated Adamant - A Perk Overhaul
 - Updated BnP Male Skin (HIMBO)
+- Updated Artificer - Unofficial Patches
+- Updated The Gift of Saturalia - A Quest for the Holidays
 - Removed Y.A.N.E.M - Yet Another Night Eye Mod
 - Removed Project AHO
 - Removed Unofficial Project AHO - Bugfix and Improvement Patch
