@@ -49,6 +49,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Unofficial Skyrim Creation Club Content Patch
 - Updated Simplicity of Snow
 - Updated The Heart of Dibella - Quest Expansion
+- Updated Improved Alternate Conversation Camera to use the Simple version
 - Removed Relighting Skyrim for Window Shadows
 - Fixed bald Mjoll
 - - - - - - - - - -
