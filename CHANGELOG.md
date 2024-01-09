@@ -36,6 +36,23 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
+## Version 2.0.1 (re-release)
+
+- Added Quiet Dog
+- Added Luminosity Dark Side
+- Updated Hayd's Val Serano
+- Updated Sa'chil - Official Patch-Hub
+- Updated Bandit Lines Expansion
+- Updated Civil War Lines Expansion
+- Updated Vampire Lines Expansion
+- Updated Forsworn and Thalmor Lines Expansion
+- Updated Unofficial Skyrim Creation Club Content Patch
+- Updated Simplicity of Snow
+- Updated The Heart of Dibella - Quest Expansion
+- Removed Relighting Skyrim for Window Shadows
+- Fixed bald Mjoll
+- - - - - - - - - -
+
 ## Version 2.0.0 (re-release)
 
 - WIP. There are too many changes + started from start to finish.
