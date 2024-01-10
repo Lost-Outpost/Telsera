@@ -39,7 +39,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 ## Version 2.0.1 (re-release)
 
 - Added Quiet Dog
-- Added Luminosity Dark Side
+- Added Simple Wearable Lanterns - Toggle Hotkey
+- Added Optimised Script for Simple Wearable Lanterns - Toggle Hotkey
 - Updated Hayd's Val Serano
 - Updated Sa'chil - Official Patch-Hub
 - Updated Bandit Lines Expansion
@@ -52,6 +53,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Improved Alternate Conversation Camera to use the Simple version
 - Removed Relighting Skyrim for Window Shadows
 - Fixed bald Mjoll
+- Fixed flickering scattered throughout various inns (Sleeping Giant Inn for example)
 - - - - - - - - - -
 
 ## Version 2.0.0 (re-release)
