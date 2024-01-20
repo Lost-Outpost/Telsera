@@ -36,11 +36,12 @@ The purpose behind beta versions is for playtesting to help Foamimi and the team
 
 The Eldryn team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
-## Version 2.0.1 (re-release) [UNRELEASED] - NO ETA.
+## Version 2.1.0 (re-release) [UNRELEASED] - NO ETA.
 
-- Added Quiet Dog
+- Added Conditional Dog Barking (OAR)
 - Added Simple Wearable Lanterns - Toggle Hotkey
 - Added Optimised Script for Simple Wearable Lanterns - Toggle Hotkey
+- Added How Many Dragonborn Does It Take To Smash A Lightbulb
 - Updated Hayd's Val Serano
 - Updated Sa'chil - Official Patch-Hub
 - Updated Bandit Lines Expansion
@@ -50,8 +51,19 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Unofficial Skyrim Creation Club Content Patch
 - Updated Simplicity of Snow
 - Updated The Heart of Dibella - Quest Expansion
+- Updated The Heart of Dibella - Quest Expansion - Ace Bonus
 - Updated Improved Alternate Conversation Camera to use the Simple version
+- Updated Gore
+- Updated Val Serano
+- Updated Headhunter - Bounties Redone
+- Updated Hammet's Dungeon Pack 2
+- Updated Immersive Rejections
+- Updated Serana Dialogue Add-On Patch Hub
+- Updated Nilheim - Misc Quest Expansion
+- Updated Keyword Item Distributor (KID)
+- Updated ENB Series
 - Removed Relighting Skyrim for Window Shadows
+- Removed Autumngate
 - Fixed bald Mjoll
 - Fixed flickering scattered throughout various inns (Sleeping Giant Inn for example)
 - - - - - - - - - -
