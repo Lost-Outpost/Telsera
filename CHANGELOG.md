@@ -69,7 +69,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Configurable Commentary Rate Slider - Settings Loader
 - Removed Simple Children
 - Fixed bald Mjoll
-- Fixed flickering scattered throughout various inns (Sleeping Giant Inn for example)
+- Fixed mismatched faces from bandits at Cracked Tusk Keep
+- Fixed flickering scattered throughout various inns
 - - - - - - - - - -
 
 ## Version 2.0.0 (re-release)
