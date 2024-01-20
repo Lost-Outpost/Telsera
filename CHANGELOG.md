@@ -42,6 +42,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Simple Wearable Lanterns - Toggle Hotkey
 - Added Optimised Script for Simple Wearable Lanterns - Toggle Hotkey
 - Added How Many Dragonborn Does It Take To Smash A Lightbulb
+- Added RS Children Overhaul
 - Updated Hayd's Val Serano
 - Updated Sa'chil - Official Patch-Hub
 - Updated Bandit Lines Expansion
@@ -64,6 +65,9 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated ENB Series
 - Removed Relighting Skyrim for Window Shadows
 - Removed Autumngate
+- Removed Configurable Commentary Rate Slider
+- Removed Configurable Commentary Rate Slider - Settings Loader
+- Removed Simple Children
 - Fixed bald Mjoll
 - Fixed flickering scattered throughout various inns (Sleeping Giant Inn for example)
 - - - - - - - - - -
