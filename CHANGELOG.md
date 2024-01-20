@@ -43,6 +43,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Optimised Script for Simple Wearable Lanterns - Toggle Hotkey
 - Added How Many Dragonborn Does It Take To Smash A Lightbulb
 - Added RS Children Overhaul
+- Added Foamimi's Orlando Visual Overhaul
 - Updated Hayd's Val Serano
 - Updated Sa'chil - Official Patch-Hub
 - Updated Bandit Lines Expansion
@@ -63,6 +64,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Nilheim - Misc Quest Expansion
 - Updated Keyword Item Distributor (KID)
 - Updated ENB Series
+- Updated Follower Distance Tweaks
 - Removed Relighting Skyrim for Window Shadows
 - Removed Autumngate
 - Removed Configurable Commentary Rate Slider
