@@ -85,6 +85,8 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Leather Armors Retexture - CBBE Refit
 - Removed GLENMORIL - NPC Overhaul
 - Removed GLENMORIL - NPC Overhaul - Salt and Wind
+- Removed Legacy of the Dragonborn - CBBE and HIMBO Refits
+- Removed Wyrmstooth - CBBE and HIMBO Refits
 - Fixed bald Mjoll
 - Fixed mismatched faces from bandits at Cracked Tusk Keep
 - Fixed flickering scattered throughout various inns
