@@ -41,15 +41,15 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Added Conditional Dog Barking (OAR)
 - Added Simple Wearable Lanterns - Toggle Hotkey
 - Added Optimised Script for Simple Wearable Lanterns - Toggle Hotkey
-- Added How Many Dragonborn Does It Take To Smash A Lightbulb
 - Added RS Children Overhaul
 - Added RS Children - Gore - A Companion Mod Patch
 - Added RS Children - Beyond Skyrim - Bruma Patch
 - Added RS Children Patch Compendium - Wyrmstooth Patch
-- Added RS Children Overhaul - Patch Compendium - Shiny Hair Texture Fix
 - Added Children of the North
 - Added Foamimi's Orlando Visual Overhaul
 - Added Restore Gore Appearance from v1.5
+- Added Frankly HD Imperial Armor and Weapons
+- Added Fate Cards Manager
 - Updated Hayd's Val Serano
 - Updated Sa'chil - Official Patch-Hub
 - Updated Bandit Lines Expansion
@@ -77,7 +77,14 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Removed Autumngate
 - Removed Configurable Commentary Rate Slider
 - Removed Configurable Commentary Rate Slider - Settings Loader
+- Removed TK Children - Tri Files
 - Removed Simple Children
+- Removed Simple Children - USSEP Aventus Aretino Patch
+- Removed Simple Children - Wyrmstooth Update Patch
+- Removed Imperial Armors and Weapons Retexture - HIMBO and CBBE Refits
+- Removed Leather Armors Retexture - CBBE Refit
+- Removed GLENMORIL - NPC Overhaul
+- Removed GLENMORIL - NPC Overhaul - Salt and Wind
 - Fixed bald Mjoll
 - Fixed mismatched faces from bandits at Cracked Tusk Keep
 - Fixed flickering scattered throughout various inns
