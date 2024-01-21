@@ -72,6 +72,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated ENB Series
 - Updated Follower Distance Tweaks
 - Updated Spell Perk Item Distributor (SPID)
+- Updated Complete Widescreen Fix for Vanilla and SkyUI
 - Removed Relighting Skyrim for Window Shadows
 - Removed Autumngate
 - Removed Configurable Commentary Rate Slider
