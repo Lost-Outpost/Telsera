@@ -71,6 +71,7 @@ The Eldryn team would like to thank everyone who plays beta versions and reports
 - Updated Keyword Item Distributor (KID)
 - Updated ENB Series
 - Updated Follower Distance Tweaks
+- Updated Spell Perk Item Distributor (SPID)
 - Removed Relighting Skyrim for Window Shadows
 - Removed Autumngate
 - Removed Configurable Commentary Rate Slider
