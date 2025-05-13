@@ -1,14 +1,14 @@
-<a href="https://youtu.be/XRIE02v7Ri4"><img src="images/000-ELDRYN-NEW-WIP2.webp" target="_blank"></a>
+<img src="images/000-ELDRYN-NEW-WIP2.webp" target="_blank">
 
 ---
 
 <p align="center">
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/94412">Nexus Page</a> ·
-  <a href="README.md">Installation</a> ·
+  <a href="README.md">Installation Guide</a> ·
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
-  <a href="CONFIGURATION.md">Configuration</a> ·
+  <a href="CONFIGURATION.md">Configuration Setup</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
-  <a href="ADDONS.md">Addons</a> ·
+  <a href="FAQ.md">Frequently Asked Quests (FAQ)</a> ·
   <a href="HELP.md">Help</a>
 </p>
 
@@ -36,11 +36,50 @@
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
 - [Updating](#updating)
 - [Issues](#issues)
-- [Eldryn Team](#eldryn-team)
+- [Credits](#credits)
 
 # Introduction
 
-Eldryn is a modlist designed to be utilized with Skyrim's Anniversary Edition Upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance. The AE content included in this pack has been partially integrated into the world of Skyrim. Most quests have either been delayed, removed, or expanded upon to enhance the experience.
+Telsera is a **not-safe-for-work (NSFW)** modlist designed for **Skyrim Special Edition** with the **Anniversary Edition upgrade**. The legal age restriction may differ depending on your country of residence. Where I reside, adult actions are prohibited to those **at LEAST 18 years of age**. Please use discretion while playing, as there is nudity, graphic visuals, and sexual acts present within the pack. **YOU HAVE BEEN WARNED!**
+
+The vision behind Telsera is primarily focused on performance-friendly visuals while retaining a consistent, stable, and engaging environment, as well as gameplay and mature narratives that don't stray too far from the game itself. Contents from the AE upgrade have been reintegrated, repurposed, or rebalanced depending on the creation. More information surrounding these changes can be found later in the readme under "Gameplay Guide."
+
+(SFW) Highlights and Notes:
+
+    Consistent texture combinations for an HD experience without needing a super-duper-ultra-powered computer. Examples include Tomato's Landscapes AIO, Skyland Bits and Bobs, Happy Little Trees, Freak's Flora Fields, etc.
+
+    Modern lighting, water, and weather visuals to help tie in the atmosphere. Examples include Azurite Weathers III, Lux, Embers XD, Simplicity of Sea, etc.
+
+    Fresh yet familiar environments through added structural details, clutter, and interest points. Examples include Spaghetti's Cities, Gorgeous Giant Camps AIO, Unmarked Locations Pack AIO, Ryn's Standing Stones, etc.
+
+    Vanilla quest expansions, overhauls, and tweaks to rejuvinate veteran players from the same-old-same-old, while still retaining the vanilla feel for newcomers. Examples include House of Horrors - Quest Expansion, Save the Icerunner, Markarth - Help the Warrens, Thieves Guild Alternative Endings, etc.
+
+    New locations and dungeons to lose yourself in, such as Extended Cut - Saints and Seducers, Hammet's Dungeons Packs 1 and 2, Lost Passages - New Dungeons, etc.
+
+    You will NOT find giant new lands, cities, armor integration packs, new quests, and non-vanilla custom-voiced followers. There is an exception in some cases, however! Some of these EXCEPTIONS include Improved Follower Dialogue - Lydia, Gwenllian's Gift Shop, A Serious Wedding - Teldryn Sero Marriage, etc.
+
+    Brand new animations from mod authors, including lSmoothl, Verolevi, CHIMgarden, Everglaid, and more!
+
+    By default, Telsera uses an ENB mixture customized between Pi-CHO and Ominous.
+
+
+(NSFW) Highlights and Notes:
+
+    Telsera relies on nude, high-poly body replacers such as CBBE 3BA and HIMBO with tweaked presets for each one.
+
+    Utilizes OStim Standalone (OStim SA) as a framework for adult animations and scenes. Animation packages include Lovemaking Compendium, Open Animations Romance and Erotica (OARE), Billyy's Animations for OStim SA, Nibbles' Animations for OStim SA, etc.
+
+    Additional works are available to further enhance intimacy scenes, including OCum Ascended, OBottom, OStim Standalone Sound Overhaul (OSSO), etc.
+
+    Encouragement to roleplay (not required of course!) experiences and relationship development. Examples include OStim Romance, You Got Caught for OStim SA, and OComfort - OStim Romance Fork.
+
+    From a gameplay standpoint, you will NOT be able to bang every single NPC you come across right off the bat. Tweaks have been made to dialogue initiations, so you must have a relationship established with the NPC in question before you're able to attempt to be intimate with them. There are ways to bypass this mechanic for eager beavers, but that will be further explained later in the readme.
+
+    By default, guards will break up public sexual encounters if you aren't careful. If you get caught in the act, beware, you may be fined!
+
+    You will NOT find defeatist-themed NSFW mods in this pack. 
+
+    You will NOT find skimpy armor replacers (well, except for one, but you have to find the needle in the haystack to find it).
 
 ## List Contents
 
