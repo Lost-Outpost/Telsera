@@ -17,7 +17,6 @@
 
 # Installation
 
-- [Installation](#installation)
 - [Introduction](#introduction)
   - [List Contents](#list-contents)
   - [Computer Specs](#computer-specs)
