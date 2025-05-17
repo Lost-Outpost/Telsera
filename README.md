@@ -20,7 +20,7 @@
 - [Installation](#installation)
 - [Introduction](#introduction)
   - [List Contents](#list-contents)
-  - [Minimum Specs](#minimum-specs)
+  - [Computer Specs](#computer-specs)
   - [Community](#community)
   - [Skyrim: Anniversary Edition (AE)](#skyrim-anniversary-edition-ae)
 - [Installation](#installation-1)
@@ -29,7 +29,6 @@
     - [Steam Library](#steam-library)
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
-    - [Start Skyrim](#start-skyrim)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
     - [Downloading and Installing](#downloading-and-installing)
@@ -43,140 +42,24 @@
 
 Telsera is a **not-safe-for-work (NSFW)** modlist designed for **Skyrim Special Edition** with the **Anniversary Edition upgrade**. The legal age restriction may differ depending on your country of residence. Where I reside, adult actions are prohibited to those **at LEAST 18 years of age**. Please use discretion while playing, as there is nudity, graphic visuals, and sexual acts present within the pack. **YOU HAVE BEEN WARNED!**
 
-The vision behind Telsera is primarily focused on performance-friendly visuals while retaining a consistent, stable, and engaging environment, as well as gameplay and mature narratives that don't stray too far from the game itself. Contents from the AE upgrade have been reintegrated, repurposed, or rebalanced depending on the creation. More information surrounding these changes can be found later in the readme under "Gameplay Guide."
-
-- insert banner here via Imgur -
-
-(SFW) Highlights and Notes:
-
-Consistent texture combinations for an HD experience without needing a super-duper-ultra-powered computer. 
-Examples include:
-
-    Tomato's Landscapes AIO﻿
-    Fantasia Landscapes﻿
-    Skyland Bits and Bobs﻿
-    Forgotten Retex Project﻿
-    Happy Little Trees﻿
-    Freak's Flora Fields﻿
-
-
-Modern lighting, water, and weather visuals to help tie in the atmosphere.
-Examples include:
-
-    Azurite Weathers III﻿
-    Lux Via﻿
-    Lux Orbis﻿
-    Lux﻿
-    Embers XD﻿
-    Simplicity of Sea﻿
-
-
-Challenging yet balanced gameplay overhauls including combat, magic, perks, and more.
-Examples include:
-
-    Mods by SimonMagus﻿, such as Mysticism﻿, Adamant﻿, Scion﻿, and Pilgrim﻿.
-    Mods by Darenii﻿, such as Natura﻿, Flames of Coldharbour﻿, Stellaris﻿, and Necrom﻿.
-
-
-Vanilla quest expansions, overhauls, and tweaks to rejuvenate veteran players from the same-old-same-old, while still retaining the vanilla feel for newcomers.
-Examples include:
-
-    House of Horrors - Quest Expansion﻿
-    Your Choices Matter - A Dark Brotherhood Expansion﻿
-    Save the Icerunner﻿
-    Markarth - Help the Warrens﻿
-    Thieves Guild Alternative Endings
-    The Taste of Death - Quest Addon﻿
-
-
-While there is no actual in-game museum, there IS a gallery display home included! You can find it near Hendraheim in The Reach.
-Collector's destination:
-
-    Revak Rift
-
-
-New locations and dungeons to lose yourself in while exploring.
-Examples include:
-
-    Extended Cut - Saints and Seducers﻿
-    Hammet's Dungeon Packs 1﻿ 
-    Hammet's Dungeon Packs 2﻿﻿
-    Lost Passages - New Dungeons﻿
-
-
-Fresh yet familiar environments through added structural details, clutter, and interest points.
-Examples include:
-
-    Spaghetti's Cities AIO﻿
-    Gorgeous Giant Camps AIO﻿
-    Unmarked Locations Pack AIO﻿
-    Ryn's Standing Stones AIO
-
-
-Brand new animations from talented mod authors, including lSmoothl, Verolevi, CHIMgarden, Everglaid, and more!
-
-By default, Telsera uses an ENB (version 0.503) custom tweaked between Pi-CHO and Ominous.
-
-- insert banner here via Imgur -
-
-(NSFW) Highlights and Notes:
-
-Telsera relies on nude, high-poly body replacers with presets customized to each one. 
-Examples include:
-
-    CBBE 3BA (3BBB)﻿
-    The New Gentleman﻿
-    Highly Improved Male Body Overhaul -HIMBO- 
-
-
-Utilizes OStim Standalone (OStim SA) as a framework for adult animations and scenes.
-Animation packages include:
-
-    Lovemaking Compendium﻿
-    Open Animations Romance and Erotica (OARE)﻿
-    Billyy's Animations for OStim SA﻿
-    Nibbles' Animations for OStim SA﻿
-    Anub's Animations for OStim SA
-    M2M Animations by Tweens for OStim SA﻿
-
-
-Additional works are available to further enhance intimacy scenes.
-Examples include:
-
-    OCum Ascended﻿
-    OBottom - Futanari and Gay Addon﻿
-    OStim Standalone Sound Overhaul (OSSO)﻿
-
-
-Encouragement to roleplay experiences and relationship development (optional to RP of course).
-Examples include:
-
-    OStim Romance﻿
-    You Got Caught for OStim SA
-    OComfort - OStim Romance Fork﻿
-
-
-From a gameplay standpoint, you will NOT be able to bang every single NPC you come across right off the bat. Tweaks have been made to dialogue initiations, so you must have a relationship established with the NPC in question before you're able to attempt to be intimate with them. There are ways to bypass this mechanic for eager beavers, but that will be further explained later in the readme.
-
-By default, guards will break up public sexual encounters if you aren't careful. If you get caught in the act, beware, you may be fined!
-
-You will NOT find defeatist-themed NSFW mods in this pack.
-
-You will NOT find NPC with NPC sex acts, as this list is designed for player with NPC(s) only.
-
-You will NOT find skimpy armor replacers (well, except for one, but you have to find the needle in the haystack to find it).
-
-- insert banner here via Imgur -
+The vision behind Telsera is primarily focused on performance-friendly visuals while retaining a consistent, stable, and engaging environment, as well as gameplay and mature narratives that don't stray too far from the game itself. Contents from the AE upgrade have been reintegrated, repurposed, or rebalanced depending on the creation. More information surrounding these changes can be found below.
 
 ## List Contents
 
 You can view the contents of the modlist [here via Load Order Library]() (N/A, will update this page once I'm able to login).
-
 You can find a summary of various changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
-## Minimum Specs
+## Computer Specs
 
-X
+I designed v1.0.0+ of Telsera around the following hardware settings:
+
+![alt text](https://i.imgur.com/c9RZWWM.png "FoamsSpecsPreviewExample")
+
+Throughout the months of early beta testing, these were my specs:
+
+![alt text](https://i.imgur.com/jnNhFc5.png "FoamsOldSpecsPreviewExample")
+
+I will be upfront with you: I do not know much about computer specs, but I do know I wanted to make a list that did not require a 4060 to run.
 
 ## Community
 
@@ -217,7 +100,7 @@ If you have your Steam library in Program Files, read [this](https://github.com/
 I will not provide support to people with Skyrim in their Program Files folder.
 Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be `C:\SteamLibrary` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
 
-### Set Game language to English
+### Set the Game language to English
 
 The entire modlist is designed to be played in English. The installation process may fail upon running Wabbajack if you do not do so ahead of time. Steps consist of clicking Steam on the top left of your Steam inferface app window, select Settings (Steam Settings), select Interface, and click English in the top box. A preview can be seen below.
 
@@ -234,12 +117,7 @@ To prevent any mishaps when Todd Howard decides to drop another Skyrim update ou
 
 ### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
-
-[THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after shredding or cleaning it manually.
-
-### Start Skyrim
-Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
+I highly recommend uninstalling Skyrim Special Edition _through Steam_, deleting the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents inside it. Reinstall the game via Steam afterward, then be sure to start the game to see the main menu screen. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
 
 ## Using Wabbajack
 
