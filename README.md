@@ -1,9 +1,9 @@
-<img src="images/000-ELDRYN-NEW-WIP2.webp" target="_blank">
+<img src="X" target="_blank">
 
 ---
 
 <p align="center">
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/94412">Nexus Page</a> ·
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/149944">Nexus Page</a> ·
   <a href="README.md">Installation</a> ·
   <a href="PAGEFILE.md">Pagefile Setup</a> ·
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
@@ -33,9 +33,10 @@
     - [Downloading and Installing](#downloading-and-installing)
     - [Problems with Wabbajack](#problems-with-wabbajack)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
-- [Updating](#updating)
-- [Issues](#issues)
-- [Credits](#credits)
+- [Final Stretch](#final-stretch)
+  - [Updating](#updating)
+  - [Issues](#issues)
+  - [Credits](#credits)
 
 # Introduction
 
@@ -210,7 +211,9 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 Bigger Skyrim modlists need a lot of memory, and when there is not enough available, it may fail to allocate more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>. **PLEASE DO NOT SKIP THIS STEP!**
 
-# Updating
+# Final Stretch
+
+## Updating
 
 If Telsera receives an update, please check the [changelog](CHANGELOG.md)! Information about the versioning numbers can be found on the linked page regarding what is save-safe and what is not.
 
@@ -218,9 +221,9 @@ If Telsera receives an update, please check the [changelog](CHANGELOG.md)! Infor
 
 This means that any additional mods you have installed on top of the mdlist will be deleted. **Your saves will be kept**, but please check each update changelog to see if the update is save-compatible. Your downloads folder will not be touched! Updating is like installing. You only have to make sure that you select the same path in the Wabbajack UI.
 
-# Issues
+## Issues
 
 If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds. For issues that aren't yet [known](HELP.md), you can provide details in the [Telsera Github](https://github.com/Lost-Outpost/telsera/issues). Please provide as much info as you can (screenshots are great). Finally, free feel to hop on the Lost Outpost Discord support forum (be sure to select Telsera as a tag!) to have discussions with other members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
-# Telsera Team
+## Telsera Team
 + Foamimi
