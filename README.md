@@ -45,59 +45,154 @@ Telsera is a **not-safe-for-work (NSFW)** modlist designed for **Skyrim Special 
 
 The vision behind Telsera is primarily focused on performance-friendly visuals while retaining a consistent, stable, and engaging environment, as well as gameplay and mature narratives that don't stray too far from the game itself. Contents from the AE upgrade have been reintegrated, repurposed, or rebalanced depending on the creation. More information surrounding these changes can be found later in the readme under "Gameplay Guide."
 
+- insert banner here via Imgur -
+
 (SFW) Highlights and Notes:
 
-    Consistent texture combinations for an HD experience without needing a super-duper-ultra-powered computer. Examples include Tomato's Landscapes AIO, Skyland Bits and Bobs, Happy Little Trees, Freak's Flora Fields, etc.
+Consistent texture combinations for an HD experience without needing a super-duper-ultra-powered computer. 
+Examples include:
 
-    Modern lighting, water, and weather visuals to help tie in the atmosphere. Examples include Azurite Weathers III, Lux, Embers XD, Simplicity of Sea, etc.
+    Tomato's Landscapes AIO﻿
+    Fantasia Landscapes﻿
+    Skyland Bits and Bobs﻿
+    Forgotten Retex Project﻿
+    Happy Little Trees﻿
+    Freak's Flora Fields﻿
 
-    Fresh yet familiar environments through added structural details, clutter, and interest points. Examples include Spaghetti's Cities, Gorgeous Giant Camps AIO, Unmarked Locations Pack AIO, Ryn's Standing Stones, etc.
 
-    Vanilla quest expansions, overhauls, and tweaks to rejuvinate veteran players from the same-old-same-old, while still retaining the vanilla feel for newcomers. Examples include House of Horrors - Quest Expansion, Save the Icerunner, Markarth - Help the Warrens, Thieves Guild Alternative Endings, etc.
+Modern lighting, water, and weather visuals to help tie in the atmosphere.
+Examples include:
 
-    New locations and dungeons to lose yourself in, such as Extended Cut - Saints and Seducers, Hammet's Dungeons Packs 1 and 2, Lost Passages - New Dungeons, etc.
+    Azurite Weathers III﻿
+    Lux Via﻿
+    Lux Orbis﻿
+    Lux﻿
+    Embers XD﻿
+    Simplicity of Sea﻿
 
-    You will NOT find giant new lands, cities, armor integration packs, new quests, and non-vanilla custom-voiced followers. There is an exception in some cases, however! Some of these EXCEPTIONS include Improved Follower Dialogue - Lydia, Gwenllian's Gift Shop, A Serious Wedding - Teldryn Sero Marriage, etc.
 
-    Brand new animations from mod authors, including lSmoothl, Verolevi, CHIMgarden, Everglaid, and more!
+Challenging yet balanced gameplay overhauls including combat, magic, perks, and more.
+Examples include:
 
-    By default, Telsera uses an ENB mixture customized between Pi-CHO and Ominous.
+    Mods by SimonMagus﻿, such as Mysticism﻿, Adamant﻿, Scion﻿, and Pilgrim﻿.
+    Mods by Darenii﻿, such as Natura﻿, Flames of Coldharbour﻿, Stellaris﻿, and Necrom﻿.
 
+
+Vanilla quest expansions, overhauls, and tweaks to rejuvenate veteran players from the same-old-same-old, while still retaining the vanilla feel for newcomers.
+Examples include:
+
+    House of Horrors - Quest Expansion﻿
+    Your Choices Matter - A Dark Brotherhood Expansion﻿
+    Save the Icerunner﻿
+    Markarth - Help the Warrens﻿
+    Thieves Guild Alternative Endings
+    The Taste of Death - Quest Addon﻿
+
+
+While there is no actual in-game museum, there IS a gallery display home included! You can find it near Hendraheim in The Reach.
+Collector's destination:
+
+    Revak Rift
+
+
+New locations and dungeons to lose yourself in while exploring.
+Examples include:
+
+    Extended Cut - Saints and Seducers﻿
+    Hammet's Dungeon Packs 1﻿ 
+    Hammet's Dungeon Packs 2﻿﻿
+    Lost Passages - New Dungeons﻿
+
+
+Fresh yet familiar environments through added structural details, clutter, and interest points.
+Examples include:
+
+    Spaghetti's Cities AIO﻿
+    Gorgeous Giant Camps AIO﻿
+    Unmarked Locations Pack AIO﻿
+    Ryn's Standing Stones AIO
+
+
+Brand new animations from talented mod authors, including lSmoothl, Verolevi, CHIMgarden, Everglaid, and more!
+
+By default, Telsera uses an ENB (version 0.503) custom tweaked between Pi-CHO and Ominous.
+
+- insert banner here via Imgur -
 
 (NSFW) Highlights and Notes:
 
-    Telsera relies on nude, high-poly body replacers such as CBBE 3BA and HIMBO with tweaked presets for each one.
+Telsera relies on nude, high-poly body replacers with presets customized to each one. 
+Examples include:
 
-    Utilizes OStim Standalone (OStim SA) as a framework for adult animations and scenes. Animation packages include Lovemaking Compendium, Open Animations Romance and Erotica (OARE), Billyy's Animations for OStim SA, Nibbles' Animations for OStim SA, etc.
+    CBBE 3BA (3BBB)﻿
+    The New Gentleman﻿
+    Highly Improved Male Body Overhaul -HIMBO- 
 
-    Additional works are available to further enhance intimacy scenes, including OCum Ascended, OBottom, OStim Standalone Sound Overhaul (OSSO), etc.
 
-    Encouragement to roleplay (not required of course!) experiences and relationship development. Examples include OStim Romance, You Got Caught for OStim SA, and OComfort - OStim Romance Fork.
+Utilizes OStim Standalone (OStim SA) as a framework for adult animations and scenes.
+Animation packages include:
 
-    From a gameplay standpoint, you will NOT be able to bang every single NPC you come across right off the bat. Tweaks have been made to dialogue initiations, so you must have a relationship established with the NPC in question before you're able to attempt to be intimate with them. There are ways to bypass this mechanic for eager beavers, but that will be further explained later in the readme.
+    Lovemaking Compendium﻿
+    Open Animations Romance and Erotica (OARE)﻿
+    Billyy's Animations for OStim SA﻿
+    Nibbles' Animations for OStim SA﻿
+    Anub's Animations for OStim SA
+    M2M Animations by Tweens for OStim SA﻿
 
-    By default, guards will break up public sexual encounters if you aren't careful. If you get caught in the act, beware, you may be fined!
 
-    You will NOT find defeatist-themed NSFW mods in this pack. 
+Additional works are available to further enhance intimacy scenes.
+Examples include:
 
-    You will NOT find skimpy armor replacers (well, except for one, but you have to find the needle in the haystack to find it).
+    OCum Ascended﻿
+    OBottom - Futanari and Gay Addon﻿
+    OStim Standalone Sound Overhaul (OSSO)﻿
+
+
+Encouragement to roleplay experiences and relationship development (optional to RP of course).
+Examples include:
+
+    OStim Romance﻿
+    You Got Caught for OStim SA
+    OComfort - OStim Romance Fork﻿
+
+
+From a gameplay standpoint, you will NOT be able to bang every single NPC you come across right off the bat. Tweaks have been made to dialogue initiations, so you must have a relationship established with the NPC in question before you're able to attempt to be intimate with them. There are ways to bypass this mechanic for eager beavers, but that will be further explained later in the readme.
+
+By default, guards will break up public sexual encounters if you aren't careful. If you get caught in the act, beware, you may be fined!
+
+You will NOT find defeatist-themed NSFW mods in this pack.
+
+You will NOT find NPC with NPC sex acts, as this list is designed for player with NPC(s) only.
+
+You will NOT find skimpy armor replacers (well, except for one, but you have to find the needle in the haystack to find it).
+
+- insert banner here via Imgur -
 
 ## List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/eldryn-edition) if you want to know exactly what you're getting.
+You can view the contents of the modlist [here via Load Order Library]() (N/A, will update this page once I'm able to login).
 
-You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
+You can find a summary of various changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
 ## Minimum Specs
-Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to use performance ini files (included) with systems this low but it should run fine and still look great!
+
+X
 
 ## Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/eldryn/issues) section of the Eldryn GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/telsera/issues) section of the Telsera GitHub.
 
 ## Skyrim: Anniversary Edition (AE)
 
-**This list requires anniversary edition and all creation club content.** Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing. This can be done by going in-game via Steam and downloading through the available CC-related Main Menu options.
+**This list requires the PAID Anniversary Edition upgrade.** 
+You must download _**ALL**_ the Creation Club content before installing Telsera. This can be done by going launching Skyrim SE via Steam, going to the main menu screen, and selecting Download All when automatically prompted. If you do not see a prompt box, try verifying your local files via Steam, then try the same steps again. Steps on h
+
+**Make sure your game is fully up to date in Steam.** 
+The version number should say _**1.6.1170**_. You can check to see if your version is the most up to date by locating SkyrimSE.exe via your Steam folder (ie. C:\Steam\steamapps\common\Skyrim Special Edition), right-clicking the .exe file, select Properties, swap from General to the Details tab in the small pop-up window, and the number will be listed under File Version. An example image can be found below. Everything will be automatically patched by Wabbajack, however, it requires the latest game files. 
+
+![alt text](https://i.imgur.com/UAXOe7t.png "SkyrimSE.exeVersionPreviewExample")
+
+Downgraded versions of Skyrim SE **WILL NOT WORK** with this pack.
 
 # Installation
 
@@ -117,11 +212,11 @@ If you have your Steam library in Program Files, read [this](https://github.com/
 I will not provide support to people with Skyrim in their Program Files folder.
 Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be `C:\SteamLibrary` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
 
-### Set the Game language to English
+### Set Game language to English
 
-Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
+The entire modlist is designed to be played in English. The installation process may fail upon running Wabbajack if you do not do so ahead of time. Steps consist of clicking Steam on the top left of your Steam inferface app window, select Settings (Steam Settings), select Interface, and click English in the top box. A preview can be seen below.
 
-Open the Steam Properties window, navigate to the _Language_ tab, and select _English_ from the dropdown menu.
+![alt text](https://i.imgur.com/jOajp49.png "SteamSettingEnglishPreviewExample")
 
 ### Steam Updates
 
