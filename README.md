@@ -188,9 +188,14 @@ Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and 
 You must download _**ALL**_ the Creation Club content before installing Telsera. This can be done by going launching Skyrim SE via Steam, going to the main menu screen, and selecting Download All when automatically prompted. If you do not see a prompt box, try verifying your local files via Steam, then try the same steps again. Steps on h
 
 **Make sure your game is fully up to date in Steam.** 
-The version number should say _**1.6.1170**_. You can check to see if your version is the most up to date by locating SkyrimSE.exe via your Steam folder (ie. C:\Steam\steamapps\common\Skyrim Special Edition), right-clicking the .exe file, select Properties, swap from General to the Details tab in the small pop-up window, and the number will be listed under File Version. An example image can be found below. Everything will be automatically patched by Wabbajack, however, it requires the latest game files. 
+The version number should say _**1.6.1170**_. You can check to see if your version is the most up to date by locating SkyrimSE.exe via your Steam folder (ie. C:\Steam\steamapps\common\Skyrim Special Edition), right-clicking the .exe file, select Properties, swap from General to the Details tab in the small pop-up window, and the number will be listed under File Version. An example image can be found below. Everything will be automatically patched by Wabbajack, however, it requires the latest game files.
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
 
 ![alt text](https://i.imgur.com/UAXOe7t.png "SkyrimSE.exeVersionPreviewExample")
+  
+</details>
 
 Downgraded versions of Skyrim SE **WILL NOT WORK** with this pack.
 
@@ -216,7 +221,12 @@ Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best
 
 The entire modlist is designed to be played in English. The installation process may fail upon running Wabbajack if you do not do so ahead of time. Steps consist of clicking Steam on the top left of your Steam inferface app window, select Settings (Steam Settings), select Interface, and click English in the top box. A preview can be seen below.
 
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
 ![alt text](https://i.imgur.com/jOajp49.png "SteamSettingEnglishPreviewExample")
+  
+</details>
 
 ### Steam Updates
 
