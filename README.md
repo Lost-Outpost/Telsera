@@ -52,11 +52,22 @@ You can view the individual contents of the modlist [here via Load Order Library
 
 I designed v1.0.0+ of Telsera around the following hardware settings:
 
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
 ![alt text](https://i.imgur.com/c9RZWWM.png "FoamsSpecsPreviewExample")
+  
+</details>
 
 Throughout the months of early beta testing, these were my specs:
 
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+
 ![alt text](https://i.imgur.com/jnNhFc5.png "FoamsOldSpecsPreviewExample")
+
+</details>
 
 I will be upfront with you: I do not know much about computer specs. What I do know is this will not require a 4060 series computer to run!
 
