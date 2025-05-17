@@ -46,8 +46,7 @@ The vision behind Telsera is primarily focused on performance-friendly visuals w
 
 ## List Contents
 
-You can view the contents of the modlist [here via Load Order Library]() (N/A, will update this page once I'm able to login).
-You can find a summary of various changes on the [Gameplay Changes](GAMEPLAY.md) page.
+You can view the individual contents of the modlist [here via Load Order Library]() (N/A, will update this page once I'm able to login). As for a summary of various features, check out the [Gameplay Changes](GAMEPLAY.md) page.
 
 ## Computer Specs
 
@@ -59,7 +58,7 @@ Throughout the months of early beta testing, these were my specs:
 
 ![alt text](https://i.imgur.com/jnNhFc5.png "FoamsOldSpecsPreviewExample")
 
-I will be upfront with you: I do not know much about computer specs, but I do know I wanted to make a list that did not require a 4060 to run.
+I will be upfront with you: I do not know much about computer specs. What I do know is this will not require a 4060 series computer to run!
 
 ## Community
 
@@ -84,21 +83,26 @@ Downgraded versions of Skyrim SE **WILL NOT WORK** with this pack.
 
 # Installation
 
-Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a one-click install of the modlist. There are some pre-installation steps that must be followed for first-time users, so please pay attention to those.
+Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a one-click install of the modlist. There are some pre-installation steps that must be followed for first-time users, so please pay attention to those. You may have to rerun the installer a few times!
 
 ## Pre-Install
 
-These steps are only needed if you install the Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
+These steps are only needed if you aare installing Telsera for the first time. If you are updating, feel free to jump straight to [Updating](#updating).
 
 ### Installing Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have this installed. This package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+This package is required for Mod Organizer 2 (MO2) and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). You will need **BOTH the X64 and X86 versions** under "Visual Studio 2015, 2017, 2019, and 2022." A preview image can be found blow.
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+![alt text](https://i.imgur.com/WKIr5Q2.png "MicrosoftVisualCPreviewExample")
+  
+</details>
 
 ### Steam Library
 
-If you have your Steam library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
-I will not provide support to people with Skyrim in their Program Files folder.
-Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be `C:\SteamLibrary` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
+If you have your Steam library in Program Files, please read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) in order to put it somewhere else. Locations such as Documents, Downloads, Desktop, or OneDrive are **NOT** fine. The best location would be **`C:\SteamLibrary`** if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive." If you're low on space, please note you **CAN** do two separate locations: one for Telsera's Installation folder, and one for the Downloads folder. How I personally have the pack setup is the Install on my C:\ drive, while the Download folder is on my SSD's  E:\ drive.
 
 ### Set the Game language to English
 
@@ -123,44 +127,77 @@ I highly recommend uninstalling Skyrim Special Edition _through Steam_, deleting
 
 ### Preparations
 
-Download the release to a _working folder_. This folder **must not** be in a _common folder_ like your Desktop, Downloads, or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Download the release to a _working folder_. This folder **must not** be in a _common folder_ like your Desktop, Downloads, or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`. Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/) and place the `Wabbajack.exe` file in the _working folder_. An example image can be found below.
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+![alt text](https://i.imgur.com/ePEWCNs.png "WabbajackFolderPreviewExample")
+  
+</details>
 
 ### Downloading and Installing
 
-The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the number of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+To find the Telsera via Wabbajack's UI, open Wabbajack.exe, and on the left side, select Browse Lists.
 
-1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Eldryn"
-2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
-3. Download the latest release of `Eldryn` from the Wabbajack Browse Modlists page.
-4. Select the created folder in step 1 as your installation folder.
-5. Select the created folder in step 2 as your downloads folder.
-6. Click the Go/Begin button and wait for Wabbajack to finish.
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+![alt text](https://i.imgur.com/JbmWTE8.png "WabbajackUIPreviewExample")
+  
+</details>
+
+Along the left side, **be sure to tick the boxes Non-features AND NSFW**. If you don't, you won't find Telsera!
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+![alt text](https://i.imgur.com/sz1FJXU.png "WabbajackUI2PreviewExample")
+  
+</details>
+
+Once you find the thumbnail titled "Telsera" (can also search for it directly in the searchbar), you should see the following buttons along the bottom left. Download & Install is the one you want to click.
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+![alt text](https://i.imgur.com/fWfWLwC.png "WabbajackUI3PreviewExample")
+  
+</details>
+
+The full download and installation process can take **a while** depending on your system specs. Go outside for a walk, head to bed for some sleep, or sit back with some popcorn while you wait! If you run into any error messages, you may need to run the installer a few times over to get past it. If you're still having trouble, drop us a line in the Lost Outpost Discord server, and we'll try to help. <3
 
 ## Using MO2
 
-1. Once Wabbajack is finished, go into the folder where you installed Eldryn. You'll see an executable called ModOrganizer.exe. Launch it to get to the next step.
+1. Once Wabbajack is finished, go into the folder where you installed Telsera. You'll see an executable called ModOrganizer.exe. Launch it to get to the next step.
 
-![Image 0](https://i.imgur.com/BUbrwZL.png)
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+![alt text](https://i.imgur.com/zKaM26a.png "MO2PreviewExample")
+  
+</details>
 
 2. Once the program opens, look to the top right section and you should see a button that says Run.
 
-![Image 0.5](https://i.imgur.com/vnGSUkW.png)
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
 
-3. Click that and you'll be set to play! **Do not click on the "Unlock" button that pops up once the game is running.** It may take a while to open, so please be patient.
+![alt text](https://i.imgur.com/Kg2AwzQ.png "MO2RunPreviewExample")
+  
+</details>
+
+3. Click Run and you'll be set to play! It may take a while to open, so please be patient.
+
+4. **Do not click on the "Unlock" button that pops up once the game is running.** 
 
 ### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
-
-Seriously, simply retrying the Wabbajack download fixes most problems.
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. **Wabbajack will continue where it left off so you lose no progress.** Seriously, simply retrying the Wabbajack download fixes most problems.
 
 **Could not download x**:
 
-If a mod updates and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
-
-Some files are known to be problematic, it is likely those are the ones that failed. You can download them manually from their source and place the archives **AS IS** in the downloads folder.
+If a mod updates and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist. Some files are known to be problematic, it is likely those are the ones that failed. You can download them manually from their source and place the archives **AS IS** in the downloads folder.
 
 **x is not a whitelisted download**:
 
@@ -172,25 +209,19 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ### Pagefile in the prevention of memory crashes
 
-Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail to allocate more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
+Bigger Skyrim modlists need a lot of memory, and when there is not enough available, it may fail to allocate more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>. **PLEASE DO NOT SKIP THIS STEP!**
 
 # Updating
 
-If this Modlist receives an update, please check the [changelog](CHANGELOG.md) before doing anything. Always back up your saves or start a new game after updating.
+If Telsera receives an update, please check the [changelog](CHANGELOG.md)! Information about the versioning numbers can be found on the linked page regarding what is save-safe and what is not.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save-compatible. Your downloads folder will not be touched!
-
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+This means that any additional mods you have installed on top of the mdlist will be deleted. **Your saves will be kept**, but please check each update changelog to see if the update is save-compatible. Your downloads folder will not be touched! Updating is like installing. You only have to make sure that you select the same path in the Wabbajack UI.
 
 # Issues
 
-If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
+If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds. For issues that aren't yet [known](HELP.md), you can provide details in the [Telsera Github](https://github.com/Lost-Outpost/telsera/issues). Please provide as much info as you can (screenshots are great). Finally, free feel to hop on the Lost Outpost Discord support forum (be sure to select Telsera as a tag!) to have discussions with other members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
-For issues that aren't yet [known](HELP.md), you can provide details in the [Eldryn Github](https://github.com/Lost-Outpost/eldryn/issues). Please provide as much info as you can (screenshots are great).
-
-Finally, free feel to hop on the Eldryn Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
-
-# Eldryn Team
+# Telsera Team
 + Foamimi
