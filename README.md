@@ -223,7 +223,7 @@ This means that any additional mods you have installed on top of the mdlist will
 
 ## Issues
 
-If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds. For issues that aren't yet [known](HELP.md), you can provide details in the [Telsera Github](https://github.com/Lost-Outpost/telsera/issues). Please provide as much info as you can (screenshots are great). Finally, free feel to hop on the Lost Outpost Discord support forum (be sure to select Telsera as a tag!) to have discussions with other members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
+If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds. For issues that aren't yet [known](HELP.md), you can provide details in the [Telsera Github](https://github.com/Lost-Outpost/telsera/issues). Please provide as much info as you can (screenshots are great). Finally, free feel to hop on [The Lost Outpost](https://discord.gg/WF66mMu) support forum (be sure to select Telsera as a tag!) to have discussions with other members.
 
 ## Telsera Team
 + Foamimi
