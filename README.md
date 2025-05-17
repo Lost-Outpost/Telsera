@@ -78,7 +78,7 @@ Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and 
 ## Skyrim: Anniversary Edition (AE)
 
 **This list requires the PAID Anniversary Edition upgrade.** 
-You must download _**ALL**_ the Creation Club content before installing Telsera. This can be done by going launching Skyrim SE via Steam, going to the main menu screen, and selecting Download All when automatically prompted. If you do not see a prompt box, try verifying your local files via Steam, then try the same steps again. Steps on h
+You must download _**ALL**_ the Creation Club content before installing Telsera. This can be done by going launching Skyrim SE via Steam, going to the main menu screen, and selecting Download All when automatically prompted. If you do not see a prompt box, try verifying your local files via Steam, then try the same steps again.
 
 **Make sure your game is fully up to date in Steam.** 
 The version number should say _**1.6.1170**_. You can check to see if your version is the most up to date by locating SkyrimSE.exe via your Steam folder (ie. C:\Steam\steamapps\common\Skyrim Special Edition), right-clicking the .exe file, select Properties, swap from General to the Details tab in the small pop-up window, and the number will be listed under File Version. An example image can be found below. Everything will be automatically patched by Wabbajack, however, it requires the latest game files.
