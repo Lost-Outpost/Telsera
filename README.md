@@ -102,7 +102,7 @@ These steps are only needed if you aare installing Telsera for the first time. I
 
 ### Installing Microsoft Visual C++ Redistributable Package
 
-This package is required for Mod Organizer 2 (MO2) and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). You will need **BOTH the X64 and X86 versions** under "Visual Studio 2015, 2017, 2019, and 2022." A preview image can be found blow.
+This package is required for Mod Organizer 2 (MO2) and you can download it from [Microsoft](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). You will need **BOTH the X64 and X86 versions** under "Visual Studio 2015, 2017, 2019, and 2022." A preview image can be found blow.
 
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
