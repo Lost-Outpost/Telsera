@@ -1,15 +1,15 @@
-<a href="https://youtu.be/XRIE02v7Ri4"><img src="images/000-ELDRYN-NEW-WIP2.webp" target="_blank"></a>
+<img src="X" target="_blank">
 
 ---
 
 <p align="center">
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/94412">Nexus Page</a> ·
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/149944">Nexus Page</a> ·
   <a href="README.md">Installation</a> ·
+  <a href="PAGEFILE.md">Pagefile Setup</a> ·
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
-  <a href="ADDONS.md">Addons</a> ·
-  <a href="HELP.md">Help</a>
+  <a href="HELP.md">Help</a> .
 </p>
 
 ---
@@ -18,30 +18,35 @@
 
 - [Optional Tweaks](#optional-tweaks)
   - [Character Presets](#character-presets)
-- [ENB and Reshade Presets](#ENB-and-Reshade-Presets)
-- [Performance Guide](#performance-guide)
+- [ENB](#ENB)
 
 ### Character Presets
 
-Eldryn includes a mod containing a premade folder structure for character presets that you either create yourself or download from others. You can copy presets you download from the Character Presets Discord thread via Lost Output into the designated folder. 
+Telsera includes a mod containing a premade folder structure for character presets that you either create yourself or download from others. You can copy presets you download into the designated folder. 
 
 The presets mod is here:
 
-![eldryn-character-presets](https://i.imgur.com/oAY0PCb.png)
+![telsera-character-presets](https://i.imgur.com/p6M8AOG.png)
 
 You can select this mod, right-click it, and then select "Open in Explorer" to see the presets directory, which will be at this location:
 
-```
-Eldryn Edition\mods\[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
-```
+Example: Telsera\mods\[NoDelete] User-Made Racemenu Presets (SEE README)\SKSE\Plugins\CharGen\Presets\X
 
-![eldryn-character-presets-folder](https://i.imgur.com/dqUr8pu.png)
+!telsera-character-presets-folder](https://i.imgur.com/x1n5llZ.png)
 
-## ENB and Reshade Presets
+When you make your presets in Racemenu they will be located in the Overwrite folder after you exit the game. 
 
-> :ledger: You should only ever enable exactly one preset (regardless of whether it is an ENB or Reshade). You should never enable both an ENB and Reshade preset at the same time.
+!telsera-character-overwrite-folder](https://i.imgur.com/wSJ4MIQ.png)
 
-To change ENB presets, check the one you want in MO2 under ENB presets.
+You can select Overwrite, right-click it, and then select "Open in Explorer" to see the presets directory (same location as above in the SKSE folder). Find the file(s) titled insertpresetnamehere.jslot, copy or cut the file, and paste into the [NoDelete] User-Made Racemenu Presets (SEE README)\SKSE\Plugins\CharGen\Presets\X folder. You have now saved your preset, and it will be safe from auto-deletion next time you update the list. The [NoDelete] portion tells Wabbajack to ignore said folder.
+
+## ENB
+
+> :ledger: You should only ever enable exactly one ENB preset at a time.
+
+Changing ENB presets is not officially supported. If you'd like to make adjustments to the ENB included in Telsera, the keybinds are the following:
+
+X
 
 ![Exe List](https://i.imgur.com/XNerPaT.png)
 
