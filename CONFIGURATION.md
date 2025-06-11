@@ -16,10 +16,25 @@
 
 # Configuration
 
+- [ENB Settings](#ENB)
 - [Character Presets](#character-presets)
-- [ENB](#ENB)
 - [OStim Standalone](#OStim-SA)
 - [Smaller OStim Navigation Menu](#OStim-Navi)
+
+
+## ENB Settings
+
+You should only ever enable exactly one ENB preset at a time. Changing ENB presets is not officially supported, but if you'd like to make adjustments to the ENB included in Telsera, the keybinds are the following:
+
+ <kbd>F11</kbd> - Opens up the ENB menu (press again to close). 
+ 
+ NOTE - It's recommended to ALSO PRESS  <kbd>'</kbd> to bring up Skyrim's console as well, so then while you configure your settings in the main menu, your character isn't punching the air everytime you click.
+
+<kbd>;</kbd> - Enables the depth-of-field effect. 
+
+ <kbd>F7</kbd> - Enables the FPS overlay effect. 
+
+ <kbd>Home</kbd> - Disables the ENB. 
 
 ### Character Presets
 
@@ -40,20 +55,6 @@ When you make your presets in Racemenu they will be located in the Overwrite fol
 ![telsera-character-overwrite-folder](https://i.imgur.com/wSJ4MIQ.png)
 
 You can select Overwrite, right-click it, and then select "Open in Explorer" to see the presets directory (same location as above in the SKSE folder). Find the file(s) titled insertpresetnamehere.jslot, copy or cut the file, and paste into the [NoDelete] User-Made Racemenu Presets (SEE README)\SKSE\Plugins\CharGen\Presets\X folder. You have now saved your preset, and it will be safe from auto-deletion next time you update the list. The [NoDelete] portion tells Wabbajack to ignore said folder.
-
-## ENB
-
-You should only ever enable exactly one ENB preset at a time. Changing ENB presets is not officially supported, but if you'd like to make adjustments to the ENB included in Telsera, the keybinds are the following:
-
- <kbd>F11</kbd> - Opens up the ENB menu (press again to close). 
- 
- NOTE - It's recommended to ALSO PRESS  <kbd>'</kbd> to bring up Skyrim's console as well, so then while you configure your settings in the main menu, your character isn't punching the air everytime you click.
-
-<kbd>;</kbd> - Enables the depth-of-field effect. 
-
- <kbd>F7</kbd> - Enables the FPS overlay effect. 
-
- <kbd>Home</kbd> - Disables the ENB. 
 
 ## OStim Standalone
 
