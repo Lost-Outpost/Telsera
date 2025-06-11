@@ -35,5 +35,3 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Release
 
 - - - - - - - - -
-
-- - - - - - - - -
