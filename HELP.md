@@ -9,7 +9,6 @@
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
-  <a href="FAQ.md">FAQ</a> ·
   <a href="HELP.md">Help</a>
 </p>
 
@@ -20,6 +19,8 @@
 For issues that aren't documented, you can provide details on the [Issues](https://github.com/Lost-Outpost/telsera/issues) page. Please provide as much info as you can (screenshots are great).
 
 Finally, free feel to hop on the Discord support forum channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
+
+# Frequently Asked Questions - FAQ
 
 ## When should I ping Foamimi on [The Lost Outpost](https://discord.gg/WF66mMu)?
 
