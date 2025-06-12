@@ -30,11 +30,12 @@ Only if you find a quality penguin meme. Any other situation is not acceptable. 
 
 There are as many reasons a mod wouldn't be included in a list. Here are some of the most common ones. 
 
-1. The list author didn't know that mod existed.
-2. It's incompatible with other mods in the list.
-3. It's nonfunctional.
-4. It has problems such as causing CTDs, infinite loading screens, and more.
-5. It doesn't fit the list in question.
-6. Something in the list already does what that mod does.
-7. The list author doesn't like the mod.
-8. It would require too much work to add for not enough benefit.
+1. The list author didn't have enough storage space on their computer (most common).
+2. The list author didn't know that mod existed.
+3. It's incompatible with other mods in the list.
+4. It's nonfunctional.
+5. It has problems such as causing CTDs, infinite loading screens, and more.
+6. It doesn't fit the list in question.
+7. Something in the list already does what that mod does.
+8. The list author doesn't like the mod.
+9. It would require too much work to add for not enough benefit.
