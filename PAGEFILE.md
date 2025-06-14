@@ -24,11 +24,11 @@ If you've never touched the pagefile, perform the following steps to prevent fro
 
 ![pagefile settings](https://i.imgur.com/4Oagbgl.png)
 
-2. Under the Performance section, press 'Settings'
+2. Under the Performance section under the Advanced tab, press 'Settings'
 
 ![pagefile settings 2](https://i.imgur.com/oupu5Mf.png)
 
-3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
+3. Go to the Advanced tab at the top, and at the Virtual memory section, press 'Change...'
 
 ![pagefile settings 3](https://i.imgur.com/uMCCp5X.png)
 
