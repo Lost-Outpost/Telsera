@@ -29,12 +29,6 @@ This guide highlights major mods included in Telsera in the following categories
 - [Quests and Adventures](#quests-and-adventures)
   - [Quest Changes](#quest-changes)
 
-Icons in this guide:
-
-- :new: indicates additions to the gameplay guide since the last major release
-- :ledger: indicates Telsera configuration notes
-- :video_game: indicates Telsera play testing observations
-
 ## Hotkeys
 
 ### Gameplay Hotkeys
@@ -102,7 +96,7 @@ Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/s
 
 ## User Interface and Camera
 
-Telsera includes a minimalistic and modern UI, featuring:
+Telsera includes a UI system setup featuring:
 
 - [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) - Complete overhaul to the character creation menu including new customization features
 
@@ -110,11 +104,7 @@ Telsera includes a minimalistic and modern UI, featuring:
 
 - [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.
 
-  > :ledger: By default, the [Octavian's](https://www.nexusmods.com/skyrimspecialedition/mods/43927) preset is included but you're free to try another preset
-
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) - Overhauls the third person gameplay similar to modern action RPGs. Move and attack in any direction
-
-  > :ledger: By default, use the <kbd>Middle Mouse Button</kbd> to lock on to enemies and the <kbd>Middle Mouse Wheel</kbd> to switch targets.
 
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - Customizable actor info bars, boss bars, and player widget
 
