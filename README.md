@@ -1,4 +1,4 @@
-<img src="X" target="_blank">
+<img src="https://i.imgur.com/kW90Y5Y.png" target="_blank">
 
 ---
 
@@ -9,8 +9,7 @@
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
-  <a href="FAQ.md">FAQ</a> ·
-  <a href="HELP.md">Help</a>
+  <a href="HELP.md">Help</a> .
 </p>
 
 ---
@@ -46,7 +45,7 @@ The vision behind Telsera is primarily focused on performance-friendly visuals w
 
 ## List Contents
 
-You can view the individual contents of the modlist [here via Load Order Library]() (N/A, will update this page once I'm able to login). As for a summary of various features, check out the [Gameplay Changes](GAMEPLAY.md) page.
+You can view the individual contents of the modlist [here via Load Order Library](https://loadorderlibrary.com/lists/telsera-a-nsfw-wabbajack-list-for-ae). As for a summary of various features, check out the [Gameplay Changes](GAMEPLAY.md) page.
 
 ## Computer Specs
 
