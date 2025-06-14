@@ -1,4 +1,4 @@
-<img src="X" target="_blank">
+<img src="https://i.imgur.com/kW90Y5Y.png" target="_blank">
 
 ---
 
@@ -16,9 +16,7 @@
 
 # Help
 
-For issues that aren't documented, you can provide details on the [Issues](https://github.com/Lost-Outpost/telsera/issues) page. Please provide as much info as you can (screenshots are great).
-
-Finally, free feel to hop on the Discord support forum channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
+Feel free to hop on the Discord support forum channel, as support is primarily offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
 # Frequently Asked Questions - FAQ
 
