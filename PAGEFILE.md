@@ -1,15 +1,15 @@
-<a href="https://youtu.be/XRIE02v7Ri4"><img src="images/000-ELDRYN-NEW-WIP2.webp" target="_blank"></a>
+<img src="https://i.imgur.com/kW90Y5Y.png" target="_blank">
 
 ---
 
 <p align="center">
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/94412">Nexus Page</a> ·
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/149944">Nexus Page</a> ·
   <a href="README.md">Installation</a> ·
+  <a href="PAGEFILE.md">Pagefile Setup</a> ·
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
-  <a href="ADDONS.md">Addons</a> ·
-  <a href="HELP.md">Help</a>
+  <a href="HELP.md">Help</a> .
 </p>
 
 ---
