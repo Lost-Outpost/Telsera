@@ -66,6 +66,22 @@ Once you find the entry titled OStim Standalone, click the Controls tab on the l
 
 ![telsera-ostim-menu-mcm](https://i.imgur.com/tL9fvkR.png)
 
+If the above image does not load, here are the primary notes:
+
+<kbd>-</kbd> - Long hold press. Starts a scene. A pop-up menu will appear asking if you'd like to add any additional NPCs. Select None if you'd like to initiate a solo scene.
+
+<kbd>Up Arrow</kbd> - While in the navigation menu when a scene has started, this will move your selector upward.
+
+<kbd>Left Arrow</kbd> - While in the navigation menu when a scene has started, this will move your selector to the left.
+
+<kbd>Right Arrow</kbd> - While in the navigation menu when a scene has started, this will move your selector to the right.
+
+<kbd>Down Arrow</kbd> - While in the navigation menu when a scene has started, this will move your selector downward.
+
+<kbd>Y</kbd> - Accepts a selection choice, or "Yes" to a navigation pane (ie. Yes to move to the next animation set).
+
+<kbd>Del</kbd> - Ends a scene. If you're outdoors, the grass may take a moment to reload.
+
 They are different than OStim SA's default setup, as this is what I'm personally accustomed to, but in the picture above under Navigation Keys, you can tick the checkbox to reset the controls to their default state. I realize everyone has their preference when it comes to keybinds, so feel free to change them to whatever is easiest for you!
 
 ## Smaller OStim Navigation Menu
