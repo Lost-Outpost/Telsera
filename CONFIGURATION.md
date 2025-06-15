@@ -26,15 +26,15 @@
 
 You should only ever enable exactly one ENB preset at a time. Changing ENB presets is not officially supported, but if you'd like to make adjustments to the ENB included in Telsera, the keybinds are the following:
 
- <kbd>F11</kbd> - Opens up the ENB menu (press again to close). 
+<kbd>F11</kbd> - Opens up the ENB menu (press again to close). 
  
- NOTE - It's recommended to ALSO PRESS  <kbd>'</kbd> to bring up Skyrim's console as well, so then while you configure your settings in the main menu, your character isn't punching the air everytime you click.
+NOTE - It's recommended to ALSO PRESS  <kbd>'</kbd> to bring up Skyrim's console as well, so then while you configure your settings in the main menu, your character isn't punching the air everytime you click.
 
 <kbd>;</kbd> - Enables the depth-of-field effect. 
 
- <kbd>F7</kbd> - Enables the FPS overlay effect. 
+<kbd>F7</kbd> - Enables the FPS overlay effect. 
 
- <kbd>Home</kbd> - Disables the ENB. 
+<kbd>Home</kbd> - Disables the ENB. 
 
 ## OStim Standalone
 
