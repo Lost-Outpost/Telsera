@@ -22,12 +22,12 @@ Feel free to hop on the Discord support forum channel, as support is primarily o
 
 ## I'm getting the following error via Wabbajack: Unable to download 'Curios' files. What should I do?
 
-1.) Navigate to your Steam Skyrim Data folder
-2.) Within the data folder, delete the 2 curios files "ccbgssse037-curios.bsa" and "ccbgssse037-curios.esl"
-3.) Launch Skyrim through Steam and click the Creations button on the main menu
-4.) Find and download the Rare Curios CC files (will have an icon saying "Owned" on it)
-5.) Exit the game
-6.) Rerun the Wabbajack installer
+1. Navigate to your Steam Skyrim Data folder
+2. Within the data folder, delete the 2 curios files "ccbgssse037-curios.bsa" and "ccbgssse037-curios.esl"
+3. Launch Skyrim through Steam and click the Creations button on the main menu
+4. Find and download the Rare Curios CC files (will have an icon saying "Owned" on it)
+5. Exit the game
+6. Rerun the Wabbajack installer
 
 ## Can I play the vanilla opening intro scene in this pack?
 
