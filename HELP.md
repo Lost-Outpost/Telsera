@@ -34,6 +34,10 @@ There are as many reasons a mod wouldn't be included in a list. Here are some of
 8. The list author doesn't like the mod.
 9. It would require too much work to add for not enough benefit.
 
+## Why is my stamina depleting as I jump, sneak, or swim?
+
+That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrimspecialedition/mods/34549">Blade and Blunt</a>. This is a purposeful mechanic to increase the difficulty through resource management and planning. I'd recommend looking over Blade and Blunt's modpage for more information.
+
 ## My field of view is now super zoomed in after an OStim scene. How do I fix it?
 
-Open the console via <kbd>'</kbd> to bring up Skyrim's console. Type the following into the console <kbd>fov 90</kbd> and you will be set! press <kbd>'</kbd> again to close the console.
+Open the console via <kbd>'</kbd> to bring up Skyrim's console. Type the following: <kbd>fov 90</kbd> and you will be set! press <kbd>'</kbd> again to close the console.
