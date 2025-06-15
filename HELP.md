@@ -20,19 +20,14 @@ Feel free to hop on the Discord support forum channel, as support is primarily o
 
 # Frequently Asked Questions - FAQ
 
-## Why isn't X mod included?
+## I'm getting the following error via Wabbajack: Unable to download 'Curios' files. What should I do?
 
-There are as many reasons a mod wouldn't be included in a list. Here are some of the most common ones. 
-
-1. The list author didn't have enough storage space on their computer (most common).
-2. The list author didn't know that mod existed.
-3. It's incompatible with other mods in the list.
-4. It's nonfunctional.
-5. It has problems such as causing CTDs, infinite loading screens, and more.
-6. It doesn't fit the list in question.
-7. Something in the list already does what that mod does.
-8. The list author doesn't like the mod.
-9. It would require too much work to add for not enough benefit.
+1.) Navigate to your Steam Skyrim Data folder
+2.) Within the data folder, delete the 2 curios files "ccbgssse037-curios.bsa" and "ccbgssse037-curios.esl"
+3.) Launch Skyrim through Steam and click the Creations button on the main menu
+4.) Find and download the Rare Curios CC files (will have an icon saying "Owned" on it)
+5.) Exit the game
+6.) Rerun the Wabbajack installer
 
 ## Can I play the vanilla opening intro scene in this pack?
 
