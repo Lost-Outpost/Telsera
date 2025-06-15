@@ -39,4 +39,4 @@ That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrim
 
 ## My field of view is now super zoomed in after an OStim scene. How do I fix it?
 
-Open the console via <kbd>'</kbd> to bring up Skyrim's console. Type the following: <kbd>fov 90</kbd> and you will be set! press <kbd>'</kbd> again to close the console.
+Open the console via <kbd>'</kbd>. Type the following: <kbd>fov 90</kbd> and you will be set! press <kbd>'</kbd> again to close the console.
