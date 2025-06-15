@@ -34,6 +34,10 @@ There are as many reasons a mod wouldn't be included in a list. Here are some of
 8. The list author doesn't like the mod.
 9. It would require too much work to add for not enough benefit.
 
+## Can I play the vanilla opening intro scene in this pack?
+
+Yes! Telsera uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/63953">Optional Quick Start</a> as it's alternative start mod. You have the choice between going through the vanilla intro, or skipping it entirely by starting off near the cave's exit area. You will receive a prompt on if you'd like to escape with Hadvar or Ralof. JUST BEWARE the vanilla intro MAY BE BUGGY! In my testing it worked fine, but this is Skyrim after all!
+
 ## Why is my stamina depleting as I jump, sneak, or swim?
 
 That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrimspecialedition/mods/34549">Blade and Blunt</a>. This is a purposeful mechanic to increase the difficulty through resource management and planning. I'd recommend looking over Blade and Blunt's modpage for more information.
