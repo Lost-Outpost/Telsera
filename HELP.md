@@ -20,10 +20,6 @@ Feel free to hop on the Discord support forum channel, as support is primarily o
 
 # Frequently Asked Questions - FAQ
 
-## When should I ping Foamimi on [The Lost Outpost](https://discord.gg/WF66mMu)?
-
-Only if you find a quality penguin meme. Any other situation is not acceptable. >:I
-
 ## Why isn't X mod included?
 
 There are as many reasons a mod wouldn't be included in a list. Here are some of the most common ones. 
@@ -37,3 +33,7 @@ There are as many reasons a mod wouldn't be included in a list. Here are some of
 7. Something in the list already does what that mod does.
 8. The list author doesn't like the mod.
 9. It would require too much work to add for not enough benefit.
+
+## My field of view is now super zoomed in after an OStim scene. How do I fix it?
+
+Open the console via <kbd>'</kbd> to bring up Skyrim's console. Type the following into the console <kbd>fov 90</kbd> and you will be set! press <kbd>'</kbd> again to close the console.
