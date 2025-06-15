@@ -17,9 +17,9 @@
 # Configuration
 
 - [ENB Settings](#ENB)
-- [Character Presets](#character-presets)
 - [OStim Standalone](#OStim-SA)
 - [Smaller OStim Navigation Menu](#OStim-Navi)
+- [Character Presets](#character-presets)
 
 
 ## ENB Settings
@@ -35,26 +35,6 @@ You should only ever enable exactly one ENB preset at a time. Changing ENB prese
  <kbd>F7</kbd> - Enables the FPS overlay effect. 
 
  <kbd>Home</kbd> - Disables the ENB. 
-
-### Character Presets
-
-Telsera includes a mod containing a premade folder structure for character presets that you either create yourself or download from others. You can copy presets you download into the designated folder. 
-
-The presets mod is here:
-
-![telsera-character-presets](https://i.imgur.com/p6M8AOG.png)
-
-You can select this mod, right-click it, and then select "Open in Explorer" to see the presets directory, which will be at this location:
-
-Example: Telsera\mods\[NoDelete] User-Made Racemenu Presets (SEE README)\SKSE\Plugins\CharGen\Presets\X
-
-![telsera-character-presets-folder](https://i.imgur.com/x1n5llZ.png)
-
-When you make your presets in Racemenu they will be located in the Overwrite folder after you exit the game. 
-
-![telsera-character-overwrite-folder](https://i.imgur.com/wSJ4MIQ.png)
-
-You can select Overwrite, right-click it, and then select "Open in Explorer" to see the presets directory (same location as above in the SKSE folder). Find the file(s) titled insertpresetnamehere.jslot, copy or cut the file, and paste into the [NoDelete] User-Made Racemenu Presets (SEE README)\SKSE\Plugins\CharGen\Presets\X folder. You have now saved your preset, and it will be safe from auto-deletion next time you update the list. The [NoDelete] portion tells Wabbajack to ignore said folder.
 
 ## OStim Standalone
 
@@ -99,3 +79,23 @@ Now we're going to navigate to the paste location. Head to the following: C:\Use
 ![telsera-smaller-ostim-menu-paste](https://i.imgur.com/b4T2ln4.png)
 
 ... and you're done! Next time you go in-game, the menu will be slightly smaller to accomendate viewing better.
+
+### Character Presets
+
+Telsera includes a mod containing a premade folder structure for character presets that you either create yourself or download from others. You can copy presets you download into the designated folder. 
+
+The presets mod is here:
+
+![telsera-character-presets](https://i.imgur.com/p6M8AOG.png)
+
+You can select this mod, right-click it, and then select "Open in Explorer" to see the presets directory, which will be at this location:
+
+Example: Telsera\mods\[NoDelete] User-Made Racemenu Presets (SEE README)\SKSE\Plugins\CharGen\Presets\X
+
+![telsera-character-presets-folder](https://i.imgur.com/x1n5llZ.png)
+
+When you make your presets in Racemenu they will be located in the Overwrite folder after you exit the game. 
+
+![telsera-character-overwrite-folder](https://i.imgur.com/wSJ4MIQ.png)
+
+You can select Overwrite, right-click it, and then select "Open in Explorer" to see the presets directory (same location as above in the SKSE folder). Find the file(s) titled insertpresetnamehere.jslot, copy or cut the file, and paste into the [NoDelete] User-Made Racemenu Presets (SEE README)\SKSE\Plugins\CharGen\Presets\X folder. You have now saved your preset, and it will be safe from auto-deletion next time you update the list. The [NoDelete] portion tells Wabbajack to ignore said folder.
