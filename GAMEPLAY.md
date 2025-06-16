@@ -62,7 +62,7 @@ This guide highlights major mods included in Telsera in the following categories
 
 - <kbd>]</kbd> - Allows the user to change the weather on command from a menu selection.
 
-- <kbd></kbd> - Opens a menu selection in relation to [AddItemMenu](https://www.nexusmods.com/skyrimspecialedition/mods/17563) to select certain armors, weapons, or items at will to add to your inventory.
+- <kbd>[</kbd> - Opens a menu selection in relation to [AddItemMenu](https://www.nexusmods.com/skyrimspecialedition/mods/17563) to select certain armors, weapons, or items at will to add to your inventory.
 
 ## User Interface and Camera
 
