@@ -22,7 +22,8 @@ This guide highlights major mods included in Telsera in the following categories
 
 - [Hotkeys](#hotkeys)
 - [Gameplay Changes](#gameplay-changes)
-  - [Overhauls](#overhauls)
+  - [Core Overhauls](#overhauls)
+  - [Misc Overhauls](#misc-overhauls)
   - [Creation Club Distribution](#creation-club-distribution)
 - [User Interface and Camera](#user-interface-and-camera)
 - [Player Homes](#player-homes)
@@ -65,7 +66,7 @@ This guide highlights major mods included in Telsera in the following categories
 
 ## Gameplay
 
-### Overhauls
+### Core Overhauls
 
 Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. 
 
@@ -102,6 +103,34 @@ Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/s
 - [Candlehearth](https://www.nexusmods.com/skyrimspecialedition/mods/97542) - Candlehearth is an inn overhaul that adds extended inn rentals and safe storage to every inn in Skyrim.
 
 - [Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) - Artificer is a complete overhaul of Skyrim's artifacts, designed to distribute Thaumaturgy and Mysticism enchantments throughout the game while ensuring that non-crafting characters can find powerful weapons and armor through questing.
+
+### Misc Overhauls
+
+A variety of other gameplay enhancers are also included in the list! Some key highlights can be found below.
+
+- [Dragon Claws Auto-Unlock](https://www.nexusmods.com/skyrimspecialedition/mods/47329) - Dragon Claws now automatically unlock their puzzle doors. Simply activate the puzzle door keyhole with the respective dragon claw in your inventory, and BOOM you're in!
+
+- [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645) - Use broom to clean up physics mess. Simply click on the broom in your inventory while in the area of interest.
+
+- [No Player Home Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/43677) - Removes quest requirements from vanilla homes and makes Blood on the Ice - not the Civil War - the requirement to purchase Hjerim and become Thane of Eastmarch.
+
+- [Simple Follower Extension AE](https://www.nexusmods.com/skyrimspecialedition/mods/58258) - This is a simple follower extension mod. The player will be able to take up to 10 humanoid and 10 animal followers from the normal conversation dialog.
+
+- [Menagerie](https://www.nexusmods.com/skyrimspecialedition/mods/97669) - Menagerie overhauls the pets added by Anniversary Edition, turning them from mostly decorative followers into combat-ready and capable creature companions.
+
+- [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195) - Reworks several horse-based mechanics introduced by Anniversary Edition.
+
+- [Canis Hysteria](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Adds a new contractible lycanthrope disease.
+
+- [Skyrim's Got Talent](https://www.nexusmods.com/skyrimspecialedition/mods/50357) - Play instruments, get better, NPCs react to your skill dynamically, many new songs, lots of easter eggs, simple implementation. A compact, yet powerful Bard Gameplay Overhaul.
+
+- [Skyrim on Skooma](https://www.nexusmods.com/skyrimspecialedition/mods/80975) - Tired of skooma being so boring? This mod turns skooma into a proper recreational substance with 69 possible scenarios, and a thousand different variations. Funny, yet still immersively immersive.
+
+- [Stress and Fear](https://www.nexusmods.com/skyrimspecialedition/mods/116522) - Your character will dynamically develop fears and stress as a result of your actions in combat, creating custom narratives and unique experiences in your game.
+
+- [Sforzinda's Destinations](https://sforzmods.tumblr.com/post/669312497145331712/destinations-by-sforzinda-destinations-is-an) - DESTINATIONS is an itty-bitty travelling add-on in the form of extra carriage stops to the land of Skyrim. It adds 22 carriage stops with 68 travelling routes between towns and cities. 
+
+- [Merchant](https://www.nexusmods.com/skyrimspecialedition/mods/85439) - Changes to vendors, sell prices, merchant inventories and new merchant-themed crafting gameplay opportunities.
 
 ## Creation Club Distribution
 
