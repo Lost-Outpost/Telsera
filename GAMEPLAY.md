@@ -21,11 +21,11 @@
 This guide highlights major mods included in Telsera in the following categories:
 
 - [Hotkeys](#hotkeys)
+- [User Interface and Camera](#user-interface-and-camera)
 - [Gameplay Changes](#gameplay-changes)
   - [Core Overhauls](#overhauls)
   - [Misc Overhauls](#misc-overhauls)
   - [Creation Club Distribution](#creation-club-distribution)
-- [User Interface and Camera](#user-interface-and-camera)
 - [Player Homes](#player-homes)
 - [Quests and Adventures](#quests-and-adventures)
   - [Quest Changes](#quest-changes)
@@ -62,7 +62,25 @@ This guide highlights major mods included in Telsera in the following categories
 
 - <kbd>]</kbd> - Allows the user to change the weather on command from a menu selection.
 
-- <kbd></kbd> - Opens a menu selection in relation to [AddItemMenu](https://www.nexusmods.com/skyrimspecialedition/mods/17563) to select certain armors, weapons, or items at will to add to your inventory. 
+- <kbd></kbd> - Opens a menu selection in relation to [AddItemMenu](https://www.nexusmods.com/skyrimspecialedition/mods/17563) to select certain armors, weapons, or items at will to add to your inventory.
+
+## User Interface and Camera
+
+Telsera includes a setup featuring the following UI mods:
+
+- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) - Elegant, PC-friendly interface mod with many advanced features.
+
+- [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) - Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
+
+- [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463) - Toggle HUD elements on or off, scale sizes, change positions and swap elements with alternative version. Features dot crosshair, slim compass, alternate ammo display, detached compass markers and built-in support for font mods.
+
+- [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.
+
+- [Improved Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/68210) - Improved version of Alternate Conversation Camera by NasGorTelorCeplok with MCM, fixes and more.
+
+- [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) - Overhauls the third person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. Includes a custom target lock component and an animated target reticle widget, target headtracking, projectile aim support during target lock, mount support and more! Modular and customizable through MCM.
+
+- [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - HUD additions formerly included in True Directional Movement, completely reworked and improved! Very customizable actor info bars, boss bars, player widget, recent loot log and an API for other plugins to use. Modular and customizable through MCM.
 
 ## Gameplay
 
@@ -150,20 +168,6 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 - [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) - An all-encompassing integration and distribution mod that includes modules for a wide array of different content.
 
 - [Menagerie](https://www.nexusmods.com/skyrimspecialedition/mods/97669) - Menagerie overhauls the pets added by Anniversary Edition, turning them from mostly decorative followers into combat-ready and capable creature companions.
-
-## User Interface and Camera
-
-Telsera includes a UI system setup featuring:
-
-- [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) - Complete overhaul to the character creation menu including new customization features
-
-- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) - Elegant, PC-friendly interface
-
-- [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.
-
-- [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) - Overhauls the third person gameplay similar to modern action RPGs. Move and attack in any direction
-
-- [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - Customizable actor info bars, boss bars, and player widget
 
 ## Player Homes
 
