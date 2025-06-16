@@ -116,8 +116,6 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 - [Simple Follower Extension AE](https://www.nexusmods.com/skyrimspecialedition/mods/58258) - This is a simple follower extension mod. The player will be able to take up to 10 humanoid and 10 animal followers from the normal conversation dialog.
 
-- [Menagerie](https://www.nexusmods.com/skyrimspecialedition/mods/97669) - Menagerie overhauls the pets added by Anniversary Edition, turning them from mostly decorative followers into combat-ready and capable creature companions.
-
 - [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195) - Reworks several horse-based mechanics introduced by Anniversary Edition.
 
 - [Canis Hysteria](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Adds a new contractible lycanthrope disease.
@@ -134,20 +132,24 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 ## Creation Club Distribution
 
-- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - To obtain the mentioned artifacts, you must embark along this questline as they have now been integrated into the story. You must be at least character level 20. You must have completed the vanilla Daedric quest The Mind of Madness. 
+- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation. **NOTE** To obtain the mentioned CC artifacts listed below, you must embark along this questline, as they have now been integrated into the story. **You must be at least level 20 and have completed the vanilla Daedric quest The Mind of Madness.** 
    - [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge)
    - [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath)
    - [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend)
-   - [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers)
 
-- [name here](link here) - Overhauls the AE creation called [CC here](uesp wiki link here).
-  > :ledger: Short blurb.
+- [Civil War Champions - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/94999) - Removes the dumb "Battle of Champions" quest. Receive either champion set just before the final siege on Windhelm or Solitude instead.
 
-- [name here](link here) - Overhauls the AE creation called [CC here](uesp wiki link here).
-  > :ledger: Short blurb.
+- [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) - Distributes common items around the game world while keeping the Ghosts of the Tribunal questline entirely intact.
 
-- [name here](link here) - Overhauls the AE creation called [CC here](uesp wiki link here).
-  > :ledger: Short blurb.
+- [Redguard Elite Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/76005) - This mod disables the Interception quest added by the Redguard Elite Armaments CC, and instead distributes the armor and weaponry to Kematu and his group of Alik'r in In My Time of Need.
+
+- [Thwack - Crossbow Collection Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/42653) - Overhauls the implementation of crossbows in Anniversary Edition.
+
+- [Kachunk - Creation Club Crossbow Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71081) - Distributes and rebalances crossbows.
+
+- [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) - An all-encompassing integration and distribution mod that includes modules for a wide array of different content.
+
+- [Menagerie](https://www.nexusmods.com/skyrimspecialedition/mods/97669) - Menagerie overhauls the pets added by Anniversary Edition, turning them from mostly decorative followers into combat-ready and capable creature companions.
 
 ## User Interface and Camera
 
