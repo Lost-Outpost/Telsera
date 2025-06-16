@@ -56,7 +56,7 @@ This guide highlights major mods included in Telsera in the following categories
 
 - <kbd>X</kbd> - Toggles compass visibility.
 
-- <kbd>\</kbd> - Toggles entire HUD visibility.
+- <kbd>\\</kbd> - Toggles entire HUD visibility.
 
 - <kbd>K</kbd> - Opens up The New Gentlemen's genital selector. Please see [here later in the Gameplay Guide]() for more information.
 
