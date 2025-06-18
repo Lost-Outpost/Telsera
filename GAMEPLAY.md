@@ -144,8 +144,6 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 - [Stress and Fear](https://www.nexusmods.com/skyrimspecialedition/mods/116522) - Your character will dynamically develop fears and stress as a result of your actions in combat, creating custom narratives and unique experiences in your game.
 
-- [Sforzinda's Destinations](https://sforzmods.tumblr.com/post/669312497145331712/destinations-by-sforzinda-destinations-is-an) - DESTINATIONS is an itty-bitty travelling add-on in the form of extra carriage stops to the land of Skyrim. It adds 22 carriage stops with 68 travelling routes between towns and cities. 
-
 - [Merchant](https://www.nexusmods.com/skyrimspecialedition/mods/85439) - Changes to vendors, sell prices, merchant inventories and new merchant-themed crafting gameplay opportunities.
 
 ## Creation Club Distribution
