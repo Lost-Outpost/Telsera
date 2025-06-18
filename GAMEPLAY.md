@@ -23,7 +23,8 @@ This guide highlights major mods included in Telsera in the following categories
 - [Hotkeys](#hotkeys)
 - [User Interface and Camera](#user-interface-and-camera)
 - [Gameplay Changes](#gameplay-changes)
-  - [Core Overhauls](#overhauls)
+  - [SFW Core Overhauls](#overhauls)
+  - [NSFW Core Overhauls](#overhauls-nsfw)
   - [Misc Overhauls](#misc-overhauls)
   - [Creation Club Distribution](#creation-club-distribution)
 - [Player Homes](#player-homes)
@@ -82,9 +83,13 @@ Telsera includes a setup featuring the following UI mods:
 
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - HUD additions formerly included in True Directional Movement, completely reworked and improved! Very customizable actor info bars, boss bars, player widget, recent loot log and an API for other plugins to use. Modular and customizable through MCM.
 
+- [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) - Take snapshots of your adventures in game with Photo Mode!
+
+- [Lighting Toolkit](https://www.nexusmods.com/skyrimspecialedition/mods/150279) - Lighting Toolkit is an SKSE plugin that lets players place dynamic, shadow-casting lights in the game world, primarily for screenshots and videos. It's designed to be used alongside poser frameworks and OStim.
+
 ## Gameplay
 
-### Core Overhauls
+### SFW Core Overhauls
 
 Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. 
 
@@ -122,6 +127,22 @@ Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/s
 
 - [Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) - Artificer is a complete overhaul of Skyrim's artifacts, designed to distribute Thaumaturgy and Mysticism enchantments throughout the game while ensuring that non-crafting characters can find powerful weapons and armor through questing.
 
+### NSFW Core Overhauls
+
+Telsera is built around [OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98163) as a framework for love and intimacy. 
+
+- [OStim Romance](https://www.nexusmods.com/skyrimspecialedition/mods/107671) - Adds romance mechanics to Skyrim using the dialogue system. Comes with additional tweaks where you must have a relationship established with the NPC in question (Rank 1 or higher) prior to engaging in the new dialogue system.
+
+- [You Got Caught for OStim SA](https://www.nexusmods.com/skyrimspecialedition/mods/139697) - You can get caught cheating when you are in the OStim scene! Public lewdness is a crime! Guards will break up public intimacy scenes if player or NPC's torso/chest armor piece is removed!
+
+- [OComfort](https://www.nexusmods.com/skyrimspecialedition/mods/139333) - A version of OComfort that is fully compatible and congruent with Ostim Romance functionalities.
+
+- [OCum Ascended﻿](https://www.nexusmods.com/skyrimspecialedition/mods/77506) - OCum Ascended is an overhaul and rebuild of OCum, an OStim addon made by Sairion350. OCum adds cum effects to OStim scenes, as well as female squirting, physical cum projectiles, cum sounds and effects, and many other features related to orgasms.
+
+- [OBottom](https://www.nexusmods.com/skyrimspecialedition/mods/107630) - This addon focuses on futanari and gay bottom support for OCum Ascended. Bottoms have some new titillating options when experiencing an orgasm.
+ 
+- [OStim Standalone Sound Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/120663) - This mod adds over 200 sound effects for OStim Standalone. Enhance your scenes with high quality sound effects and voice sets! Wet FX, kissing, and so much more! 
+
 ### Misc Overhauls
 
 A variety of other gameplay enhancers are also included in the list! Some key highlights can be found below.
@@ -148,7 +169,7 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 ## Creation Club Distribution
 
-- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation. **NOTE** To obtain the mentioned CC artifacts listed below, you must embark along this questline, as they have now been integrated into the story. **You must be at least level 20 and have completed the vanilla Daedric quest The Mind of Madness.** 
+- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation. To obtain the mentioned CC artifacts listed below, you must embark along this questline, as they have now been integrated into the story. **You must be at least level 20 and have completed the vanilla Daedric quest The Mind of Madness.** 
    - [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge)
    - [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath)
    - [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend)
@@ -169,7 +190,7 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 ## Player Homes
 
-- [Revak Rift](https://www.nexusmods.com/skyrim/mods/67808) - Cozy home for the player who wants to display everything from daedric artifacts down to Ysgramor's Soup Spoon.
+- [Revak Rift](https://www.nexusmods.com/skyrim/mods/67808) - Located west of [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim_(place)), Revak Rift is a cozy home for the player who wants to display everything from daedric artifacts down to Ysgramor's Soup Spoon. 
 
 - [Cityside - A Starter Home](https://www.nexusmods.com/skyrimspecialedition/mods/27777) - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude.
 
