@@ -20,12 +20,12 @@
 
 This guide highlights major mods included in Telsera in the following categories:
 
-- [User Interface and Camera](#user-interface-and-camera)
 - [Gameplay Changes](#gameplay-changes)
+  - [User Interface and Camera](#user-interface-and-camera)
   - [SFW Core Overhauls](#SFW-core-overhauls)
   - [NSFW Core Overhauls](#NSFW-core-overhauls)
   - [Misc Overhauls](#misc-overhauls)
-  - [Creation Club Distribution](#creation-club-distribution)
+- [Creation Club Distribution](#creation-club-distribution)
 - [Quests and Adventures](#quests-and-adventures)
   - [Quest Changes](#quest-changes)
   - [Quest and Dungeon Additions](#quest-and-dungeon-additions)
@@ -38,9 +38,11 @@ This guide highlights major mods included in Telsera in the following categories
   - [OStim Romance](#ostim-romance)
   - [OStim Romance Bypass](#ostim-romance-bypass)
 
-## User Interface and Camera
+## Gameplay
 
-![telsera-camera](https://i.imgur.com/xsnxOMx.png)
+![telsera-sfw-overhauls](https://i.imgur.com/k4TvecH.png)
+
+### User Interface and Camera
 
 Telsera includes a setup featuring the following UI mods:
 
@@ -61,10 +63,6 @@ Telsera includes a setup featuring the following UI mods:
 - [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) - Take snapshots of your adventures in game with Photo Mode!
 
 - [Lighting Toolkit](https://www.nexusmods.com/skyrimspecialedition/mods/150279) - Lighting Toolkit is an SKSE plugin that lets players place dynamic, shadow-casting lights in the game world, primarily for screenshots and videos. It's designed to be used alongside poser frameworks and OStim.
-
-## Gameplay
-
-![telsera-sfw-overhauls](https://i.imgur.com/k4TvecH.png)
 
 ### SFW Core Overhauls
 
