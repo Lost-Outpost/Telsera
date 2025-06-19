@@ -56,15 +56,7 @@
 
 ## OStim Standalone
 
-To navigation to the control setup of OStim SA, head to the Mod Configuration tab on the pause menu.
-
-![telsera-ostim-menu-navi](https://i.imgur.com/CyERQE1.png)
-
-Once you find the entry titled OStim Standalone, click the Controls tab on the left. Here you'll find all the keybinds for Telsera's setup.
-
-![telsera-ostim-menu-mcm](https://i.imgur.com/tL9fvkR.png)
-
-If the above image does not load, here are the primary notes:
+Here are the primary notes:
 
 <kbd>-</kbd> - Long hold press. Starts a scene. A pop-up menu will appear asking if you'd like to add any additional NPCs. Select None if you'd like to initiate a solo scene.
 
@@ -80,11 +72,31 @@ If the above image does not load, here are the primary notes:
 
 <kbd>Del</kbd> - Ends a scene. If you're outdoors, the grass may take a moment to reload.
 
-They are different than OStim SA's default setup, as this is what I'm personally accustomed to, but in the picture above under Navigation Keys, you can tick the checkbox to reset the controls to their default state. I realize everyone has their preference when it comes to keybinds, so feel free to change them to whatever is easiest for you!
+Want to change the default keybind setup for OStim? Images on how to do so are provided under the spoiler.
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+To navigation to the control setup of OStim SA, head to the Mod Configuration tab on the pause menu.
+
+![telsera-ostim-menu-navi](https://i.imgur.com/CyERQE1.png)
+
+Once you find the entry titled OStim Standalone, click the Controls tab on the left. Here you'll find all the keybinds for Telsera's setup.
+
+![telsera-ostim-menu-mcm](https://i.imgur.com/tL9fvkR.png)
+
+They are different than OStim SA's default setup, as this is what I'm personally accustomed to, but in the picture above under Navigation Keys, you can tick the checkbox on the bottom right of the MCM to reset the controls to their default state. I realize everyone has their preference when it comes to keybinds, so feel free to change them to whatever is easiest for you!
+
+</details>
 
 ## Smaller OStim Navigation Menu
 
-If you find that while in-game the menu screen for OStim's navigation pane is too big for your liking, don't worry, you're in luck! Navigate to the mod titled Smaller Scene Menu For OStim Standalone (SEE README) under the Optional Mods section of the list. 
+If you find that while in-game the menu screen for OStim's navigation pane is too big for your liking, don't worry, you're in luck! The information under the spoiler below will help.
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+Navigate to the mod titled Smaller Scene Menu For OStim Standalone (SEE README) under the Optional Mods section of the list. 
 
 ![telsera-smaller-ostim-menu](https://i.imgur.com/XTUqhGZ.png)
 
@@ -98,9 +110,14 @@ Now we're going to navigate to the paste location. Head to the following: C:\Use
 
 ... and you're done! Next time you go in-game, the menu will be slightly smaller to accomendate viewing better.
 
+</details>
+
 ## Character Presets
 
 Telsera includes a mod containing a premade folder structure for character presets that you either create yourself or download from others. You can copy presets you download into the designated folder. 
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
 
 The presets mod is here:
 
@@ -117,6 +134,8 @@ When you make your presets in Racemenu they will be located in the Overwrite fol
 ![telsera-character-overwrite-folder](https://i.imgur.com/wSJ4MIQ.png)
 
 You can select Overwrite, right-click it, and then select "Open in Explorer" to see the presets directory (same location as above in the SKSE folder). Find the file(s) titled insertpresetnamehere.jslot, copy or cut the file, and paste into the [NoDelete] User-Made Racemenu Presets (SEE README)\SKSE\Plugins\CharGen\Presets\X folder. You have now saved your preset, and it will be safe from auto-deletion next time you update the list. The [NoDelete] portion tells Wabbajack to ignore said folder.
+
+</details>
 
 ## ENB Settings
 
