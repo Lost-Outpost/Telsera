@@ -33,10 +33,6 @@ Feel free to hop on the Discord support forum channel, as support is primarily o
 
 Yes! Telsera uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/63953">Optional Quick Start</a> as it's alternative start mod. You have the choice between going through the vanilla intro, or skipping it entirely by starting off near the cave's exit area. You will receive a prompt on if you'd like to escape with Hadvar or Ralof. JUST BEWARE the vanilla intro may be buggy! In my testing it worked fine, but this is Skyrim after all!
 
-## What difficulty is recommended to play Telsera at?
-
-That's completely up to you! **The default is set to Adept**, however, it boils down to your own preference in the end. Steps on how to adjust the difficulty can be found in the Gameplay portion of the readme!
-
 ## Why is my stamina depleting as I jump, sneak, or swim?
 
 That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrimspecialedition/mods/34549">Blade and Blunt</a>. This is a purposeful mechanic to increase the difficulty through resource management and planning. I'd recommend looking over Blade and Blunt's modpage for more information.
@@ -44,6 +40,18 @@ That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrim
 ## My field of view is now super zoomed in after an OStim scene. How do I fix it?
 
 Open the console via <kbd>'</kbd>. Type the following: <kbd>fov 90</kbd> and you will be set! press <kbd>'</kbd> again to close the console.
+
+## Help! My character is a floating head! What do I do?
+
+This can happen if you tried the keybind to customize your character's genitals and you picked one of the "Vagina - X" options. Next time you go in-game, re-open the TNG genital menu via <kbd>K</kbd> and be sure to select **RESET SIZE** next time you're prompted to select a size. Visual intructions and more information can be found <a href="https://github.com/Lost-Outpost/Telsera/blob/main/GAMEPLAY.md#tng-customization">here in the Gameplay Guide</a>.
+
+## Help! My character's dick has texture mismatching! What do I do?
+
+This can happen if you tried the keybind to customize your character's genitals and you picked one of the "TRX Futanari" options. Unfortunately, at Telsera's v1.0.0 release, there is no mod to blend the texture setups (ie. Reverie + Tempered Skins clashing against TRX's custom textures). Eventually, depending on how permissions go, I will try to blend the dick for a -seamless- (hehe) experience. It's on my to-do list!
+
+## What difficulty is recommended to play Telsera at?
+
+That's completely up to you! **The default is set to Adept**, however, it boils down to your own preference in the end. Steps on how to adjust the difficulty can be found in the Gameplay portion of the readme!
 
 ## Is there support for ultrawide setups?
 
