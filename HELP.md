@@ -37,6 +37,14 @@ Yes! Telsera uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/6
 
 That's completely up to you! **The default is set to Adept**, however, it boils down to your own preference in the end. Steps on how to adjust the difficulty can be found in the Gameplay portion of the readme!
 
+## Is there support for ultrawide setups?
+
+No, I'm sorry. :(
+
+## Is there a default config I need to set for using a controller?
+
+If you the pause the game, go under the System tab and click Settings. Be sure to tick the box for controller use. I personally don't have a controller, so I've never played Skyrim with one or done any testing, so it'll be up to you to navigate the controller binds.
+
 ## Why is my stamina depleting as I jump, sneak, or swim?
 
 That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrimspecialedition/mods/34549">Blade and Blunt</a>. This is a purposeful mechanic to increase the difficulty through resource management and planning. I'd recommend looking over Blade and Blunt's modpage for more information.
