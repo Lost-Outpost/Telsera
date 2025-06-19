@@ -40,6 +40,8 @@ This guide highlights major mods included in Telsera in the following categories
 
 ## User Interface and Camera
 
+![telsera-camera](https://i.imgur.com/xsnxOMx.png)
+
 Telsera includes a setup featuring the following UI mods:
 
 - [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) - Elegant, PC-friendly interface mod with many advanced features.
@@ -272,12 +274,30 @@ Now you're ready to embark on your journey through Telsera! But wait, you may wa
 
 ### High Poly Head
 
-blurbs
+Telsera contains a customization mod that will enhance the poly count of your character's face. The steps are listed below on how to enable it while in Racemenu.
 
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
 
-![telsera-ecss](https://i.imgur.com/5ggWte5.png)
+When you first start off creating your character in Racemenu, you'll want to go up to the space titled, "Filter" at the top under the Sliders tab.
+
+![telsera-hph1](https://i.imgur.com/Vfif1iT.png)
+
+We're going to click the entry area, and type in "face" without quote marks. This will filter out all the available sliders, except for those titled "face X." The one we want specifically is called, "Face Part." Notice how the slider is set to 1 by default.
+
+![telsera-hph2](https://i.imgur.com/LvlZLzA.png)
+
+We're going to click and drag the middle bar of Face Part so the number changes to 3. The head of your character is now high poly! We're not done yet, though, as you can see subtle clipping through the beard and eyebrow area of the face.
+
+![telsera-hph3](https://i.imgur.com/RV7rsV9.png)
+
+Go back up to the Filter selection, and remove the text saying Face so we can see all the available sliders again. In the All tab, hover your cursor over the Facial Hair slider (if applicable depending on which gender your character is). Move the slider to view the variety of beards. **KEEP NOTE OF THE MOD'S NAME!** Notice how along the bottom right of the image below, it says in the description box, "Beards of Power.esp." The version of Beards of Power we have in Telsera was designed for High Poly Head right out of the box, so the shape will conform to the new dimensions and clipping will not occur. If you decide you want to use a higher poly head by following the steps mentioned earlier, **use facial hair that is NOT titled with the root of Skyrim.esm**. 
+
+![telsera-hph4](https://i.imgur.com/JAgBS2h.png)
+
+Same goes for the Brow Type. **Be sure to select options that are NOT with the root of Skyrim.esm.** In the example image, we'll be using a brow set titled, "Kyoe Bangin Brows PLUS PLUS for High Poly Head.esp" as they were designed to be used with a higher poly head.
+
+![telsera-hph5](https://i.imgur.com/KC4Nhyp.png)
   
 </details>
 
