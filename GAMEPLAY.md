@@ -29,7 +29,7 @@ This guide highlights major mods included in Telsera in the following categories
   - [Creation Club Distribution](#creation-club-distribution)
 - [Quests and Adventures](#quests-and-adventures)
   - [Quest Changes](#quest-changes)
-  - [Quest & Dungeon Additions](#quest-&-dungeon-additions)
+  - [Quest and Dungeon Additions](#quest-and-dungeon-additions)
 - [Player Homes](#player-homes)
 - [Extra Info](#extra-info)
   - [Starting Out](#starting-out)
@@ -65,6 +65,8 @@ Telsera includes a setup featuring the following UI mods:
 
 ### SFW Core Overhauls
 
+![telsera-sfw-overhauls](https://i.imgur.com/k4TvecH.png)
+
 Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. Key highlights include:
 
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - Aetherius is a complete overhaul of Skyrim’s races designed to balance the game’s racial passives and add powerful new gameplay options.
@@ -93,6 +95,8 @@ Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/s
 
 ### NSFW Core Overhauls
 
+![telsera-nsfw-overhauls](https://i.imgur.com/ofiKewZ.png)
+
 Telsera is built around [OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98163) as a framework for love and intimacy. 
 
 - [OStim Romance](https://www.nexusmods.com/skyrimspecialedition/mods/107671) - Adds romance mechanics to Skyrim using the dialogue system. Comes with additional tweaks where you must have a relationship established with the NPC in question (Rank 1 or higher) prior to engaging in the new dialogue system.
@@ -108,6 +112,8 @@ Telsera is built around [OStim Standalone](https://www.nexusmods.com/skyrimspeci
 - [OStim Standalone Sound Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/120663) - This mod adds over 200 sound effects for OStim Standalone. Enhance your scenes with high quality sound effects and voice sets! Wet FX, kissing, and so much more! 
 
 ### Misc Overhauls
+
+![telsera-misc-overhauls](https://i.imgur.com/kIfRqhb.png)
 
 A variety of other gameplay enhancers are also included in the list! Some key highlights can be found below.
 
@@ -133,6 +139,8 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 ## Creation Club Distribution
 
+![telsera-cc-distribution](https://i.imgur.com/nlzGIZG.png)
+
 - [Civil War Champions - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/94999) - Removes the dumb "Battle of Champions" quest. Receive either champion set just before the final siege on Windhelm or Solitude instead.
 
 - [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) - Distributes common items around the game world while keeping the Ghosts of the Tribunal questline entirely intact.
@@ -150,6 +158,8 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 ## Quests and Adventures
 
 ### Quest Changes
+
+![telsera-quest-changes](https://i.imgur.com/oN1bH8N.png)
 
 Telsera includes [Jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that add immersion and several pathways to finish vanilla quests. Some key highlights include:
 
@@ -185,7 +195,9 @@ Other changes to quests include;
 
 - [A Serious Wedding - Teldryn Sero Marriage Mod](https://www.nexusmods.com/skyrimspecialedition/mods/10238) - Play an immersive, lore-friendly quest that features 105 lines dialogue, free hugs, a Dunmeri wedding ceremony, experience buffs and meals.
 
-### Quest & Dungeon Additions
+### Quest and Dungeon Additions
+
+![telsera-quest-and-dungeons](https://i.imgur.com/5ggWte5.png)
 
 - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation. **You must be at least level 20 and have completed the vanilla Daedric quest The Mind of Madness.** To obtain the mentioned CC artifacts listed below, you must embark along this questline, as they have now been integrated into the story. 
    - [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge)
@@ -209,6 +221,8 @@ Other changes to quests include;
 - [Hammet Dungeon Pack 2](https://www.nexusmods.com/skyrimspecialedition/mods/95339) - A new compilation of my fifteen (15) Dungeons.
 
 ## Player Homes
+
+![telsera-homes](https://i.imgur.com/8Jsu6FN.png)
 
 - [Revak Rift](https://www.nexusmods.com/skyrim/mods/67808) - Located west of [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim_(place)), Revak Rift is a cozy home for the player who wants to display everything from daedric artifacts down to Ysgramor's Soup Spoon. **To enter the home, you must have unlocked the Unrelenting Shout.** Look up at the dragon skull hanging over the front door, and perform the shout. The doors will automatically unlock, and you will be able to enter.
 
