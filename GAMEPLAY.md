@@ -34,7 +34,7 @@ This guide highlights major mods included in Telsera in the following categories
 - [Extra Info](#extra-info)
   - [Starting Out](#starting-out)
   - [High Poly Head](#high-poly-head)
-  - [Difficulty & Survival Mode](#difficulty-&-survival-mode)
+  - [Difficulty and Survival Mode](#difficulty-and-survival-mode)
   - [TNG Customization](#tng-customization)
   - [OStim Romance](#ostim-romance)
   - [OStim Romance Bypass](#ostim-romance-bypass)
@@ -268,7 +268,7 @@ blurbs
   
 </details>
 
-### Difficulty & Survival Mode
+### Difficulty and Survival Mode
 
 Interested in changing the difficulty? Want to turn off Survival Mode? The spoiler below contains steps on how to adjust these settings to your liking.
 
