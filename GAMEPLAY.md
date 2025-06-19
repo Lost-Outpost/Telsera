@@ -27,9 +27,10 @@ This guide highlights major mods included in Telsera in the following categories
   - [NSFW Core Overhauls](#NSFW-core-overhauls)
   - [Misc Overhauls](#misc-overhauls)
   - [Creation Club Distribution](#creation-club-distribution)
-- [Player Homes](#player-homes)
 - [Quests and Adventures](#quests-and-adventures)
   - [Quest Changes](#quest-changes)
+  - [Quest & Dungeon Additions](#quest-&-dungeon-additions)
+- [Player Homes](#player-homes)
 
 ## Hotkeys
 
@@ -91,6 +92,8 @@ Telsera includes a setup featuring the following UI mods:
 
 ### SFW Core Overhauls
 
+![telsera-mysticism](https://i.imgur.com/k4TvecH.png)
+
 Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. 
 
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - Aetherius is a complete overhaul of Skyrim’s races designed to balance the game’s racial passives and add powerful new gameplay options.
@@ -129,6 +132,8 @@ Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/s
 
 ### NSFW Core Overhauls
 
+![telsera-ostim-sa](https://i.imgur.com/ofiKewZ.png)
+
 Telsera is built around [OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98163) as a framework for love and intimacy. 
 
 - [OStim Romance](https://www.nexusmods.com/skyrimspecialedition/mods/107671) - Adds romance mechanics to Skyrim using the dialogue system. Comes with additional tweaks where you must have a relationship established with the NPC in question (Rank 1 or higher) prior to engaging in the new dialogue system.
@@ -144,6 +149,8 @@ Telsera is built around [OStim Standalone](https://www.nexusmods.com/skyrimspeci
 - [OStim Standalone Sound Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/120663) - This mod adds over 200 sound effects for OStim Standalone. Enhance your scenes with high quality sound effects and voice sets! Wet FX, kissing, and so much more! 
 
 ### Misc Overhauls
+
+![telsera-broom-sweet](https://i.imgur.com/kIfRqhb.png)
 
 A variety of other gameplay enhancers are also included in the list! Some key highlights can be found below.
 
@@ -169,10 +176,7 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 ## Creation Club Distribution
 
-- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation. To obtain the mentioned CC artifacts listed below, you must embark along this questline, as they have now been integrated into the story. **You must be at least level 20 and have completed the vanilla Daedric quest The Mind of Madness.** 
-   - [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge)
-   - [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath)
-   - [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend)
+![telsera-tamrielic-distribution](https://i.imgur.com/nlzGIZG.png)
 
 - [Civil War Champions - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/94999) - Removes the dumb "Battle of Champions" quest. Receive either champion set just before the final siege on Windhelm or Solitude instead.
 
@@ -188,34 +192,79 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 - [Menagerie](https://www.nexusmods.com/skyrimspecialedition/mods/97669) - Menagerie overhauls the pets added by Anniversary Edition, turning them from mostly decorative followers into combat-ready and capable creature companions.
 
+## Quests and Adventures
+
+### Quest Changes
+
+![telsera-thodqe](https://i.imgur.com/oN1bH8N.png)
+
+Telsera includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that add immersion and several pathways to finish vanilla quests. Some key highlights include:
+
+- [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) - This mod enhances Peryite's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra. Fully voiced.
+
+- [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792) - Fixes some issues with the misc quest at Nilheim and gives a bit more flexibility to your encounter with good old Telrav, adding a couple of additional dialogue choices and options for roleplaying.
+
+- [Caught Red Handed - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/65708) - Mind your own business, Svana. Everyone should be allowed to practice the "Dibellan" arts free of shame! Expands this misc quest with some new... interesting outcomes.
+
+- [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606) - Experience a longer version of Mephala's Daedric quest, now with more dialogue, more decisions and a general darker approach to the original quest.
+
+- [The Heart of Dibella - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/94863) - Tired of having to break into a ladies-only religious building just to start this quest? Is that something your character would never do? This mod has you covered with new roleplaying opportunities, more dialogue and more choices.
+
+- [Destroy The Dark Brotherhood - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/118229) - This mod introduces new lore-friendly ways to get kidnapped by Astrid (allowing you to Destroy the Dark Brotherhood even after sparing Grelod) while also expanding the actual quest to destroy the DB with new dialogue, choices, more memorable fights and a more cohesive quest.
+
+Other changes to quests include;
+
+- [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681) - Jaree-Ra in Solitude has a plan to set up a shipwreck. The ship is said to be full of weapons and riches, ripe for the taking. What will you do?
+
+- [Bring Meeko to Lod](https://www.nexusmods.com/skyrimspecialedition/mods/25246) - This mod allows you to bring Meeko to Lod in Falkreath.
+
+- [Thieves Guild Alternative Endings](https://www.nexusmods.com/skyrimspecialedition/mods/114558) - Defy Nocturnal and unlock yourself from eternal servitude. Adds 4 new voice-acted endings to the Thieves Guild questline, including new story, new rewards, new boss fights. 
+
+- [Your Choices Matter - A Dark Brotherhood Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/46871) - This mod extends the Dark Brotherhood questline in many ways and adds an optional alternate ending. The ending you get will depend on the choices you, the Player make, throughout the story.
+
+- [Markarth - Help the Warrens and a Cure for Cairine](https://www.nexusmods.com/skyrimspecialedition/mods/45144) - Introduces two small quests: one to clean up the Warrens, and one to FINALLY cure poor Cairine!
+
+- [Boethiah's Calling - Alternate Questline](https://www.nexusmods.com/skyrimspecialedition/mods/121499) - Fully Voiced alternate questline to obtain the Ebony Mail. Now a "friend" can trick and try to sacrifice you!
+
+- [The Taste of Death - Quest Addon](https://www.nexusmods.com/skyrimspecialedition/mods/123173) - 50+ New lines of dialogue. Adds new dialogue, enemies, and gameplay to the vanilla quest "The Taste of Death". Confront the cult of Namira and bring them to justice.
+
+- [After the Civil War - Siege Damage Repairs](https://www.nexusmods.com/skyrimspecialedition/mods/20668) - An "immersive" way of repairing the damage left by the Civil War. Twenty days after the final battle the cities will be back to normal, but a generous donation will speed-up the reconstruction. Crews will be at work fixing the damage.
+
+- [A Serious Wedding - Teldryn Sero Marriage Mod](https://www.nexusmods.com/skyrimspecialedition/mods/10238) - Play an immersive, lore-friendly quest that features 105 lines dialogue, free hugs, a Dunmeri wedding ceremony, experience buffs and meals.
+
+### Quest & Dungeon Additions
+
+![telsera-ecss](https://i.imgur.com/5ggWte5.png)
+
+- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation. **You must be at least level 20 and have completed the vanilla Daedric quest The Mind of Madness.** To obtain the mentioned CC artifacts listed below, you must embark along this questline, as they have now been integrated into the story. 
+   - [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge)
+   - [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath)
+   - [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend)
+ 
+- [Siege at Icemoth](https://www.nexusmods.com/skyrimspecialedition/mods/109541) - A small scale vanilla-esque new lands mod adding some new islands with new locations and dungeons in the Sea of Ghosts. As well as some unique items from The Elder Scrolls Blades. **You'll need to reach the Old Wooden Jetty at the most north western beach in Skyrim. Otherwise travel to Northwatch Keep and travel west until you reach it.**
+
+- [Dragon's Teeth Prison - A Dungeon Mod](https://www.nexusmods.com/skyrimspecialedition/mods/111523) -  A Dungeon Mod adds a small scale dungeon to the Dragon's Teeth Mountains just west of Falkreath.
+
+- [Morthal Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/90737) - A vanilla-style nordic dungeon in Hjaalmarch, based on its appearance in the Elder Scrolls Online, featuring a voiced quest.
+
+- [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371) - A vanilla-style nordic dungeon in the Western Rift, based on its appearance in the Elder Scrolls Online.
+
+- [Lost Passages - New Dungeons for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/106061) - Adds 20 Radiant-enabled dungeons to various holds throughout Skyrim.
+
+- [Lost Passages - The Hidden City](https://www.nexusmods.com/skyrimspecialedition/mods/117191) - Adds 10 Radiant-enabled dungeons that descend into the underbelly of Skyrim's largest cities - secret back rooms, sewers, cellars, crypts and more.
+
+- [Hammet's Dungeon Pack 1](https://www.nexusmods.com/skyrimspecialedition/mods/12186) - Thirty (30) dungeons added to Skyrim and Solstheim to discover and explore plus a new world space called Desolate Veil, realm of Lord Vuldur.
+
+- [Hammet Dungeon Pack 2](https://www.nexusmods.com/skyrimspecialedition/mods/95339) - A new compilation of my fifteen (15) Dungeons.
+
 ## Player Homes
 
-- [Revak Rift](https://www.nexusmods.com/skyrim/mods/67808) - Located west of [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim_(place)), Revak Rift is a cozy home for the player who wants to display everything from daedric artifacts down to Ysgramor's Soup Spoon. 
+![telsera-revak-rift](https://i.imgur.com/8Jsu6FN.png)
+
+- [Revak Rift](https://www.nexusmods.com/skyrim/mods/67808) - Located west of [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim_(place)), Revak Rift is a cozy home for the player who wants to display everything from daedric artifacts down to Ysgramor's Soup Spoon.
 
 - [Cityside - A Starter Home](https://www.nexusmods.com/skyrimspecialedition/mods/27777) - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude.
 
 - [Sorrow Point Crypt](https://www.nexusmods.com/skyrimspecialedition/mods/34336) - A very cozy grounded-player home, with a bit of story and mystery.
 
 - [Seidr's Rest - Clever Man's Abode - Nord Mage Player Home](https://www.nexusmods.com/skyrimspecialedition/mods/39918) - A small dwelling in the Pale, built by ancient Nords in the traditional method: telekinesis.
-
-## Quests and Adventures
-
-### Quest Changes
-
-Telsera includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that add immersion and several pathways to finish vanilla quests.
-
-- [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) - Enhances Peryite's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra.
-
-- [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792) - Fixes some issues and gives more options for how to deal with the Nilhelm quest.
-
-- [Caught Red Handed - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/65708) - Mind your own business, Svana. Everyone should be allowed to practice the "Dibellan" arts free of shame! Expands this misc quest with some new... interesting outcomes.
-
-- [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606) - Expands on Mephala's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra.
-
-Other changes to quests include;
-
-- [X](link) - blurb
-
-- [X](link) - blurb
-
-- [X](link) - blurb
