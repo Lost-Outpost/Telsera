@@ -39,8 +39,6 @@ This guide highlights major mods included in Telsera in the following categories
 
 ## Gameplay
 
-![telsera-sfw-overhauls](https://i.imgur.com/k4TvecH.png)
-
 ### User Interface and Camera
 
 Telsera includes a setup featuring the following UI mods:
@@ -133,8 +131,6 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 ## Creation Club Distribution
 
-![telsera-cc-distribution](https://i.imgur.com/nlzGIZG.png)
-
 - [Civil War Champions - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/94999) - Removes the dumb "Battle of Champions" quest. Receive either champion set just before the final siege on Windhelm or Solitude instead.
 
 - [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) - Distributes common items around the game world while keeping the Ghosts of the Tribunal questline entirely intact.
@@ -147,11 +143,15 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 - [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) - An all-encompassing integration and distribution mod that includes modules for a wide array of different content.
 
+- [Masterwork](https://www.nexusmods.com/skyrimspecialedition/mods/142109) - Masterwork is an overhaul of the artifacts and unique items added by the Anniversary Edition upgrade to Skyrim Special Edition, adding spells and enchantments from the SimonRim suite of mods to items such as the Staff of Worms or Goldbrand to bring them closer to the standard set by Artificer.
+
+- [Relics of the Crusader Improved](https://www.nexusmods.com/skyrimspecialedition/mods/93178) - Improves Creation Club's Divine Crusader's Relics of the Crusader, giving them new enchants and removing the infamy mechanic.
+
+- [Schoolsacks of Simonrim](https://www.nexusmods.com/skyrimspecialedition/mods/113565) - Overhaul and rebalance the creation club backpack to better fit simonrim.
+
 - [Menagerie](https://www.nexusmods.com/skyrimspecialedition/mods/97669) - Menagerie overhauls the pets added by Anniversary Edition, turning them from mostly decorative followers into combat-ready and capable creature companions.
 
 ## Quests and Adventures
-
-![telsera-quest-and-dungeons](https://i.imgur.com/5ggWte5.png)
 
 ### Quest Changes
 
@@ -213,8 +213,6 @@ Other changes to quests include;
 - [Hammet Dungeon Pack 2](https://www.nexusmods.com/skyrimspecialedition/mods/95339) - A new compilation of my fifteen (15) Dungeons.
 
 ## Player Homes
-
-![telsera-homes](https://i.imgur.com/8Jsu6FN.png)
 
 - [Revak Rift](https://www.nexusmods.com/skyrim/mods/67808) - Located west of [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim_(place)), Revak Rift is a cozy home for the player who wants to display everything from daedric artifacts down to Ysgramor's Soup Spoon. **To enter the home, you must have unlocked the Unrelenting Shout.** Look up at the dragon skull hanging over the front door, and perform the shout. The doors will automatically unlock, and you will be able to enter.
 
