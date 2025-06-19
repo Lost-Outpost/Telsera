@@ -35,7 +35,8 @@ This guide highlights major mods included in Telsera in the following categories
   - [Starting Out](#starting-out)
   - [High Poly Head](#high-poly-head)
   - [Difficulty & Survival Mode](#difficulty-&-survival-mode)
-  - 
+  - [OStim Romance](#ostim-romance)
+  - [OStim Romance Bypass](#ostim-romance-bypass)
 
 ## User Interface and Camera
 
@@ -65,15 +66,13 @@ Telsera includes a setup featuring the following UI mods:
 
 ![telsera-mysticism](https://i.imgur.com/k4TvecH.png)
 
-Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. 
+Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. Key highlights include:
 
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - Aetherius is a complete overhaul of Skyrim’s races designed to balance the game’s racial passives and add powerful new gameplay options.
 
 - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) - Mysticism is a complete overhaul of Skyrim’s magic system designed to balance existing spells and add powerful new magical effects to the game.
 
 - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Adamant is a complete overhaul of Skyrim’s perk trees designed to balance existing skills and add powerful new perks to the game.
-
-- [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) - Mundus is a complete overhaul of Skyrim’s Standing Stones designed to balance the game’s stone bonuses and add powerful new gameplay options.
 
 - [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - Blade and Blunt is a complete overhaul of Skyrim’s combat designed to increase the game’s difficulty and encourage active resource management.
 
@@ -87,23 +86,13 @@ Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/s
 
 - [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) - Thaumaturgy is a complete overhaul of Skyrim’s enchanting system designed to balance existing enchantments and add powerful new weapon and armor enchantments to the game.
 
-- [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) - Merges Lockpicking and Pickpocketing into a single skill called Security and adds a new perk tree for Hand-to-Hand combat.
-
-- [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) - Stormcrown is a complete overhaul of Skyrim’s Shout system designed to balance existing Shouts, add new Shouts, and provide additional progression for the player’s experience as Dragonborn.
-
-- [Sorcerer](https://www.nexusmods.com/skyrimspecialedition/mods/95196) - Sorcerer is an addon for Mysticism - A Magic Overhaul that adds two new crafting tables to the game, a scroll enchanter and a staff enchanter.
-
 - [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) - Gourmet is a complete overhaul of Skyrim’s cooking system that distributes food, ingredients, and crafting tables throughout the game.
 
 - [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) - Starfrost is a lightweight overhaul of Survival Mode designed to introduce Survival mechanics into the game with the least amount of tedium possible.
 
-- [Candlehearth](https://www.nexusmods.com/skyrimspecialedition/mods/97542) - Candlehearth is an inn overhaul that adds extended inn rentals and safe storage to every inn in Skyrim.
-
 - [Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) - Artificer is a complete overhaul of Skyrim's artifacts, designed to distribute Thaumaturgy and Mysticism enchantments throughout the game while ensuring that non-crafting characters can find powerful weapons and armor through questing.
 
 ### NSFW Core Overhauls
-
-![telsera-ostim-sa](https://i.imgur.com/ofiKewZ.png)
 
 Telsera is built around [OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98163) as a framework for love and intimacy. 
 
@@ -120,8 +109,6 @@ Telsera is built around [OStim Standalone](https://www.nexusmods.com/skyrimspeci
 - [OStim Standalone Sound Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/120663) - This mod adds over 200 sound effects for OStim Standalone. Enhance your scenes with high quality sound effects and voice sets! Wet FX, kissing, and so much more! 
 
 ### Misc Overhauls
-
-![telsera-broom-sweet](https://i.imgur.com/kIfRqhb.png)
 
 A variety of other gameplay enhancers are also included in the list! Some key highlights can be found below.
 
@@ -147,8 +134,6 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 ## Creation Club Distribution
 
-![telsera-tamrielic-distribution](https://i.imgur.com/nlzGIZG.png)
-
 - [Civil War Champions - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/94999) - Removes the dumb "Battle of Champions" quest. Receive either champion set just before the final siege on Windhelm or Solitude instead.
 
 - [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) - Distributes common items around the game world while keeping the Ghosts of the Tribunal questline entirely intact.
@@ -167,9 +152,7 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 ### Quest Changes
 
-![telsera-thodqe](https://i.imgur.com/oN1bH8N.png)
-
-Telsera includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that add immersion and several pathways to finish vanilla quests. Some key highlights include:
+Telsera includes [Jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that add immersion and several pathways to finish vanilla quests. Some key highlights include:
 
 - [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) - This mod enhances Peryite's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra. Fully voiced.
 
@@ -205,8 +188,6 @@ Other changes to quests include;
 
 ### Quest & Dungeon Additions
 
-![telsera-ecss](https://i.imgur.com/5ggWte5.png)
-
 - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation. **You must be at least level 20 and have completed the vanilla Daedric quest The Mind of Madness.** To obtain the mentioned CC artifacts listed below, you must embark along this questline, as they have now been integrated into the story. 
    - [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge)
    - [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath)
@@ -230,13 +211,11 @@ Other changes to quests include;
 
 ## Player Homes
 
-![telsera-revak-rift](https://i.imgur.com/8Jsu6FN.png)
-
-- [Revak Rift](https://www.nexusmods.com/skyrim/mods/67808) - Located west of [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim_(place)), Revak Rift is a cozy home for the player who wants to display everything from daedric artifacts down to Ysgramor's Soup Spoon.
+- [Revak Rift](https://www.nexusmods.com/skyrim/mods/67808) - Located west of [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim_(place)), Revak Rift is a cozy home for the player who wants to display everything from daedric artifacts down to Ysgramor's Soup Spoon. **To enter the home, you must have unlocked the Unrelenting Shout.** Look up at the dragon skull hanging over the front door, and perform the shout. The doors will automatically unlock, and you will be able to enter.
 
 - [Cityside - A Starter Home](https://www.nexusmods.com/skyrimspecialedition/mods/27777) - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude.
 
-- [Sorrow Point Crypt](https://www.nexusmods.com/skyrimspecialedition/mods/34336) - A very cozy grounded-player home, with a bit of story and mystery.
+- [Sorrow Point Crypt](https://www.nexusmods.com/skyrimspecialedition/mods/34336) - A very cozy grounded-player home, with a bit of story and mystery. Located east of [Eldergleam Sanctuary](https://en.uesp.net/wiki/Skyrim:Eldergleam_Sanctuary).
 
 - [Seidr's Rest - Clever Man's Abode - Nord Mage Player Home](https://www.nexusmods.com/skyrimspecialedition/mods/39918) - A small dwelling in the Pale, built by ancient Nords in the traditional method: telekinesis.
 
@@ -319,21 +298,54 @@ Before we start, you will run into a few pop-up messages explaining the gameplay
 
 ![telsera-ostim4](https://i.imgur.com/YKGFUK0.png)
 
-After you've picked your preferences for your character's attractive and sociable scales.
+After you've picked your preferences for your character's attractive and sociable scales, a series of options will appear. Depending on the level of connection you have with the NPC, actions will either fail or succeed. For this example we're start small by picking the (Chat) option.
 
 ![telsera-ostim5](https://i.imgur.com/HcdEbGy.png)
 
-![telsera-ostim6]()
+A new pop-up will occur reminding you that you can end said scene if you change your mind. In our case, the end key in Telsera is <kbd>Del</kbd>.
 
-![telsera-ostim7]()
+![telsera-ostim6](https://i.imgur.com/FrJ68rW.png)
 
-![telsera-ostim8]()
+The bars at the bottom left of the screen indicate the excitement factor for each NPC. Since they are just mingling, the bars will not go up. The camera will automatically zoom into free fly mode.
 
-![telsera-ostim9]()
+![telsera-ostim7](https://i.imgur.com/c8SZdJs.png)
 
-![telsera-ostim10]()
+The scene will end automatically after a few moments, and you will receive several messages describing how the interaction went.
 
-![telsera-ostim11]()
+![telsera-ostim8](https://i.imgur.com/6691EbT.png)
+
+Depending on how strong your bond is with a specific NPC, the interactions involving more intimate gestures may fail. For this example, I reloaded to an earlier save where we had just given the golden claw back to Lucan (aka first encounter with him regarding OStim Romance). We're going to pick the (Seduce) option instead of (Chat).
+
+![telsera-ostim9](https://i.imgur.com/AJCWqIV.png)
+
+As you can see below, Lucan denied our seduction attempt, as our bond was not high enough. The more we talk to Lucien (ie. selecting "I'd like to ask you something..." or (Chat)) the more the bond will increase, and the other dialogue branches will be more successful. 
+
+![telsera-ostim10](https://i.imgur.com/Ugu2GDm.png)
+
+</details>
+
+### OStim Romance Bypass
+
+If you **DO NOT** want to go through the trouble of gradual intimacy via dialogue options and want to jump right into the fray, do not fret, there is an alternative route.
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+For this example, we'll stick with good ol' Lucan again. To initiate a scene with someone, simply be near them (or place your crosshair on them) and long hold the <kbd>-</kbd> key. Depending on the types of objects or furniture near by, you'll get a pop-up asking which specific one you would like to start the scene. I'll be selecting the Cooking Pot for the next few images.
+  
+![telsera-ostim11](https://i.imgur.com/YuuysBn.png)
+
+The following message will ask about the position you'd like to be in. I selected Sub for this example.
+
+![telsera-ostim12](https://i.imgur.com/NdJBaPy.png)
+
+You'll then be able to navigate the controls of OStim's interface. You can now take it whatever direction you prefer (intimacy, kissing, etc.). Just a reminder, the keybinds by default for Telsera can be found in the [Configuration](https://github.com/Lost-Outpost/Telsera/blob/main/CONFIGURATION.md#OStim-Standalone) portion of the readme.
+
+![telsera-ostim13](https://i.imgur.com/WdCdY0G.png)
+
+After you've ended your time together via the <kbd>Del</kbd> key, depending on what actions were performed, you'll receive a message at the top left of your screen. This is an indication you character has a temporary buff Lover's Comfort!
+
+![telsera-ostim14](https://i.imgur.com/IzhiZoj.png)
   
 </details>
 
