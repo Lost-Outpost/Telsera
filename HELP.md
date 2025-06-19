@@ -43,7 +43,7 @@ Open the console via <kbd>'</kbd>. Type the following: <kbd>fov 90</kbd> and you
 
 ## Help! My character is a floating head! What do I do?
 
-This can happen if you tried the keybind to customize your character's genitals and you picked one of the "Vagina - X" options. Next time you go in-game, re-open the TNG genital menu via <kbd>K</kbd> and be sure to select **RESET SIZE** next time you're prompted to select a size. Visual intructions and more information can be found <a href="https://github.com/Lost-Outpost/Telsera/blob/main/GAMEPLAY.md#tng-customization">here in the Gameplay Guide</a>.
+This can happen if you tried the keybind to customize your character's genitals and you picked one of the "Vagina - X" options. Next time you go in-game, re-open the TNG genital menu via <kbd>K</kbd> and be sure to select **RESET SIZE** next time you're prompted to select a size. Visual intructions and more information can be found here in the <a href="https://github.com/Lost-Outpost/Telsera/blob/main/GAMEPLAY.md#tng-customization">Gameplay Guide</a>.
 
 ## Help! My character's dick has texture mismatching! What do I do?
 
