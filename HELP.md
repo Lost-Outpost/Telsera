@@ -33,6 +33,10 @@ Feel free to hop on the Discord support forum channel, as support is primarily o
 
 Yes! Telsera uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/63953">Optional Quick Start</a> as it's alternative start mod. You have the choice between going through the vanilla intro, or skipping it entirely by starting off near the cave's exit area. You will receive a prompt on if you'd like to escape with Hadvar or Ralof. JUST BEWARE the vanilla intro MAY BE BUGGY! In my testing it worked fine, but this is Skyrim after all!
 
+## What difficulty is recommended to play Telsera at?
+
+That's completely up to you! **The default is set to Adept**, however, it boils down to your own preference in the end. Steps on how to adjust the difficulty can be found in the Gameplay portion of the readme!
+
 ## Why is my stamina depleting as I jump, sneak, or swim?
 
 That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrimspecialedition/mods/34549">Blade and Blunt</a>. This is a purposeful mechanic to increase the difficulty through resource management and planning. I'd recommend looking over Blade and Blunt's modpage for more information.
@@ -40,3 +44,4 @@ That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrim
 ## My field of view is now super zoomed in after an OStim scene. How do I fix it?
 
 Open the console via <kbd>'</kbd>. Type the following: <kbd>fov 90</kbd> and you will be set! press <kbd>'</kbd> again to close the console.
+
