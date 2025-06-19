@@ -34,42 +34,8 @@ This guide highlights major mods included in Telsera in the following categories
 - [Extra Info](#extra-info)
   - [Starting Out](#starting-out)
   - [High Poly Head](#high-poly-head)
-  - [Difficulty & Survival Mode](#difficulty-&-survival-mode]
+  - [Difficulty & Survival Mode](#difficulty-&-survival-mode)
   - 
-
-## Hotkeys
-
-### Gameplay Hotkeys
-
-- <kbd>`</kbd> - Opens up Skyrim's console.
-
-- <kbd>CTRL</kbd> - Toggles sneaking.
-
-- <kbd>SHIFT</kbd> - Toggles sprinting.
-
-- <kbd>E</kbd> - Use selected item in inventory, create item while crafting, or take item while browsing container.
-
-  - **NOTE** - pressing <kbd>E</kbd> while selecting an instrument (drum, flute, lute) from your inventory will cause the player to play said instrument via [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357). Repetitious playing will level up your musical skillset!
-
-- <kbd>F</kbd> - In inventory, favorite selected item.
-
-- <kbd>R</kbd> - Drop selected item in inventory, or take all items from a container.
-
-- <kbd>Q</kbd> - Opens up [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) favorites menu.
-
-- <kbd>Middle Mouse Button</kbd> - Locks on to enemies in [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614).
-
-- <kbd>Middle Mouse Wheel</kbd> - Switches targets in [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614).
-
-- <kbd>X</kbd> - Toggles compass visibility.
-
-- <kbd>\\</kbd> - Toggles entire HUD visibility.
-
-- <kbd>K</kbd> - Opens up The New Gentlemen's genital selector. Please see [here later in the Gameplay Guide]() for more information.
-
-- <kbd>]</kbd> - Allows the user to change the weather on command from a menu selection.
-
-- <kbd>[</kbd> - Opens a menu selection in relation to [AddItemMenu](https://www.nexusmods.com/skyrimspecialedition/mods/17563) to select certain armors, weapons, or items at will to add to your inventory.
 
 ## User Interface and Camera
 
@@ -332,23 +298,63 @@ blurbs
 
 ### OStim Romance
 
-blurbs
+With OStim Romance, you'll now be able to dynamically initiate scenes to help increase your relationship with specific NPCs. However, you must be AT LEAST relationship rank 1 or higher to enable the dialogue in the first place! An example situation (first-time interaction) with Lucan at the Riverwood Trader can be shown below.
 
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
 
-![telsera-ecss](https://i.imgur.com/5ggWte5.png)
+We'll use good ol' Lucan as our test subject. Once you arrive to his shop in Riverwood for the first time, you'll notice there will NOT be any dialogue regarding OStim Romance available. This is because our player character hasn't established any sort of connection yet, and are currently at level 0 relationship rank. We can change this by doing the associated questline with Lucan, aka (The Golden Claw)[https://en.uesp.net/wiki/Skyrim:The_Golden_Claw], by selecting the dialogue option, "Did something happen?"
+
+![telsera-ostim1](https://i.imgur.com/vTAORHB.png)
+
+For the sake of this example, I already went ahead and obtained the golden dragon claw key from Bleak Falls Barrow, and returned it to Lucan's possession. This in turn completes the quest, and increases the relationship rank between him and your character.
+
+![telsera-ostim2](https://i.imgur.com/vRHlHNL.png)
+
+If we try to talk to Lucan now that we're bud spuds, a new dialogue option will be appear titled, "Hey, do you have a moment?" This is one of the global indicator lines that we're ready to dive into OStim Romance!
+
+![telsera-ostim3](https://i.imgur.com/baM49UT.png)
+
+Before we start, you will run into a few pop-up messages explaining the gameplay settings you can pick to adjust the difficulty. Select whatever you'd like!
+
+![telsera-ostim4](https://i.imgur.com/YKGFUK0.png)
+
+After you've picked your preferences for your character's attractive and sociable scales.
+
+![telsera-ostim5](https://i.imgur.com/HcdEbGy.png)
+
+![telsera-ostim6]()
+
+![telsera-ostim7]()
+
+![telsera-ostim8]()
+
+![telsera-ostim9]()
+
+![telsera-ostim10]()
+
+![telsera-ostim11]()
   
 </details>
 
 ### Dragon Claws Auto-Unlock
 
-blurbs
+Tired of manually doing the puzzles related to dragon claw keys? Steps on how to bypass this mechanic are below.
 
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
 
-![telsera-ecss](https://i.imgur.com/5ggWte5.png)
+We'll want to make sure we have our crosshair on the keyhole itself.
+
+![telsera-keyhole](https://i.imgur.com/E2j6V9m.png)
+
+Once we activate the keyhole, our inventory will appear. If you have the MATCHING claw, you'll want to click on it in the menu.
+
+![telsera-claw](https://i.imgur.com/aCRWIeQ.png)
+
+Vola! The door will now automatically unlock itself without the need of manually selecting the circle rings.
+
+![telsera-unlock](https://i.imgur.com/0vc1oyd.png)
   
 </details>
 
