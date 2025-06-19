@@ -139,7 +139,7 @@ You can select Overwrite, right-click it, and then select "Open in Explorer" to 
 
 ## ENB Settings
 
-You should only ever enable exactly one ENB preset at a time. Changing ENB presets is not officially supported, but if you'd like to make adjustments to the ENB included in Telsera, the keybinds are the following:
+If you'd like to make adjustments to the ENB included in Telsera, the keybinds are the following:
 
 <kbd>F11</kbd> - Opens up the ENB menu (press again to close). 
  
