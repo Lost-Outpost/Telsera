@@ -31,6 +31,11 @@ This guide highlights major mods included in Telsera in the following categories
   - [Quest Changes](#quest-changes)
   - [Quest & Dungeon Additions](#quest-&-dungeon-additions)
 - [Player Homes](#player-homes)
+- [Extra Info](#extra-info)
+  - [Starting Out](#starting-out)
+  - [High Poly Head](#high-poly-head)
+  - [Difficulty & Survival Mode](#difficulty-&-survival-mode]
+  - 
 
 ## Hotkeys
 
@@ -268,3 +273,85 @@ Other changes to quests include;
 - [Sorrow Point Crypt](https://www.nexusmods.com/skyrimspecialedition/mods/34336) - A very cozy grounded-player home, with a bit of story and mystery.
 
 - [Seidr's Rest - Clever Man's Abode - Nord Mage Player Home](https://www.nexusmods.com/skyrimspecialedition/mods/39918) - A small dwelling in the Pale, built by ancient Nords in the traditional method: telekinesis.
+
+## Extra Info
+
+### Starting Out
+
+blurbs
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+![telsera-ecss](https://i.imgur.com/5ggWte5.png)
+  
+</details>
+
+### High Poly Head
+
+blurbs
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+![telsera-ecss](https://i.imgur.com/5ggWte5.png)
+  
+</details>
+
+### Difficulty & Survival Mode
+
+Interested in changing the difficulty? Want to turn off Survival Mode? Look no further! The spoiler below contains steps on how to adjust these settings to your liking.
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+The great thing about Skyrim is that you can change the difficulty at any point in time (even in the middle of combat). Same goes with Survival Mode. Not feeling up to the additional gameplay mechanics? No worries. It's not required to be enabled to enjoy the pack!
+
+![telsera-starting-out1](https://i.imgur.com/Tzrz0Zy.png)
+
+First and foremost we'll want to pause the game AFTER we've made our character. Automatically, we will be placed at the System page. Click on the Settings tab on the left.
+
+![telsera-starting-out2](https://i.imgur.com/GjinTqV.png)
+
+You will see two entries: the first saying Survival Mode, and the second saying Difficulty. Clicking the arrow in the LEFT direction will LOWER the difficulty, so the game will play easier. Clicking the arrow in the RIGHT direction will INCREASE the difficulty, making the game more challenging. After you decide on the difficulty you prefer, there will be an entry with a selection box that is **ticked (enabled) by default**. If you want to DISABLE Survival Mode, simply untick the box. Exit the menu by pressing the escape key, and you will be set.
+
+![telsera-starting-out3](https://i.imgur.com/aQqkhex.png)
+  
+</details>
+
+### TNG Customization
+
+blurbs
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+![telsera-ecss](https://i.imgur.com/5ggWte5.png)
+  
+</details>
+
+### OStim Romance
+
+blurbs
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+![telsera-ecss](https://i.imgur.com/5ggWte5.png)
+  
+</details>
+
+### Dragon Claws Auto-Unlock
+
+blurbs
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+![telsera-ecss](https://i.imgur.com/5ggWte5.png)
+  
+</details>
+
+# Enjoy and have fun!
+blurbs
+
