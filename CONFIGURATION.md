@@ -16,25 +16,43 @@
 
 # Configuration
 
-- [ENB Settings](#ENB)
+- [Hotkeys](#Hotkeys)
 - [OStim Standalone](#OStim-SA)
 - [Smaller OStim Navigation Menu](#OStim-Navi)
 - [Character Presets](#character-presets)
+- [ENB Settings](#ENB)
 
+## Hotkeys
 
-## ENB Settings
+- <kbd>`</kbd> - Opens up Skyrim's console.
 
-You should only ever enable exactly one ENB preset at a time. Changing ENB presets is not officially supported, but if you'd like to make adjustments to the ENB included in Telsera, the keybinds are the following:
+- <kbd>CTRL</kbd> - Toggles sneaking.
 
-<kbd>F11</kbd> - Opens up the ENB menu (press again to close). 
- 
-NOTE - It's recommended to ALSO PRESS  <kbd>'</kbd> to bring up Skyrim's console as well, so then while you configure your settings in the main menu, your character isn't punching the air everytime you click.
+- <kbd>SHIFT</kbd> - Toggles sprinting.
 
-<kbd>;</kbd> - Enables the depth-of-field effect. 
+- <kbd>E</kbd> - Use selected item in inventory, create item while crafting, or take item while browsing container.
 
-<kbd>F7</kbd> - Enables the FPS overlay effect. 
+  - **NOTE** - pressing <kbd>E</kbd> while selecting an instrument (drum, flute, lute) from your inventory will cause the player to play said instrument via [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357). Repetitious playing will level up your musical skillset!
 
-<kbd>Home</kbd> - Disables the ENB. 
+- <kbd>F</kbd> - In inventory, favorite selected item.
+
+- <kbd>R</kbd> - Drop selected item in inventory, or take all items from a container.
+
+- <kbd>Q</kbd> - Opens up [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) favorites menu.
+
+- <kbd>Middle Mouse Button</kbd> - Locks on to enemies in [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614).
+
+- <kbd>Middle Mouse Wheel</kbd> - Switches targets in [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614).
+
+- <kbd>X</kbd> - Toggles compass visibility.
+
+- <kbd>\\</kbd> - Toggles entire HUD visibility.
+
+- <kbd>K</kbd> - Opens up The New Gentlemen's genital selector. Please see [here later in the Gameplay Guide]() for more information.
+
+- <kbd>]</kbd> - Allows the user to change the weather on command from a menu selection.
+
+- <kbd>[</kbd> - Opens a menu selection in relation to [AddItemMenu](https://www.nexusmods.com/skyrimspecialedition/mods/17563) to select certain armors, weapons, or items at will to add to your inventory.
 
 ## OStim Standalone
 
@@ -80,7 +98,7 @@ Now we're going to navigate to the paste location. Head to the following: C:\Use
 
 ... and you're done! Next time you go in-game, the menu will be slightly smaller to accomendate viewing better.
 
-### Character Presets
+## Character Presets
 
 Telsera includes a mod containing a premade folder structure for character presets that you either create yourself or download from others. You can copy presets you download into the designated folder. 
 
@@ -99,3 +117,17 @@ When you make your presets in Racemenu they will be located in the Overwrite fol
 ![telsera-character-overwrite-folder](https://i.imgur.com/wSJ4MIQ.png)
 
 You can select Overwrite, right-click it, and then select "Open in Explorer" to see the presets directory (same location as above in the SKSE folder). Find the file(s) titled insertpresetnamehere.jslot, copy or cut the file, and paste into the [NoDelete] User-Made Racemenu Presets (SEE README)\SKSE\Plugins\CharGen\Presets\X folder. You have now saved your preset, and it will be safe from auto-deletion next time you update the list. The [NoDelete] portion tells Wabbajack to ignore said folder.
+
+## ENB Settings
+
+You should only ever enable exactly one ENB preset at a time. Changing ENB presets is not officially supported, but if you'd like to make adjustments to the ENB included in Telsera, the keybinds are the following:
+
+<kbd>F11</kbd> - Opens up the ENB menu (press again to close). 
+ 
+NOTE - It's recommended to ALSO PRESS  <kbd>'</kbd> to bring up Skyrim's console as well, so then while you configure your settings in the main menu, your character isn't punching the air everytime you click.
+
+<kbd>;</kbd> - Enables the depth-of-field effect. 
+
+<kbd>F7</kbd> - Enables the FPS overlay effect. 
+
+<kbd>Home</kbd> - Disables the ENB. 
