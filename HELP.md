@@ -31,7 +31,7 @@ Feel free to hop on the Discord support forum channel, as support is primarily o
 
 ## Can I play the vanilla opening intro scene in this pack?
 
-Yes! Telsera uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/63953">Optional Quick Start</a> as it's alternative start mod. You have the choice between going through the vanilla intro, or skipping it entirely by starting off near the cave's exit area. You will receive a prompt on if you'd like to escape with Hadvar or Ralof. JUST BEWARE the vanilla intro MAY BE BUGGY! In my testing it worked fine, but this is Skyrim after all!
+Yes! Telsera uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/63953">Optional Quick Start</a> as it's alternative start mod. You have the choice between going through the vanilla intro, or skipping it entirely by starting off near the cave's exit area. You will receive a prompt on if you'd like to escape with Hadvar or Ralof. JUST BEWARE the vanilla intro may be buggy! In my testing it worked fine, but this is Skyrim after all!
 
 ## What difficulty is recommended to play Telsera at?
 
