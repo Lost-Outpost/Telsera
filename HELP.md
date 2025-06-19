@@ -33,6 +33,10 @@ Feel free to hop on the Discord support forum channel, as support is primarily o
 
 Yes! Telsera uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/63953">Optional Quick Start</a> as it's alternative start mod. You have the choice between going through the vanilla intro, or skipping it entirely by starting off near the cave's exit area. You will receive a prompt on if you'd like to escape with Hadvar or Ralof. JUST BEWARE the vanilla intro may be buggy! In my testing it worked fine, but this is Skyrim after all!
 
+## What difficulty is recommended to play Telsera at?
+
+That's completely up to you! **The default is set to Adept**, however, it boils down to your own preference in the end. Steps on how to adjust the difficulty can be found in the <a href="https://github.com/Lost-Outpost/Telsera/blob/main/GAMEPLAY.md#difficulty-and-survival-mode">Gameplay Guide</a> section of the readme!
+
 ## Why is my stamina depleting as I jump, sneak, or swim?
 
 That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrimspecialedition/mods/34549">Blade and Blunt</a>. This is a purposeful mechanic to increase the difficulty through resource management and planning. I'd recommend looking over Blade and Blunt's modpage for more information.
@@ -49,10 +53,6 @@ This can happen if you tried the keybind to customize your character's genitals 
 
 This can happen if you tried the keybind to customize your character's genitals and you picked one of the "TRX Futanari" options. Unfortunately, at Telsera's v1.0.0 release, there is no mod to blend the texture setups (ie. Reverie + Tempered Skins clashing against TRX's custom textures). Eventually, depending on how permissions go, I will try to blend the dick for a -seamless- (hehe) experience. It's on my to-do list!
 
-## What difficulty is recommended to play Telsera at?
-
-That's completely up to you! **The default is set to Adept**, however, it boils down to your own preference in the end. Steps on how to adjust the difficulty can be found in the Gameplay portion of the readme!
-
 ## Is there support for ultrawide setups?
 
 No, I'm sorry. :(
@@ -60,3 +60,11 @@ No, I'm sorry. :(
 ## Is there a default config I need to set for using a controller?
 
 If you the pause the game after you've made your character, go under the System tab and click Settings. Be sure to tick the box for controller use. I personally don't have a controller, so I've never played Skyrim with one/have done any testing, so it'll be up to you to navigate the controller binds.
+
+## Why do you have the cheat mod "AddItemMenu" enabled by default? WTF immersion ruined?
+
+Let's face it, I am in fact a cheater cheater pumpkin eater. If you don't want to cheat, simply don't grab the misc object from the backpack outside of Helgen's cave.
+
+## Why can I build the homes from Hearthfires DLC without any materials?? WTF immersion ruined?
+
+Same answer as above. I really *really* don't enjoy building them the legit way. Sorry!
