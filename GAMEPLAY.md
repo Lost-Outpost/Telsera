@@ -397,7 +397,7 @@ The following message will ask about the position you'd like to be in. I selecte
 
 ![telsera-ostim12](https://i.imgur.com/NdJBaPy.png)
 
-You'll then be able to navigate the controls of OStim's interface. You can now take it whatever direction you prefer (intimacy, kissing, etc.). Just a reminder, the keybinds by default for Telsera can be found in the (Configuration)[https://github.com/Lost-Outpost/Telsera/blob/main/CONFIGURATION.md#OStim-Standalone] portion of the readme.
+You'll then be able to navigate the controls of OStim's interface. You can now take it whatever direction you prefer (intimacy, kissing, etc.). Just a reminder, the keybinds by default for Telsera can be found in the [Configuration](https://github.com/Lost-Outpost/Telsera/blob/main/CONFIGURATION.md#OStim-Standalone) portion of the readme.
 
 ![telsera-ostim13](https://i.imgur.com/WdCdY0G.png)
 
@@ -429,5 +429,3 @@ Vola! The door will now automatically unlock itself without the need of manually
 </details>
 
 # Enjoy and have fun!
-blurbs
-
