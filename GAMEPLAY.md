@@ -20,7 +20,6 @@
 
 This guide highlights major mods included in Telsera in the following categories:
 
-- [Hotkeys](#hotkeys)
 - [User Interface and Camera](#user-interface-and-camera)
 - [Gameplay Changes](#gameplay-changes)
   - [SFW Core Overhauls](#SFW-core-overhauls)
