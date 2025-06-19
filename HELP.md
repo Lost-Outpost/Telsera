@@ -20,7 +20,7 @@ Feel free to hop on the Discord support forum channel, as support is primarily o
 
 # Frequently Asked Questions - FAQ
 
-## I'm getting the following error via Wabbajack: Unable to download 'Curios' files. What should I do?
+## I'm unable to download 'Curios' files when running Wabbajack. What should I do?
 
 1. Navigate to your Steam Skyrim Data folder
 2. Within the data folder, delete the 2 curios files "ccbgssse037-curios.bsa" and "ccbgssse037-curios.esl"
