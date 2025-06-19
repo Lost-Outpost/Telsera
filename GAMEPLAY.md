@@ -222,12 +222,38 @@ Other changes to quests include;
 
 ### Starting Out
 
-blurbs
+Curious to know what to expect? Here's a brief overview.
 
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
 
-![telsera-ecss](https://i.imgur.com/5ggWte5.png)
+Hello! Welcome. Once you startup Skyrim via Telsera's MO2 instance and select New Game, you'll be prompted with the following message. This will determine if you want to play through the vanilla, default intro sequence. For the sake of this example, we'll skip it by selecting, "Yes."
+
+![telsera-gotta-go-fast1](https://i.imgur.com/nUpmhH9.png)
+
+You'll be greeted by the good ol' default Prisoner face right near the exit of the cave you escape from Helgen in. Feel free to customize your character to your liking by exploring the various available sliders. I went with my favorite preset (included in the list by default) for the following example images.
+
+![telsera-gotta-go-fast2](https://i.imgur.com/4asgaBk.png)
+
+After you've finalized your character and exited out of Racemenu via <kbd>R</kbd>, you will receive a pop-up asking who did you escape with. In vanilla Skyrim, you're prompted to make a choice between Hadvar (Imperials) and Ralof (Stormcloaks). This pop-up will give you the same selection, and the person you pick will be waiting for you outside of the cave.
+
+![telsera-gotta-go-fast3](https://i.imgur.com/3uJWuBU.png)
+
+Once you've exited the cave, the person who chose will be waiting outside. It's easy to miss, but notice the additional backpack on the ground.
+
+![telsera-gotta-go-fast4](https://i.imgur.com/3Bb8GtV.png)
+
+A small menu will appear if you look at it. Press <kbd>E</kbd> to interact with the items inside the backpack via the quick menu, or if you prefer looking at the entire inventory, press <kbd>R</kbd> instead.
+
+![telsera-gotta-go-fast5](https://i.imgur.com/h4EybLE.png)
+
+If you are NOT familiar with Skyrim/this is one of your first playthroughs, I recommend NOT grabbing the item in the backpack titled, "[AddItemMenuSEPack]" as this is a cheaty item enabling you to obtain any vanilla or modded armor, weapon, or item easily. If you ARE familiar with Skyrim/this is your 43957348 run, then feel free to grab it. Once it's in your inventory, four sub-objects will appear (ie. selection menu in the form of a spell or a misc object). Pick whatever you like.
+
+![telsera-gotta-go-fast6](https://i.imgur.com/OTNXeZ3.png)
+
+Now you're ready to embark on your journey through Telsera! But wait, you may want to keep reading the other points below... getting ahead of myself there...
+
+![telsera-gotta-go-fast7](https://i.imgur.com/dul4mUC.png)
   
 </details>
 
@@ -265,14 +291,18 @@ You will see two entries: the first saying Survival Mode, and the second saying 
 
 ### TNG Customization
 
-Want to change your character's private parts? There's a keybind for that! Under the spoiler you'll find some **important information** you'll need to be aware of.
+Want to change your character's private parts? There's a keybind for that! Under the spoiler you'll find some **IMPORTANT INFORMATION** you'll need to be aware of.
 
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
 
-First, we'll want to press <kbd>K</kbd> to bring up The New Gentlemen's customization menu. It will pop-up regardless of what gender your character is. Telsera was designed to be friendly to a variety of bodies with different genitals. **PLEASE BE AWARE** that depending on what you pick, there are some **EXTRA STEPS** to prevent your character from turning invisible!
+First, we'll want to press <kbd>K</kbd> to bring up The New Gentlemen's customization menu. It will pop-up regardless of what gender your character is. Telsera was designed to be friendly to a variety of bodies with different genitals. **PLEASE BE AWARE** that depending on what you pick, there are some **EXTRA STEPS** to prevent your character from turning invisible! 
 
 ![telsera-k-bind](https://i.imgur.com/NYPT5hY.png)
+
+After you make your selection, a second pop-up window will appear. **Everything will work as intended when you pick a size for a penis!** If you chose to select one of the **vagina options** titled, "Vagina - X", then when you are in the second window prompting a size selection, **YOU MUST SELECT RESET SIZE!** If you do not select reset size, your character will turn invisible, except for their head. If you accidentally select a size and do turn invisible, all you have to do is press <kbd>K</kbd> again, select your vagina of choice, thennnn do reset size.
+
+![telsera-reset-size](https://i.imgur.com/OdoRisy.png)
   
 </details>
 
