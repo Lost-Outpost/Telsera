@@ -35,6 +35,7 @@ This guide highlights major mods included in Telsera in the following categories
   - [Starting Out](#starting-out)
   - [High Poly Head](#high-poly-head)
   - [Difficulty & Survival Mode](#difficulty-&-survival-mode)
+  - [TNG Customization](#tng-customization)
   - [OStim Romance](#ostim-romance)
   - [OStim Romance Bypass](#ostim-romance-bypass)
 
@@ -243,12 +244,12 @@ blurbs
 
 ### Difficulty & Survival Mode
 
-Interested in changing the difficulty? Want to turn off Survival Mode? Look no further! The spoiler below contains steps on how to adjust these settings to your liking.
+Interested in changing the difficulty? Want to turn off Survival Mode? The spoiler below contains steps on how to adjust these settings to your liking.
 
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
 
-The great thing about Skyrim is that you can change the difficulty at any point in time (even in the middle of combat). Same goes with Survival Mode. Not feeling up to the additional gameplay mechanics? No worries. It's not required to be enabled to enjoy the pack!
+Not feeling up to the current difficulty setting or additional gameplay mechanics? No worries, as playing on Adept is not required to be enabled to enjoy the pack, nor is enabling Survival Mode!
 
 ![telsera-starting-out1](https://i.imgur.com/Tzrz0Zy.png)
 
@@ -264,12 +265,14 @@ You will see two entries: the first saying Survival Mode, and the second saying 
 
 ### TNG Customization
 
-blurbs
+Want to change your character's private parts? There's a keybind for that! Under the spoiler you'll find some **important information** you'll need to be aware of.
 
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
 
-![telsera-ecss](https://i.imgur.com/5ggWte5.png)
+First, we'll want to press <kbd>K</kbd> to bring up The New Gentlemen's customization menu. It will pop-up regardless of what gender your character is. Telsera was designed to be friendly to a variety of bodies with different genitals. **PLEASE BE AWARE** that depending on what you pick, there are some **EXTRA STEPS** to prevent your character from turning invisible!
+
+![telsera-k-bind](https://i.imgur.com/NYPT5hY.png)
   
 </details>
 
@@ -280,7 +283,7 @@ With OStim Romance, you'll now be able to dynamically initiate scenes to help in
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
 
-We'll use good ol' Lucan as our test subject. Once you arrive to his shop in Riverwood for the first time, you'll notice there will NOT be any dialogue regarding OStim Romance available. This is because our player character hasn't established any sort of connection yet, and are currently at level 0 relationship rank. We can change this by doing the associated questline with Lucan, aka (The Golden Claw)[https://en.uesp.net/wiki/Skyrim:The_Golden_Claw], by selecting the dialogue option, "Did something happen?"
+We'll use good ol' Lucan as our test subject. Once you arrive to his shop in Riverwood for the first time, you'll notice there will NOT be any dialogue regarding OStim Romance available. This is because our player character hasn't established any sort of connection yet, and are currently at level 0 relationship rank. We can change this by doing the associated questline with Lucan, aka [The Golden Claw](https://en.uesp.net/wiki/Skyrim:The_Golden_Claw), by selecting the dialogue option, "Did something happen?"
 
 ![telsera-ostim1](https://i.imgur.com/vTAORHB.png)
 
@@ -337,7 +340,7 @@ The following message will ask about the position you'd like to be in. I selecte
 
 ![telsera-ostim12](https://i.imgur.com/NdJBaPy.png)
 
-You'll then be able to navigate the controls of OStim's interface. You can now take it whatever direction you prefer (intimacy, kissing, etc.). Just a reminder, the keybinds by default for Telsera can be found in the [Configuration](https://github.com/Lost-Outpost/Telsera/blob/main/CONFIGURATION.md#OStim-Standalone) portion of the readme.
+You'll then be able to navigate the controls of OStim's interface. You can now take it whatever direction you prefer (intimacy, kissing, etc.). Just a reminder, the keybinds by default for Telsera can be found in the (Configuration)[https://github.com/Lost-Outpost/Telsera/blob/main/CONFIGURATION.md#OStim-Standalone] portion of the readme.
 
 ![telsera-ostim13](https://i.imgur.com/WdCdY0G.png)
 
