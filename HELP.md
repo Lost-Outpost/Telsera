@@ -43,7 +43,7 @@ No, I'm sorry. :(
 
 ## Is there a default config I need to set for using a controller?
 
-If you the pause the game, go under the System tab and click Settings. Be sure to tick the box for controller use. I personally don't have a controller, so I've never played Skyrim with one or done any testing, so it'll be up to you to navigate the controller binds.
+If you the pause the game after you've made your character, go under the System tab and click Settings. Be sure to tick the box for controller use. I personally don't have a controller, so I've never played Skyrim with one/have done any testing, so it'll be up to you to navigate the controller binds.
 
 ## Why is my stamina depleting as I jump, sneak, or swim?
 
