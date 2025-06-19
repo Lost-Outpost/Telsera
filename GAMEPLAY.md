@@ -64,8 +64,6 @@ Telsera includes a setup featuring the following UI mods:
 
 ### SFW Core Overhauls
 
-![telsera-mysticism](https://i.imgur.com/k4TvecH.png)
-
 Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. Key highlights include:
 
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - Aetherius is a complete overhaul of Skyrim’s races designed to balance the game’s racial passives and add powerful new gameplay options.
