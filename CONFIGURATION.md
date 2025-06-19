@@ -17,10 +17,10 @@
 # Configuration
 
 - [Hotkeys](#Hotkeys)
-- [OStim Standalone](#OStim-SA)
-- [Smaller OStim Navigation Menu](#OStim-Navi)
-- [Character Presets](#character-presets)
-- [ENB Settings](#ENB)
+- [OStim Standalone](#OStim-Standalone)
+- [Smaller OStim Navigation Menu](#Smaller-OStim-Navigation-Menu)
+- [Character Presets](#Character-Presets)
+- [ENB Settings](#ENB-Settings)
 
 ## Hotkeys
 
