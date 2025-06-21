@@ -45,6 +45,10 @@ That's completely up to you! **The default is set to Adept**, however, it boils 
 
 That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrimspecialedition/mods/34549">Blade and Blunt</a>. This is a purposeful mechanic to increase the difficulty through resource management and planning. I'd recommend looking over Blade and Blunt's modpage for more information.
 
+## What are the controls for OStim in Telsera?
+
+You can find them here in the <a href="https://github.com/Lost-Outpost/Telsera/blob/main/CONFIGURATION.md#OStim-Standalone">Configuration Section</a> of the readme.
+
 ## My field of view is now super zoomed in after an OStim scene. How do I fix it?
 
 Open the console via <kbd>'</kbd>. Type the following: <kbd>fov 90</kbd> and you will be set! press <kbd>'</kbd> again to close the console.
