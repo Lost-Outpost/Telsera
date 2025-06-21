@@ -47,7 +47,7 @@ That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrim
 
 ## What are the controls for OStim in Telsera?
 
-You can find them here in the <a href="https://github.com/Lost-Outpost/Telsera/blob/main/CONFIGURATION.md#OStim-Standalone">Configuration Section</a> of the readme.
+You can find them here in the <a href="https://github.com/Lost-Outpost/Telsera/blob/main/CONFIGURATION.md#OStim-SA-Hotkeys">Configuration Section</a> of the readme.
 
 ## My field of view is now super zoomed in after an OStim scene. How do I fix it?
 
