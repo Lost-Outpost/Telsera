@@ -68,8 +68,6 @@ Throughout the months of early beta testing, these were my specs:
 
 </details>
 
-I will be upfront with you: I do not know much about computer specs. What I do know is this will not require a 4060 series computer to run!
-
 ## Community
 
 Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/telsera/issues) section of the Telsera GitHub.
