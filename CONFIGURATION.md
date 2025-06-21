@@ -17,7 +17,7 @@
 # Configuration
 
 - [Hotkeys](#Hotkeys)
-- [OStim Standalone](#OStim-Standalone)
+- [OStim SA Hotkeys](#OStim-SA-Hotkeys)
 - [Smaller OStim Navigation Menu](#Smaller-OStim-Navigation-Menu)
 - [Character Presets](#Character-Presets)
 - [ENB Settings](#ENB-Settings)
@@ -54,7 +54,7 @@
 
 - <kbd>[</kbd> - Opens a menu selection in relation to [AddItemMenu](https://www.nexusmods.com/skyrimspecialedition/mods/17563) to select certain armors, weapons, or items at will to add to your inventory.
 
-## OStim Standalone
+## OStim SA Hotkeys
 
 Here are the primary notes:
 
