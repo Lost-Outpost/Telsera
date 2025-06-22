@@ -237,5 +237,13 @@ This means that any additional mods you have installed on top of the mdlist will
 
 If you find an issue, please provide details in the [Telsera Github](https://github.com/Lost-Outpost/telsera/issues) OR on [The Lost Outpost](https://discord.gg/WF66mMu) support forum (be sure to select Telsera as a tag!) to have discussions with other members. 
 
-## Telsera Team
-+ Foamimi
+## Credits
+
+[Arcanaeum - A Lightweight Modlist](https://www.nexusmods.com/skyrimspecialedition/mods/125198) --- by Guitarninja2
+Used as a baseline to build Telsera from.
+
+[Wabbajack](https://www.wabbajack.org/) --- by Halgari and the Wabbajack Development Team
+Core functionality.
+
+Lost Outpost Discord Server [https://discord.gg/WF66mMu](https://discord.gg/WF66mMu) --- by GreatPadinski
+Host Discord for troubleshooting, development updates, etc.
