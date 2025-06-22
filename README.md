@@ -45,7 +45,7 @@ The vision behind Telsera is primarily focused on performance-friendly visuals w
 
 ## List Contents
 
-You can view the individual contents of the modlist [here via Load Order Library](https://loadorderlibrary.com/lists/telsera-a-nsfw-wabbajack-list-for-ae). As for a summary of various features, check out the [Gameplay Changes](GAMEPLAY.md) page.
+You can view the individual contents of the modlist [here via Load Order Library](https://loadorderlibrary.com/lists/telsera-a-nsfw-wabbajack-list-for-ae). As for a summary of various features, check out the [Gameplay Changes](GAMEPLAY.md) page. The installation size for this pack is about **115 GB**, while the downloads size is **69 GB**. 
 
 ## Computer Specs
 
