@@ -28,6 +28,27 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 - x.0.0 definitely requires a new save game
 
+
+- - - - - - - - -
+
+## Version 1.0.1 [UNRELEASED - NO ETA]
+
+- Added Chooey's KS Hairdos Retexture
+- Added Floppy Schlongs With Collision - SMP CBPC
+- Added Water Effects FIX
+- Added Conjuration Limit Fix
+- Added Perk Entry Point Extender
+- Updated Mfg Fix NG
+- Updated Don't Rush Me - Fewer Forcegreets - Markarth
+- Updated Leather Armors Retexture
+- Updated Masterwork - An Anniversary Edition Artifact Overhaul
+- Updated Riverwood Falls - Waterfall Additions for Riverwood
+- Removed KS Hairdos 1.7 - Salt and Wind
+- Removed KS Hairdos 1.8 - Salt and Wind
+- Removed KS Hairdos 1.9 - Salt and Wind
+- Tweaked crafting settings for HIMBO - Vag from 3BA to no longer show up. The crafting method was superseded by the TNG Addon Patch.
+- WIP - Tweaked various consistency and conflict resolution patches to cover more content. **Thank you Derryl for the lengthy deep dive and guidance!**
+
 - - - - - - - - -
 
 ## Version 1.0.0.1
