@@ -33,25 +33,37 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 ## Version 1.0.1 [UNRELEASED - NO ETA]
 
-- Added Chooey's KS Hairdos Retexture
+You may receive a notice about missing plugins. This is **safe to ignore**.
+
 - Added Floppy Schlongs With Collision - SMP CBPC
 - Added Water Effects FIX
 - Added Conjuration Limit Fix
 - Added Perk Entry Point Extender
+- Added Spaghetti's Cities AIO - COTN Falkreath Patch
+- Added A Smelter for Falkreath - Cities of the North
+- Added Smelters for Riften and Solitude (Riften module)
+- Added slightly Better (and EVIL) Rock Cairns
+- Added slightly Better Small Antlers and Deer Hide
+- Added slightly Better Nordic Henges - Base Object Swapper
 - Updated Mfg Fix NG
 - Updated Don't Rush Me - Fewer Forcegreets - Markarth
 - Updated Leather Armors Retexture
 - Updated Masterwork - An Anniversary Edition Artifact Overhaul
 - Updated Riverwood Falls - Waterfall Additions for Riverwood
-- Removed KS Hairdos 1.7 - Salt and Wind
+- Updated KS Hairdos 1.9 - Salt and Wind ---> now named KS Hairdos 1.10 - Salt and Wind
+- Removed Something Something it's not MINE okay - OAR
 - Removed KS Hairdos 1.8 - Salt and Wind
-- Removed KS Hairdos 1.9 - Salt and Wind
 - Tweaked crafting settings for HIMBO - Vag from 3BA to no longer show up. The crafting method was superseded by the TNG Addon Patch.
-- WIP - Tweaked various consistency and conflict resolution patches to cover more content. **Thank you Derryl for the lengthy deep dive and guidance!**
+- Tweaked various consistency and conflict resolution patches to cover more content. **Thank you Derryl for the deep dive and guidance!**
+- Tweaked starting backpack to no longer have AddItemMenu's quick pack included.
+- Moved several cheat mods to the Optional Mods section. They will remain enabled by default until the next un-save safe update occurs.
+- Disabled The Facebreaker - Meridia's Beacon on a Mace by default.
+- Disabled Maxwell the Cat (Misc Item) by default.
+- Fixed miscellaneous floating barrels in Falkreath.
 
 - - - - - - - - -
 
-## Version 1.0.0.1
+## Version 1.0.0.1 [CURRENT RELEASE]
 
 - Fixed pitch black diffuse textures on Hide Armor.
 
