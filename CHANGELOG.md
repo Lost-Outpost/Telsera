@@ -98,10 +98,6 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 - Fixed pitch black diffuse textures on Hide Armor.
 
-### Extra Notes
-
-- N/A
-
 - - - - - - - - -
 
 ## Version 1.0.0
