@@ -62,6 +62,7 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Added RUSTIC MAPS
 - Added RUSTIC RELIEFS
 - Added RUSTIC AZURA'S STAR
+- Added RUSTIC ANIMATED POTIONS and POISONS
 - Added ALDUIN THE WORLD-EATER
 - Added Higher Poly Vanilla Dragons
 - Added Higher Poly Dragon Skeleton and Bone Clutter
