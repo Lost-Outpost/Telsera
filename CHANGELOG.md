@@ -33,7 +33,7 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 ## Version 1.0.1 [UNRELEASED - NO ETA]
 
-You may receive a notice about missing plugins. This is **safe to ignore**.
+**NOTE** - These are all subject to change during the development stage!
 
 - Added Floppy Schlongs With Collision - SMP CBPC
 - Added Water Effects FIX
@@ -41,31 +41,66 @@ You may receive a notice about missing plugins. This is **safe to ignore**.
 - Added Perk Entry Point Extender
 - Added Spaghetti's Cities AIO - COTN Falkreath Patch
 - Added A Smelter for Falkreath - Cities of the North
-- Added Smelters for Riften and Solitude (Riften module)
+- Added Smelters for Riften and Solitude (Riften Version)
 - Added slightly Better (and EVIL) Rock Cairns
-- Added slightly Better Small Antlers and Deer Hide
 - Added slightly Better Nordic Henges - Base Object Swapper
+- Added slightly Better Nordic Burial Cairns
+- Added Better Pelts and Hides
+- Added Better Pelts and Hides - Optimized Textures
+- Added Wine Bottle Refine
+- Added Medieval Spirits
+- Added Medieval Wines for Dungeons and Tombs - Base Object Swapper
+- Added Salmon Retex - Realistic Salmon
+- Added Salmon Retex - Fins Patch
+- Added Regional Food Barrels - Base Object Swapper
+- Added 4K Torture Rack (2K Version)
+- Added Night Mother
+- Added Misc Retexture Project (Custom Install Setup)
+- Added Higher Poly Vanilla Burnt Corpses
+- Added Skeleton Replacer HD - DLC2 Forge Clutter Addon
+- Added Zombies Retexture - Desaturated and Less Wet
+- Added RUSTIC MAPS
+- Added RUSTIC RELIEFS
+- Added RUSTIC AZURA'S STAR
+- Added ALDUIN THE WORLD-EATER
+- Added Higher Poly Vanilla Dragons
+- Added Higher Poly Dragon Skeleton and Bone Clutter
 - Updated Mfg Fix NG
 - Updated Don't Rush Me - Fewer Forcegreets - Markarth
 - Updated Leather Armors Retexture
 - Updated Masterwork - An Anniversary Edition Artifact Overhaul
 - Updated Riverwood Falls - Waterfall Additions for Riverwood
-- Updated KS Hairdos 1.9 - Salt and Wind ---> now named KS Hairdos 1.10 - Salt and Wind
+- Updated KS Hairdos 1.9 - Salt and Wind
 - Removed Something Something it's not MINE okay - OAR
 - Removed KS Hairdos 1.8 - Salt and Wind
+- Removed Better Effigy of King Olaf
+- Removed Skyking Hanging Moss
+- Removed HFs - Horse Meat Update
+- Removed HFs - Simple Leg of Goat Retexture
+- Removed HFs - Simple Venison Retexture
+- Removed HFs - Food Remodels - Merged
+- Fixed miscellaneous floating barrels in Falkreath.
 - Tweaked crafting settings for HIMBO - Vag from 3BA to no longer show up. The crafting method was superseded by the TNG Addon Patch.
 - Tweaked various consistency and conflict resolution patches to cover more content. **Thank you Derryl for the deep dive and guidance!**
 - Tweaked starting backpack to no longer have AddItemMenu's quick pack included.
 - Moved several cheat mods to the Optional Mods section. They will remain enabled by default until the next un-save safe update occurs.
 - Disabled The Facebreaker - Meridia's Beacon on a Mace by default.
 - Disabled Maxwell the Cat (Misc Item) by default.
-- Fixed miscellaneous floating barrels in Falkreath.
+
+### Extra Notes
+
+- You may receive a notice about missing plugins. This is **safe to ignore**.
+- Adding a bulk texture additions as such **will be a rare occurance**, especially since I hardly have any remaining storage space left! 
 
 - - - - - - - - -
 
 ## Version 1.0.0.1 [CURRENT RELEASE]
 
 - Fixed pitch black diffuse textures on Hide Armor.
+
+### Extra Notes
+
+- N/A
 
 - - - - - - - - -
 
