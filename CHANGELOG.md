@@ -55,19 +55,22 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Added Regional Food Barrels - Base Object Swapper
 - Added 4K Torture Rack (2K Version)
 - Added Night Mother
-- Added Misc Retexture Project (Custom Install Setup)
 - Added Skeleton Replacer HD - DLC2 Forge Clutter Addon
+- Added Xavbio Armors - 3BA patch
 - Added RUSTIC MAPS
 - Added RUSTIC RELIEFS
 - Added RUSTIC ANIMATED POTIONS and POISONS
 - Added Higher Poly Vanilla Dragons
 - Added Higher Poly Dragon Skeleton and Bone Clutter
+- Added Subdivide and Smooth - Vines
+- Added CC Bone Colossus Skeleton Fix
 - Updated Mfg Fix NG
 - Updated Don't Rush Me - Fewer Forcegreets - Markarth
 - Updated Leather Armors Retexture
 - Updated Masterwork - An Anniversary Edition Artifact Overhaul
 - Updated Riverwood Falls - Waterfall Additions for Riverwood
 - Updated KS Hairdos 1.9 - Salt and Wind
+- Updated Xavbio Armors Collection - HIMBO V5 Refits
 - Removed Something Something it's not MINE okay - OAR
 - Removed KS Hairdos 1.8 - Salt and Wind
 - Removed Better Effigy of King Olaf
@@ -76,10 +79,19 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Removed HFs - Simple Leg of Goat Retexture
 - Removed HFs - Simple Venison Retexture
 - Removed HFs - Food Remodels - Merged
+- Removed Guards and Stormcloaks Armors Retexture - 3BA and HIMBO bodyslides
+- Removed xavbio's meshes for 3BA (Ancient Draugr Remade)
+- Removed Leather Armors Retexture CBBE 3BA Bodyslide Patch
+- Removed 3BA and HIMBO Bodyslide for Imperial Armors and Weapons Retexture SE
+- Removed Imperial Armors and Weapons Retexture - Refit Fixes
+- Removed Xavbio Dragon Armors - HIMBO and 3BA
+- Removed Creep Cluster Collision Fixes
+- Removed Creep Cluster Collision Fixes - Ash Cluster Tweaks
 - Fixed miscellaneous floating barrels in Falkreath.
 - Tweaked crafting settings for HIMBO - Vag from 3BA to no longer show up. The crafting method was superseded by the TNG Addon Patch.
 - Tweaked various consistency and conflict resolution patches to cover more content. **Thank you Derryl for the deep dive and guidance!**
 - Tweaked starting backpack to no longer have AddItemMenu's quick pack included.
+- Tweaked the install of Steel Armors and Weapons Retexture SE to have sleeves included.
 - Moved several cheat mods to the Optional Mods section. They will remain enabled by default until the next un-save safe update occurs.
 - Disabled The Facebreaker - Meridia's Beacon on a Mace by default.
 - Disabled Maxwell the Cat (Misc Item) by default.
