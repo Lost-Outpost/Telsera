@@ -37,7 +37,7 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 - These are all subject to change during the development stage!
 - This will NOT be a save-safe update.
-- I'm completely out of space on my laptop, hence all the texture finagling/rearranging and BSA packing. x_x"
+- I'm completely out of space on my laptop, hence all the texture finagling and BSA packing. x_x"
 - - - - - - - - -
 - Added Vanilla Remastered (Optimized) - Textures Upscaled and Reworked
 - Added Favorite Things - Extended Favorites Menu for SkyUI
