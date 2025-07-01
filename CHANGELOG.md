@@ -31,14 +31,16 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 - - - - - - - - -
 
-## Version 1.1.0 [UNRELEASED WIP - NO ETA]
+## Version 1.1.0 [UNRELEASED - NO ETA]
 
-### Notes
+### IMPORTANT
 
 - These are all subject to change during the development stage!
 - This will NOT be a save-safe update.
 - I'm completely out of space on my laptop, hence all the texture finagling and BSA packing. x_x"
-- - - - - - - - -
+
+### WIP
+
 - Added Vanilla Remastered (Optimized) - Textures Upscaled and Reworked
 - Added Favorite Things - Extended Favorites Menu for SkyUI
 - Added IDRS - Improved Disabled Race Scaling
@@ -110,15 +112,14 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Removed Poison Bloom Retexture
 - Removed Some Dawnguard Things - Vines and Flora
 - - - - - - - - -
-- Packed several mods into BSAs, such as Static Mesh Improvement Mod (SMIM), KS Hairdos, .
+- Packed several mods into BSAs, such as Static Mesh Improvement Mod (SMIM), KS Hairdos, Female Makeup Suite etc.
 - Tweaked crafting settings for HIMBO - Vag from 3BA to no longer show up. The crafting method was superseded by the TNG Addon Patch.
 - Tweaked various consistency and conflict resolution patches to cover more content. **Thank you Derryl for the deep dive and guidance!**
 - Tweaked starting backpack to no longer have AddItemMenu's quick pack included.
 - Tweaked the install of Steel Armors and Weapons Retexture SE to have sleeves included.
-- Moved several cheat mods to the Optional Mods section. They will remain enabled by default until the next un-save safe update occurs.
-- Moved several texture mods around due to incorrect placement regarding conflicts (ie. Dust by FrankBlack is now after Lux).
-- Disabled The Facebreaker - Meridia's Beacon on a Mace by default.
-- Disabled Maxwell the Cat (Misc Item) by default.
+- Moved several cheat mods to the Optional Mods section.
+- Moved several texture mods around due to incorrect placement regarding conflicts.
+- Disabled silly and cheaty mods by default. 
 
 - - - - - - - - -
 
