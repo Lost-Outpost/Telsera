@@ -33,12 +33,12 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 ## Version 1.1.0 [UNRELEASED WIP - NO ETA]
 
+### Notes
+
 - These are all subject to change during the development stage!
 - This will NOT be a save-safe update.
 - I'm completely out of space on my laptop, hence all the texture finagling/rearranging and BSA packing. x_x"
-
-### WIP Notes
-
+- - - - - - - - -
 - Added Vanilla Remastered (Optimized) - Textures Upscaled and Reworked
 - Added Favorite Things - Extended Favorites Menu for SkyUI
 - Added IDRS - Improved Disabled Race Scaling
@@ -70,7 +70,7 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Added CC Bone Colossus Skeleton Fix
 - Added Better Karstaag Skull Wall
 - Added Realistic Primitive Horse Breeds - Anniversary Update
-
+- - - - - - - - -
 - Updated Mfg Fix NG
 - Updated Don't Rush Me - Fewer Forcegreets - Markarth
 - Updated Leather Armors Retexture
@@ -78,7 +78,7 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Updated Riverwood Falls - Waterfall Additions for Riverwood
 - Updated KS Hairdos 1.9 - Salt and Wind
 - Updated Xavbio Armors Collection - HIMBO V5 Refits
-
+- - - - - - - - -
 - Removed Something Something it's not MINE okay - OAR
 - Removed KS Hairdos 1.8 - Salt and Wind
 - Removed Better Effigy of King Olaf
@@ -109,7 +109,7 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Removed High Poly Soul Husks - Soul Husk Retexture
 - Removed Poison Bloom Retexture
 - Removed Some Dawnguard Things - Vines and Flora
-
+- - - - - - - - -
 - Packed several mods into BSAs, such as Static Mesh Improvement Mod (SMIM), KS Hairdos, .
 - Tweaked crafting settings for HIMBO - Vag from 3BA to no longer show up. The crafting method was superseded by the TNG Addon Patch.
 - Tweaked various consistency and conflict resolution patches to cover more content. **Thank you Derryl for the deep dive and guidance!**
