@@ -34,9 +34,8 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 ### IMPORTANT
 
-- These kind of bulk texture and location updates will BE RARE! 
-- This is NOT be a save-safe update.
-- I'm completely out of space on my laptop, hence all the finagling and BSA packing. x_x"
+- These kind of bulk texture and location updates will be **RARE**! 
+- This is NOT be a save-safe update. You will need to start a new game.
 
 ### Breakdown
 
