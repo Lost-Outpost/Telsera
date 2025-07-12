@@ -250,6 +250,7 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Fixed FPS cap being set to true in ENB settings.
 - Packed several mods into BSAs, such as Static Mesh Improvement Mod (SMIM), KS Hairdos, Female Makeup Suite etc.
 - Tweaked crafting settings for HIMBO - Vag from 3BA to no longer show up. The crafting method was superseded by the TNG Addon Patch.
+- Tweaked Camping dialogue to only appear with rank 4 NPCs (lover status).
 - Tweaked various consistency and conflict resolution patches to cover more content. **Thank you Derryl for the deep dive and guidance!**
 - Tweaked the install of various armor retextures to have sleeves and pants included.
 - Tweaked the size of the trees to be bigger.
