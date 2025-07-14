@@ -248,5 +248,5 @@ Core functionality.
 Lost Outpost Discord Server [https://discord.gg/WF66mMu](https://discord.gg/WF66mMu) --- by GreatPadinski
 Host Discord for troubleshooting, development updates, etc.
 
-Derryl via Discord
+[DerrylHopkins﻿](https://next.nexusmods.com/profile/DerrylHopkins)
 Many thanks for the tips and advice regarding content resolution!
