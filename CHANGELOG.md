@@ -30,7 +30,52 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 - - - - - - - - -
 
-## Version 1.1.0 [CURRENT RELEASE]
+## Version 1.1.1 [CURRENT RELEASE]
+
+### IMPORTANT
+ 
+- This is a save-safe update.
+- You may receive a warning about missing plugins. This is safe to ignore.
+
+### Breakdown
+
+- Added 3BA and HIMBO Bodyslide for Imperial Armors and Weapons Retexture SE
+- Added xavbio's meshes for 3BA
+- Added Bloodchill Manor Entrance Fix
+- Added Xavbio's Sleeved Savior's Hide - HIMBO Refit (technically already in the pack, but swapped to the Nexus version instead of my separate upload)
+- Added No grass in caves
+- Added Get Out Of My Way - Push NPCs (Optional Mods)
+- Added optional downscaled versions of Telsera's grass setup for a performance boost.
+- Updated JK's The Winking Skeever
+- Updated JK's Septimus Signus's Outpost
+- Updated Ryn's Skyrim patch collection
+- Updated Enhanced Worldspace Maps
+- Updated Xavbio Armors Collection - 3BA Refits
+- Updated HIMBO - Vagina from 3BA Refit for MOXIE Skinblend
+- Removed Security Overhaul SKSE - Some More Locks
+- Removed Smooth Random Idle Animation
+- Removed Simple Werewolf Looting
+- Removed BCS - Normal Map Fix
+- Fixed CTDs while selecting a hair from KS Hairdos in Racemenu.
+- Fixed clipping on the female version of Ancient Draugr Armor.
+- Fixed incompatibility between Skyrim Skill Uncapper and Custom Skills Framework.
+- Fixed missing textures at Bloodchill Manor.
+- Fixed several issues regarding interior flickering (ie. Temple of Talos, Winking Skeever).
+- Fixed several issues regarding clipping objects within certain interiors (ie. Whiterun Stables, Carlotta's House).
+- Fixed incorrect landscaping placement around Half Moon Creek.
+- Fixed odd shadows on books.
+- Fixed overly bright interior grass.
+- Fixed slight background lines when using DOF.
+- Fixed an incorrectly flagged ESPFE patch file, which caused Lux to move to the top of the load order.
+- Tweaked Scrambled Bugs to have equipBestAmmunition set to true.
+- Tweaked Scrambled Bugs to have modifyArmorWeightPerkEntryPoint set to false.
+- Tweaked Skyrim Skill Uncapper to have bUseLegendarySettings set to false.
+- Tweaked ENB settings to have a smidge brighter interiors.
+- Unpacked some of the new BSAs from the previous update.
+
+- - - - - - - - -
+
+## Version 1.1.0 
 
 ### IMPORTANT
 
