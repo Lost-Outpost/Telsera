@@ -44,7 +44,6 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Added Bloodchill Manor Entrance Fix
 - Added Xavbio's Sleeved Savior's Hide - HIMBO Refit (technically already in the pack, but swapped to the Nexus version instead of my separate upload)
 - Added No grass in caves
-- Added Get Out Of My Way - Push NPCs (Optional Mods)
 - Added optional downscaled versions of Telsera's grass setup for a performance boost.
 - Updated JK's The Winking Skeever
 - Updated JK's Septimus Signus's Outpost
