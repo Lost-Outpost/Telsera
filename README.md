@@ -24,7 +24,7 @@
 - [Installation](#installation-1)
   - [Pre-Install](#pre-install)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-    - [Installing .NET SDK and .NET Framework](#Installing-.NET-SDK-and-.NET-Framework)
+    - [Installing .NET SDK and .NET Framework](#installing-.net-sdk-and-.net-framework)
     - [Steam Library](#steam-library)
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
