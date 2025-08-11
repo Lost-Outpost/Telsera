@@ -24,6 +24,7 @@
 - [Installation](#installation-1)
   - [Pre-Install](#pre-install)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+    - [Installing .NET SDK and .NET Framework](#Installing-.NET-SDK-and-.NET-Framework)
     - [Steam Library](#steam-library)
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
@@ -107,6 +108,10 @@ This package is required for Mod Organizer 2 (MO2) and you can download it from 
 ![alt text](https://i.imgur.com/WKIr5Q2.png "MicrosoftVisualCPreviewExample")
   
 </details>
+
+### Installing .NET SDK and .NET Framework
+
+You will also need BOTH fo these programs in order to run Telsera. You can download **.NET SDK v8.0+ AND .NET SDK v9.0+** (yes to BOTH) from Microsoft from [here](https://dotnet.microsoft.com/en-us/download). Then you can download **.NET Framework v4.8.1** [here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481) (select Web Install --> Runtime). Once You have everything installed, be sure to do a quick computer restart to ensure the programs can take effect.
 
 ### Steam Library
 
