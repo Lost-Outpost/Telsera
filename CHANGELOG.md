@@ -14,6 +14,15 @@
 
 ---
 
+- [Changelog](#changelog)
+  - [Save-safe vs Non-save-safe](#will-a-save-from-version-x-be-safe-with-version-y?)
+- [Version History](#version-history)
+  - [Version 1.2.0 - CURRENT](#version-1.2.0)
+  - [Version 1.1.1](#version-1.1.1)
+  - [Version 1.1.0](#version-1.1.0)
+  - [Version 1.0.0.1](#version-1.0.0.1)
+  - [Version 1.0.0](#version-1.0.0)
+
 # Changelog
 
 ## Will a save from version X be safe with version Y?
@@ -28,9 +37,386 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 - x.0.0 definitely requires a new save game
 
+# Version History
+
+## Version 1.2.0 - CURRENT
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+
+### IMPORTANT
+
+- This is NOT be a save-safe update. You will need to start a new game.
+- There are new program requirements for the list. More information can be found [https://github.com/Lost-Outpost/Telsera/blob/main/README.md#installing-net-sdk-and-net-framework]{HERE}.
+- Cheat mods have been re-added since I situated my compilation methods. Don't worry, they will be OFF by default.
+
+### Breakdown
+
+- Added various FDE based mods by anbeegod
+- Added Configurable Commentary Rate Slider
+- Added Configurable Commentary Rate Slider - Settings Loader
+- Added Improvement Names Customized AE
+- Added Skyrim Teas (Madgbi Edition)
+- Added Gleaming Glaciers - High Quality Glacier Meshes Textures and LOD
+- Added Less Free Food in Barrels and Sacks - SkyPatcher
+- Added No Random Books in Crypts and Dwemer Ruins
+- Added T-Pose Animal Fix by SpinPigeon
+- Added Behavior Data Injector
+- Added Behavior Data Injector Universal Support
+- Added Combat Pathing Revolution
+- Added Combat Pathing Revolution AE
+- Added Vanilla Eating Animation Fixes
+- Added HDT-SMP Slot 32 Fix
+- Added Sky Idles
+- Added Sky Idles - Settings Loader
+- Added NPCs Wear Amulets of Mara PLUS
+- Added Immersive Rejections
+- Added Book Covers Skyrim - USSEP Update
+- Added Ivy's Stendarr's Beacon Overhaul
+- Added Ruins of Rkund - Overhaul
+- Added Northern Scenery - Addons Patches and Fixes
+- Added Luscious Mara's Eye - A Pond Overhaul
+- Added Honeystrand Grove is an Actual Grove - Overhaul
+- Added Redwater Brewery - An Overhaul
+- Added Dawnguard - Hall of Vigilant Requirement
+- Added TRX Futanari Addon NG
+- Added Fair Skin Complexion
+- Added Reverie - Fair Skin Complexion - Blend for TRX (I no longer procrastinated on this - hurray!)
+- Added Less Generic Housecarls - Argis (Markarth)
+- Added Return Aegisbane
+- Added Revealing Rune
+- Added Unmasking Sybille
+- Added Respectful Ravyn
+- Added Much Dimmer Fog and Mist
+- Added AddItemMenu - Ultimate Mod Explorer (Optional Mods - OFF by default)
+- Added AddItemMenu - NG (Optional Mods - OFF by default)
+- Added Puzzle Pillar Auto-Solve (Optional Mods - OFF by default)
+- Added Hearthfire Building for Cheats AE (Optional Mods - OFF by default)
+- Added Goldenhills Plantation Free Craft (Optional Mods - OFF by default)
+- Added Get Out Of My Way - Push NPCs (Optional Mods - OFF by default)
+- Added Crimson Nirnroot Cheat Chest for JK's Sinderion's Field Laboratory (Optional Mods - OFF by default)
+- Added Sorcerer - Scroll Enchanters in Major Cities
+- Added Glorious Gradients
+- Added Persistent Dragonstone
+- Added RaceMenu Undress
+- Added Whispers of the Daedric Princes
+- Added The Standing Sound Stones
+- Added Dungeon Sounds Overhaul 2
+- Added Mephala Revoiced
+- Added Ghostly Helgi Voice
+- Added Hrothmund the Red Enhanced Voice
+- Added Lower Sounding Thieves Guild Door
+- Added Cathedral - Plants
+- Added Cave Brazier
+- Added Rally's Handcarts
+- Added ElSopa HD - Dirt Blast SE
+- Added Praedy's Blackreach deposits and falmer cave ceiling glow
+- Added Dragon Glyphs HD - Fixed
+- Added Optimized Meshes - KG's Fences
+- Added Better Female Elks
+- Added HD Reworked Shellbug
+- Added Skeever Tail HD
+- Added Netch HD
+- Added Silt Strider HD
+- Added Ash Hopper HD
+- Added 4K Warthog
+- Added EMPEROR - Giant Crab Overhaul
+- Added Less Ghostly Emperor Crab
+- Added Shroom Beetles
+- Added Shroom Beetles - ENB Glow
+- Added Shroom Beetles - Loot Edit and CC Additions
+- Added Cannibal Draugr on Solstheim
+- Added Salt and Wind - KS Hairdos - Update
+- Added Nordic Farmfield Stonewalls
+- Added Realistic AI Detection (RAID) - Lite
+- Added The Pigeon's Nest
+- Added Better Blended Mushrooms Fix
+- Added Snowy Ships for Snowy Regions
+- Added Snowy Carts for Snowy Regions
+- Added Snowy Surfaces Sound Collision and Aesthetics
+- Added Hawk Patch - BOS Remake
+- Added Slightly Better Nordic Henges
+- Added CC Bittercup - Tweaks and Enhancements
+- Added Tamrielic Distribution - More Distribution
+- Added Actually Useful Butter Churns - BOS
+- Added More Sensible Quartermasters
+- Added Assorted Vampire Fixes and Tweaks
+- Added MM - Real Cows
+- Added Save The Shellbugs
+- Added Hearthfire Multiple Adoptions
+- Added Honorhall Orphanage Bugfixes and Expansion
+- Added Hearthfire Multiple Adoptions Expanded
+- Added Skyfall's COTN Falkreath Reshaped
+- Added Tiny but Useful - Yet Another Patch Hub
+- Added Finding Derkeethus
+- Added Finding Derkeethus - compatibility patches
+- Added Finding Derkeethus Duplicate FormID Fix
+- Added Runic Dawnguard - Separated Lost Relic Questline
+- Added Balamath - Ayleid Ruin Dungeon
+- Added Hammet's Folly - AE
+- Added Shor's Stone Scenes Restored - Cut Content Restoration
+- Added Village of the Skaal
+- Added Gonzeh - Shor's Stone Overhaul
+- Added Deadly Dragon Lair Locations - AIO
+- Added Deadly Dragon Lairs - Patch Collection
+- Added JK's Riverwood Trader
+- Added JK's Dragonsreach
+- Added JK's Blue Palace
+- Added JK's Palace of the Kings
+- Added JK's Mistveil Keep
+- Added JK's Understone Keep
+- Added Myrwatch Statics
+- Added Tundra Homestead Stability
+- Added Hendraheim Hall Stability
+- Added Static Shadowfoot Sanctum
+- Added Static Bloodchill Manor (Child Bedroom Version)
+- Added Goldenhills Plantation - A Few Tweaks
+- Added FabiRai's Ivarstead VCO - Vanilla City Overhaul
+- Added FabiRai's Karthwasten VCO - Vanilla City Overhaul
+- Added Blended Roads Optimized Meshes (Really Blended)
+- Added Skyrim Remastered - Glaciers and Ice
+- Added Icy Cave Remaster - Ice Material Patch
+- Added Berrybog's Blackreach Bush
+- Added Drengin's Blue Palace - Mesh Only Replacer
+- Added FYX - Smooth Wells
+- Added FYX - Windhelm Stable Roof
+- Added FYX - Eastern Empire Company Building
+- Added Whiterun Doors and Gate 2K
+- Added Mora Tapinella 4k
+- Added Iconic's Weathered Dragonstone Retexture (4K-2K)
+- Added Weathered Apiary Texture - 8K - 4K - 2K
+- Added Weathered Barrels Retexture (SMIM - BOS)
+- Added Weathered Dark Elf Furniture Retexture - 4K-2K
+- Added Solstheim Objects SMIMed - High Poly Dark Elf Furniture
+- Added Reasonably Round Dunmer Lanterns - High Poly Meshes - ENB Light
+- Added Better Windhelm Ground Meshes - My fixes
+- Added Sconces of Skyrim - Markarth and Dwemer Braziers Improved
+- Added Pandorable's Wicked Witches - Illia Selveni
+- Added Pandorable's Heroes of Sovngarde
+- Added Lalup's NPCs - Creation Club
+- Added Cynn's Breezehome
+- Added Cynn's Honeyside Redone
+- Added Cynn's Proudspire Manor
+- Added Cynn's Vlindrel Hall
+- Added HS Player Homes - Hjerim
+- Added HS Player Homes - Severin Manor
+- Added Kynesgrove Burial Site Graveyard
+- Added Lore Friendly Whiterun Walls
+- Added YETI - High Hrothgar Troll Den
+- Added Sym's Dead Men's Respite
+- Added Blackreach Improved
+- Added Dwemer Elevator Lights
+- Added Riften Detour
+- Added Fish Plaque Fixes and Improvements
+- Added Bellyaches Animal and Creature Pack Revamp
+- Added Skyking Signs
+- Added Rally's Blackreach Mushrooms
+- Added ENB Light Detection Fix
+- Added ENB Lights For Effect Shaders
+- Added Particle Lights for ENB - Riekling Outposts
+- Added Particle Lights for ENB - Falmer Things
+- Added Particle Lights for ENB - Shellbug
+- Added Less Distracting Blowing Snow Effects for ENB Particle Patch
+- Added Creation Club Basket Distribution - Base Object Swapper (BOS) (Forgotten Retex Project Patch)
+- Added Better Optimized and Fixed Riften Meshes
+- Added Sleeveless Dawnguard Light Armor - Broken First Person Mesh Fix.
+- Added Vanaheimr - Farmhouses
+- Added Numinous Nord Ruins - Complex Parallax Nordic Dungeon Retexture 8K 4K 2K
+- Added Sole Purpose for OStim Standalone
+- Added MilK's BDG for OStim Standalone
+- Added OSex Animations AE
+- Added OSex Pack Bad Girls of Skyrim
+- Added OSex Pack Bad Boys of Skyrim
+- Added OSex Pack Dual Wield
+- Added OSex Pack Wizard Sex
+- Added OSex Attire AE
+- Added OStim OSex Animations Port
+- Added Riverbord Solitude - Complex Parallax Texture Overhaul 4k-2k
+- Added Rally's Manhole of Solitude
+- Added Solitude Clover to Ivy Replacer 2K
+- Added Hadvar Cart Crash Fix
+- Added Blary's Booksets - Optimized
+- Added Voiced Narrative - Farming (Creation Club)
+- Added Enhanced Lights and FX
+- Added ELFX Shadows
+- Added ELFX Shadows - Official Patches Hub
+- Added ELFX Shadows My Patches
+- Added ELFX - Hearthfire Light Addon
+- Added ELFX Shadows - AE Patch
+- Added ELFX Cave Cliff Mesh Fix
+- Added ELFX or LUX - Myrwatch Mesh Patch
+- Added ELFX Subtle Candle Smoke
+- Added High Poly Blackreach Mushrooms - ELFX Patch
+- Added Luminosity Lighting Overhaul - The Cathedral Concept
+- Added Ambient Templates for Lighting Mods (Optional Mods - OFF by default)
+- Updated BodySlide and Outfit Studio
+- Updated Creation Kit Platform Extended for Skyrim
+- Updated The Whispering Door - Quest Expansion
+- Updated Hammet Dungeon Pack 1 SE
+- Updated Hammet Dungeon Pack 2 SE
+- Updated Hammet's Dungeon Pack 1 - Unique Rewards by Xtudo SE
+- Updated Foamimi's Misc NPC Visual Overhaul
+- Updated Joseb 2.0 - BodySlide Preset for HIMBO v5
+- Updated Lovemaking Compendium for OStim Standalone
+- Updated Ostim Standalone Sound Overhaul
+- Updated You Got Caught for OStim SA - Cheating And Public Lewdness Reactions
+- Updated Stress and Fear - A Dynamic Sanity System
+- Updated powerofthree's Papyrus Extender
+- Updated powerofthree's Tweaks
+- Updated Imperial Armors and Weapons Retexture SE
+- Updated Xavbio Cubemap Patch Hub (3BA - HIMBO)
+- Updated Xavbio Armors Collection - HIMBO V5 Refits
+- Updated Xavbio Armors - 3BA patch
+- Updated Stalhrim Refrozen Patch Hub (3BA - BHUNP - HIMBO)
+- Updated Enhanced Rocks and Mountains - Fix and Addon
+- Updated Particle Patch
+- Updated SkyPatcher
+- Updated Conditional Expressions - Subtle Face Animations
+- Updated Conditional Expressions Extended
+- Updated Dynamic Interior Ambient Lighting (DIAL)
+- Updated Pandora Behaviour Engine Plus
+- Updated Unofficial Skyrim Special Edition Patch - USSEP
+- Updated Unofficial Skyrim Modder's Patch (USMP)
+- Updated Navigator - Navmesh Fixes
+- Updated Locked Vein Activation Fix
+- Updated RaceMenu OverlayFix and Various Mod Fixes
+- Updated Mundus - A Standing Stone Overhaul
+- Updated Blade and Blunt - A Combat Overhaul
+- Updated Nilheim - Misc Quest Expansion
+- Updated Snowy Standing Stones for Snowy Regions
+- Updated Serana Dialogue Expansion
+- Updated Snazzy Interiors Patch Collection
+- Updated SSE Engine Fixes (skse64 plugin)
+- Updated Windhelm Objects SMIMed
+- Updated Rare Curios - Bolts Expanded
+- Updated Better Civil War Guards SPID
+- Updated Lightened Skyrim - Base Object Swapper edition
+- Updated OComfort - OStim Romance Fork
+- Updated Snazzy Solitude AIO
+- Updated Assorted Mesh Fixes
+- Updated Embers XD
+- Updated Stretched Snow Begone Definitive Edition
+- Updated Natural Waterfalls
+- Updated Various Landscape Fixes For Grass Mods Patches
+- Updated Simple Snow Improvements - Skyrim Fixes (BOS)
+- Updated Description Framework
+- Updated Nordic Stonewall Terraces
+- Updated Snazzy Misc Locations
+- Updated Core Impact Framework (CIF)
+- Updated Housecarls Pre-Thaneship
+- Updated NPCs React To Fire
+- Updated Water Effects Brightness and Reflection Fix
+- Updated DynDOLOD 3 Alpha
+- Updated Elven Armors and Weapons Retexture SE
+- Updated Menagerie - An Anniversary Edition Pet Overhaul
+- Updated Stress and Fear - A Dynamic Sanity System
+- Updated After the Civil War - Siege Damage Repairs
+- Updated Unmarked Locations Pack - AIO
+- Updated Mrf's Solitude
+- Updated Photo Mode
+- Updated CBBE 3BA Vanilla Outfits Redone
+- Updated ACE - 3BA Refit
+- Updated JK's Guild HQ Interiors Patch Collection
+- Updated COTN Dawnstar - Patch Collection
+- Updated COTN Morthal - Patch Collection
+- Updated COTN Falkreath - Patch Collection
+- Updated Voiced Narrative - Bloodchill Manor (Creation Club)
+- Updated Voiced Narrative - Ghosts of the Tribunal (Creation Club)
+- Updated Voiced Narrative - The Gray Cowl Returns (Creation Club)
+- Updated Faithful Faces - Vanilla Hair Remake SMP - Consistency Patches
+- Removed Alcoholic Lite Effects for Gourmet
+- Removed More to Say
+- Removed Siege at Icemoth
+- Removed Siege at Icemoth - Simonrim Patch
+- Removed Siege at Icemoth - Stormcrown Patch
+- Removed Boethiah's Calling - Alternate Questline
+- Removed Mehrunes Dagon's Shrine Unlocked - Pieces of the Past Alternate Ending
+- Removed Mephala's Curse - Whispering Door Quest Addon
+- Removed Redeeming Fultheim - A Blades Quest Addon
+- Removed The Taste of Death - Quest Addon
+- Removed Save the Dark Brotherhood
+- Removed Your Choices Matter - A Dark Brotherhood Expansion
+- Removed Your Choices Matter - A Dark Brotherhood Expansion - Settings Loader
+- Removed Windhelm without Civil War - Jagged Crown and Thane for Non-Militants
+- Removed Lighting Toolkit
+- Removed HS Riverwood - Riverwood Trader
+- Removed JK's The Bannered Mare - Declutter and Performance
+- Removed JK's Candlehearth Hall - Declutter and Performance
+- Removed JK's Bee and Barb - Declutter and Performance
+- Removed JK's Sinderion's Field Laboratory - Decluttered and Improved
+- Removed JK's Septimus Signus's Outpost Lite
+- Removed Imperial Armors and Weapons Retexture - 3BA and HIMBO Refits
+- Removed Imperial Armors and Weapons Retexture - Refit Fixes
+- Removed Dynamic Things Alternative - BOS
+- Removed Dynamic Things Alternative - BOS - Settings Loader
+- Removed Regional Food Barrels - BOS
+- Removed Soul Cairn Gravestone and Spire Sizes Randomized - Base Object Swapper
+- Removed Soul Cairn Tree and Shrub Sizes Randomized - Base Object Swapper
+- Removed Diamond Skin (CBBE)
+- Removed Spaghetti's Palaces - AIO
+- Removed Floppy Schlongs SE With Collision - SMP CBPC
+- Removed Environs - Master Plugin
+- Removed Environs - Riften Warehouse
+- Removed Environs - Kolskeggr
+- Removed Environs - Hroggar's House
+- Removed Unique Reach Bridges - BOS
+- Removed Simple Player Homes Improvements AIO
+- Removed World Encounter Hostility Fix
+- Removed WIDeadBodyCleanupScript Crash Fix
+- Removed Rally's Dark Elf Furniture (High Poly - ENB Light)
+- Removed Ancient Falmer Armors and Weapons Retexture
+- Removed Vanilla Plus City Entrances
+- Removed Hammet's Dungeon Pack 1 - Unique Rewards by Xtudo
+- Removed Hammet's Dungeon Pack 2 - Unique Rewards by Xtudo
+- Removed SABRECAT by Kajuan
+- Removed Highland Cow HD by Pfuscher
+- Removed Horker by Pfuscher
+- Removed RUSTIC FROSTBITE SPIDER
+- Removed Real Rabbits HD - Color Variants and High Poly Mesh
+- Removed Party At The Back - Party Outfit Replacer (3BA - HIMBO)
+- Removed Snazzy Interiors - Riften Black-Briar Manor - NPC
+- Removed Snazzy Interiors - The Retching Netch - NPC
+- Removed Edmond's Snowy Improvments for Rudys HQ Nordic Ruins
+- Removed RUSTIC NORDIC MURALS
+- Removed OAR - Detection Plugin
+- Removed OAR - Sleeping NPCs Detector
+- Removed UNDERDOG - Animations
+- Removed Farmhouses of the Nords
+- Removed Skyland - Solitude
+- Removed Xavbio's Ancient Nord Armors Redone for 3BA
+- Removed Water Effects Fix - BOS
+- Removed Lux
+- Removed Lux - Patch Hub
+- Removed Actually Brighter Lux Templates
+- Removed Tiber Septim Room Improvement - Lux Fixes
+- Removed Redguard Elite Reintegration
+- Removed Prisoner Cart Fix SMIM
+- Fixed incorrect condition preventing ".. (Scene Start)" from being accessible via OStim Romance.
+- Fixed Rolff Stone-Fist's body from not being removed post-optional-murder.
+- Fixed various flickering/missing meshes in various areas (ie. Brinewater Grotto, Glenmoril Coven, Bloodskal Barrow, Bee and Barb).
+- Fixed wrong navmesh forwarding along the bridge leading into Riverwood via Riverwood Falls.
+- Fixed empty hand cover with shield animation placement.
+- Fixed missing bed textures in Hendraheim.
+- Fixed (hopefully) the two Alik'r members from standing in the same spot forever post-quest completion.
+- Fixed too dark grass in interiors + was able to re-enable the respective ENB setting impacting interior grass now that Lux is gone.
+- Tweaked armor meshes so some have sleeves while others don't (still have pants).
+- Tweaked animation selection via Billyy and Nibbles' OStim packs.
+- Tweaked trees to be a teeny tad bigger.
+- Tweaked grass selection via Freak's Flora Fields.
+- Downscaled version of grass mods are now integrated by default.
+- Ran BethINI on Medium + Recommended Tweaks + a few extra tweaks.
+- Under Optional Mods, a new option to turn Survival Mode off by default/per new game launch is available.
+- Made a boatload of custom conflict resolution patches regarding lighting, clutter, trees, etc. - phew!
+
+</details>
 - - - - - - - - -
 
-## Version 1.1.1 [CURRENT RELEASE]
+## Version 1.1.1 
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
 
 ### IMPORTANT
  
@@ -72,13 +458,17 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Tweaked ENB settings to have a smidge brighter interiors.
 - Unpacked some of the new BSAs from the previous update.
 
+</details>
 - - - - - - - - -
 
 ## Version 1.1.0 
 
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+  
+
 ### IMPORTANT
 
-- These kind of bulk texture and location updates will be **RARE**! 
 - This is NOT be a save-safe update. You will need to start a new game.
 
 ### Breakdown
@@ -206,7 +596,6 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Added Mari's Ivy - Nordic Ruins Addon
 - Added Skyland Windhelm
 - Added Diamond Skin (CBBE)
-- - - - - - - - -
 - Updated Mfg Fix NG
 - Updated Don't Rush Me - Fewer Forcegreets - Markarth
 - Updated Leather Armors Retexture
@@ -224,7 +613,6 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Updated The Gift of Saturalia - A Quest for the Holidays
 - Updated Serana Dialogue Expansion
 - Updated DynDOLOD Resources SE 3
-- - - - - - - - -
 - Removed Something Something it's not MINE okay - OAR
 - Removed Skyking Hanging Moss
 - Removed Guards and Stormcloaks Armors Retexture - 3BA and HIMBO bodyslides
@@ -286,7 +674,6 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Removed Rally's Display Cases
 - Removed Bellyaches Animal and Creature Pack Revamp
 - Removed Iconic's Morthal Quest Coffin Retexture
-- - - - - - - - -
 - Fixed floating barrels in Falkreath.
 - Fixed missing textures on Windhelm bridges.
 - Fixed broken Meeko dialogue.
@@ -304,16 +691,27 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Moved several texture mods around due to incorrect placement regarding conflicts.
 - Disabled silly mods by default.
 
+</details>
 - - - - - - - - -
 
 ## Version 1.0.0.1 
 
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+
 - Fixed pitch black diffuse textures on Hide Armor.
 
+</details>
 - - - - - - - - -
 
 ## Version 1.0.0
 
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+
 - Release
 
+</details>
 - - - - - - - - -
