@@ -83,7 +83,7 @@ Once you find the entry titled OStim Standalone, click the Controls tab on the l
 
 ![telsera-ostim-menu-mcm](https://i.imgur.com/tL9fvkR.png)
 
-They are different than OStim SA's default setup, as this is what I'm personally accustomed to, but in the picture above under Navigation Keys, you can tick the checkbox on the bottom right of the MCM to reset the controls to their default state. I realize everyone has their preference when it comes to keybinds, so feel free to change them to whatever is easiest for you!
+The keybinds in the images above are different than OStim SA's default setup, just a heads up. I changed mine, and I realize everyone has their preference when it comes to keybinds, so feel free to change them to whatever is easiest for you. 
 
 </details>
 
