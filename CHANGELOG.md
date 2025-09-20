@@ -15,13 +15,13 @@
 ---
 
 - [Changelog](#changelog)
-  - [Save-safe vs Non-save-safe](#will-a-save-from-version-x-be-safe-with-version-y?)
+  - [Save-Safe vs Non-save-safe](#will-a-save-from-version-x-be-safe-with-version-y)
 - [Version History](#version-history)
-  - [Version 1.2.0 - CURRENT](#version-1.2.0)
-  - [Version 1.1.1](#version-1.1.1)
-  - [Version 1.1.0](#version-1.1.0)
-  - [Version 1.0.0.1](#version-1.0.0.1)
-  - [Version 1.0.0](#version-1.0.0)
+  - [Version 1.2.0 - CURRENT](#version---120)
+  - [Version 1.1.1](#version-111)
+  - [Version 1.1.0](#version-110)
+  - [Version 1.0.0.1](#version-1001)
+  - [Version 1.0.0](#version-100)
 
 # Changelog
 
