@@ -70,3 +70,7 @@ No, I'm sorry. :(
 ### Is there a default config I need to set for using a controller?
 
 If you the pause the game after you've made your character, go under the System tab and click Settings. Be sure to tick the box for controller use. I personally don't have a controller, so I've never played Skyrim with one/have done any testing, so it'll be up to you to navigate the controller binds.
+
+### Why are NPCs missing their bodies? Missing textures? Chaos??
+
+Did you press the Unlock button via MO2's interface after you launched Telsera? If so, simply exit out of the game, then relaunch. Next time you relaunch, **DO NOT PRESS THE UNLOCK BUTTON**! That completely borks the game! If you didn't press the button, you may need to re-run the Wabbajack installer once again in case the installation process was borked. If you're STILL having issues, please reach out on LostOutpost, Nexus, or the Issues tab here, and we'll see what we can do.
