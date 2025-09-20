@@ -52,8 +52,6 @@
 
 - <kbd>]</kbd> - Allows the user to change the weather on command from a menu selection.
 
-- <kbd>[</kbd> - Opens a menu selection in relation to [AddItemMenu](https://www.nexusmods.com/skyrimspecialedition/mods/17563) to select certain armors, weapons, or items at will to add to your inventory.
-
 ## OStim SA Hotkeys
 
 Here are the primary notes:
@@ -66,7 +64,7 @@ Here are the primary notes:
 
 <kbd>Numpad6</kbd> - While in the navigation menu when a scene has started, this will move your selector to the right.
 
-<kbd>Down Arrow</kbd> - While in the navigation menu when a scene has started, this will move your selector downward.
+<kbd>Numpad5</kbd> - While in the navigation menu when a scene has started, this will move your selector downward.
 
 <kbd>Numpad7</kbd> - Accepts a selection choice, or "Yes" to a navigation pane (ie. Yes to move to the next animation set).
 
