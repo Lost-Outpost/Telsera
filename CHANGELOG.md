@@ -17,7 +17,7 @@
 - [Changelog](#changelog)
   - [Save-Safe vs Non-save-safe](#will-a-save-from-version-x-be-safe-with-version-y)
 - [Version History](#version-history)
-  - [Version 1.2.0 - CURRENT](#version---120)
+  - [Version 1.2.0](#version-120)
   - [Version 1.1.1](#version-111)
   - [Version 1.1.0](#version-110)
   - [Version 1.0.0.1](#version-1001)
@@ -38,6 +38,8 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - x.0.0 definitely requires a new save game
 
 # Version History
+
+**NOTE** - The top-most entry is the current release.
 
 ## Version 1.2.0 - CURRENT
 
