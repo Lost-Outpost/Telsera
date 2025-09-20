@@ -18,6 +18,8 @@
 
 Feel free to hop on the Discord support forum channel, as support is primarily offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
+**NOTE** - Currently a work-in-progress. My plan is to revamp this entire page into sections (ie. UI, SFW Gameplay, NSFW Gameplay, common install errors, etc.). Please be patient with me in the meantime!
+
 ## Frequently Asked Questions - FAQ
 
 ### I'm unable to download 'Curios' files when running Wabbajack. What should I do?
@@ -59,7 +61,7 @@ This can happen if you tried the keybind to customize your character's genitals 
 
 ### Help! My character's dick has texture mismatching! What do I do?
 
-This can happen if you tried the keybind to customize your character's genitals and you picked one of the "TRX Futanari" options. Unfortunately, at Telsera's v1.0.0 release, there is no mod to blend the texture setups (ie. Reverie + Tempered Skins clashing against TRX's custom textures). Eventually, depending on how permissions go, I will try to blend the dick for a -seamless- (hehe) experience. It's on my to-do list!
+This can happen if you used the keybind to customize your character's genitals, and you picked one of the "TRX Futanari" options. Unfortunately, as of Telsera's v1.2.0 release, there is no mod to blend the texture setups for **Argonians** and **Khajiit** characters. I did my best to do custom blends for humans and elves, and the seams for those folks should be minimal.
 
 ### Is there support for ultrawide setups?
 
@@ -68,11 +70,3 @@ No, I'm sorry. :(
 ### Is there a default config I need to set for using a controller?
 
 If you the pause the game after you've made your character, go under the System tab and click Settings. Be sure to tick the box for controller use. I personally don't have a controller, so I've never played Skyrim with one/have done any testing, so it'll be up to you to navigate the controller binds.
-
-### Why do you have the cheat mod "AddItemMenu" enabled by default? WTF immersion ruined?
-
-Let's face it, I am in fact a cheater cheater pumpkin eater. If you don't want to cheat, simply don't grab the misc object from the backpack outside of Helgen's cave.
-
-### Why can I build the homes from Hearthfires DLC without any materials?? WTF immersion ruined?
-
-Same answer as above. I really *really* don't enjoy building them the legit way. Sorry!
