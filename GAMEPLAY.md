@@ -59,8 +59,6 @@ Telsera includes a setup featuring the following UI mods:
 
 - [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) - Take snapshots of your adventures in game with Photo Mode!
 
-- [Lighting Toolkit](https://www.nexusmods.com/skyrimspecialedition/mods/150279) - Lighting Toolkit is an SKSE plugin that lets players place dynamic, shadow-casting lights in the game world, primarily for screenshots and videos. It's designed to be used alongside poser frameworks and OStim.
-
 ### SFW Core Overhauls
 
 Telsera is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. Key highlights include:
@@ -135,13 +133,15 @@ A variety of other gameplay enhancers are also included in the list! Some key hi
 
 - [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) - Distributes common items around the game world while keeping the Ghosts of the Tribunal questline entirely intact.
 
-- [Redguard Elite Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/76005) - This mod disables the Interception quest added by the Redguard Elite Armaments CC, and instead distributes the armor and weaponry to Kematu and his group of Alik'r in In My Time of Need.
+- [CC Dawnfang and Duskfang - No Forced Quest](https://www.nexusmods.com/skyrimspecialedition/mods/57609) - Moves the note from in front of the ratway entrance to one of the wooden pillars outside in the canal. Also disables the ghost and quest trigger box in the ratway until you interact with the note.
 
 - [Thwack - Crossbow Collection Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/42653) - Overhauls the implementation of crossbows in Anniversary Edition.
 
 - [Kachunk - Creation Club Crossbow Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71081) - Distributes and rebalances crossbows.
 
 - [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) - An all-encompassing integration and distribution mod that includes modules for a wide array of different content.
+
+- [Tamrielic Distribution - More Distribution - Reguard Elite Module](https://www.nexusmods.com/skyrimspecialedition/mods/142281) - Adds redguard elite armor and weapons to select redguard NPCs, such as Kematu.
 
 - [Masterwork](https://www.nexusmods.com/skyrimspecialedition/mods/142109) - Masterwork is an overhaul of the artifacts and unique items added by the Anniversary Edition upgrade to Skyrim Special Edition, adding spells and enchantments from the SimonRim suite of mods to items such as the Staff of Worms or Goldbrand to bring them closer to the standard set by Artificer.
 
@@ -177,13 +177,7 @@ Other changes to quests include;
 
 - [Thieves Guild Alternative Endings](https://www.nexusmods.com/skyrimspecialedition/mods/114558) - Defy Nocturnal and unlock yourself from eternal servitude. Adds 4 new voice-acted endings to the Thieves Guild questline, including new story, new rewards, new boss fights. 
 
-- [Your Choices Matter - A Dark Brotherhood Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/46871) - This mod extends the Dark Brotherhood questline in many ways and adds an optional alternate ending. The ending you get will depend on the choices you, the Player make, throughout the story.
-
 - [Markarth - Help the Warrens and a Cure for Cairine](https://www.nexusmods.com/skyrimspecialedition/mods/45144) - Introduces two small quests: one to clean up the Warrens, and one to FINALLY cure poor Cairine!
-
-- [Boethiah's Calling - Alternate Questline](https://www.nexusmods.com/skyrimspecialedition/mods/121499) - Fully Voiced alternate questline to obtain the Ebony Mail. Now a "friend" can trick and try to sacrifice you!
-
-- [The Taste of Death - Quest Addon](https://www.nexusmods.com/skyrimspecialedition/mods/123173) - 50+ New lines of dialogue. Adds new dialogue, enemies, and gameplay to the vanilla quest "The Taste of Death". Confront the cult of Namira and bring them to justice.
 
 - [After the Civil War - Siege Damage Repairs](https://www.nexusmods.com/skyrimspecialedition/mods/20668) - An "immersive" way of repairing the damage left by the Civil War. Twenty days after the final battle the cities will be back to normal, but a generous donation will speed-up the reconstruction. Crews will be at work fixing the damage.
 
@@ -195,8 +189,6 @@ Other changes to quests include;
    - [Ruin's Edge](https://en.uesp.net/wiki/Skyrim:Ruin%27s_Edge)
    - [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath)
    - [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend)
- 
-- [Siege at Icemoth](https://www.nexusmods.com/skyrimspecialedition/mods/109541) - A small scale vanilla-esque new lands mod adding some new islands with new locations and dungeons in the Sea of Ghosts. As well as some unique items from The Elder Scrolls Blades. **You'll need to reach the Old Wooden Jetty at the most north western beach in Skyrim. Otherwise travel to Northwatch Keep and travel west until you reach it.**
 
 - [Dragon's Teeth Prison - A Dungeon Mod](https://www.nexusmods.com/skyrimspecialedition/mods/111523) -  A Dungeon Mod adds a small scale dungeon to the Dragon's Teeth Mountains just west of Falkreath.
 
@@ -205,8 +197,6 @@ Other changes to quests include;
 - [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371) - A vanilla-style nordic dungeon in the Western Rift, based on its appearance in the Elder Scrolls Online.
 
 - [Lost Passages - New Dungeons for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/106061) - Adds 20 Radiant-enabled dungeons to various holds throughout Skyrim.
-
-- [Lost Passages - The Hidden City](https://www.nexusmods.com/skyrimspecialedition/mods/117191) - Adds 10 Radiant-enabled dungeons that descend into the underbelly of Skyrim's largest cities - secret back rooms, sewers, cellars, crypts and more.
 
 - [Hammet's Dungeon Pack 1](https://www.nexusmods.com/skyrimspecialedition/mods/12186) - Thirty (30) dungeons added to Skyrim and Solstheim to discover and explore plus a new world space called Desolate Veil, realm of Lord Vuldur.
 
@@ -243,21 +233,9 @@ After you've finalized your character and exited out of Racemenu via <kbd>R</kbd
 
 ![telsera-gotta-go-fast3](https://i.imgur.com/3uJWuBU.png)
 
-Once you've exited the cave, the person who chose will be waiting outside. It's easy to miss, but notice the additional backpack on the ground.
+Once you've exited the cave, the person who chose will be waiting outside. It's easy to miss, but notice the additional backpack on the ground. A collection of starter items will be inside for you to start your journey!
 
 ![telsera-gotta-go-fast4](https://i.imgur.com/3Bb8GtV.png)
-
-A small menu will appear if you look at it. Press <kbd>E</kbd> to interact with the items inside the backpack via the quick menu, or if you prefer looking at the entire inventory, press <kbd>R</kbd> instead.
-
-![telsera-gotta-go-fast5](https://i.imgur.com/h4EybLE.png)
-
-If you are NOT familiar with Skyrim/this is one of your first playthroughs, I recommend NOT grabbing the item in the backpack titled, "[AddItemMenuSEPack]" as this is a cheaty item enabling you to obtain any vanilla or modded armor, weapon, or item easily. If you ARE familiar with Skyrim/this is your 43957348 run, then feel free to grab it. Once it's in your inventory, four sub-objects will appear (ie. selection menu in the form of a spell or a misc object). Pick whatever you like.
-
-![telsera-gotta-go-fast6](https://i.imgur.com/OTNXeZ3.png)
-
-Now you're ready to embark on your journey through Telsera! But wait, you may want to keep reading the other points below... getting ahead of myself there...
-
-![telsera-gotta-go-fast7](https://i.imgur.com/dul4mUC.png)
   
 </details>
 
@@ -367,11 +345,13 @@ You'll then be able to navigate the controls of OStim's interface. You can now t
 
 ![telsera-ostim13](https://i.imgur.com/WdCdY0G.png)
 
-After you've ended your time together via the <kbd>Del</kbd> key, depending on what actions were performed, you'll receive a message at the top left of your screen. This is an indication you character has a temporary buff Lover's Comfort!
+After you've ended your time together via the <kbd>Del</kbd> key, depending on what actions were performed, you'll receive a message at the top left of your screen. This is an indication you character has a temporary buff Lover's Comfort.
 
 ![telsera-ostim14](https://i.imgur.com/IzhiZoj.png)
   
 </details>
+
+**EXTRA NOTE** - There is an Unrestricted Mode within OStim's MCM. Head down to the Debug entry, and tick the box "Unrestricted" to access a variety of animations regardless of your character's gender. Some clipping may occur depending on which animations you pick, but it's pretty handy nonetheless!
 
 ### Dragon Claws Auto-Unlock
 
