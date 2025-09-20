@@ -41,7 +41,7 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 **NOTE** - The top-most entry is the current release.
 
-## Version 1.2.0 - CURRENT
+## Version 1.2.0
 
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
