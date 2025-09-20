@@ -58,19 +58,19 @@
 
 Here are the primary notes:
 
-<kbd>-</kbd> - Long hold press. Starts a scene. A pop-up menu will appear asking if you'd like to add any additional NPCs. Select None if you'd like to initiate a solo scene.
+<kbd>directional up arrow</kbd> - Long hold press. Starts a scene. A pop-up menu will appear asking if you'd like to add any additional NPCs. Select None if you'd like to initiate a solo scene.
 
-<kbd>Up Arrow</kbd> - While in the navigation menu when a scene has started, this will move your selector upward.
+<kbd>Numpad8</kbd> - While in the navigation menu when a scene has started, this will move your selector upward.
 
-<kbd>Left Arrow</kbd> - While in the navigation menu when a scene has started, this will move your selector to the left.
+<kbd>Numpad4</kbd> - While in the navigation menu when a scene has started, this will move your selector to the left.
 
-<kbd>Right Arrow</kbd> - While in the navigation menu when a scene has started, this will move your selector to the right.
+<kbd>Numpad6</kbd> - While in the navigation menu when a scene has started, this will move your selector to the right.
 
 <kbd>Down Arrow</kbd> - While in the navigation menu when a scene has started, this will move your selector downward.
 
-<kbd>Y</kbd> - Accepts a selection choice, or "Yes" to a navigation pane (ie. Yes to move to the next animation set).
+<kbd>Numpad7</kbd> - Accepts a selection choice, or "Yes" to a navigation pane (ie. Yes to move to the next animation set).
 
-<kbd>Del</kbd> - Ends a scene. If you're outdoors, the grass may take a moment to reload.
+<kbd>NumpadPeriod</kbd> - Ends a scene. If you're outdoors, the grass may take a moment to reload.
 
 Want to change the default keybind setup for OStim? Images on how to do so are provided under the spoiler.
 
