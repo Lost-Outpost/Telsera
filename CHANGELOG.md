@@ -394,6 +394,8 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Removed Tiber Septim Room Improvement - Lux Fixes
 - Removed Redguard Elite Reintegration
 - Removed Prisoner Cart Fix SMIM
+- Removed High Poly Soul Husks
+- Removed FYX - Campfire Reacts to the Wind
 - Fixed incorrect condition preventing ".. (Scene Start)" from being accessible via OStim Romance.
 - Fixed Rolff Stone-Fist's body from not being removed post-optional-murder.
 - Fixed various flickering/missing meshes in various areas (ie. Brinewater Grotto, Glenmoril Coven, Bloodskal Barrow, Bee and Barb).
