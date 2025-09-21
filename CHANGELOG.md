@@ -17,6 +17,7 @@
 - [Changelog](#changelog)
   - [Save-Safe vs Non-save-safe](#will-a-save-from-version-x-be-safe-with-version-y)
 - [Version History](#version-history)
+  - [Version 1.2.0.1](#version-1201)
   - [Version 1.2.0](#version-120)
   - [Version 1.1.1](#version-111)
   - [Version 1.1.0](#version-110)
@@ -40,6 +41,23 @@ All modlists in the Animonculory use semantic versioning which translates to the
 # Version History
 
 **NOTE** - The top-most entry is the current release.
+
+## Version 1.2.0.1
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+
+### IMPORTANT
+ 
+- This is a save-safe update.
+
+### Breakdown
+
+- Fixed a missing plugin for Blade and Blunt for Vanilla Difficulty Modifiers.
+
+  </details>
+- - - - - - - - -
 
 ## Version 1.2.0
 
