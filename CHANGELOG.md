@@ -94,6 +94,7 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Tweaked The New Gentleman settings to increase the dick sizes a teeny bit.
 - Tweaked OCum settings to have cum meshes be enabled by default.
 - Tweaked SSE Engine Fixes settings to no longer pop-up after game close with texture error messaging (log will still be generated in Documents as I am currently looking into said errors).
+- Corrected "(SEE README)" MO2 Notes entries under the Optional Mods to say Config Guide instead of Gameplay Guide (had it wrong this whole time??)
 
   </details>
 - - - - - - - - -
