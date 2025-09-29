@@ -36,6 +36,7 @@ This guide highlights major mods included in Telsera in the following categories
   - [TNG Customization](#tng-customization)
   - [OStim Romance](#ostim-romance)
   - [OStim Romance Bypass](#ostim-romance-bypass)
+  - [Dragon Claws Auto-Unlock](#dragon-claws-auto---unlock)
 
 ## Gameplay
 
@@ -58,6 +59,8 @@ Telsera includes a setup featuring the following UI mods:
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - HUD additions formerly included in True Directional Movement, completely reworked and improved! Very customizable actor info bars, boss bars, player widget, recent loot log and an API for other plugins to use. Modular and customizable through MCM.
 
 - [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) - Take snapshots of your adventures in game with Photo Mode!
+
+- [Improved Camera](https://www.nexusmods.com/skyrimspecialedition/mods/93962) - Improved Camera is an SKSE plugin that enables the 1st person body and allows for typically forced 3rd person animations also to be played in 1st person.
 
 ### SFW Core Overhauls
 
