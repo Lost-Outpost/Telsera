@@ -17,6 +17,7 @@
 - [Changelog](#changelog)
   - [Save-Safe vs Non-save-safe](#will-a-save-from-version-x-be-safe-with-version-y)
 - [Version History](#version-history)
+  - [Version 1.2.1](#version-121)
   - [Version 1.2.0.1](#version-1201)
   - [Version 1.2.0](#version-120)
   - [Version 1.1.1](#version-111)
@@ -40,7 +41,62 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 # Version History
 
-**NOTE** - The top-most entry is the current release.
+**NOTE - The top-most entry is the current release.**
+
+## Version 1.2.1
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+
+### IMPORTANT
+ 
+- This is a save-safe update.
+- You will receive a notice about missing plugins. This is safe to ignore.
+
+### Breakdown
+
+- Added Better ropes for skyrim SE
+- Added Camera Animation Mitigation
+- Added Improved Camera SE
+- Added Improved Camera Patch Collection
+- Added OStim Improved Camera Configuration
+- Added Bound Hands - Helgen Attack DAR Animations
+- Added Seranaholic by rxkx22 - SSE
+- Added Seranaholic - Use your custom skin texture (Serana and Valerica)
+- Added Petite to Plenty - A CBPC Config for Realistic Collisions and Physics
+- Added AZTweaks - Floppy Schlongs
+- Updated NPCs React To Fire
+- Updated Menagerie - An Anniversary Edition Pet Overhaul
+- Updated MOXIE - Masculine Skinblend - 4K
+- Updated Spell Knight Armors Retexture
+- Updated SSE Engine Fixes
+- Updated Foamimi's Mini Mod Tweaks
+- Removed Skyrim Teas (madgbi edition)
+- Removed Snazzy Locations - Various Outputs - FaceGen
+- Removed CBPC - 3BA Configs
+- Removed 3BA CBPC Realistic Firm Preset - Belly
+- Removed 3BA CBPC Belly Bulge Fixes (not needed, as it's included in Petite to Plenty's config options)
+- Fixed floating lights in various vanilla player homes.
+- Fixed flickering walls and missing meshes within the Ratway.
+- Fixed borked bed textures in Hendraheim for REAL this time.
+- Fixed clipping barrels in Ivarstead.
+- Fixed clipping bench outside of the Blue Palace.
+- Fixed missing light source within the Blue Palace.
+- Fixed several item misplacements related to Ryn's Standing Stones - No Lady Stone (ie. missed disabling collision markers and dock mooring).
+- Fixed several item misplacements related to Northern Roads - Clutter Only (ie. Windhelm Stables area).
+- Fixed getting mooned in the Dragonsreach Dungeon if you go to jail (bandit has pants now, wowzers).
+- Fixed miscellaneous items from randomly falling onto the ground/floating mid air post-load in the Windhelm Marketplace area.
+- Tweaked lighting in Mistveil Keep to prevent flickering and enhance the throne area more.
+- Tweaked lighting in the Blue Palace to enhance the throne area more.
+- Tweaked lighting in the Ragged Flagon to enhance the bar area more.
+- Tweaked Fishing Map Marker (Riften South) to be set to initially disabled, as it obscured the primary map marker for Riften once discovered.
+- Tweaked The New Gentleman settings to increase the dick sizes a teeny bit.
+- Tweaked OCum settings to have cum meshes be enabled by default.
+- Tweaked SSE Engine Fixes settings to no longer pop-up after game close with texture error messaging (log will still be generated in Documents as I am currently looking into said errors).
+
+  </details>
+- - - - - - - - -
 
 ## Version 1.2.0.1
 
