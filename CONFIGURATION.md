@@ -119,6 +119,8 @@ Telsera uses [Improved Camera](https://www.nexusmods.com/skyrimspecialedition/mo
 
 Under the Optional Mods category in Telsera's instance of MO2, there's a file titled **"Improved Camera Config - FOV 90 for 1stPerson OStim Scenes (SEE README)"** that is turned OFF by default. This file basically locks the field-of-view at 90 while you play, so you're able to experience intimacy scenes in 1stPerson with better viewing pleasure. The downside to this is that it'll be LOCKED at 90, so if you go to manually change your field-of-view via the console or whatnot after you end a scene, it'll snap back to 90 until you set the file back to disabled.
 
+If you plan on experimenting with OStim scenes in 1stPerson, or don't mind the restriction lock, feel free to enable the optional config file at any time. If you change your mind later on, it'll be safe to disable mid-playthrough. Flexibility is key!
+
 ## Character Presets
 
 Telsera includes a mod containing a premade folder structure for character presets that you either create yourself or download from others. You can copy presets you download into the designated folder. 
