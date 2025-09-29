@@ -19,6 +19,7 @@
 - [Hotkeys](#Hotkeys)
 - [OStim SA Hotkeys](#OStim-SA-Hotkeys)
 - [Smaller OStim Navigation Menu](#Smaller-OStim-Navigation-Menu)
+- [OStim in 1stPerson](#ostim-in-1stperson)
 - [Character Presets](#Character-Presets)
 - [ENB Settings](#ENB-Settings)
 
@@ -70,6 +71,8 @@ Here are the primary notes:
 
 <kbd>NumpadPeriod</kbd> - Ends a scene. If you're outdoors, the grass may take a moment to reload.
 
+<kbd>Numpad/</kbd> or <kbd>MouseScrollWheel</kbd> - Swaps player perspective from 3rdPerson to 1stPerson (or vice-versa).
+
 Want to change the default keybind setup for OStim? Images on how to do so are provided under the spoiler.
 
 <details>
@@ -109,6 +112,12 @@ Now we're going to navigate to the paste location. Head to the following: C:\Use
 ... and you're done! Next time you go in-game, the menu will be slightly smaller to accomendate viewing better.
 
 </details>
+
+## OStim in 1stPerson
+
+Telsera uses [Improved Camera](https://www.nexusmods.com/skyrimspecialedition/mods/93962), which allows for various 3rdPerson actions to be performed from the 1stPerson perspective. As mentioned earlier in the guide, 1stPerson can be accessed via <kbd>Numpad/</kbd> or <kbd>MouseScrollWheel</kbd> during OStim scenes. 
+
+Under the Optional Mods category in Telsera's instance of MO2, there's a file titled **"Improved Camera Config - FOV 90 for 1stPerson OStim Scenes (SEE README)"** that is turned OFF by default. This file basically locks the field-of-view at 90 while you play, so you're able to experience intimacy scenes in 1stPerson with better viewing pleasure. The downside to this is that it'll be LOCKED at 90, so if you go to manually change your field-of-view via the console or whatnot after you end a scene, it'll snap back to 90 until you set the file back to disabled.
 
 ## Character Presets
 
