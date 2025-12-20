@@ -199,15 +199,7 @@ Other changes to quests include;
 
 - [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371) - A vanilla-style nordic dungeon in the Western Rift, based on its appearance in the Elder Scrolls Online.
 
-- [Lost Passages - New Dungeons for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/106061) - Adds 20 Radiant-enabled dungeons to various holds throughout Skyrim.
-
-- [Hammet's Dungeon Pack 1](https://www.nexusmods.com/skyrimspecialedition/mods/12186) - Thirty (30) dungeons added to Skyrim and Solstheim to discover and explore plus a new world space called Desolate Veil, realm of Lord Vuldur.
-
-- [Hammet Dungeon Pack 2](https://www.nexusmods.com/skyrimspecialedition/mods/95339) - A new compilation of my fifteen (15) Dungeons.
-
 ## Player Homes
-
-- [Revak Rift](https://www.nexusmods.com/skyrim/mods/67808) - Located west of [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim_(place)), Revak Rift is a cozy home for the player who wants to display everything from daedric artifacts down to Ysgramor's Soup Spoon. **To enter the home, you must have unlocked the Unrelenting Shout.** Look up at the dragon skull hanging over the front door, and perform the shout. The doors will automatically unlock, and you will be able to enter.
 
 - [Cityside - A Starter Home](https://www.nexusmods.com/skyrimspecialedition/mods/27777) - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude.
 
