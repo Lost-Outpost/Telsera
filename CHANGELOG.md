@@ -17,6 +17,7 @@
 - [Changelog](#changelog)
   - [Save-Safe vs Non-save-safe](#will-a-save-from-version-x-be-safe-with-version-y)
 - [Version History](#version-history)
+  - [Version 2.0.0](#version-200)
   - [Version 1.2.1](#version-121)
   - [Version 1.2.0.1](#version-1201)
   - [Version 1.2.0](#version-120)
@@ -42,6 +43,46 @@ All modlists in the Animonculory use semantic versioning which translates to the
 # Version History
 
 **NOTE - The top-most entry is the current release.**
+
+## Version 2.0.0
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+
+### IMPORTANT
+ 
+- This is NOT a save-safe update.
+- You will need to start a new game.
+
+### Breakdown
+
+I didn't keep a changelog because I was so back and forth on how much would change, but in the grand scheme of things, here's a few highlights:
+
+- Addition of High Poly Head
+- Addition of more locations from JK's Interiors series
+- Addition of some singular new armor/gear sets
+- Addition of Simple Bandit Expansion
+- Addition of Sforzinda's Destinations to help with fast travel
+- Updated both 3BA and HIMBO bodyslide presets the list uses (the 3BA one is brand new)
+- Updated the vanilla player home setup the list uses from Cyn's work to TNF Skyrim House Remodel
+- Updated the landscape textures the list uses (ie. Fantasia + Tomato's Landscapes AIO)
+- Removal of Hammet's Dungeons 1 and 2, along with Lost Passages
+- Removal of the FDE series. 
+- Removal of some smaller, mod added creatures
+- Various mod updates
+- Various interior lighting updates (still using ELFX + ELFX Shadows)
+
+Reasons typically consisted of:
+- *Roswell from Animal Crossing New Horizons voice* Spaaaace. In the end, it wasn't much of a difference admittedly... but I spent a long time going back and forth on what to keep and what to axe. Trust me when I say it was a lot of finagling!
+- Dungeons were repetitive, long, or just not interesting in certain cases.
+- No longer interested in using certain mods.
+- Flickering. Too dark. Inconsistent lighting. Ugh lighting in certain areas bugged me! Trying to fix some of that now before I run LODs.
+
+Gameplay will be the same. Certain changes to NSFW animations to reduce the count a teeny bit to make room for new ones. And the overall feel for the list will be the same.
+
+  </details>
+- - - - - - - - -
 
 ## Version 1.2.1
 
