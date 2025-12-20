@@ -82,7 +82,6 @@ Reasons typically consisted of:
 Gameplay will be the same. Certain changes to NSFW animations to reduce the count a teeny bit to make room for new ones. And the overall feel for the list will be the same.
 
   </details>
-- - - - - - - - -
 
 ## Version 1.2.1
 
@@ -138,7 +137,6 @@ Gameplay will be the same. Certain changes to NSFW animations to reduce the coun
 - Corrected "(SEE README)" MO2 Notes entries under the Optional Mods to say Config Guide instead of Gameplay Guide (had it wrong this whole time??)
 
   </details>
-- - - - - - - - -
 
 ## Version 1.2.0.1
 
@@ -155,7 +153,6 @@ Gameplay will be the same. Certain changes to NSFW animations to reduce the coun
 - Fixed a missing plugin for Blade and Blunt for Vanilla Difficulty Modifiers.
 
   </details>
-- - - - - - - - -
 
 ## Version 1.2.0
 
@@ -530,7 +527,6 @@ Gameplay will be the same. Certain changes to NSFW animations to reduce the coun
 - Made a boatload of custom conflict resolution patches regarding lighting, clutter, trees, etc. - phew!
 
 </details>
-- - - - - - - - -
 
 ## Version 1.1.1 
 
@@ -579,7 +575,6 @@ Gameplay will be the same. Certain changes to NSFW animations to reduce the coun
 - Unpacked some of the new BSAs from the previous update.
 
 </details>
-- - - - - - - - -
 
 ## Version 1.1.0 
 
@@ -812,7 +807,6 @@ Gameplay will be the same. Certain changes to NSFW animations to reduce the coun
 - Disabled silly mods by default.
 
 </details>
-- - - - - - - - -
 
 ## Version 1.0.0.1 
 
@@ -823,7 +817,6 @@ Gameplay will be the same. Certain changes to NSFW animations to reduce the coun
 - Fixed pitch black diffuse textures on Hide Armor.
 
 </details>
-- - - - - - - - -
 
 ## Version 1.0.0
 
@@ -834,4 +827,3 @@ Gameplay will be the same. Certain changes to NSFW animations to reduce the coun
 - Release
 
 </details>
-- - - - - - - - -
