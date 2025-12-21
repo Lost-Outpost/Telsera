@@ -18,11 +18,11 @@
 
 - [Hotkeys](#Hotkeys)
 - [OStim SA Hotkeys](#OStim-SA-Hotkeys)
+- [ENB Settings](#ENB-Settings)
 - [Smaller OStim Navigation Menu](#Smaller-OStim-Navigation-Menu)
 - [OStim in 1stPerson](#ostim-in-1stperson)
 - [High Poly Head Setup](#High-Poly-Head-Setup)
 - [Character Presets](#Character-Presets)
-- [ENB Settings](#ENB-Settings)
 
 ## Hotkeys
 
@@ -90,6 +90,20 @@ Once you find the entry titled OStim Standalone, click the Controls tab on the l
 The keybinds in the images above are different than OStim SA's default setup, just a heads up. I changed mine, and I realize everyone has their preference when it comes to keybinds, so feel free to change them to whatever is easiest for you. 
 
 </details>
+
+## ENB Settings
+
+If you'd like to make adjustments to the ENB included in Telsera, the keybinds are the following:
+
+<kbd>F11</kbd> - Opens up the ENB menu (press again to close). 
+ 
+NOTE - It's recommended to ALSO PRESS  <kbd>'</kbd> to bring up Skyrim's console as well, so then while you configure your settings in the main menu, your character isn't punching the air everytime you click.
+
+<kbd>;</kbd> - Enables the depth-of-field effect. 
+
+<kbd>F7</kbd> - Enables the FPS overlay effect. 
+
+<kbd>Home</kbd> - Disables the ENB. 
 
 ## Smaller OStim Navigation Menu
 
@@ -167,17 +181,3 @@ When you make your presets in Racemenu they will be located in the Overwrite fol
 You can select Overwrite, right-click it, and then select "Open in Explorer" to see the presets directory (same location as above in the SKSE folder). Find the file(s) titled insertpresetnamehere.jslot, copy or cut the file, and paste into the [NoDelete] User-Made Racemenu Presets (SEE README)\SKSE\Plugins\CharGen\Presets\X folder. You have now saved your preset, and it will be safe from auto-deletion next time you update the list. The [NoDelete] portion tells Wabbajack to ignore said folder.
 
 </details>
-
-## ENB Settings
-
-If you'd like to make adjustments to the ENB included in Telsera, the keybinds are the following:
-
-<kbd>F11</kbd> - Opens up the ENB menu (press again to close). 
- 
-NOTE - It's recommended to ALSO PRESS  <kbd>'</kbd> to bring up Skyrim's console as well, so then while you configure your settings in the main menu, your character isn't punching the air everytime you click.
-
-<kbd>;</kbd> - Enables the depth-of-field effect. 
-
-<kbd>F7</kbd> - Enables the FPS overlay effect. 
-
-<kbd>Home</kbd> - Disables the ENB. 
