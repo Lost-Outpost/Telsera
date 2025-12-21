@@ -220,7 +220,7 @@ Hello! Welcome. Once you startup Skyrim via Telsera's MO2 instance and select Ne
 
 ![telsera-gotta-go-fast1](https://i.imgur.com/nUpmhH9.png)
 
-You'll be greeted by the good ol' default Prisoner face right near the exit of the cave you escape from Helgen in. Feel free to customize your character to your liking by exploring the various available sliders. I went with my favorite preset (included in the list by default) for the following example images.
+You'll be greeted by the good ol' default Prisoner face right near the exit of the cave you escape from Helgen in. Feel free to customize your character to your liking by exploring the various available sliders. **IMPORTANT** - In the search bar at the top, type, "facepart" and you'll see a slider that will swap your character's head to a higher poly version. Eventually I'll try and make this be automatic, but in the meantime, you must select this slider to prevent beard or eyebrow clipping.
 
 ![telsera-gotta-go-fast2](https://i.imgur.com/4asgaBk.png)
 
