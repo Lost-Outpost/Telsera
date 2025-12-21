@@ -20,6 +20,7 @@
 - [OStim SA Hotkeys](#OStim-SA-Hotkeys)
 - [Smaller OStim Navigation Menu](#Smaller-OStim-Navigation-Menu)
 - [OStim in 1stPerson](#ostim-in-1stperson)
+- [High Poly Head Setup](#High-Poly-Head-Setup)
 - [Character Presets](#Character-Presets)
 - [ENB Settings](#ENB-Settings)
 
@@ -120,6 +121,27 @@ Telsera uses [Improved Camera](https://www.nexusmods.com/skyrimspecialedition/mo
 Under the Optional Mods category in Telsera's instance of MO2, there's a file titled **"Improved Camera Config - FOV 90 for 1stPerson OStim Scenes (SEE README)"** that is turned OFF by default. This file basically locks the field-of-view at 90 while you play, so you're able to experience intimacy scenes in 1stPerson with better viewing pleasure. The downside to this is that it'll be LOCKED at 90, so if you go to manually change your field-of-view via the console or whatnot after you end a scene, it'll snap back to 90 until you set the file back to disabled.
 
 If you plan on experimenting with OStim scenes in 1stPerson, or don't mind the restriction lock, feel free to enable the optional config file at any time. If you change your mind later on, it'll be safe to disable mid-playthrough. Flexibility is key!
+
+## High Poly Head Setup
+
+As of version 2.0.0, Telsera now contains the mod, High Poly Head. It will **not be automatically applied** to your character, as there's **a slider you need to move during character creation, first!** The steps to do so can be found in the spoiler below.
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+Once you go into Racemenu during character creation, you'll notice a search bar up at the top left-ish side. Type, "**facepart**" without quotations, and a single slider should appear. 
+
+- insert image here WIP -
+
+Using your cursor, drag the slider to the **right**, and boom, your character will now have a High Poly Head! To exit the search functionality, clear the searchbar via backspace once you've selected the box with the facepart text.
+
+- insert image here WIP -
+
+</details>
+
+**BONUS** - There are several mods titled, "For HPH - Unplayable Facial Parts - xyz" under the Optional mods separator. Tick those boxes to enable them before you go in-game **if you are going to High Poly Head on your player character**. They are handy, ease of creation mods that will remove the various excess low poly vanilla headparts, such as brows and scars, from being visible in Racemenu. You will **still need to move the facepart slider over** to enable High Poly Head! I'm hoping in the future I can automate the process, but in the meantime, here we are...
+
+</details>
 
 ## Character Presets
 
