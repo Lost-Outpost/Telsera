@@ -67,8 +67,7 @@ I didn't keep a changelog because I was so back and forth on how much would chan
 - Updated both 3BA and HIMBO bodyslide presets the list uses (the 3BA one is brand new)
 - Updated the vanilla player home setup the list uses from Cyn's work to TNF Skyrim House Remodel
 - Updated the landscape textures the list uses (ie. Fantasia + Tomato's Landscapes AIO)
-- Removal of Hammet's Dungeons 1 and 2, along with Lost Passages
-- Removal of the FDE series. 
+- Removal of Hammet's Dungeons 1 and 2, along with Lost Passages 
 - Removal of some smaller, mod added creatures
 - Various mod updates
 - Various interior lighting updates (still using ELFX + ELFX Shadows)
