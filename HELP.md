@@ -57,7 +57,7 @@ Open the console via <kbd>'</kbd>. Type the following: <kbd>fov 90</kbd> and you
 
 ### Help! My character's dick has texture mismatching! What do I do?
 
-This can happen if you used the keybind to customize your character's genitals, and you picked one of the "TRX Futanari" options. Unfortunately, as of Telsera's v1.2.0 release, there is no mod to blend the texture setups for **Argonians** and **Khajiit** characters. I did my best to do custom blends for humans and elves, and the seams for those folks should be minimal.
+This can happen if you used the keybind to customize your character's genitals, and you picked one of the "TRX Futanari" options. Unfortunately, as of Telsera's v1.2.0 release and forward, there is no mod to blend the texture setups for **Argonians** and **Khajiit** characters. I did my best to do custom blends for humans and elves, and the seams for those folks should be minimal.
 
 ### How to I change the Field Of View (FOV) permanently?
 
