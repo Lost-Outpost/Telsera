@@ -33,7 +33,11 @@ Feel free to hop on the Discord support forum channel, as support is primarily o
 
 ### Can I add or remove X, Y, Z mod after I install?
 
-That's up to you, but typically anything outside of enabling/disabling any of the Optional Mods falls under **Wabbajack Rule 11: you will void any help or support given if you run into issues.**
+That's up to you, but typically anything outside of enabling/disabling any of the Optional Mods falls under **Wabbajack Rule 11: you will void any help or support given if you run into issues.** 
+
+### Why are NPCs missing their bodies? Missing textures? Chaos??
+
+Did you press the Unlock button via MO2's interface after you launched Telsera? If so, simply exit out of the game, then relaunch. Next time you relaunch, **DO NOT PRESS THE UNLOCK BUTTON**! That completely borks the game! If you didn't press the button, you may need to re-run the Wabbajack installer once again in case the installation process was borked. If you're STILL having issues, please reach out on LostOutpost, Nexus, or the Issues tab here, and we'll see what we can do.
 
 ### Can I play the vanilla opening intro scene in this pack?
 
@@ -42,10 +46,6 @@ Yes! Telsera uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/6
 ### What difficulty is recommended to play Telsera at?
 
 That's completely up to you! **The default is set to Adept**, however, it boils down to your own preference in the end. Steps on how to adjust the difficulty can be found in the <a href="https://github.com/Lost-Outpost/Telsera/blob/main/GAMEPLAY.md#difficulty-and-survival-mode">Gameplay Guide</a> section of the readme!
-
-### Why is my stamina depleting as I jump, sneak, or swim?
-
-That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrimspecialedition/mods/34549">Blade and Blunt</a>. This is a purposeful mechanic to increase the difficulty through resource management and planning. I'd recommend looking over Blade and Blunt's modpage for more information.
 
 ### What are the controls for OStim in Telsera?
 
@@ -59,15 +59,15 @@ Open the console via <kbd>'</kbd>. Type the following: <kbd>fov 90</kbd> and you
 
 This can happen if you used the keybind to customize your character's genitals, and you picked one of the "TRX Futanari" options. Unfortunately, as of Telsera's v1.2.0 release, there is no mod to blend the texture setups for **Argonians** and **Khajiit** characters. I did my best to do custom blends for humans and elves, and the seams for those folks should be minimal.
 
-### Why are NPCs missing their bodies? Missing textures? Chaos??
-
-Did you press the Unlock button via MO2's interface after you launched Telsera? If so, simply exit out of the game, then relaunch. Next time you relaunch, **DO NOT PRESS THE UNLOCK BUTTON**! That completely borks the game! If you didn't press the button, you may need to re-run the Wabbajack installer once again in case the installation process was borked. If you're STILL having issues, please reach out on LostOutpost, Nexus, or the Issues tab here, and we'll see what we can do.
-
 ### How to I change the Field Of View (FOV) permanently?
 
 We'll want to double-click the mod, **OStim Improved Camera Configuration - Foamimi's Settings** under the User Interface separator on the left side of MO2. Under the INI Files tab in the pop-up window, in the text box area, scroll down until you see the section with **[FOV]** written. You should see various lines underneath **; Settings for changing fov**. Depending on if you're only changing 1st person, 3rd person, or both, you'll need to change the 90.0 (default) to whatever you prefer. Just note, **you'll have to do these steps for BOTH available ini files**. 
 
 Another thing to keep in mind is if you're using the **Improved Camera Config - FOV 90 for 1stPerson OStim Scenes** mod under the Optional Mods separator, then you'll need to manually adjust those values, instead. 
+
+### Why is my stamina depleting as I jump, sneak, or swim?
+
+That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrimspecialedition/mods/34549">Blade and Blunt</a>. This is a purposeful mechanic to increase the difficulty through resource management and planning. I'd recommend looking over Blade and Blunt's modpage for more information.
 
 ### How to I mark my follower as Essential so they don't accidentally die during combat?
 
