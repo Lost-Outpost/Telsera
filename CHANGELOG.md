@@ -17,6 +17,7 @@
 - [Changelog](#changelog)
   - [Save-Safe vs Non-save-safe](#will-a-save-from-version-x-be-safe-with-version-y)
 - [Version History](#version-history)
+  - [Version 2.0.1](#version-201)
   - [Version 2.0.0](#version-200)
   - [Version 1.2.1](#version-121)
   - [Version 1.2.0.1](#version-1201)
@@ -44,11 +45,36 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 **NOTE - The top-most entry is the current release.**
 
-## Version 2.0.0
+## Version 2.0.1
 
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
 
+
+### IMPORTANT
+ 
+- This is a save-safe update.
+- You will receive a notice about missing plugins. This is safe to ignore.
+
+### Breakdown
+
+- Added Liquid Filled Jugs - Mugs - Cups - Bowls
+- Added Marry The Courier (*shows hand-written permit saying, "I do what I want!"*)
+- Added OStim Romance - Foamimi's Tweaks (we were already using this, but this is the updated version with some fixes)
+- Added Masculine OSSO Kiss Replacer
+- Updated OStim Standalone Sound Overhaul (OSSO)
+- Removed Fires Hurt RE
+- Removed Fire Hurts NG Updated
+- Removed Ostim SA-Sound Replacer-Blowjob
+- Fixed missing textures for the Malacath statue
+
+  </details>
+
+## Version 2.0.0
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+  
 
 ### IMPORTANT
  
