@@ -17,6 +17,7 @@
 - [Changelog](#changelog)
   - [Save-Safe vs Non-save-safe](#will-a-save-from-version-x-be-safe-with-version-y)
 - [Version History](#version-history)
+  - [Version 2.0.2](#version-202)
   - [Version 2.0.1](#version-201)
   - [Version 2.0.0](#version-200)
   - [Version 1.2.1](#version-121)
@@ -44,6 +45,50 @@ All modlists in the Animonculory use semantic versioning which translates to the
 # Version History
 
 **NOTE - The top-most entry is the current release.**
+
+## Version 2.0.2 [UNRELEASED]
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+
+### IMPORTANT
+ 
+- This is a save-safe update.
+- You will receive a notice about missing plugins. This is safe to ignore.
+
+### Breakdown
+
+- Added High Fantasy ENB for Azurite Weathers III based on Pi-Cho
+- Added Highpolyfication - JK's Skyrim and More
+- Added No Load Door NPC Fade
+- Added Follower Dialogue Expansion - Saadia
+- Added Leon S. Kennedy - Standalone Follower (HIMBO)
+- Added Dynamic Things Alternative - Base Object Swapper
+- Added Dynamic Things Alternative - Base Object Swapper - Settings Loader
+- Added Streamlined Fishing
+- Updated PI-CHO ENB (Based on Silent Horizons)
+- Updated The Pigeon's Nest - Miscellaneous FIxes and Tweaks
+- Updated Weathered Barrels Retexture (SMIM - BOS)
+- Updated Favorite Misc Items
+- Updated Arm Movement Animations (OAR)
+- Updated NPC Animation Remix (OAR)
+- Updated Joseb 2.0 - BodySlide Preset for HIMBO v5
+- Updated MOXIE - Masculine Skinblend (Male Skin) - 4K
+- Updated HIMBO - Vagina from 3BA Refit for MOXIE Skinblend
+- Updated Survival Mode Improved - SKSE
+- Updated Rally's Banners of Skyrim
+- Updated Caught Red Handed - Quest Expansion
+- Updated Skyrim on Skooma
+- Updated Stress and Fear - A Dynamic Sanity System
+- Updated Assorted mesh fixes
+- Updated CBBE 3BA Vanilla Outfits Redone
+- Removed Modern Female Sitting Animations Overhaul - OAR
+- Removed Immersive Fishing
+- Removed HLT Addon - Sitting on Sensible Stumps - BOS
+- Fixed Evette San's house from being completely borked
+
+  </details>
 
 ## Version 2.0.1
 
