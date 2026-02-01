@@ -66,8 +66,20 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Added Leon S. Kennedy - Standalone Follower (HIMBO)
 - Added Dynamic Things Alternative - Base Object Swapper
 - Added Dynamic Things Alternative - Base Object Swapper - Settings Loader
-- Added Streamlined Fishing
-- Updated PI-CHO ENB (Based on Silent Horizons)
+- Added FYX Smooth Wells - Compatibility Tweaks
+- Added Ducks and Swans 2
+- Added StarRiseShine's Gourmet Patches
+- Added Chicks- Mihail Monsters and Animals (SE-AE version) (''chicken'')
+- Added Optimized Meshes - Chickens and Chicks- Mihail Monsters and Animals (SE-AE version)
+- Added Chicks - My optimized textures SE by Xtudo
+- Added Mihail Chicks - Ownership Fix
+- Added Chicks - Food Additions
+- Added Bantam Guars- Mihail Monsters and Animals (SE-AE version) (''eso morrowind')
+- Added Hanging Dead Bantam Guars- Echoes of Morrowind (SE-AE) (''eso'')
+- Added Mihail Bantam Guars - Tweaks and Fixes
+- Added Bantam Guars - Food Additions
+- Added Bantam Guars - Hanging Dead Bantam Guars - My optimized textures SE by Xtudo
+- Updated PI-CHO ENB (Based on Silent Horizons) 
 - Updated The Pigeon's Nest - Miscellaneous FIxes and Tweaks
 - Updated Weathered Barrels Retexture (SMIM - BOS)
 - Updated Favorite Misc Items
@@ -76,17 +88,22 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Updated Joseb 2.0 - BodySlide Preset for HIMBO v5
 - Updated MOXIE - Masculine Skinblend (Male Skin) - 4K
 - Updated HIMBO - Vagina from 3BA Refit for MOXIE Skinblend
-- Updated Survival Mode Improved - SKSE
 - Updated Rally's Banners of Skyrim
 - Updated Caught Red Handed - Quest Expansion
 - Updated Skyrim on Skooma
 - Updated Stress and Fear - A Dynamic Sanity System
 - Updated Assorted mesh fixes
 - Updated CBBE 3BA Vanilla Outfits Redone
+- Updated Foamimi's Mini Mod Tweaks
+- Updated Foamimi's Telsera Presets
+- Updated Liquid Filled Jugs - Mugs - Cups - Bowls
+- Updated Lovemaking Compendium for OStim Standalone
 - Removed Modern Female Sitting Animations Overhaul - OAR
 - Removed Immersive Fishing
 - Removed HLT Addon - Sitting on Sensible Stumps - BOS
+- Removed HIMBO - Vagina from 3BA Refit - TNG Patch
 - Fixed Evette San's house from being completely borked
+- Tweaked HIMBO's refit of CC Iron Plate to be closer to the body frame
 
   </details>
 
