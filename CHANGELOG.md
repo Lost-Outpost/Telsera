@@ -81,7 +81,7 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Added Bantam Guars - Hanging Dead Bantam Guars - My optimized textures SE by Xtudo
 - Added Book Covers Skyrim - Normal map FIX
 - Added Iconic's Gargoyle and Death Hound Retexture
-- Added Project Clarity - Clutter Textures Redone
+- Added Sorcerer - staffbench fix
 - Updated PI-CHO ENB (Based on Silent Horizons) 
 - Updated The Pigeon's Nest - Miscellaneous FIxes and Tweaks
 - Updated Weathered Barrels Retexture (SMIM - BOS)
@@ -110,7 +110,6 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Fixed clipping, floating, and missing objects in the College of Winterhold
 - Fixed floating candle in the Bee and Barb
 - Fixed floating dibella statue in Haelga's Bunkhouse
-- Fixed mismatched texture on staff enchanters from Sorcerer 
 - Tweaked HIMBO's refit of CC Iron Plate to be closer to the body frame
 
   </details>
