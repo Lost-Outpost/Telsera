@@ -46,7 +46,7 @@ All modlists in the Animonculory use semantic versioning which translates to the
 
 **NOTE - The top-most entry is the current release.**
 
-## Version 2.0.2 [UNRELEASED]
+## Version 2.0.2
 
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
@@ -79,6 +79,9 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Added Mihail Bantam Guars - Tweaks and Fixes
 - Added Bantam Guars - Food Additions
 - Added Bantam Guars - Hanging Dead Bantam Guars - My optimized textures SE by Xtudo
+- Added Book Covers Skyrim - Normal map FIX
+- Added Iconic's Gargoyle and Death Hound Retexture
+- Added Project Clarity - Clutter Textures Redone
 - Updated PI-CHO ENB (Based on Silent Horizons) 
 - Updated The Pigeon's Nest - Miscellaneous FIxes and Tweaks
 - Updated Weathered Barrels Retexture (SMIM - BOS)
@@ -103,6 +106,11 @@ All modlists in the Animonculory use semantic versioning which translates to the
 - Removed HLT Addon - Sitting on Sensible Stumps - BOS
 - Removed HIMBO - Vagina from 3BA Refit - TNG Patch
 - Fixed Evette San's house from being completely borked
+- Fixed missing 1st person sleeved mesh for one of the HIMBO refits
+- Fixed clipping, floating, and missing objects in the College of Winterhold
+- Fixed floating candle in the Bee and Barb
+- Fixed floating dibella statue in Haelga's Bunkhouse
+- Fixed mismatched texture on staff enchanters from Sorcerer 
 - Tweaked HIMBO's refit of CC Iron Plate to be closer to the body frame
 
   </details>
