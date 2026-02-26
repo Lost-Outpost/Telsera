@@ -59,12 +59,6 @@ Open the console via <kbd>'</kbd>. Type the following: <kbd>fov 90</kbd> and you
 
 This can happen if you used the keybind to customize your character's genitals, and you picked one of the "TRX Futanari" options. Unfortunately, as of Telsera's v1.2.0 release and forward, there is no mod to blend the texture setups for **Argonians** and **Khajiit** characters. I did my best to do custom blends for humans and elves, and the seams for those folks should be minimal.
 
-### How to I change the Field Of View (FOV) permanently?
-
-We'll want to double-click the mod, **OStim Improved Camera Configuration - Foamimi's Settings** under the User Interface separator on the left side of MO2. Under the INI Files tab in the pop-up window, in the text box area, scroll down until you see the section with **[FOV]** written. You should see various lines underneath **; Settings for changing fov**. Depending on if you're only changing 1st person, 3rd person, or both, you'll need to change the 90.0 (default) to whatever you prefer. Just note, **you'll have to do these steps for BOTH available ini files**. 
-
-Another thing to keep in mind is if you're using the **Improved Camera Config - FOV 90 for 1stPerson OStim Scenes** mod under the Optional Mods separator, then you'll need to manually adjust those values, instead. 
-
 ### Why is my stamina depleting as I jump, sneak, or swim?
 
 That would be caused by the combat mod <a href="https://www.nexusmods.com/skyrimspecialedition/mods/34549">Blade and Blunt</a>. This is a purposeful mechanic to increase the difficulty through resource management and planning. I'd recommend looking over Blade and Blunt's modpage for more information.
