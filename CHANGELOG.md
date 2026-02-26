@@ -17,6 +17,7 @@
 - [Changelog](#changelog)
   - [Save-Safe vs Non-save-safe](#will-a-save-from-version-x-be-safe-with-version-y)
 - [Version History](#version-history)
+  - [Version 2.1.0](#version-210)
   - [Version 2.0.2](#version-202)
   - [Version 2.0.1](#version-201)
   - [Version 2.0.0](#version-200)
@@ -45,6 +46,241 @@ All modlists in the Animonculory use semantic versioning which translates to the
 # Version History
 
 **NOTE - The top-most entry is the current release.**
+
+## Version 2.1.0
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+
+### IMPORTANT
+ 
+- This is NOT a save-safe update.
+- You will need to start a new game.
+
+### Breakdown
+
+- Added Highpolyfication - JK's Skyrim and More
+- Added No Load Door NPC Fade
+- Added Follower Dialogue Expansion - Saadia
+- Added Leon S. Kennedy - Standalone Follower (HIMBO)
+- Added Dynamic Things Alternative - Base Object Swapper
+- Added Dynamic Things Alternative - Base Object Swapper - Settings Loader
+- Added Ducks and Swans 2
+- Added StarRiseShine's Gourmet Patches
+- Added Chicks- Mihail Monsters and Animals (SE-AE version) (''chicken'')
+- Added Optimized Meshes - Chickens and Chicks- Mihail Monsters and Animals (SE-AE version)
+- Added Chicks - My optimized textures SE by Xtudo
+- Added Mihail Chicks - Ownership Fix
+- Added Chicks - Food Additions
+- Added Bantam Guars- Mihail Monsters and Animals (SE-AE version) (''eso morrowind')
+- Added Hanging Dead Bantam Guars- Echoes of Morrowind (SE-AE) (''eso'')
+- Added Mihail Bantam Guars - Tweaks and Fixes
+- Added Bantam Guars - Food Additions
+- Added Bantam Guars - Hanging Dead Bantam Guars - My optimized textures SE by Xtudo
+- Added Wild Penguins
+- Added Snow Penguins - SSE
+- Added SRRP - Skyrim Road Reconstruction Project
+- Added Flora Additions - Cypress
+- Added Cypresses - Improved textures and 3D LODs
+- Added Skyrok - A Weather Mod
+- Added Obsidian Weathers and Seasons
+- Added Alternate Obsidian Weathers MCM
+- Added Obsidian Weathers - Fog Line - Shadow Line Fix
+- Added Twilight
+- Added Moons and Stars - Sky Overhaul SKSE
+- Added HorsePower - Modernized Horse Riding (Total Riding Overhaul)
+- Added Skyrim Mounted Movesets
+- Added SkyParkour v3 - Procedural Parkour and Climbing Framework (SPPF)
+- Added Simple Diving System (SDS) - Dive Into Water Animations and Modder Resource
+- Added Smooth Random idle Animation
+- Added More Clutter in Skyrim
+- Added Detailed Exteriors
+- Added Relationship Dialogue Overhaul RDO - Visual Makeover
+- Added Pandorable's Black-Briar Ladies - Maven Ingun
+- Added BMered goat horns
+- Added Faction Armors and Weapons Retexture SE
+- Added Dragon Priest Hood Variants
+- Added Armory of the Dragon Cult - Dragon Priest Armor
+- Added Armory of the Dragon Cult - Dragon Priest Armor - CBBE - 3BA
+- Added Shores of Skyrim - Base Object Swapper
+- Added Modex - A Mod Explorer Menu (AddItemMenu)
+- Added Get Out Of My Way 2 - Settings Loader and Improvements
+- Added Skyking Thickets and Shrubs
+- Added Skyrim's Got Talent - Show in UI (Visual Improvements)
+- Added Higher Poly Feet with Nails Accessory for HIMBO
+- Added HIMBO Higher Poly Feet - Mod Conversions
+- Added Steal off Scoundrels - Pickpocketing Criminals is Not Stealing
+- Added Missing Location Keywords FIX
+- Added Light the Way - A Stress and Fear Add-On
+- Added Media Keys Fix SKSE
+- Added Alt-Tab Stuck Key Fix NG
+- Added SKSE Menu Framework
+- Added First Person FOV and Tween Menu Fix SKSE
+- Added Force of Nature
+- Added Why I Came to Skyrim - Origin Stories
+- Added Why I Came to Skyrim - for Optional Quick Start - SE
+- Added Chatty NPCs and Followers
+- Added Ryn's Snazzy Last Vigil - An Ebony Warrior Overhaul
+- Added Rayek's End - SSE Expanded Edition
+- Added Rayek's End Optimization and Performance Fix - Extended Fixes
+- Added Buy Camping Supplies From General Stores
+- Added Camping Plus Plus - A CC Camping Overhaul
+- Added Weathered Apiary Texture - 8K - 4K - 2K
+- Added The dirty snow of Windhelm
+- Added Beggar Fashions
+- Added Beggar Fashions - 3BA patch
+- Added More Varied Clothes
+- Added More Varied Clothes and Robes - CBBE 3BA
+- Added Inertia - Physical Movement Response System - SKSE
+- Added HD Remastered Tree Bark - Happy Little Trees - 16k 8k 4k 2k
+
+- Updated Mod Organizer 2
+- Updated DDS Preview Plus for Mod Organizer 2
+- Updated NIF Preview for Mod Organizer 2.5.2
+- Updated The Pigeon's Nest - Miscellaneous FIxes and Tweaks
+- Updated Weathered Barrels Retexture (SMIM - BOS)
+- Updated HIMBO - Vagina from 3BA Refit for MOXIE Skinblend
+- Updated Crash Logger SSE AE VR - PDB support
+- Updated Core Impact Framework (CIF)
+- Updated CIF - Creature Compatibility Patch - SkyPatcher
+- Updated Sanguine Symphony
+- Updated SkyPatcher
+- Updated Survival Mode Improved - SKSE
+- Updated Load Screen Shading Fix
+- Updated Dova Jump
+- Updated Serana Dialogue Expansion
+- Updated Ruins of the Ideal - New Ruins in Soul Cairn
+- Updated Natural Waterfalls
+- Updated Icy Cave Remaster - Ice Material Patch
+- Updated Saints and Seducers Retexture SE
+- Updated Orcish Armors and Weapons Retexture SE
+- Updated Daedric Armors and Weapons Retexture SE
+- Updated Unique Armors and Weapons Retexture SE
+- Updated Dragon Armors and Weapons Retexture SE
+- Updated Xavbio Cubemap Patch Hub (3BA - HIMBO)
+- Updated Xavbio Armors - 3BA patch
+- Updated Xavbio Armors Collection - HIMBO V5 Refits
+- Updated HammerHair V1.18
+- Updated OStim Standalone - Flipped F and M Facial Expressions
+- Updated Open Animation Replacer
+- Updated Embers XD
+- Updated Assorted mesh fixes
+- Updated Lovemaking Compendium for OStim Standalone
+- Updated Highly Improved Male Body Overhaul -HIMBO-
+- Updated Follower Dialogue Expansion - Aela the Huntress
+- Updated Follower Dialogue Expansion - Illia
+- Updated CritterSpawn - Script Call Reduction
+- Updated Quest Fixes
+- Updated RaceMenu OverlayFix and Various Mod Fixes
+- Updated Conditional Expressions Extended
+- Updated Address Library for SKSE Plugins
+- Updated lilebonymace's patches and xEdit scripts
+- Updated Missile's Gourmet Patches
+- Updated You Got Caught for OStim SA - Cheating And Public Lewdness Reactions
+- Updated Conjuration Limit Fix
+- Updated Perk Entry Point Extender
+- Updated After the Civil War - Siege Damage Repairs
+- Updated Optional Quick Start - SE
+- Updated Optional Quick Start - Immersion Patch
+- Updated Sound Record Distributor
+- Updated SSE Engine Fixes (skse64 plugin)
+- Updated Unofficial Skyrim Special Edition Patch - USSEP
+
+- Removed various Tools included via Telsera's install
+- Removed Immersive Fishing
+- Removed HIMBO - Vagina from 3BA Refit - TNG Patch
+- Removed Object Impact Framework (OIF)
+- Removed Simply Immersive Materials - OIF
+- Removed Stalactite Falls - OIF
+- Removed Throwing Things Makes Noise - OIF
+- Removed Dwarven Lite (CBBE)
+- Removed Dwarven Lite - HIMBO Refit
+- Removed Wolf Leather Armor
+- Removed Wolf Leather Armor for BHUNP HIMBO CBBE 3BA
+- Removed Lunar Weapons Replacers
+- Removed Dynamic Follower Weakening (SPID)
+- Removed Dynamic Follower Weakening (SPID) - Ini Config
+- Removed Hawk Patch - BOS Remake
+- Removed Innkeepers Sell Cooking and Baking Supplies
+- Removed Craftable Torches
+- Removed Hunters Sell Fish and More Animal Parts (KID - FLM)
+- Removed Stretched Snow Begone
+- Removed Simple Snow Improvements - Skyrim Fixes (BOS)
+- Removed Simple Snow Improvements - Snow Forts (BOS)
+- Removed Blended Roads - Less Bumpiness - BOS
+- Removed Soul Cairn Trees and Shrubs Improved Textures - BOS Fixes
+- Removed Horse Animation Overhaul (OAR)
+- Removed Diverse Campfires - BOS
+- Removed Barefoot Comments
+- Removed Missing Voices in Hearthfire Added Back
+- Removed Immersive Dialogue Expansion - Spare Anise
+- Removed Immersive Dialogue Expansion - Whiterun
+- Removed Dialogue Expansion - Shor's Stone
+- Removed Dialogue Expansion - Shor's Stone - USSEP patch
+- Removed Across the Border - Diverse Border Gates
+- Removed Northern Scenery - Bleak Falls Barrow
+- Removed Northern Scenery - Addons Patches and Fixes
+- Removed Luscious Mara's Eye - A Pond Overhaul
+- Removed Sym's Frostflow Lighthouse
+- Removed Solstheim Abandoned Lodge - Overhaul
+- Removed Windhelm Bridge Revived
+- Removed Meshes Optimization Project - Windhelm Bridge Revived
+- Removed Ivy Snowy Windhelm Walkway
+- Removed Kynesgrove Burial Site
+- Removed Environs - Master Plugin
+- Removed Environs - Hroggar's House
+- Removed Intimate Inns
+- Removed Inquisition
+- Removed Catch of the Day - Fish Hang in Inns Too - BOS
+- Removed Dawnguard Armors and Weapons Retexture SE
+- Removed Forsworn Armors and Weapons Retexture SE
+- Removed Thieves Guild Armors Retexture SE
+- Removed Nightingale Armor and Weapons Retexture SE
+- Removed Dark Brotherhood Armors Retexture SE
+- Removed Vampire Armors and Weapons Retexture SE
+- Removed Wolf Armor and Weapons Retexture SE
+- Removed PrivateProfileRedirector - Ini File Cacher
+- Removed Deadly Dragon Lair Locations - AIO
+- Removed Deadly Dragon Lairs - Patch Collection
+- Removed OStim Romance - Easier Harem
+- Removed Taarengrav Barrow
+- Removed Morthal Barrow
+- Removed Dragon's Teeth Prison
+- Removed Balamath - Ayleid Ruin Dungeon
+- Removed Return Aegisbane
+- Removed Revealing Rune
+- Removed Unmasking Sybille
+- Removed Unmasking Sybille - Dialogue Tweaks
+- Removed Respectful Ravyn
+- Removed Runic Dawnguard - Separated Lost Relic Questline
+- Removed Finding Derkeethus
+- Removed Finding Derkeethus - Duplicate FormID Fix
+- Removed Finding Derkeethus - DLC1 Patch
+- Removed Finding Derkeethus - USSEP Patch
+- Removed Save the Icerunner (StI)
+- Removed Save the Icerunner (StI) - USSEP - FQS Patch
+- Removed Azurite Weathers III
+- Removed Azurite Weathers III - MCM and Settings Loader
+- Removed Riften Detour
+- Removed LDD - Better Eye Shape for HPH
+- Removed AddItemMenu - Ultimate Mod Explorer
+- Removed AddItemMenu - Ultimate Mod Explorer - NG Update
+- Removed HDT-SMP Slot 32 Fix
+- Removed Follower Dialogue Expansion - Saadia
+- Removed Follower Dialogue Expansion - Camilla Valerius
+- Removed Follower Dialogue Expansion - Camilla Valerius - Tweaks and Tiny Addition
+- Removed Follower Dialogue Expansion - Ysolda
+- Removed Follower Dialogue Expansion - Elisif the Fair
+- Removed SEC Saints and Seducers - Phoenix's Tweaks and Fixes
+- Removed Purchasable Camping CC Supplies (CID)
+- Removed HD Riften - Ratway and Thieves Guild Wood Panels
+- Removed Skyland Happy Little Trees Bark
+
+- Fixed CTD involving Shadowmere's skeleton mesh
+- Tweaked the trees to be slightly smaller
+
+  </details>
 
 ## Version 2.0.2
 
