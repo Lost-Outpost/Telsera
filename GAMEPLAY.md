@@ -174,8 +174,6 @@ Telsera includes [Jayserpa's](https://www.nexusmods.com/skyrimspecialedition/use
 
 Other changes to quests include;
 
-- [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681) - Jaree-Ra in Solitude has a plan to set up a shipwreck. The ship is said to be full of weapons and riches, ripe for the taking. What will you do?
-
 - [Bring Meeko to Lod](https://www.nexusmods.com/skyrimspecialedition/mods/25246) - This mod allows you to bring Meeko to Lod in Falkreath.
 
 - [Thieves Guild Alternative Endings](https://www.nexusmods.com/skyrimspecialedition/mods/114558) - Defy Nocturnal and unlock yourself from eternal servitude. Adds 4 new voice-acted endings to the Thieves Guild questline, including new story, new rewards, new boss fights. 
@@ -193,19 +191,21 @@ Other changes to quests include;
    - [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath)
    - [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend)
 
-- [Dragon's Teeth Prison - A Dungeon Mod](https://www.nexusmods.com/skyrimspecialedition/mods/111523) -  A Dungeon Mod adds a small scale dungeon to the Dragon's Teeth Mountains just west of Falkreath.
-
-- [Morthal Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/90737) - A vanilla-style nordic dungeon in Hjaalmarch, based on its appearance in the Elder Scrolls Online, featuring a voiced quest.
-
-- [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371) - A vanilla-style nordic dungeon in the Western Rift, based on its appearance in the Elder Scrolls Online.
+- [Skyrim Bandit Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/154352) - Adds 14 new unique bandit camps and 2 new occupied mines across all of Skyrim. all compatible with radiant quests, Each location is hand-crafted with regional themes, lore-filled notes, and immersive Environmental storytelling detail.
 
 ## Player Homes
+
+- [TNF Skyrim House Remodel](https://www.nexusmods.com/skyrimspecialedition/mods/39333) - Combines all of goatk's TNF homes together with some minor fixes.
 
 - [Cityside - A Starter Home](https://www.nexusmods.com/skyrimspecialedition/mods/27777) - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude.
 
 - [Sorrow Point Crypt](https://www.nexusmods.com/skyrimspecialedition/mods/34336) - A very cozy grounded-player home, with a bit of story and mystery. Located east of [Eldergleam Sanctuary](https://en.uesp.net/wiki/Skyrim:Eldergleam_Sanctuary).
 
 - [Seidr's Rest - Clever Man's Abode - Nord Mage Player Home](https://www.nexusmods.com/skyrimspecialedition/mods/39918) - A small dwelling in the Pale, built by ancient Nords in the traditional method: telekinesis.
+
+- [Ryn's Snazzy Last Vigil - An Ebony Warrior Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/76385) - A product of Authors Gutmaw and Ryn. An expansive overhaul of the way you see and experience the Ebony Warrior.
+
+- [Rayek's End - SSE Expanded Edition](https://www.nexusmods.com/skyrimspecialedition/mods/8285) - A mid-sized, atmospheric hideout with a history just off the beaten path between Riverwood and Whiterun. If you don't mind the sound of waterfalls and prefer a secluded place to kick up your feet...this may be the home for you.
 
 ## Extra Info
 
@@ -257,16 +257,16 @@ You will see two entries: the first saying Survival Mode, and the second saying 
 
 ### TNG Customization
 
-Want to change your character's private parts? There's a keybind for that! Under the spoiler you'll find some **IMPORTANT INFORMATION** you'll need to be aware of.
+Want to change your character's private parts? There's a keybind for that!
 
 <details>
   <summary>Spoiler warning - click here to expand.</summary>
 
-First, we'll want to press <kbd>K</kbd> to bring up The New Gentlemen's customization menu. It will pop-up regardless of what gender your character is. Telsera was designed to be friendly to a variety of bodies with different genitals. **PLEASE BE AWARE** that depending on what you pick, there are some **EXTRA STEPS** to prevent your character from turning invisible! 
+First, we'll want to press <kbd>K</kbd> to bring up The New Gentlemen's customization menu. It will pop-up regardless of what gender your character is. Telsera was designed to be friendly to a variety of bodies with different genitals.
 
 ![telsera-k-bind](https://i.imgur.com/NYPT5hY.png)
 
-After you make your selection, a second pop-up window will appear. **Everything will work as intended when you pick a size for a penis!** If you chose to select one of the **vagina options** titled, "Vagina - X", then when you are in the second window prompting a size selection, **YOU MUST SELECT RESET SIZE!** If you do not select reset size, your character will turn invisible, except for their head. If you accidentally select a size and do turn invisible, all you have to do is press <kbd>K</kbd> again, select your vagina of choice, thennnn do reset size.
+After you make your selection, a second pop-up window will appear. Select the size you prefer, then you're set!
 
 ![telsera-reset-size](https://i.imgur.com/OdoRisy.png)
   
