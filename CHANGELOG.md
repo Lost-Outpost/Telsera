@@ -17,6 +17,7 @@
 - [Changelog](#changelog)
   - [Save-Safe vs Non-save-safe](#will-a-save-from-version-x-be-safe-with-version-y)
 - [Version History](#version-history)
+  - [Version 2.1.1](#version-211)
   - [Version 2.1.0](#version-210)
   - [Version 2.0.2](#version-202)
   - [Version 2.0.1](#version-201)
@@ -46,6 +47,23 @@ All modlists in the Animonculory use semantic versioning which translates to the
 # Version History
 
 **NOTE - The top-most entry is the current release.**
+
+## Version 2.1.1
+
+<details>
+  <summary>Spoiler warning - click here to expand.</summary>
+
+
+### IMPORTANT
+ 
+- This is a save-safe update.
+
+### Breakdown
+
+- Removed First Person FOV and Tween Menu Fix SKSE
+- Fixed 1st and 3rd POV scrolling from being stuck after using either tfc or OStim scenes
+
+  </details>
 
 ## Version 2.1.0
 
